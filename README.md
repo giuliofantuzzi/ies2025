@@ -30,9 +30,9 @@ pip install .
 This repository is organized as follows:
 
 - [`data/`](data/)- contains the datasets used for training and evaluation, along with a [**data card**](data/README.md) detailing sources, preprocessing steps, and variable descriptions.
-- [`models/`](models/) - contains the python implementation of the VAE model and the VAE loss
-- [`scraping/`](scraping/)- contains the code used to retrieve the data from web
-- [`data_processing.ipynb`](data_processing.ipynb)- a Jupyter notebook detailing all the data preprocessing steps
+- [`models/`](models/) - contains the python implementation of the VAE model and the VAE loss.
+- [`scraping/`](scraping/)- contains the code used to retrieve the data from web.
+- [`data_processing.ipynb`](data_processing.ipynb)- a Jupyter notebook detailing all the data preprocessing steps.
 - [`training.py`](training.py) - a python script to train the VAE model. To train the model with the paper configuration, run:
     ```bash
     python training.py --DataPath path/to/data --CheckpointsPath path/to/weights.pt
@@ -41,4 +41,5 @@ This repository is organized as follows:
     ```bash
     python training.py --help
     ```
-- [`experiments.ipynb`](experiments.ipynb): a python notebook to reproduce the experimental results from Section 4 of the paper
+- [`checkpoints/`](checkpoints/)- contains the weights of the trained model (stored as `vae.pth` file).
+- [`experiments.ipynb`](experiments.ipynb): a python notebook to reproduce the experimental results from Section 4 of the paper.
