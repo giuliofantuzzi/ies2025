@@ -1,0 +1,759 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+538974,Janis Antiste,2002,Centre-Forward,"1,83 m",right,€1.70m,Serie B
+954357,Giacomo Cavallini,2004,Left-Back,"1,80 m",left,€250k,Serie B
+110925,Francesco Bardi,1992,Goalkeeper,"1,88 m",right,€400k,Serie B
+341481,Lorenzo Libutti,1997,Right-Back,"1,80 m",right,€250k,Serie B
+484160,Alex Sposito,2001,Goalkeeper,"1,93 m",left,€150k,Serie B
+190634,Marko Pajac,1993,Left-Back,"1,85 m",left,€250k,Serie B
+255461,Przemyslaw Szyminski,1994,Centre-Back,"1,85 m",right,€400k,Serie B
+401935,Orji Okwonkwo,1998,Right Winger,"1,80 m",right,€250k,Serie B
+216599,Domen Crnigoj,1995,Central Midfield,"1,88 m",right,€900k,Serie B
+885563,Bryan Blanco,2005,Central Midfield,"1,85 m",,-,Serie B
+1154911,Nuhu Shaibu,2023,Central Midfield,"1,85 m",,€50k,Serie B
+315862,Filippo Melegoni,1999,Central Midfield,"1,86 m",right,€1.00m,Serie B
+61617,Paolo Rozzio,1992,Centre-Back,"1,90 m",right,€400k,Serie B
+703245,Antonio Vergara,2003,Attacking Midfield,"1,82 m",left,€1.20m,Serie B
+602124,Alessandro Bianco,2002,Central Midfield,"1,73 m",right,€5.00m,Serie B
+199635,Eric Lanini,1994,Left Winger,"1,86 m",right,€400k,Serie B
+197745,Riccardo Fiamozzi,1993,Right-Back,"1,75 m",right,€300k,Serie B
+818448,Alessandro Marcandalli,2002,Centre-Back,"1,90 m",right,€2.00m,Serie B
+256678,Filippo Romagna,1997,Centre-Back,"1,86 m",right,€500k,Serie B
+328914,Álex Blanco,1998,Left Winger,"1,75 m",left,€500k,Serie B
+130369,Stefano Pettinari,1992,Centre-Forward,"1,85 m",right,€200k,Serie B
+691825,Edoardo Pieragnolo,2003,Left-Back,"1,84 m",left,€2.40m,Serie B
+404969,Filippo Nardi,1998,Central Midfield,"1,75 m",right,€500k,Serie B
+323255,Giacomo Satalino,1999,Goalkeeper,"1,88 m",right,€400k,Serie B
+240290,Davide Guglielmotti,1994,Right Midfield,"1,84 m",right,€200k,Serie B
+430503,Jacopo Da Riva,2000,Central Midfield,"1,87 m",both,€500k,Serie B
+406942,Muhamed Varela Djamanca,1998,Right Winger,"1,78 m",right,€200k,Serie B
+264514,Luca Vido,1997,Centre-Forward,"1,82 m",right,€500k,Serie B
+916430,Edoardo Motta,2005,Goalkeeper,"1,94 m",right,€100k,Serie B
+213854,Cedric Gondo,1996,Centre-Forward,"1,87 m",right,€500k,Serie B
+611861,Natan Girma,2001,Attacking Midfield,"1,90 m",right,€600k,Serie B
+394304,Manolo Portanova,2000,Central Midfield,"1,83 m",right,€500k,Serie B
+200057,Elvis Kabashi,1994,Central Midfield,"1,84 m",left,€250k,Serie B
+613085,Tobías Reinhart,2000,Defensive Midfield,"1,76 m",right,€700k,Serie B
+160357,Mario Sampirisi,1992,Right-Back,"1,88 m",right,€400k,Serie B
+588095,André Duarte,1997,Centre-Back,"1,95 m",right,€1.30m,Serie B
+33218,Luca Cigarini,1986,Defensive Midfield,"1,75 m",right,€100k,Serie B
+167874,Loris Bacchetti,1993,Centre-Back,"1,94 m",left,€200k,Serie B
+287875,Luca Fiordilino,1996,Defensive Midfield,"1,78 m",right,€600k,Serie B
+600041,Mattia Felici,2001,Left Winger,"1,82 m",right,€1.50m,Serie B
+62716,Michele Camporese,1992,Centre-Back,"1,86 m",right,€350k,Serie B
+537509,Mattia Compagnon,2001,Right Winger,"1,83 m",left,€400k,Serie B
+238951,Davide Di Molfetta,1996,Right Winger,"1,80 m",both,€325k,Serie B
+55801,Marco Sau,1987,Centre-Forward,"1,69 m",right,€100k,Serie B
+164108,Bruno Martella,1992,Left-Back,"1,84 m",left,€300k,Serie B
+340265,Giacomo Volpe,1996,Goalkeeper,"1,89 m",right,€350k,Serie B
+457440,Alessandro Pilati,2000,Centre-Back,"1,90 m",right,€275k,Serie B
+57815,Luca Liverani,1989,Goalkeeper,"1,83 m",right,€100k,Serie B
+704122,Alessandro Pietrelli,2003,Second Striker,"1,94 m",left,€200k,Serie B
+197901,Stefano Minelli,1994,Goalkeeper,"1,86 m",left,€225k,Serie B
+1185755,Samuele Sina,2007,Centre-Back,"1,85 m",right,,Serie B
+529841,Mattia Zennaro,2000,Central Midfield,"1,78 m",right,€350k,Serie B
+392961,Denis Hergheligiu,1999,Central Midfield,"1,85 m",left,€175k,Serie B
+650224,Christos Kourfalidis,2002,Central Midfield,"1,78 m",right,€600k,Serie B
+388121,Karlo Butic,1998,Centre-Forward,"1,87 m",left,€250k,Serie B
+1169176,Lorenzo Giorgi,2005,Left Midfield,"1,84 m",left,€75k,Serie B
+937575,Marcus Păcurar,2005,Centre-Back,"1,89 m",right,€50k,Serie B
+199947,Davide Voltan,1995,Attacking Midfield,"1,77 m",right,€100k,Serie B
+62718,Federico Carraro,1992,Defensive Midfield,"1,77 m",right,€125k,Serie B
+536837,Federico Bergonzi,2001,Right-Back,"1,75 m",right,€500k,Serie B
+624869,Christopher Attys,2001,Central Midfield,"1,86 m",right,€75k,Serie B
+392033,Gabriele Ferrarini,2000,Right-Back,"1,80 m",right,€350k,Serie B
+102745,Luca Ceppitelli,1989,Centre-Back,"1,86 m",both,€300k,Serie B
+535139,Mattia Tonetto,2001,Left-Back,"1,79 m",left,€150k,Serie B
+1113441,Briajan Gjyla,2007,Left Winger,"1,79 m",right,€300k,Serie B
+537171,Semuel Pizzignacco,2001,Goalkeeper,"1,88 m",right,€800k,Serie B
+392166,Davide Balestrero,1995,Central Midfield,"1,90 m",right,€350k,Serie B
+238981,Vittorio Parigini,1996,Right Winger,"1,80 m",right,€250k,Serie B
+76110,Simone Guerra,1989,Centre-Forward,"1,78 m",right,€250k,Serie B
+459953,Giacomo Manzari,2000,Right Winger,"1,78 m",left,€300k,Serie B
+395295,Edgaras Dubickas,1998,Centre-Forward,"1,85 m",right,€325k,Serie B
+160560,Gaetano Letizia,1990,Right-Back,"1,73 m",both,€225k,Serie B
+658612,Dimo Krastev,2003,Centre-Back,"1,95 m",right,€100k,Serie B
+177188,Matteo Di Gennaro,1994,Centre-Back,"1,92 m",right,€350k,Serie B
+397257,Luca Giudici,1992,Left Winger,"1,79 m",right,€200k,Serie B
+704470,Andrea Franzolini,2003,Central Midfield,"1,88 m",right,€150k,Serie B
+993984,Mauro Verzeletti,2003,Right-Back,"1,85 m",right,€50k,Serie B
+134983,Andrea La Mantia,1991,Centre-Forward,"1,90 m",right,€400k,Serie B
+924306,Mattia Musatti,2003,Defensive Midfield,"1,70 m",,€75k,Serie B
+337670,Alessio da Cruz,1997,Centre-Forward,"1,86 m",right,€600k,Serie B
+371247,Gabriel Brazão,2000,Goalkeeper,"1,92 m",right,€1.50m,Serie B
+176023,Alexis Ferrante,1995,Centre-Forward,"1,83 m",left,€150k,Serie B
+685506,Christian Travaglini,2000,Left-Back,"1,84 m",left,€125k,Serie B
+918804,Alessandro Morlupo,2005,Goalkeeper,"1,87 m",right,€125k,Serie B
+73929,Antony Iannarilli,1990,Goalkeeper,"1,86 m",right,€250k,Serie B
+567454,Lorenzo Lucchesi,2003,Centre-Back,"1,90 m",left,€800k,Serie B
+651002,Giacomo Faticanti,2004,Defensive Midfield,"1,86 m",right,€900k,Serie B
+394920,Filippo Sgarbi,1997,Centre-Back,"1,91 m",right,€300k,Serie B
+127799,Fabrizio Paghera,1991,Defensive Midfield,"1,70 m",right,€100k,Serie B
+226058,Luka Bogdan,1996,Centre-Back,"1,95 m",right,€400k,Serie B
+679754,Niklas Pyyhtiä,2003,Central Midfield,"1,88 m",left,€1.00m,Serie B
+912404,Carmelo Ferrara,2004,Left Winger,,right,€50k,Serie B
+934256,Marco Bonugli,2005,Centre-Back,,right,€125k,Serie B
+669915,Filippo Distefano,2003,Second Striker,"1,76 m",right,€1.80m,Serie B
+1056174,Filippo Novelli,2007,Goalkeeper,,,,Serie B
+820635,Costantino Favasuli,2004,Left Midfield,"1,78 m",right,€500k,Serie B
+119369,Federico Dionisi,1987,Centre-Forward,"1,80 m",right,€100k,Serie B
+91716,Frederik Sørensen,1992,Centre-Back,"1,94 m",right,€250k,Serie B
+162946,Gregorio Luperini,1994,Attacking Midfield,"1,86 m",right,€350k,Serie B
+330560,Alessandro Celli,1994,Left-Back,"1,82 m",left,€250k,Serie B
+324378,Valerio Mantovani,1996,Centre-Back,"1,84 m",right,€600k,Serie B
+387529,Jakub Labojko,1997,Defensive Midfield,"1,79 m",right,€150k,Serie B
+696550,Salim Diakité,2000,Right-Back,"1,86 m",right,€2.50m,Serie B
+421446,Gabriele Capanni,2000,Left Winger,"1,76 m",right,€50k,Serie B
+224044,Tiago Casasola,1995,Right-Back,"1,89 m",right,€600k,Serie B
+88688,Federico Furlan,1990,Left Winger,"1,81 m",right,€75k,Serie B
+165900,Federico Viviani,1992,Defensive Midfield,"1,80 m",right,€50k,Serie B
+555070,Jan Żuberek,2004,Centre-Forward,"1,88 m",right,€75k,Serie B
+1071517,Robert Matei,2006,Goalkeeper,"1,93 m",,€100k,Serie B
+547827,Andrei Mărginean,2001,Defensive Midfield,"1,90 m",right,€250k,Serie B
+458614,Gabriele Boloca,2001,Centre-Back,"1,94 m",right,€150k,Serie B
+421417,Pietro Rovaglia,2001,Centre-Forward,"1,85 m",right,€50k,Serie B
+676641,Ottavio Garau,2002,Right Winger,"1,71 m",left,€25k,Serie B
+264116,Gastón Pereiro,1995,Attacking Midfield,"1,88 m",left,€1.00m,Serie B
+164091,Marco Capuano,1991,Centre-Back,"1,86 m",left,€200k,Serie B
+198137,Mattia Proietti,1992,Defensive Midfield,"1,80 m",left,€250k,Serie B
+287690,Filippo Damian,1996,Central Midfield,"1,81 m",right,€300k,Serie B
+708085,Mirco Ferrante,2003,Central Midfield,"1,84 m",right,€50k,Serie B
+444662,Niccolò Corrado,2000,Left-Back,"1,79 m",left,€1.00m,Serie B
+731491,Franco Carboni,2003,Left-Back,"1,90 m",left,€900k,Serie B
+979747,Edoardo Della Salandra,2005,Centre-Forward,"1,90 m",right,€25k,Serie B
+218306,César Falletti,1992,Attacking Midfield,"1,74 m",right,€700k,Serie B
+393150,Tommaso Vitali,1999,Goalkeeper,"1,86 m",right,€100k,Serie B
+804799,Ange Caumenan N'Guessan,2003,Centre-Back,"1,87 m",right,€200k,Serie B
+621461,Riccardo Zoia,2001,Left-Back,"1,88 m",left,€200k,Serie B
+707450,Lorenzo Amatucci,2004,Defensive Midfield,"1,72 m",right,€2.00m,Serie B
+627218,Txus Alba,2003,Central Midfield,"1,73 m",right,€250k,Serie B
+361121,Kees de Boer,2000,Central Midfield,"1,86 m",right,€400k,Serie B
+818888,Antonio Raimondo,2004,Centre-Forward,"1,85 m",left,€4.50m,Serie B
+487829,Christian Dalle Mura,2002,Centre-Back,"1,85 m",left,€600k,Serie B
+340151,Andrea Favilli,1997,Centre-Forward,"1,91 m",right,€300k,Serie B
+606576,Denis Franchi,2002,Goalkeeper,"1,89 m",right,€200k,Serie B
+704285,Elia Maccherini Tonini,2003,Centre-Back,"1,90 m",right,€50k,Serie B
+459988,Gennaro Borrelli,2000,Centre-Forward,"1,94 m",right,€2.80m,Serie B
+934502,Carlo Ghidini,2006,Central Midfield,,,,Serie B
+457859,Michele Avella,2000,Goalkeeper,"1,88 m",left,€150k,Serie B
+588997,Matthieu Huard,1998,Left-Back,"1,78 m",left,€350k,Serie B
+337381,Andrea Cistana,1997,Centre-Back,"1,85 m",right,€1.80m,Serie B
+34453,Birkir Bjarnason,1988,Central Midfield,"1,84 m",right,€300k,Serie B
+616031,Michele Besaggio,2002,Central Midfield,"1,81 m",right,€750k,Serie B
+364132,Flavio Bianchi,2000,Centre-Forward,"1,78 m",right,€500k,Serie B
+287717,Emanuele Ndoj,1996,Central Midfield,"1,89 m",right,€400k,Serie B
+605015,Raffaele Cartano,2002,Centre-Back,"1,88 m",right,€25k,Serie B
+357622,Alexander Jallow,1998,Right-Back,"1,85 m",right,€1.00m,Serie B
+821188,Matteo Ferro,2004,Second Striker,"1,78 m",right,€175k,Serie B
+238977,Gabriele Moncini,1996,Centre-Forward,"1,83 m",right,€1.00m,Serie B
+814000,Riccardo Fogliata,2004,Central Midfield,"1,83 m",right,€400k,Serie B
+818961,Jacopo Pandini,2024,Centre-Back,"1,87 m",right,€100k,Serie B
+524428,Nicolas Galazzi,2000,Attacking Midfield,"1,82 m",left,€1.10m,Serie B
+163212,Davide Adorni,1992,Centre-Back,"1,85 m",right,€500k,Serie B
+234880,Lorenzo Andrenacci,1995,Goalkeeper,"1,88 m",right,€250k,Serie B
+937999,Simone Cortese,2005,Goalkeeper,"1,92 m",right,€50k,Serie B
+887738,Zylyf Muça,2005,Right-Back,"1,85 m",right,€50k,Serie B
+399336,Vincenzo Garofalo,1999,Central Midfield,"1,84 m",right,€75k,Serie B
+135747,Luca Lezzerini,1995,Goalkeeper,"1,95 m",right,€400k,Serie B
+539132,Giacomo Olzer,2001,Attacking Midfield,"1,88 m",left,€450k,Serie B
+163216,Dimitri Bisoli,1994,Central Midfield,"1,80 m",right,€1.00m,Serie B
+394352,Massimo Bertagnoli,1999,Central Midfield,"1,78 m",right,€700k,Serie B
+813961,Patrick Nuamah,2005,Left Winger,"1,79 m",right,€500k,Serie B
+283060,Lorenzo Dickmann,1996,Right-Back,"1,77 m",right,€1.00m,Serie B
+395805,Massimiliano Mangraviti,1998,Centre-Back,"1,88 m",left,€1.20m,Serie B
+287700,Mohamed Salim Fares,1996,Left-Back,"1,83 m",left,€600k,Serie B
+503619,Andrea Papetti,2002,Centre-Back,"1,86 m",right,€1.80m,Serie B
+814007,Corrado Riviera,2004,Left-Back,"1,84 m",left,€175k,Serie B
+420189,Tom van de Looi,1999,Defensive Midfield,"1,86 m",right,€750k,Serie B
+163606,Alessio Vita,1993,Central Midfield,"1,78 m",right,€500k,Serie B
+455068,Emil Kornvig,2000,Central Midfield,"1,85 m",right,€1.70m,Serie B
+621122,Matteo Angeli,2002,Centre-Back,"1,85 m",right,€500k,Serie B
+536342,Francesco Amatucci,2001,Central Midfield,"1,82 m",right,€500k,Serie B
+936504,Akim Djibril,2006,Defensive Midfield,"1,67 m",right,€250k,Serie B
+679413,Claudio Cassano,2003,Attacking Midfield,"1,65 m",right,€1.20m,Serie B
+349715,Federico Giraudo,1998,Left-Back,"1,82 m",left,€300k,Serie B
+249046,Stefano Negro,1995,Centre-Back,"1,93 m",right,€150k,Serie B
+167793,Simone Branca,1992,Defensive Midfield,"1,79 m",left,€400k,Serie B
+176182,Luca Maniero,1995,Goalkeeper,"1,89 m",right,€300k,Serie B
+167480,Nicola Pavan,1993,Centre-Back,"1,86 m",right,€500k,Serie B
+824128,Filippo Veneran,2005,Goalkeeper,"1,84 m",,€100k,Serie B
+398576,Giuseppe Carriero,1997,Central Midfield,"1,75 m",right,€600k,Serie B
+641553,Alessio Rizza,2003,Left-Back,"1,75 m",left,€200k,Serie B
+459725,Valerio Mastrantonio,1999,Central Midfield,"1,80 m",left,€350k,Serie B
+262521,Enrico Baldini,1996,Centre-Forward,"1,80 m",both,€500k,Serie B
+579299,Edoardo Sottini,2002,Centre-Back,"1,91 m",left,€300k,Serie B
+175788,Andrea Magrassi,1993,Centre-Forward,"1,94 m",right,€200k,Serie B
+438021,Luca Pandolfi,1998,Centre-Forward,"1,86 m",right,€500k,Serie B
+319171,Andrea Danzi,1999,Defensive Midfield,"1,75 m",right,€300k,Serie B
+827997,Ahmed Sanogo,2004,Second Striker,"1,80 m",right,€50k,Serie B
+355455,Filippo Pittarello,1996,Centre-Forward,"1,85 m",right,€400k,Serie B
+150462,Alessandro Salvi,1988,Right-Back,"1,83 m",right,€200k,Serie B
+258608,Elhan Kastrati,1997,Goalkeeper,"1,89 m",right,€750k,Serie B
+199617,Tommy Maistrello,1993,Centre-Forward,"1,93 m",left,€250k,Serie B
+616746,Nicholas Saggionetto,2002,Central Midfield,"1,84 m",left,€100k,Serie B
+393605,Andrea Tessiore,1999,Central Midfield,"1,77 m",right,€250k,Serie B
+381794,Lorenzo Carissoni,1997,Right-Back,"1,80 m",right,€600k,Serie B
+818502,Luca Piras,2004,Right-Back,"1,77 m",right,€125k,Serie B
+704191,Andrea Cecchetto,2003,Centre-Back,"1,80 m",right,€50k,Serie B
+287639,Domenico Frare,1996,Centre-Back,"1,87 m",right,€350k,Serie B
+346562,Marco Olivieri,1999,Centre-Forward,"1,77 m",right,€400k,Serie B
+566615,Mikael Egill Ellertsson,2002,Central Midfield,"1,82 m",left,€2.80m,Serie B
+173491,Joel Pohjanpalo,1994,Centre-Forward,"1,86 m",right,€5.00m,Serie B
+239934,Maximilian Ullmann,1996,Left-Back,"1,80 m",left,€700k,Serie B
+131758,Jesse Joronen,1993,Goalkeeper,"1,97 m",right,€1.00m,Serie B
+354909,Giorgio Altare,1998,Centre-Back,"1,90 m",right,€1.80m,Serie B
+707970,Gregor Pürg,2005,Goalkeeper,"1,90 m",right,€75k,Serie B
+406042,Dennis Johnsen,1998,Left Winger,"1,85 m",right,€2.50m,Serie B
+98322,Denis Cheryshev,1990,Left Winger,"1,79 m",left,€400k,Serie B
+670096,Tanner Tessmann,2001,Defensive Midfield,"1,88 m",right,€6.00m,Serie B
+372720,Nicholas Pierini,1998,Right Winger,"1,76 m",right,€2.00m,Serie B
+155038,Matteo Grandi,1992,Goalkeeper,"1,90 m",right,€150k,Serie B
+438961,Michael Svoboda,1998,Centre-Back,"1,95 m",right,€3.00m,Serie B
+216872,Francesco Zampano,1993,Right-Back,"1,77 m",right,€1.10m,Serie B
+392881,Antonio Candela,2000,Right-Back,"1,85 m",right,€2.30m,Serie B
+546926,Jay Idzes,2000,Centre-Back,"1,90 m",right,€3.00m,Serie B
+76274,Christian Gytkjaer,1990,Centre-Forward,"1,85 m",right,€700k,Serie B
+47513,Mato Jajalo,1988,Defensive Midfield,"1,82 m",right,€200k,Serie B
+504209,Gianluca Busio,2002,Central Midfield,"1,72 m",right,€6.50m,Serie B
+198873,Marco Modolo,1989,Centre-Back,"1,86 m",right,-,Serie B
+1042581,Eryk Slowikowski,2005,Goalkeeper,"1,90 m",right,-,Serie B
+282169,Marin Šverko,1998,Centre-Back,"1,87 m",left,€1.20m,Serie B
+459945,Nunzio Lella,2000,Central Midfield,"1,86 m",right,€750k,Serie B
+1044795,Lorenzo Da Pozzo,2004,Right Midfield,"1,77 m",right,€75k,Serie B
+336160,Andrija Novakovich,1996,Centre-Forward,"1,92 m",right,€500k,Serie B
+806524,Hilmir Rafn Mikaelsson,2004,Centre-Forward,"1,94 m",right,€600k,Serie B
+935519,Federico Tavernaro,2005,Attacking Midfield,,right,€150k,Serie B
+323929,Bruno Bertinato,1998,Goalkeeper,"1,94 m",left,€300k,Serie B
+813057,Lorenzo Busato,2004,Centre-Back,"1,80 m",right,€50k,Serie B
+566613,Bjarki Bjarkason,2000,Left Winger,"1,80 m",right,€800k,Serie B
+1004344,Ali Dembélé,2004,Right Midfield,"1,89 m",right,€800k,Serie B
+488784,Magnus Kofod Andersen,1999,Central Midfield,"1,70 m",right,€1.20m,Serie B
+181768,Hernani,1994,Central Midfield,"1,88 m",both,€2.00m,Serie B
+614742,Drissa Camara,2002,Central Midfield,"1,79 m",right,€1.00m,Serie B
+182517,Anthony Partipilo,1994,Right Winger,"1,81 m",left,€750k,Serie B
+528181,Edoardo Corvi,2001,Goalkeeper,"1,87 m",right,€350k,Serie B
+160668,Antonio Colak,1993,Centre-Forward,"1,88 m",right,€1.70m,Serie B
+700643,Martin Turk,2003,Goalkeeper,"1,90 m",left,€350k,Serie B
+604207,Filippo Rinaldi,2002,Goalkeeper,"1,88 m",right,€250k,Serie B
+806955,Dario Sits,2004,Centre-Forward,"1,87 m",right,€400k,Serie B
+182889,Wylan Cyprien,1995,Central Midfield,"1,80 m",right,€1.00m,Serie B
+660342,Gabriel Charpentier,1999,Centre-Forward,"1,88 m",right,€1.60m,Serie B
+159337,Roberto Inglese,1991,Centre-Forward,"1,86 m",right,€250k,Serie B
+397486,Dennis Man,1998,Right Winger,"1,83 m",left,€17.00m,Serie B
+543727,Botond Balogh,2002,Centre-Back,"1,89 m",right,€2.50m,Serie B
+708186,Tjas Begic,2003,Left Winger,"1,75 m",right,€700k,Serie B
+552472,Nahuel Estévez,1995,Defensive Midfield,"1,81 m",right,€3.50m,Serie B
+535469,Valentin Mihăilă,2000,Left Winger,"1,80 m",right,€3.00m,Serie B
+816791,Federico Motti,2004,Right-Back,"1,75 m",right,€100k,Serie B
+625202,Lautaro Valenti,1999,Centre-Back,"1,88 m",left,€1.50m,Serie B
+827734,Ange-Yoan Bonny,2003,Centre-Forward,"1,89 m",right,€20.00m,Serie B
+507486,Simon Sohm,2001,Central Midfield,"1,88 m",right,€4.00m,Serie B
+189340,Gianluca Di Chiara,1993,Left-Back,"1,86 m",left,€500k,Serie B
+55854,Cristian Ansaldi,1986,Left-Back,"1,81 m",both,€200k,Serie B
+858677,Peter Amoran,2004,Centre-Back,"1,89 m",right,€150k,Serie B
+883122,Anas Haj Mohamed,2005,Right Winger,"1,74 m",right,€1.80m,Serie B
+95736,Leandro Chichizola,1990,Goalkeeper,"1,85 m",right,€400k,Serie B
+613781,Vasilios Zagaritis,2001,Left-Back,"1,78 m",left,€600k,Serie B
+454386,Adrian Benedyczak,2000,Left Winger,"1,91 m",both,€6.00m,Serie B
+867137,Alessandro Circati,2003,Centre-Back,"1,90 m",right,€8.50m,Serie B
+392956,Enrico Delprato,1999,Right-Back,"1,83 m",right,€6.00m,Serie B
+592975,Woyo Coulibaly,1999,Right-Back,"1,82 m",both,€2.00m,Serie B
+917375,Antoine Hainaut,2002,Central Midfield,"1,87 m",right,€1.00m,Serie B
+358165,Yordan Osorio,1994,Centre-Back,"1,89 m",right,€1.70m,Serie B
+466802,Adrián Bernabé,2001,Central Midfield,"1,70 m",left,€15.00m,Serie B
+242078,Ales Mateju,1996,Right-Back,"1,85 m",right,€1.20m,Serie B
+386967,Przemysław Wiśniewski,1998,Centre-Back,"1,95 m",right,€2.00m,Serie B
+566927,Giovanni Corradini,2002,Defensive Midfield,"1,82 m",left,€300k,Serie B
+502669,Iva Gelashvili,2001,Centre-Back,"1,91 m",right,€400k,Serie B
+594505,Raimonds Krollis,2001,Centre-Forward,"1,86 m",left,€500k,Serie B
+872170,Gregorio Tanco,1999,Centre-Back,"1,86 m",right,€100k,Serie B
+1053571,Christian Cugnata,2005,Left-Back,"1,87 m",left,€50k,Serie B
+930781,Francesco Pio Esposito,2005,Centre-Forward,"1,89 m",right,€10.00m,Serie B
+632829,Niccolò Pietra,2003,Central Midfield,"1,89 m",right,€150k,Serie B
+602299,Petar Zovko,2002,Goalkeeper,"1,92 m",left,€100k,Serie B
+79045,Jeroen Zoet,1991,Goalkeeper,"1,89 m",right,€400k,Serie B
+301236,Francesco Cassata,1997,Central Midfield,"1,83 m",right,€600k,Serie B
+392963,Salvatore Elia,1999,Right Winger,"1,83 m",right,€800k,Serie B
+372809,Petko Hristov,1999,Centre-Back,"1,91 m",right,€900k,Serie B
+461906,João Moutinho,1998,Left-Back,"1,83 m",left,€900k,Serie B
+344072,Kelvin Amian,1998,Right-Back,"1,80 m",right,€2.50m,Serie B
+279079,Lukas Mühl,1997,Centre-Back,"1,89 m",right,€500k,Serie B
+532040,Giuseppe Di Serio,2001,Centre-Forward,"1,88 m",right,€1.20m,Serie B
+268178,Arkadiusz Reca,1995,Left-Back,"1,87 m",left,€1.00m,Serie B
+49275,Albin Ekdal,1989,Defensive Midfield,"1,86 m",right,€250k,Serie B
+795431,Tio Cipot,2003,Central Midfield,"1,84 m",right,€600k,Serie B
+315852,Mirko Antonucci,1999,Attacking Midfield,"1,78 m",both,€1.00m,Serie B
+256361,Daniele Verde,1996,Right Winger,"1,68 m",left,€1.30m,Serie B
+387234,Szymon Żurkowski,1997,Central Midfield,"1,85 m",right,€2.50m,Serie B
+934386,Pietro Candelari,2005,Central Midfield,"1,78 m",right,€300k,Serie B
+632831,Nicolò Bertola,2003,Centre-Back,"1,92 m",right,€6.50m,Serie B
+500164,Laurens Serpe,2001,Centre-Back,"1,93 m",both,€100k,Serie B
+702324,Rachid Kouda,2002,Central Midfield,"1,88 m",right,€3.50m,Serie B
+686693,Roko Jureskin,2000,Left-Back,"1,88 m",left,€250k,Serie B
+600936,Luca Moro,2001,Centre-Forward,"1,89 m",right,€1.50m,Serie B
+242813,Filip Jagiello,1997,Central Midfield,"1,79 m",right,€800k,Serie B
+257751,Simone Bastoni,1996,Central Midfield,"1,81 m",left,€1.00m,Serie B
+954194,Oskar Lachowicz,2005,Attacking Midfield,"1,80 m",right,€100k,Serie B
+504825,Gian Marco Crespi,2001,Goalkeeper,"1,89 m",right,€50k,Serie B
+240934,Filippo Bandinelli,1995,Central Midfield,"1,80 m",left,€1.20m,Serie B
+390160,Salvatore Esposito,2000,Defensive Midfield,"1,78 m",right,€6.00m,Serie B
+496745,Emil Holm,2000,Right-Back,"1,91 m",right,€7.00m,Serie B
+287367,Luca Vignali,1996,Right-Back,"1,86 m",right,€600k,Serie B
+119115,Diego Falcinelli,1991,Centre-Forward,"1,86 m",left,€400k,Serie B
+368559,Ádám Nagy,1995,Defensive Midfield,"1,78 m",right,€900k,Serie B
+208166,Bartlomiej Dragowski,1997,Goalkeeper,"1,91 m",right,€3.00m,Serie B
+292772,Dimitrios Nikolaou,1998,Centre-Back,"1,88 m",left,€1.60m,Serie B
+981998,Diego Mascardi,2006,Goalkeeper,"1,98 m",right,€200k,Serie B
+532495,Marlon Mustapha,2001,Centre-Forward,"1,85 m",right,€750k,Serie B
+325993,Oliver Abildgaard,1996,Defensive Midfield,"1,92 m",left,€1.50m,Serie B
+934453,Matteo Piombino,2024,Goalkeeper,,,€50k,Serie B
+311333,Alessandro Gabrielloni,1994,Centre-Forward,"1,78 m",right,€1.00m,Serie B
+265078,Patrick Cutrone,1998,Centre-Forward,"1,83 m",right,€7.00m,Serie B
+134883,Daniele Baselli,1992,Central Midfield,"1,82 m",right,€400k,Serie B
+330472,Alessio Iovine,1991,Right Midfield,"1,74 m",right,€400k,Serie B
+522681,Ben Lhassine Kone,2000,Central Midfield,"1,72 m",left,€600k,Serie B
+309977,Samuel Ballet,2001,Right Winger,"1,84 m",right,€1.40m,Serie B
+241052,Alessandro Bellemo,1995,Central Midfield,"1,84 m",right,€1.50m,Serie B
+392570,Marco Sala,1999,Left-Back,"1,82 m",left,€1.00m,Serie B
+704156,Nicholas Gioacchini,2000,Centre-Forward,"1,83 m",right,€2.00m,Serie B
+929771,Diego Ronco,2004,Centre-Back,,left,€50k,Serie B
+167796,Paolo Faragò,1993,Central Midfield,"1,87 m",right,-,Serie B
+957295,Naj Razi,2006,Attacking Midfield,"1,75 m",both,€300k,Serie B
+934461,Federico Chinetti,2005,Centre-Forward,,left,€50k,Serie B
+197751,Alberto Cerri,1996,Centre-Forward,"1,94 m",right,€1.50m,Serie B
+242940,Edoardo Goldaniga,1993,Centre-Back,"1,93 m",right,€1.20m,Serie B
+448538,Moutir Chajia,1998,Attacking Midfield,"1,81 m",right,€400k,Serie B
+165873,Federico Barba,1993,Centre-Back,"1,87 m",left,€1.00m,Serie B
+495667,Lucas Da Cunha,2001,Central Midfield,"1,74 m",left,€6.00m,Serie B
+315857,Marco Curto,1999,Centre-Back,"1,91 m",right,€1.20m,Serie B
+406632,Cas Odenthal,2000,Centre-Back,"1,90 m",right,€3.00m,Serie B
+412649,Tommaso Cassandro,2000,Right-Back,"1,85 m",right,€500k,Serie B
+317057,Adrian Semper,1998,Goalkeeper,"1,94 m",right,€2.70m,Serie B
+431417,Pierre Bolchini,1999,Goalkeeper,"2,00 m",left,€50k,Serie B
+88595,Mauro Vigorito,1990,Goalkeeper,"1,87 m",right,€150k,Serie B
+265033,Nikolas Ioannou,1995,Left-Back,"1,83 m",left,€1.20m,Serie B
+136135,Matteo Solini,1993,Centre-Back,"1,86 m",left,€200k,Serie B
+1004723,Fellipe Jack,2006,Centre-Back,"1,87 m",left,€200k,Serie B
+163597,Filippo Scaglia,1992,Centre-Back,"1,90 m",right,€200k,Serie B
+572780,Liam Kerrigan,2000,Right Winger,"1,71 m",right,€250k,Serie B
+981136,Fabio Rispoli,2006,Central Midfield,"1,69 m",right,€350k,Serie B
+130360,Simone Verdi,1992,Attacking Midfield,"1,74 m",both,€2.00m,Serie B
+225055,Jean-Pierre Nsame,1993,Centre-Forward,"1,88 m",right,€1.00m,Serie B
+199070,Tommaso Arrigoni,1994,Central Midfield,"1,71 m",right,€300k,Serie B
+457673,Gabriel Strefezza,1997,Right Winger,"1,68 m",right,€6.00m,Serie B
+1059730,Giuseppe Mazzaglia,2006,Central Midfield,"1,80 m",right,€250k,Serie B
+488052,Matthias Braunöder,2002,Central Midfield,"1,74 m",right,€2.00m,Serie B
+691678,Tommaso Fumagalli,2000,Centre-Forward,"1,85 m",right,€500k,Serie B
+395239,Claudio Gomes,2000,Defensive Midfield,"1,71 m",right,€2.80m,Serie B
+373899,Jacopo Segre,1997,Central Midfield,"1,85 m",right,€2.50m,Serie B
+1153389,Manfredi Nespola,2005,Goalkeeper,"1,89 m",right,€50k,Serie B
+38607,Federico Di Francesco,1994,Left Winger,"1,71 m",right,€1.20m,Serie B
+41780,Ivan Marconi,1989,Centre-Back,"1,84 m",left,€200k,Serie B
+160344,Leonardo Mancuso,1992,Centre-Forward,"1,82 m",right,€500k,Serie B
+567465,Sebastiano Desplanches,2003,Goalkeeper,"1,89 m",left,€2.50m,Serie B
+193867,Liam Henderson,1996,Central Midfield,"1,83 m",right,€1.40m,Serie B
+239099,Pietro Ceccaroni,1995,Centre-Back,"1,88 m",left,€1.40m,Serie B
+160561,Fabio Lucioni,1987,Centre-Back,"1,85 m",left,€300k,Serie B
+489611,Filippo Ranocchia,2001,Central Midfield,"1,86 m",both,€4.00m,Serie B
+171159,Leo Stulac,1994,Defensive Midfield,"1,75 m",right,€700k,Serie B
+383876,Nicola Valente,1991,Left Winger,"1,70 m",right,€300k,Serie B
+165893,Mirko Pigliacelli,1993,Goalkeeper,"1,84 m",right,€500k,Serie B
+700998,Chaka Traorè,2004,Left Winger,"1,75 m",right,€1.30m,Serie B
+200174,Roberto Insigne,1994,Right Winger,"1,72 m",left,€1.20m,Serie B
+354017,Adnan Kanuric,2000,Goalkeeper,"1,94 m",right,€150k,Serie B
+542858,Simon Graves,1999,Centre-Back,"1,91 m",right,€1.20m,Serie B
+472161,Mamadou Coulibaly,1999,Central Midfield,"1,83 m",right,€700k,Serie B
+238950,Francesco Di Mariano,1996,Left Winger,"1,77 m",right,€800k,Serie B
+615897,Aljosa Vasic,2002,Central Midfield,"1,88 m",right,€1.00m,Serie B
+321065,Edoardo Soleri,1997,Centre-Forward,"1,92 m",right,€500k,Serie B
+274694,Ionuț Nedelcearu,1996,Centre-Back,"1,90 m",right,€750k,Serie B
+623773,Kristoffer Lund,2002,Left-Back,"1,84 m",left,€3.50m,Serie B
+188889,Matteo Luigi Brunori,1994,Centre-Forward,"1,80 m",right,€3.50m,Serie B
+552939,Alessio Buttaro,2002,Right-Back,"1,83 m",right,€500k,Serie B
+457444,Giuseppe Aurelio,2000,Left-Back,"1,86 m",left,€400k,Serie B
+293228,Dario Saric,1997,Central Midfield,"1,80 m",both,€750k,Serie B
+390117,Samuele Damiani,1998,Defensive Midfield,"1,78 m",both,€200k,Serie B
+1101568,Francesco Lops,2005,Central Midfield,,,€100k,Serie B
+395527,Emmanuele Matino,1998,Centre-Back,"1,86 m",right,€200k,Serie B
+1153876,Hemsley Akpa-Chukwu,2005,Centre-Forward,"1,89 m",right,€400k,Serie B
+704677,Filippo Faggi,2003,Central Midfield,"1,83 m",right,€75k,Serie B
+261056,Giacomo Ricci,1996,Left Midfield,"1,80 m",left,€400k,Serie B
+497175,Aurélien Scheidler,1998,Centre-Forward,"1,92 m",right,€1.20m,Serie B
+208690,George Pușcaș,1996,Centre-Forward,"1,88 m",right,€1.30m,Serie B
+555016,Brenno,1999,Goalkeeper,"1,90 m",right,€1.00m,Serie B
+350082,Marco Pissardo,1998,Goalkeeper,"1,84 m",right,€350k,Serie B
+784575,Mehdi Dorval,2001,Right Midfield,"1,76 m",both,€2.50m,Serie B
+325222,Zan Zuzek,1997,Centre-Back,"1,86 m",right,€250k,Serie B
+629016,Marco Nasti,2003,Centre-Forward,"1,79 m",right,€2.30m,Serie B
+240158,Francesco Vicari,1994,Centre-Back,"1,90 m",right,€1.10m,Serie B
+618682,Andrea Astrologo,2002,Defensive Midfield,"1,79 m",right,€175k,Serie B
+200188,Mattia Aramu,1995,Attacking Midfield,"1,80 m",left,€1.00m,Serie B
+200167,Daniele Celiento,1994,Centre-Back,"1,81 m",right,€225k,Serie B
+43217,Pierluigi Frattali,1985,Goalkeeper,"1,85 m",right,€50k,Serie B
+160302,Andrea D'Errico,1992,Central Midfield,"1,71 m",right,€250k,Serie B
+859659,Domenico Dachille,2005,Centre-Back,"1,81 m",left,€125k,Serie B
+623040,Yayah Kallon,2001,Right Winger,"1,75 m",left,€500k,Serie B
+420472,Gregorio Morachioli,2000,Left Winger,"1,72 m",right,€400k,Serie B
+424275,Giuseppe Sibilli,1996,Attacking Midfield,"1,80 m",right,€1.30m,Serie B
+386755,Gianluca Frabotta,1999,Left-Back,"1,87 m",left,€1.20m,Serie B
+468704,Malcom Edjouma,1996,Central Midfield,"1,91 m",right,€700k,Serie B
+1186086,Raffaele Natuzzi,2005,Centre-Back,,,€125k,Serie B
+404995,Davide Diaw,1992,Centre-Forward,"1,91 m",right,€600k,Serie B
+167470,Mattia Maita,1994,Central Midfield,"1,82 m",right,€750k,Serie B
+566199,Matteo Ahmetaj,2002,Centre-Forward,,left,-,Serie B
+140559,Raffaele Maiello,1991,Defensive Midfield,"1,77 m",right,€300k,Serie B
+534161,Ilias Koutsoupias,2001,Central Midfield,"1,82 m",right,€900k,Serie B
+121402,Ahmad Benali,1992,Central Midfield,"1,73 m",right,€400k,Serie B
+602174,Ismail Achik,2000,Right Winger,"1,70 m",right,€100k,Serie B
+1101344,Emanuele Zanaboni,2005,Centre-Forward,"1,87 m",left,€50k,Serie B
+107958,Nicola Bellomo,1991,Attacking Midfield,"1,74 m",right,€200k,Serie B
+329669,Alessandro Farroni,1997,Goalkeeper,"1,86 m",left,€175k,Serie B
+3159,Valerio Di Cesare,1983,Centre-Back,"1,87 m",right,-,Serie B
+1186074,Vincenzo Colangiuli,2005,Central Midfield,,,€150k,Serie B
+230826,Gennaro Acampora,1994,Central Midfield,"1,74 m",left,€450k,Serie B
+507351,Abdoul Guiebre,1997,Left Midfield,"1,78 m",left,€300k,Serie B
+16993,Jérémy Ménez,1987,Centre-Forward,"1,82 m",right,-,Serie B
+240252,Karlo Lulic,1996,Central Midfield,"1,87 m",right,€450k,Serie B
+425215,Emanuele Polverino,1997,Goalkeeper,"1,82 m",right,€25k,Serie B
+171696,Marco Perrotta,1994,Centre-Back,"1,88 m",left,€250k,Serie B
+139307,Raffaele Pucino,1991,Right-Back,"1,83 m",right,€250k,Serie B
+1153875,Luigi Pellegrini,2005,Goalkeeper,"1,86 m",right,€25k,Serie B
+504085,Tomás Esteves,2002,Right-Back,"1,80 m",right,€3.00m,Serie B
+379163,Marius Marin,1998,Defensive Midfield,"1,80 m",right,€3.00m,Serie B
+569939,Tommaso Barbieri,2002,Right-Back,"1,81 m",right,€1.80m,Serie B
+358003,Simone Canestrelli,2000,Centre-Back,"1,92 m",right,€6.00m,Serie B
+167741,Mattia Valoti,1993,Central Midfield,"1,87 m",right,€1.00m,Serie B
+99523,Nícolas,1988,Goalkeeper,"1,90 m",right,€200k,Serie B
+628365,Gabriele Piccinini,2001,Central Midfield,"1,84 m",right,€2.50m,Serie B
+475410,Matteo Tramoni,2000,Left Winger,"1,75 m",right,€4.00m,Serie B
+187147,Hjörtur Hermannsson,1995,Centre-Back,"1,90 m",right,€400k,Serie B
+149525,Antonio Caracciolo,1990,Centre-Back,"1,85 m",right,€400k,Serie B
+43848,Miguel Veloso,1986,Defensive Midfield,"1,80 m",left,-,Serie B
+279823,Stefano Moreo,1993,Centre-Forward,"1,91 m",right,€1.00m,Serie B
+381370,Pietro Beruatto,1998,Left-Back,"1,85 m",left,€2.40m,Serie B
+451310,Maxime Leverbe,1997,Centre-Back,"1,88 m",right,€500k,Serie B
+209936,Ettore Gliozzi,1995,Centre-Forward,"1,86 m",right,€700k,Serie B
+394346,Emanuel Vignato,2000,Right Winger,"1,75 m",right,€800k,Serie B
+553513,Nicholas Bonfanti,2002,Centre-Forward,"1,84 m",right,€2.50m,Serie B
+467354,Matteo Campani,2000,Goalkeeper,"1,89 m",right,€25k,Serie B
+819475,Andrea Biagini,2004,Right-Back,"1,76 m",right,€50k,Serie B
+199941,Andrea Beghetto,1994,Left Midfield,"1,82 m",left,€175k,Serie B
+856056,Assane Seck,2004,Right Winger,"1,82 m",right,€50k,Serie B
+984375,Miha Trdan,2005,Central Midfield,"1,88 m",right,€75k,Serie B
+309180,Jan Mlakar,1998,Left Winger,"1,83 m",right,€2.20m,Serie B
+678645,Alessandro Arena,2000,Right Winger,"1,71 m",left,€900k,Serie B
+925838,Francesco Coppola,2005,Centre-Back,,right,€200k,Serie B
+146680,Andrea Barberis,1993,Defensive Midfield,"1,77 m",right,€150k,Serie B
+159883,Ernesto Torregrossa,1992,Centre-Forward,"1,84 m",left,€400k,Serie B
+82751,Gaetano Masucci,1984,Centre-Forward,"1,72 m",right,-,Serie B
+62725,Alessandro De Vitis,1992,Centre-Back,"1,84 m",right,€100k,Serie B
+607227,Lisandru Tramoni,2003,Right Winger,"1,80 m",left,€700k,Serie B
+99232,Marco D'Alessandro,1991,Right Winger,"1,73 m",right,€300k,Serie B
+386567,Leonardo Loria,1999,Goalkeeper,"1,95 m",right,€250k,Serie B
+921561,Ante Vukovic,2004,Goalkeeper,"1,92 m",right,€200k,Serie B
+240897,Arturo Calabresi,1996,Right-Back,"1,86 m",right,€800k,Serie B
+935510,Mattia Sala,2005,Attacking Midfield,,both,€150k,Serie B
+335516,Idrissa Touré,1998,Central Midfield,"1,88 m",right,€2.80m,Serie B
+955606,Adrian Raychev,2006,Right Winger,"1,83 m",right,,Serie B
+707295,Giuseppe Ambrosino,2003,Centre-Forward,"1,87 m",right,€2.20m,Serie B
+109110,Nicolò Brighenti,1989,Centre-Back,"1,78 m",right,€300k,Serie B
+138584,Luka Krajnc,1994,Centre-Back,"1,88 m",left,€400k,Serie B
+1076313,Cristiano Belpanno,2004,Central Midfield,"1,83 m",right,-,Serie B
+292422,Simone Pontisso,1997,Defensive Midfield,"1,84 m",right,€500k,Serie B
+120347,Andrea Sala,1993,Goalkeeper,"1,87 m",right,€100k,Serie B
+1262393,Gabriel Rafele,2005,Second Striker,"1,86 m",right,€100k,Serie B
+816308,Panos Katseris,2001,Right-Back,"1,87 m",right,€2.50m,Serie B
+167826,Luca Verna,1993,Central Midfield,"1,84 m",right,€400k,Serie B
+62735,Pietro Iemmello,1992,Centre-Forward,"1,86 m",right,€1.00m,Serie B
+234137,Dimitrios Sounas,1994,Central Midfield,"1,79 m",right,€550k,Serie B
+902633,Edoardo Borrelli,2004,Goalkeeper,"1,87 m",right,€50k,Serie B
+138741,Mario Situm,1992,Right-Back,"1,78 m",right,€350k,Serie B
+391899,Matteo Stoppa,2000,Second Striker,"1,74 m",right,€400k,Serie B
+459991,Marco Pompetti,2000,Defensive Midfield,"1,82 m",left,€750k,Serie B
+390163,Andrea Ghion,2000,Defensive Midfield,"1,74 m",right,€650k,Serie B
+258827,Jari Vandeputte,1996,Left Winger,"1,77 m",right,€3.00m,Serie B
+168346,Nana Welbeck,1994,Central Midfield,"1,69 m",right,€200k,Serie B
+323147,Enrico Brignola,1999,Right Winger,"1,68 m",left,€300k,Serie B
+240129,Tommaso Biasci,1994,Second Striker,"1,82 m",right,€800k,Serie B
+734898,Kevin Miranda,2003,Centre-Back,"1,88 m",right,€350k,Serie B
+736616,Alessandro Viotti,2004,Centre-Forward,"1,83 m",right,-,Serie B
+218067,Jacopo Petriccione,1995,Defensive Midfield,"1,76 m",right,€650k,Serie B
+663939,Andrea Oliveri,2003,Right Midfield,"1,81 m",right,€800k,Serie B
+725242,Luca D'Andrea,2004,Right Winger,"1,73 m",left,€800k,Serie B
+142990,Stefano Scognamillo,1994,Centre-Back,"1,84 m",right,€700k,Serie B
+1103542,Vincenzo Grimaldi,2006,Goalkeeper,,,,Serie B
+403718,Matias Antonini,1998,Centre-Back,"1,93 m",right,€650k,Serie B
+138816,Alessio Curcio,1990,Left Winger,"1,80 m",right,€400k,Serie B
+93292,Francesco Bombagi,1989,Attacking Midfield,"1,78 m",right,€150k,Serie B
+231381,Andrea Fulignati,1994,Goalkeeper,"1,90 m",right,€1.40m,Serie B
+705097,Davide Veroli,2003,Left-Back,"1,88 m",left,€1.50m,Serie B
+1051645,Moussa Bamba,2004,Right Winger,,right,€50k,Serie B
+130485,Alfredo Donnarumma,1990,Centre-Forward,"1,80 m",right,€300k,Serie B
+370704,Mario Ierardi,1998,Centre-Back,"1,95 m",right,€150k,Serie B
+291400,Giovanni Crociata,1997,Central Midfield,"1,74 m",right,€550k,Serie B
+679829,Henri Salomaa,2003,Right Winger,"1,90 m",left,€100k,Serie B
+616169,Duccio Degli Innocenti,2003,Defensive Midfield,"1,80 m",right,€600k,Serie B
+162951,Riccardo Melgrati,1994,Goalkeeper,"1,90 m",right,€200k,Serie B
+124769,Luca Marrone,1990,Centre-Back,"1,86 m",right,€75k,Serie B
+118938,Franco Lepore,1985,Right-Back,"1,78 m",right,€150k,Serie B
+86640,Vedran Celjak,1991,Right-Back,"1,88 m",right,€225k,Serie B
+1262394,Angelo Agostino,2006,Goalkeeper,,,,Serie B
+459661,Eddie Salcedo,2001,Centre-Forward,"1,78 m",right,€1.00m,Serie B
+397115,Alessandro Caporale,1995,Centre-Back,"1,90 m",left,€400k,Serie B
+650255,Lorenzo Di Stefano,2002,Centre-Forward,"1,82 m",right,€400k,Serie B
+958649,Zinedin Smajlović,2003,Centre-Back,"1,91 m",left,€150k,Serie B
+291276,Marcin Listkowski,1998,Attacking Midfield,"1,78 m",both,€300k,Serie B
+408293,Nicolò Buso,2000,Second Striker,"1,76 m",right,€500k,Serie B
+62238,Umberto Eusepi,1989,Centre-Forward,"1,87 m",right,€100k,Serie B
+238947,Elio Capradossi,1996,Centre-Back,"1,85 m",both,€200k,Serie B
+527180,Joshua Tenkorang,2000,Central Midfield,"1,84 m",right,€150k,Serie B
+389581,Eyob Zambataro,1998,Left Midfield,"1,76 m",both,€200k,Serie B
+197480,Doudou Mangni,1993,Centre-Forward,"1,80 m",left,€25k,Serie B
+395123,Alessandro Bianconi,1999,Centre-Back,"1,95 m",right,€200k,Serie B
+287710,Gabriel Lunetta,1996,Left Midfield,"1,86 m",left,€250k,Serie B
+930791,Filippo Cecchini,2006,Goalkeeper,,,,Serie B
+655186,Brayan Boci,2003,Left Midfield,"1,83 m",left,€175k,Serie B
+98888,Artur Ioniță,1990,Central Midfield,"1,84 m",both,€250k,Serie B
+88709,Luca Scapuzzi,1991,Left Winger,"1,82 m",right,-,Serie B
+397248,Giorgio Galli,1996,Defensive Midfield,"1,83 m",right,€225k,Serie B
+492627,Marco Frigerio,2001,Central Midfield,"1,85 m",right,€225k,Serie B
+657550,Alessandro Sersanti,2002,Central Midfield,"1,82 m",right,€1.20m,Serie B
+409614,Lorenzo Pinzauti,1994,Centre-Forward,"1,81 m",right,€175k,Serie B
+199001,Umberto Saracco,1994,Goalkeeper,"1,90 m",right,€150k,Serie B
+818449,Luca Bonadeo,2003,Goalkeeper,"1,91 m",right,-,Serie B
+805696,Mats Lemmens,2002,Right-Back,"1,86 m",right,€300k,Serie B
+62710,Francesco Ardizzone,1992,Central Midfield,"1,80 m",right,€125k,Serie B
+91241,Giacomo Beretta,1992,Centre-Forward,"1,85 m",right,€100k,Serie B
+267014,Matteo Battistini,1994,Centre-Back,"1,87 m",right,€250k,Serie B
+616133,Mattia Tordini,2002,Centre-Forward,"1,71 m",right,€150k,Serie B
+525660,Francesco Donati,2001,Right-Back,"1,87 m",right,€300k,Serie B
+1182430,Nicolò Tondi,2007,Central Midfield,,,,Serie B
+620316,Corentin Louakima,2003,Right-Back,"1,83 m",right,€150k,Serie B
+561150,Vittorio Agostinelli,2002,Attacking Midfield,"1,83 m",right,€75k,Serie B
+85240,Eugenio Lamanna,1989,Goalkeeper,"1,87 m",right,€100k,Serie B
+1067589,Stefan Alex Dregan,2005,Goalkeeper,"1,85 m",right,€50k,Serie B
+307335,Raphael Odogwu,1991,Centre-Forward,"1,88 m",left,€400k,Serie B
+482789,Giacomo Drago,2001,Goalkeeper,"1,94 m",right,€300k,Serie B
+417896,Nicola Rauti,2000,Centre-Forward,"1,80 m",right,€375k,Serie B
+331395,Fabian Tait,1993,Central Midfield,"1,86 m",right,€500k,Serie B
+365451,Daouda Peeters,1999,Defensive Midfield,"1,85 m",right,€350k,Serie B
+97192,Nicholas Siega,1991,Left Winger,"1,78 m",right,€75k,Serie B
+130352,Luca Ghiringhelli,1992,Right-Back,"1,80 m",right,€150k,Serie B
+85825,Jasmin Kurtic,1989,Central Midfield,"1,86 m",right,€400k,Serie B
+163582,Salvatore Molina,1992,Right Midfield,"1,77 m",right,€400k,Serie B
+611197,Simone Davi,1999,Left-Back,"1,78 m",left,€600k,Serie B
+346560,Alessandro Mallamo,1999,Central Midfield,"1,74 m",right,€300k,Serie B
+418884,Andrea Cagnano,1998,Left-Back,"1,80 m",left,€250k,Serie B
+34198,Andrea Masiello,1986,Centre-Back,"1,84 m",right,€200k,Serie B
+327326,Giacomo Poluzzi,1988,Goalkeeper,"1,86 m",left,€300k,Serie B
+658729,Emanuele Pecorino,2001,Centre-Forward,"1,92 m",left,€350k,Serie B
+395089,Hamza El Kaouakibi,1998,Right-Back,"1,85 m",right,€250k,Serie B
+1039342,Raphael Kofler,2005,Centre-Back,"1,93 m",right,€800k,Serie B
+392577,Matteo Rover,1999,Second Striker,"1,85 m",right,€900k,Serie B
+426179,Andrea Cisco,1998,Left Winger,"1,86 m",right,€100k,Serie B
+1185019,Benedikt Rottensteiner,2005,Centre-Back,"1,86 m",right,€100k,Serie B
+1049984,Lorenzo Bonifacio,2007,Goalkeeper,,,,Serie B
+1056794,Jakob Tschöll,2006,Goalkeeper,,,,Serie B
+1065494,Jonas Arlanch,2007,Goalkeeper,"1,83 m",right,,Serie B
+628558,Riccardo Ciervo,2002,Left Winger,"1,90 m",right,€1.00m,Serie B
+140189,Kévin Vinetot,1988,Centre-Back,"1,87 m",right,€200k,Serie B
+793727,Amney Moutassime,2004,Left Winger,,left,,Serie B
+199272,Daniele Casiraghi,1993,Attacking Midfield,"1,77 m",right,€900k,Serie B
+691235,Andrea Giorgini,2002,Centre-Back,"1,90 m",right,€1.20m,Serie B
+340075,Jérémie Broh,1997,Central Midfield,"1,80 m",right,€350k,Serie B
+365565,Giuseppe Cuomo,1998,Centre-Back,"1,90 m",right,€500k,Serie B
+525653,Lorenzo Lonardi,1999,Central Midfield,"1,87 m",right,€150k,Serie B
+494803,Cristian Shiba,2001,Centre-Back,"1,83 m",right,€100k,Serie B
+460842,Silvio Merkaj,1997,Centre-Forward,"1,88 m",right,€500k,Serie B
+940750,Hugo Buyla,2005,Centre-Back,"1,91 m",right,€100k,Serie B
+622801,Flavio Paoletti,2003,Central Midfield,"1,82 m",right,€900k,Serie B
+287876,Antonino La Gumina,1996,Centre-Forward,"1,82 m",right,€400k,Serie B
+480046,Simone Giordano,2001,Left-Back,"1,84 m",left,€1.00m,Serie B
+891813,Matteo Langella,2005,Left-Back,,left,€150k,Serie B
+162961,Valerio Verre,1994,Central Midfield,"1,81 m",right,€500k,Serie B
+816792,Nicolò Uberti,2004,Central Midfield,,right,€100k,Serie B
+701819,Daniele Ghilardi,2003,Centre-Back,"1,89 m",right,€1.60m,Serie B
+1072902,Andrea Dacourt,2005,Attacking Midfield,"1,84 m",right,€200k,Serie B
+487836,Simone Panada,2002,Defensive Midfield,"1,75 m",right,€900k,Serie B
+434676,Ronaldo Vieira,1998,Central Midfield,"1,78 m",right,€400k,Serie B
+538918,Sebastiano Esposito,2002,Second Striker,"1,83 m",right,€7.00m,Serie B
+761482,Ardijan Chilafi,2004,Central Midfield,"1,89 m",right,€50k,Serie B
+198087,Matteo Ricci,1994,Defensive Midfield,"1,76 m",both,€400k,Serie B
+660581,Arttu Lötjönen,2004,Centre-Back,"1,87 m",right,-,Serie B
+1047995,Fabiano D'Amore,2006,Centre-Back,,,,Serie B
+624436,Gerard Yepes,2002,Defensive Midfield,"1,70 m",right,€2.00m,Serie B
+241889,Antonio Barreca,1995,Left-Back,"1,80 m",left,€300k,Serie B
+678441,Daniele Montevago,2003,Centre-Forward,"1,84 m",right,€300k,Serie B
+183841,Petar Stojanović,1995,Right-Back,"1,78 m",right,€1.00m,Serie B
+651000,Gabriele Alesi,2004,Attacking Midfield,"1,75 m",right,€150k,Serie B
+818703,Elia Tantalocchi,2004,Goalkeeper,"1,90 m",right,€150k,Serie B
+641036,Samuel Ntanda,2005,Left Winger,"1,84 m",right,€500k,Serie B
+825199,Facundo González,2003,Centre-Back,"1,93 m",left,€4.00m,Serie B
+797754,Ilario Porzi,2005,Central Midfield,,right,€75k,Serie B
+976428,Lorenzo Costantino,2006,Centre-Back,,,,Serie B
+163086,Cristiano Piccini,1992,Centre-Back,"1,89 m",right,€500k,Serie B
+899543,Marco Delle Monache,2005,Second Striker,"1,69 m",right,€600k,Serie B
+698110,Lorenzo Malagrida,2003,Left Midfield,"1,74 m",right,€150k,Serie B
+348601,Mehdi Léris,1998,Right Winger,"1,86 m",right,€2.50m,Serie B
+552751,Luigi Aquino,2002,Centre-Back,"1,84 m",right,€50k,Serie B
+111227,Andrea Conti,1994,Right-Back,"1,84 m",right,€200k,Serie B
+42796,Nicola Ravaglia,1988,Goalkeeper,"1,84 m",right,€50k,Serie B
+96754,Fabio Borini,1991,Left Winger,"1,80 m",right,€900k,Serie B
+1086619,Giovanni Leoni,2006,Centre-Back,"1,93 m",right,€4.50m,Serie B
+820659,Mattia Vitale,2004,Central Midfield,"1,89 m",right,€100k,Serie B
+816124,Noha Lemina,2005,Attacking Midfield,"1,68 m",right,€400k,Serie B
+375816,Manuel De Luca,1998,Centre-Forward,"1,92 m",both,€1.40m,Serie B
+647484,Ebrima Darboe,2001,Defensive Midfield,"1,79 m",right,€1.30m,Serie B
+913539,Estanis Pedrola,2003,Left Winger,"1,85 m",right,€1.80m,Serie B
+574495,Kristoffer Askildsen,2001,Central Midfield,"1,90 m",right,€1.00m,Serie B
+745439,Simone Pozzato,2004,Attacking Midfield,,right,€50k,Serie B
+171399,Nicola Murru,1994,Left-Back,"1,80 m",left,€700k,Serie B
+552223,Filip Stankovic,2002,Goalkeeper,"1,87 m",right,€4.50m,Serie B
+144143,Bartosz Bereszyński,1992,Right-Back,"1,83 m",right,€1.00m,Serie B
+533321,Stefano Girelli,2001,Central Midfield,"1,80 m",right,€350k,Serie B
+423615,Leonardo Benedetti,2000,Central Midfield,"1,80 m",right,€1.20m,Serie B
+812625,Agustín Álvarez,2001,Centre-Forward,"1,77 m",right,€4.00m,Serie B
+882963,Simone Leonardi,2005,Centre-Forward,"1,82 m",,€300k,Serie B
+197491,Alex Ferrari,1994,Centre-Back,"1,91 m",right,€350k,Serie B
+823560,Francesco Conti,2004,Central Midfield,"1,78 m",right,€250k,Serie B
+130108,Pajtim Kasami,1992,Central Midfield,"1,88 m",left,€500k,Serie B
+324282,Fabio Depaoli,1997,Right-Back,"1,82 m",right,€2.00m,Serie B
+84766,Francesco Di Tacchio,1990,Defensive Midfield,"1,86 m",left,€225k,Serie B
+884065,Simone D'Uffizi,2004,Attacking Midfield,"1,78 m",right,€200k,Serie B
+498235,Pedro Mendes,1999,Centre-Forward,"1,87 m",right,€2.20m,Serie B
+168933,Eddy Gnahoré,1993,Defensive Midfield,"1,88 m",right,€750k,Serie B
+887646,Luigi Sciammarella,2006,Goalkeeper,"1,86 m",right,,Serie B
+882915,Yehiya Maiga Silvestri,2005,Central Midfield,,right,€250k,Serie B
+386574,Fabrizio Caligara,2000,Central Midfield,"1,80 m",left,€1.30m,Serie B
+61783,Mirko Eramo,1989,Central Midfield,"1,81 m",right,€125k,Serie B
+538569,Tommaso Milanese,2002,Central Midfield,"1,73 m",right,€750k,Serie B
+56601,Eric Botteghin,1987,Centre-Back,"1,93 m",right,€200k,Serie B
+715470,Brian Bayeye,2000,Right Midfield,"1,82 m",right,€400k,Serie B
+497543,David Duris,1999,Left Winger,"1,86 m",right,€750k,Serie B
+164534,Francesco Forte,1993,Centre-Forward,"1,87 m",left,-,Serie B
+226093,Lorenco Simic,1996,Centre-Back,"1,95 m",right,€550k,Serie B
+537765,Pablo Rodríguez,2001,Second Striker,"1,78 m",right,€1.80m,Serie B
+937525,Danilo Amato,2005,Goalkeeper,,,-,Serie B
+396307,Danilo Quaranta,1997,Centre-Back,"1,92 m",left,€300k,Serie B
+337716,Claud Adjapong,1998,Right-Back,"1,80 m",right,€300k,Serie B
+459147,Erdis Kraja,2000,Central Midfield,"1,81 m",right,€200k,Serie B
+488781,Jeremiah Streng,2001,Centre-Forward,"1,88 m",right,€150k,Serie B
+704468,Luca Bolletta,2004,Goalkeeper,"1,92 m",left,€100k,Serie B
+54581,Ilija Nestorovski,1990,Centre-Forward,"1,82 m",left,€200k,Serie B
+158548,Marcello Falzerano,1991,Right Midfield,"1,67 m",right,€250k,Serie B
+567470,Samuel Giovane,2003,Central Midfield,"1,83 m",left,€1.50m,Serie B
+287663,Luca Valzania,1996,Central Midfield,"1,84 m",both,€300k,Serie B
+390159,Vincenzo Millico,2000,Left Winger,"1,74 m",right,€600k,Serie B
+928056,Jacopo Tarantino,2005,Centre-Forward,,left,€300k,Serie B
+915492,Giulio Mengucci,2005,Goalkeeper,,right,€50k,Serie B
+57354,Giuseppe Bellusci,1989,Centre-Back,"1,85 m",right,€200k,Serie B
+612065,Karim Zedadka,2000,Left Midfield,"1,84 m",right,€250k,Serie B
+744482,Aljaz Tavcar,2000,Centre-Back,"1,94 m",right,€25k,Serie B
+74956,Marcel Büchel,1991,Defensive Midfield,"1,75 m",left,€150k,Serie B
+716668,Kevin Haveri,2001,Left-Back,"1,91 m",left,€200k,Serie B
+240786,Riccardo Gagliolo,1990,Centre-Back,"1,80 m",left,€175k,Serie B
+458134,Davide Barosi,2000,Goalkeeper,"1,90 m",right,€250k,Serie B
+937567,Francesco Cozzoli,2004,Left-Back,"1,83 m",left,€150k,Serie B
+962414,Lorenzo Cosimi,2004,Right-Back,,right,€25k,Serie B
+820959,Emiliano Rossi,2004,Centre-Back,"1,91 m",left,€50k,Serie B
+195057,Raffaele Celia,1999,Left-Back,"1,78 m",left,€300k,Serie B
+459665,Patrizio Masini,2001,Central Midfield,"1,82 m",right,€600k,Serie B
+495722,Devis Vásquez,1998,Goalkeeper,"1,95 m",right,€4.00m,Serie B
+176180,Nicola Falasco,1993,Left-Back,"1,84 m",left,€250k,Serie B
+261095,Sauli Väisänen,1994,Centre-Back,"1,91 m",right,€300k,Serie B
+24316,Emiliano Viviano,1985,Goalkeeper,"1,95 m",left,-,Serie B
+392545,Frank Tsadjout,1999,Centre-Forward,"1,90 m",left,€600k,Serie B
+187384,Cristian Buonaiuto,1992,Left Winger,"1,79 m",right,€400k,Serie B
+897645,Thomas Brahja,2005,Goalkeeper,"1,90 m",,€100k,Serie B
+542336,Nikola Sekulov,2002,Attacking Midfield,"1,85 m",right,€800k,Serie B
+413605,David Okereke,1997,Centre-Forward,"1,81 m",right,€2.40m,Serie B
+539131,Alessio Brambilla,2001,Defensive Midfield,"1,84 m",right,€125k,Serie B
+243879,Charles Pickel,1997,Defensive Midfield,"1,87 m",right,€2.40m,Serie B
+434551,Michele Collocolo,1999,Central Midfield,"1,88 m",right,€2.50m,Serie B
+33763,Massimo Coda,1988,Centre-Forward,"1,84 m",right,€1.00m,Serie B
+227347,Valentin Antov,2000,Centre-Back,"1,87 m",right,€2.00m,Serie B
+340707,Leonardo Sernicola,1997,Right-Back,"1,87 m",right,€2.00m,Serie B
+312341,Luca Ravanelli,1997,Centre-Back,"1,87 m",right,€1.80m,Serie B
+76163,Franco Vázquez,1989,Attacking Midfield,"1,87 m",left,€1.00m,Serie B
+29605,Daniel Ciofani,1985,Centre-Forward,"1,91 m",right,-,Serie B
+345189,Luka Lochoshvili,1998,Centre-Back,"1,92 m",left,€600k,Serie B
+872380,Felix Afena-Gyan,2003,Centre-Forward,"1,75 m",right,€2.00m,Serie B
+160986,Matteo Bianchetti,1993,Centre-Back,"1,89 m",right,€500k,Serie B
+295766,Alessandro Livieri,1997,Goalkeeper,"1,90 m",left,€300k,Serie B
+420179,Gianluca Saro,2000,Goalkeeper,"1,87 m",right,€400k,Serie B
+73943,Alessandro Tuia,1990,Centre-Back,"1,84 m",right,€200k,Serie B
+338101,Mouhamadou Sarr,1997,Goalkeeper,"1,90 m",right,€300k,Serie B
+99227,Andrea Bertolacci,1991,Central Midfield,"1,79 m",left,€250k,Serie B
+407265,Luca Zanimacchia,1998,Right Winger,"1,78 m",right,€1.40m,Serie B
+1008568,Guido Della Rovere,2007,Attacking Midfield,"1,87 m",left,€700k,Serie B
+592924,Andreas Jungdal,2002,Goalkeeper,"1,95 m",right,€900k,Serie B
+313477,Paolo Ghiglione,1997,Right-Back,"1,91 m",right,€750k,Serie B
+458777,Giacomo Quagliata,2000,Left-Back,"1,80 m",left,€1.00m,Serie B
+836493,Gonzalo Abrego,2000,Central Midfield,"1,84 m",right,€2.00m,Serie B
+394152,Emanuel Aiwu,2000,Centre-Back,"1,87 m",right,€3.00m,Serie B
+667627,Yuri Rocchetti,2003,Left-Back,"1,82 m",left,€400k,Serie B
+195335,Michele Castagnetti,1989,Defensive Midfield,"1,80 m",left,€400k,Serie B
+180805,Zan Majer,1992,Central Midfield,"1,80 m",right,€400k,Serie B
+445126,Emanuele Valeri,1998,Left-Back,"1,80 m",left,€3.00m,Serie B
+716411,Maissa Ndiaye,2002,Centre-Back,"1,90 m",right,€150k,Serie B
+382567,Matteo Cotali,1997,Left-Back,"1,77 m",left,€600k,Serie B
+655003,Lukas Mondele,2004,Defensive Midfield,"1,75 m",left,€100k,Serie B
+473871,Thomas Battistella,2001,Central Midfield,"1,86 m",right,€450k,Serie B
+949442,Tommaso Leonardi,2005,Goalkeeper,"1,79 m",right,,Serie B
+929748,Marco Oliva,2005,Central Midfield,"1,80 m",left,€150k,Serie B
+88713,Luca Tremolada,1991,Attacking Midfield,"1,76 m",left,€250k,Serie B
+387013,Antonio Pergreffi,1988,Centre-Back,"1,89 m",left,€200k,Serie B
+330288,Fabio Gerli,1996,Defensive Midfield,"1,73 m",right,€900k,Serie B
+1250836,Riccardo Ori,2004,Defensive Midfield,,,,Serie B
+487835,Alessandro Pio Riccio,2002,Centre-Back,"1,87 m",right,€600k,Serie B
+283421,Cristian Căuz,1996,Centre-Back,"1,88 m",left,€350k,Serie B
+808670,Sandro Waibl,2005,Midfield,,,,Serie B
+287863,Antonio Palumbo,1996,Central Midfield,"1,82 m",left,€1.50m,Serie B
+242469,Mario Gargiulo,1996,Central Midfield,"1,87 m",left,€500k,Serie B
+297444,Luca Magnino,1997,Central Midfield,"1,85 m",right,€750k,Serie B
+392515,Simone Santoro,1999,Central Midfield,"1,81 m",right,€900k,Serie B
+240206,Jacopo Manconi,1994,Second Striker,"1,80 m",right,€400k,Serie B
+393487,Shady Oukhadda,1999,Right-Back,"1,87 m",right,€650k,Serie B
+1076945,Roko Vukušić,2004,Centre-Back,"1,88 m",left,€75k,Serie B
+534082,Fabio Ponsi,2001,Left-Back,"1,86 m",right,€600k,Serie B
+85380,Andrea Seculin,1990,Goalkeeper,"1,90 m",right,€250k,Serie B
+199583,Giovanni Zaro,1994,Centre-Back,"1,93 m",right,€900k,Serie B
+534055,Romeo Giovannini,2001,Second Striker,"1,74 m",right,€200k,Serie B
+817150,Fabio Abiuso,2003,Centre-Forward,"1,85 m",right,€500k,Serie B
+745427,Gabriele Guarino,2004,Centre-Back,"1,93 m",right,€900k,Serie B
+337360,Riccardo Gagno,1997,Goalkeeper,"1,86 m",right,€700k,Serie B
+1065998,Edoardo Olivieri,2005,Left Midfield,,left,€125k,Serie B
+36753,Tommaso Silvestri,1991,Centre-Back,"1,85 m",right,€150k,Serie B
+500624,Filippo Vandelli,2000,Goalkeeper,"1,90 m",left,-,Serie B
+221421,Kleis Bozhanaj,2001,Attacking Midfield,"1,80 m",right,€450k,Serie B
+155802,Luca Strizzolo,1992,Centre-Forward,"1,88 m",right,€400k,Serie B
+431581,Edoardo Duca,1997,Central Midfield,"1,78 m",right,€300k,Serie B
+74448,Andrea Rispoli,1988,Right-Back,"1,88 m",right,€125k,Serie B
+202979,Gennaro Tutino,1996,Centre-Forward,"1,77 m",right,€3.50m,Serie B
+745444,Valerio Crespi,2004,Centre-Forward,"1,85 m",left,€250k,Serie B
+340444,Christian D'Urso,1997,Attacking Midfield,"1,78 m",right,€400k,Serie B
+673126,Salvatore La Vardera,2002,Left-Back,"1,84 m",left,€75k,Serie B
+1056731,Antonio Barone,2006,Left-Back,,left,,Serie B
+331199,Tommaso D'Orazio,1990,Left Midfield,"1,85 m",left,€250k,Serie B
+342098,Idriz Voca,1997,Defensive Midfield,"1,81 m",right,€500k,Serie B
+565241,Alessandro Lai,2000,Goalkeeper,"1,86 m",right,€50k,Serie B
+403845,Mattia Viviani,2000,Defensive Midfield,"1,83 m",right,€600k,Serie B
+188436,Luigi Canotto,1994,Right Winger,"1,78 m",both,€400k,Serie B
+616162,Alessandro Fontanarosa,2003,Centre-Back,"1,85 m",left,€750k,Serie B
+882738,Daniele Occhiuto,2005,Centre-Back,,right,€125k,Serie B
+567472,Federico Zuccon,2003,Central Midfield,"1,88 m",right,€1.50m,Serie B
+301235,Giacomo Calò,1997,Defensive Midfield,"1,80 m",right,€750k,Serie B
+619326,Aldo Florenzi,2002,Central Midfield,"1,68 m",right,€1.00m,Serie B
+167685,Alessandro Micai,1993,Goalkeeper,"1,86 m",right,€400k,Serie B
+539582,Massimo Zilli,2002,Centre-Forward,"1,94 m",left,€400k,Serie B
+703767,Alessandro Arioli,2003,Centre-Forward,"1,86 m",right,€100k,Serie B
+347353,Leonardo Marson,1998,Goalkeeper,"1,94 m",left,€250k,Serie B
+374418,Mateusz Praszelik,2000,Attacking Midfield,"1,84 m",right,€700k,Serie B
+339982,Bright Gyamfi,1996,Right-Back,"1,78 m",right,€300k,Serie B
+816006,Baldovino Cimino,2004,Right-Back,"1,84 m",right,€300k,Serie B
+309746,Pietro Martino,1997,Right-Back,"1,78 m",right,€350k,Serie B
+337149,Andrea Meroni,1997,Centre-Back,"1,88 m",right,€600k,Serie B
+198128,Manuel Marras,1993,Right Winger,"1,68 m",left,€400k,Serie B
+337809,Simone Mazzocchi,1998,Centre-Forward,"1,82 m",right,€500k,Serie B
+821125,Jahce Novello,2004,Centre-Forward,"1,86 m",left,€50k,Serie B
+983995,Mirko Castelnuovo,2006,Goalkeeper,"1,88 m",left,,Serie B
+441611,Michael Venturi,1999,Centre-Back,"1,93 m",right,€650k,Serie B

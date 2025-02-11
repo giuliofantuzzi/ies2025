@@ -1,0 +1,763 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+598765,Brian Ocampo,1999,Left Winger,"1,72 m",right,€1.00m,La Liga
+1054922,Nico Njalla,2003,Right Winger,"1,74 m",left,€150k,La Liga
+1038950,Etta Eyong,2003,Centre-Forward,"1,81 m",right,€5.00m,La Liga
+212391,Roger Martí,1991,Centre-Forward,"1,79 m",right,€1.00m,La Liga
+1178748,Álex Morata,2006,Centre-Back,,,€150k,La Liga
+252667,Fali,1993,Centre-Back,"1,86 m",right,€1.40m,La Liga
+1027993,José Antonio de la Rosa,2004,Left Winger,"1,74 m",right,€300k,La Liga
+197135,Joseba Zaldua,1992,Right-Back,"1,74 m",right,€500k,La Liga
+563137,Robert Navarro,2002,Attacking Midfield,"1,78 m",right,€6.00m,La Liga
+278404,Martín Calderón,1999,Central Midfield,"1,83 m",left,€150k,La Liga
+706797,Victor Aznar,2002,Goalkeeper,"1,92 m",right,€100k,La Liga
+85383,Rubén Sobrino,1992,Centre-Forward,"1,85 m",right,€1.00m,La Liga
+254037,Iza Carcelén,1993,Right-Back,"1,70 m",right,€1.00m,La Liga
+89733,Álex Fernández,1992,Central Midfield,"1,83 m",right,€1.00m,La Liga
+396894,Maxi Gómez,1996,Centre-Forward,"1,86 m",right,€1.70m,La Liga
+490421,Momo Mbaye,1998,Centre-Back,"1,92 m",left,€200k,La Liga
+1032447,Julio Cabrera,2003,Left-Back,,,€150k,La Liga
+162027,David Gil,1994,Goalkeeper,"1,86 m",right,€700k,La Liga
+266795,Gonzalo Escalante,1993,Central Midfield,"1,82 m",right,€1.20m,La Liga
+286779,Jorge Meré,1997,Centre-Back,"1,82 m",right,€500k,La Liga
+307519,Fede San Emeterio,1997,Central Midfield,"1,76 m",right,€1.00m,La Liga
+422466,Javi Hernández,1998,Left-Back,"1,80 m",left,€2.50m,La Liga
+62945,Luis Hernández,1989,Centre-Back,"1,82 m",right,€200k,La Liga
+585068,Aiham Ousou,2000,Centre-Back,"1,86 m",right,€2.20m,La Liga
+979235,Moussa Diakité,2003,Central Midfield,"1,89 m",,€150k,La Liga
+927768,Lucas Pires,2001,Left-Back,"1,82 m",left,€2.00m,La Liga
+538810,Chris Ramos,1997,Centre-Forward,"1,90 m",right,€3.00m,La Liga
+315604,Diadié Samassékou,1996,Defensive Midfield,"1,77 m",right,€1.00m,La Liga
+882772,Álvaro Bastida,2004,Central Midfield,"1,79 m",right,€250k,La Liga
+126737,Juanmi,1993,Left Winger,"1,72 m",right,€4.00m,La Liga
+18644,Álvaro Negredo,1985,Centre-Forward,"1,86 m",left,€300k,La Liga
+542819,Milutin Osmajic,1999,Centre-Forward,"1,86 m",both,€2.00m,La Liga
+284342,Conan Ledesma,1993,Goalkeeper,"1,83 m",right,€4.50m,La Liga
+247250,Rubén Alcaraz,1991,Central Midfield,"1,80 m",right,€900k,La Liga
+211251,Darwin Machís,1993,Left Winger,"1,71 m",right,€1.20m,La Liga
+930096,Nando Almodóvar,2003,Goalkeeper,"1,92 m",,€50k,La Liga
+225462,José Mari,1987,Defensive Midfield,"1,82 m",right,-,La Liga
+834737,Adri Miranda,2003,Centre-Back,"1,83 m",left,€100k,La Liga
+1230202,Borja Vázquez,2005,Centre-Forward,,,€50k,La Liga
+495625,Víctor Chust,2000,Centre-Back,"1,84 m",both,€2.00m,La Liga
+277635,Rominigue Kouamé,1996,Central Midfield,"1,77 m",left,€2.00m,La Liga
+946276,Adrián Salguero,2003,Centre-Back,"1,83 m",right,€150k,La Liga
+256429,Sergi Guardiola,1991,Centre-Forward,"1,85 m",left,€600k,La Liga
+281755,Iván Alejo,1995,Right Winger,"1,86 m",right,€1.50m,La Liga
+149498,Gabriel Paulista,1990,Centre-Back,"1,85 m",right,€1.40m,La Liga
+623024,Jesús Vázquez,2003,Left-Back,"1,82 m",left,€4.00m,La Liga
+707279,Hugo González,2003,Right Winger,"1,77 m",right,€300k,La Liga
+251845,Sergi Canós,1997,Left Winger,"1,77 m",right,€1.50m,La Liga
+170472,Dimitri Foulquier,1993,Right-Back,"1,83 m",right,€2.00m,La Liga
+668212,Rubén Iranzo,2003,Centre-Back,"1,82 m",right,€300k,La Liga
+941883,Martín Tejón,2004,Attacking Midfield,"1,65 m",right,€500k,La Liga
+707274,César Tárrega,2002,Centre-Back,"1,94 m",right,€6.00m,La Liga
+221322,José Gayà,1995,Left-Back,"1,72 m",left,€15.00m,La Liga
+375382,André Almeida,2000,Attacking Midfield,"1,76 m",right,€9.00m,La Liga
+834764,Javi Guerra,2003,Central Midfield,"1,87 m",right,€20.00m,La Liga
+941867,Mario Dominguez,2004,Centre-Forward,"1,75 m",,€150k,La Liga
+646750,Cristhian Mosquera,2004,Centre-Back,"1,91 m",right,€30.00m,La Liga
+1009766,David Otorbi,2007,Right Winger,"1,80 m",right,€500k,La Liga
+980242,Ali Fadal,2004,Central Midfield,,,€100k,La Liga
+367466,Thierry Correia,1999,Right-Back,"1,76 m",right,€6.00m,La Liga
+573775,Hugo Duro,1999,Centre-Forward,"1,77 m",left,€12.00m,La Liga
+634105,Alberto Marí,2001,Centre-Forward,"1,83 m",right,€1.50m,La Liga
+328480,Pepelu,1998,Defensive Midfield,"1,86 m",right,€15.00m,La Liga
+502676,Giorgi Mamardashvili,2000,Goalkeeper,"1,97 m",left,€40.00m,La Liga
+227805,Jaume Doménech,1990,Goalkeeper,"1,85 m",right,€600k,La Liga
+895334,Yarek Gasiorowski,2005,Centre-Back,"1,92 m",left,€15.00m,La Liga
+495629,Hugo Guillamón,2000,Defensive Midfield,"1,78 m",right,€6.00m,La Liga
+398131,Cristian Rivero,1998,Goalkeeper,"1,88 m",right,€200k,La Liga
+346289,Mouctar Diakhaby,1996,Centre-Back,"1,92 m",right,€2.00m,La Liga
+617081,Diego López,2002,Right Winger,"1,72 m",right,€10.00m,La Liga
+741251,Vicent Abril,2005,Goalkeeper,"1,87 m",right,€100k,La Liga
+622992,Pablo Gozálbez,2001,Attacking Midfield,"1,71 m",right,€500k,La Liga
+710004,Peter Federico,2002,Right Winger,"1,80 m",left,€2.00m,La Liga
+221958,Roman Yaremchuk,1995,Centre-Forward,"1,91 m",right,€2.80m,La Liga
+1000135,Joselu Pérez,2004,Centre-Forward,"1,83 m",right,€100k,La Liga
+636119,Marco Camus,2001,Left Winger,"1,81 m",left,€250k,La Liga
+622988,Fran Pérez,2002,Right Winger,"1,76 m",right,€4.00m,La Liga
+377219,Selim Amallah,1996,Attacking Midfield,"1,85 m",right,€1.80m,La Liga
+646743,Javi Navarro,2004,Central Midfield,,,€100k,La Liga
+615350,Cenk Özkacar,2000,Centre-Back,"1,90 m",left,€1.80m,La Liga
+207834,Bono,1991,Goalkeeper,"1,95 m",left,€7.00m,La Liga
+303259,Dodi Lukébakio,1997,Right Winger,"1,87 m",left,€20.00m,La Liga
+730581,Loïc Badé,2000,Centre-Back,"1,91 m",right,€25.00m,La Liga
+676042,Juanlu Sánchez,2003,Right-Back,"1,86 m",right,€12.00m,La Liga
+569876,Xavi Sintes,2001,Central Midfield,"1,90 m",right,€200k,La Liga
+766552,Alberto Flores,2003,Goalkeeper,"1,87 m",left,€300k,La Liga
+189441,Lucas Ocampos,1994,Left Winger,"1,87 m",,€7.50m,La Liga
+111630,Erik Lamela,1992,Right Winger,"1,84 m",left,€1.50m,La Liga
+25557,Sergio Ramos,1986,Centre-Back,"1,84 m",right,€1.80m,La Liga
+125165,Jesús Corona,1993,Right Winger,"1,73 m",right,€2.50m,La Liga
+766723,Manu Bueno,2004,Central Midfield,"1,78 m",left,€1.50m,La Liga
+433049,Youssef En-Nesyri,1997,Centre-Forward,"1,88 m",left,€22.00m,La Liga
+225020,Mariano Díaz,1993,Centre-Forward,"1,80 m",right,€1.20m,La Liga
+569384,Lucien Agoumé,2002,Defensive Midfield,"1,85 m",right,€7.00m,La Liga
+439022,Marcão,1996,Centre-Back,"1,85 m",left,€4.00m,La Liga
+15956,Jesús Navas,1985,Right-Back,"1,70 m",right,-,La Liga
+711626,Darío Benavides,2003,Right-Back,"1,78 m",right,€250k,La Liga
+833884,Rafael Romero,2003,Goalkeeper,"1,90 m",left,-,La Liga
+214775,Óliver Torres,1994,Central Midfield,"1,75 m",right,€5.00m,La Liga
+718581,Lulo Dasilva,2002,Central Midfield,"1,89 m",right,€150k,La Liga
+344605,Boubakary Soumaré,1999,Defensive Midfield,"1,88 m",right,€14.00m,La Liga
+111961,Suso,1993,Right Winger,"1,77 m",left,€2.50m,La Liga
+74294,Nemanja Gudelj,1991,Defensive Midfield,"1,87 m",right,€3.50m,La Liga
+766583,Kike Salas,2002,Centre-Back,"1,88 m",left,€8.00m,La Liga
+177847,Adnan Januzaj,1995,Right Winger,"1,86 m",left,€1.50m,La Liga
+934420,Ibra Sow,2007,Centre-Forward,"1,84 m",right,€200k,La Liga
+361254,Rafa Mir,1997,Centre-Forward,"1,91 m",right,€800k,La Liga
+212723,Djibril Sow,1997,Central Midfield,"1,84 m",right,€7.50m,La Liga
+20005,Papu Gómez,1988,Left Winger,"1,67 m",right,-,La Liga
+1032280,Oso,2003,Left-Back,"1,83 m",left,€200k,La Liga
+402733,Gonzalo Montiel,1997,Right-Back,"1,75 m",right,€5.00m,La Liga
+51174,Fernando,1987,Defensive Midfield,"1,83 m",right,€1.00m,La Liga
+687609,Isaac Romero,2000,Centre-Forward,"1,84 m",left,€15.00m,La Liga
+73517,Ørjan Nyland,1990,Goalkeeper,"1,92 m",right,€1.00m,La Liga
+660735,Federico Gattoni,1999,Centre-Back,"1,83 m",right,€3.00m,La Liga
+94308,Marko Dmitrovic,1992,Goalkeeper,"1,89 m",left,€800k,La Liga
+501418,Adrià Pedrosa,1998,Left-Back,"1,72 m",left,€7.00m,La Liga
+888493,Alejo Veliz,2003,Centre-Forward,"1,86 m",right,€4.00m,La Liga
+32467,Ivan Rakitic,1988,Central Midfield,"1,84 m",right,€2.50m,La Liga
+767229,Diego Hormigo,2003,Left-Back,"1,82 m",left,€200k,La Liga
+935342,Alberto Collado,2005,Central Midfield,,right,€150k,La Liga
+263727,Joan Jordán,1994,Central Midfield,"1,85 m",right,€2.50m,La Liga
+916014,Isra Domínguez,2003,Left Winger,"1,75 m",right,€200k,La Liga
+607224,Hannibal,2003,Attacking Midfield,"1,83 m",right,€9.00m,La Liga
+538996,Tanguy Nianzou,2002,Centre-Back,"1,91 m",right,€3.00m,La Liga
+767255,Matías Árbol,2002,Goalkeeper,"1,84 m",,€100k,La Liga
+743387,Stanis Idumbo,2005,Attacking Midfield,"1,71 m",right,€2.50m,La Liga
+628926,Miguel Capitas,2001,Attacking Midfield,"1,75 m",right,€200k,La Liga
+60410,Marcos Acuña,1991,Left-Back,"1,72 m",left,€3.50m,La Liga
+634431,Beñat Turrientes,2002,Central Midfield,"1,81 m",right,€18.00m,La Liga
+670847,Mohamed-Ali Cho,2004,Right Winger,"1,82 m",left,€12.00m,La Liga
+423440,Martín Zubimendi,1999,Defensive Midfield,"1,81 m",right,€60.00m,La Liga
+188888,Sheraldo Becker,1995,Left Winger,"1,80 m",right,€6.00m,La Liga
+351809,Robin Le Normand,1996,Centre-Back,"1,87 m",right,€40.00m,La Liga
+405398,Takefusa Kubo,2001,Right Winger,"1,73 m",left,€40.00m,La Liga
+351478,Mikel Oyarzabal,1997,Centre-Forward,"1,81 m",left,€35.00m,La Liga
+580560,Jon Pacheco,2001,Centre-Back,"1,84 m",left,€10.00m,La Liga
+229804,Aritz Elustondo,1994,Centre-Back,"1,80 m",right,€4.00m,La Liga
+355628,Igor Zubeldia,1997,Centre-Back,"1,81 m",right,€22.00m,La Liga
+625651,Urko González de Zarate,2001,Defensive Midfield,"1,89 m",right,€1.20m,La Liga
+198008,André Silva,1995,Centre-Forward,"1,86 m",right,€5.00m,La Liga
+280730,Álvaro Odriozola,1995,Right-Back,"1,76 m",right,€1.20m,La Liga
+907813,Pablo Marín,2003,Attacking Midfield,"1,78 m",right,€1.80m,La Liga
+249513,Diego Rico,1993,Left-Back,"1,83 m",left,€1.30m,La Liga
+289272,Martín Merquelanz,1995,Left Winger,"1,76 m",left,€600k,La Liga
+216464,Carlos Fernández,1996,Centre-Forward,"1,85 m",left,€1.50m,La Liga
+561702,Gaizka Ayesa,2001,Goalkeeper,"1,85 m",right,€300k,La Liga
+309110,Brais Méndez,1997,Attacking Midfield,"1,84 m",left,€35.00m,La Liga
+625655,Jon Magunazelaia,2001,Attacking Midfield,"1,80 m",right,€1.00m,La Liga
+711377,Alberto Dadie,2002,Right Winger,"1,70 m",right,€200k,La Liga
+517842,Aihen Muñoz,1997,Left-Back,"1,75 m",left,€6.00m,La Liga
+300716,Kieran Tierney,1997,Left-Back,"1,80 m",left,€10.00m,La Liga
+1055860,Iñaki Rupérez,2003,Right-Back,,,€250k,La Liga
+434990,Álex Sola,1999,Right Winger,"1,78 m",right,€3.00m,La Liga
+337715,Umar Sadiq,1997,Centre-Forward,"1,91 m",right,€5.00m,La Liga
+1018938,Jon Martín,2006,Centre-Back,"1,87 m",right,€2.00m,La Liga
+555143,Arsen Zakharyan,2003,Attacking Midfield,"1,83 m",right,€18.00m,La Liga
+661145,Jon Aramburu,2002,Right-Back,"1,76 m",right,€12.00m,La Liga
+581113,Bryan Fiabema,2003,Centre-Forward,"1,83 m",right,€300k,La Liga
+711382,Jon Karrikaburu,2002,Centre-Forward,"1,83 m",right,€2.50m,La Liga
+212862,Álex Remiro,1995,Goalkeeper,"1,91 m",right,€25.00m,La Liga
+448628,Javi Galán,1994,Left-Back,"1,72 m",left,€4.00m,La Liga
+297070,Hamari Traoré,1992,Right-Back,"1,75 m",right,€3.00m,La Liga
+625660,Jon Ander Olasagasti,2000,Central Midfield,"1,76 m",left,€1.20m,La Liga
+616369,Ander Barrenetxea,2001,Left Winger,"1,75 m",right,€20.00m,La Liga
+625657,Unai Marrero,2001,Goalkeeper,"1,89 m",right,€300k,La Liga
+668313,Aitor Fraga,2003,Goalkeeper,,,€300k,La Liga
+338424,Mikel Merino,1996,Central Midfield,"1,89 m",left,€45.00m,La Liga
+1036451,Álvaro Killane,2004,Goalkeeper,"1,86 m",right,,La Liga
+282421,Javi Muñoz,1995,Central Midfield,"1,77 m",right,€3.00m,La Liga
+215099,Daley Sinkgraven,1995,Left-Back,"1,79 m",left,€700k,La Liga
+203516,Nuke Mfulu,1994,Defensive Midfield,"1,83 m",right,€700k,La Liga
+1210422,Aboubacar Bassinga,2005,Central Midfield,,left,€100k,La Liga
+749978,Ale Gorrin,2002,Goalkeeper,,right,,La Liga
+581781,Enzo Loiodice,2000,Central Midfield,"1,77 m",left,€2.00m,La Liga
+531062,Fabio González,1997,Central Midfield,"1,76 m",right,€500k,La Liga
+940462,Pau Ferrer,2003,Centre-Forward,,left,€150k,La Liga
+513970,Julián Araujo,2001,Right-Back,"1,76 m",right,€10.00m,La Liga
+588426,Saúl Coco,1999,Centre-Back,"1,87 m",right,€14.00m,La Liga
+603940,Marvin Park,2000,Right-Back,"1,77 m",right,€2.00m,La Liga
+237617,Cristian Herrera,1991,Centre-Forward,"1,82 m",both,€300k,La Liga
+153238,Jonathan Viera,1989,Attacking Midfield,"1,71 m",right,€700k,La Liga
+913955,Yadam Santana,2002,Attacking Midfield,,right,-,La Liga
+282672,Benito Ramírez,1995,Left Winger,"1,79 m",left,€800k,La Liga
+566574,Kirian Rodríguez,1996,Attacking Midfield,"1,78 m",right,€12.00m,La Liga
+120095,José Campaña,1993,Central Midfield,"1,79 m",right,€1.30m,La Liga
+617060,Mika Mármol,2001,Centre-Back,"1,81 m",left,€12.00m,La Liga
+678406,Sergi Cardona,1999,Left-Back,"1,86 m",both,€7.00m,La Liga
+355689,Sory Kaba,1995,Centre-Forward,"1,91 m",right,€1.00m,La Liga
+1146029,Juanma Herzog,2004,Centre-Back,"1,86 m",right,€1.00m,La Liga
+510396,Alex Suárez,1993,Centre-Back,"1,80 m",right,€1.00m,La Liga
+668547,Máximo Perrone,2003,Defensive Midfield,"1,77 m",left,€9.00m,La Liga
+1011316,Gabriel Palmero,2002,Left-Back,,,€50k,La Liga
+733576,Alberto Moleiro,2003,Attacking Midfield,"1,71 m",right,€25.00m,La Liga
+1019408,Iñaki González,2004,Central Midfield,"1,83 m",right,€100k,La Liga
+534379,Pejiño,1996,Left Winger,"1,78 m",left,€1.00m,La Liga
+443222,Marc Cardona,1995,Centre-Forward,"1,82 m",right,€1.20m,La Liga
+390823,Eric Curbelo,1994,Centre-Back,"1,80 m",right,€800k,La Liga
+417913,Álvaro Valles,1997,Goalkeeper,"1,91 m",right,€3.00m,La Liga
+199369,Sandro Ramírez,1995,Centre-Forward,"1,74 m",right,€2.50m,La Liga
+284430,Aarón Escandell,1995,Goalkeeper,"1,84 m",right,€1.00m,La Liga
+223725,Munir El Haddadi,1995,Right Winger,"1,77 m",left,€2.00m,La Liga
+230222,Álvaro Lemos,1993,Right-Back,"1,77 m",right,€700k,La Liga
+710677,Iker Muñoz,2002,Defensive Midfield,"1,80 m",right,€3.00m,La Liga
+634117,Pablo Valencia,2001,Goalkeeper,"1,88 m",,€200k,La Liga
+175449,Moi Gómez,1994,Left Winger,"1,76 m",right,€3.00m,La Liga
+262939,Johan Mojica,1992,Left-Back,"1,85 m",left,€2.20m,La Liga
+213670,Lucas Torró,1994,Defensive Midfield,"1,90 m",right,€3.50m,La Liga
+213260,Rubén García,1993,Right Winger,"1,72 m",left,€2.00m,La Liga
+631002,Raúl García,2000,Centre-Forward,"1,92 m",right,€3.50m,La Liga
+167721,Chimy Ávila,1994,Centre-Forward,"1,72 m",right,€2.80m,La Liga
+555500,Jorge Herrando,2001,Centre-Back,"1,92 m",left,€4.00m,La Liga
+552425,Jon Moncayola,1998,Central Midfield,"1,82 m",right,€7.00m,La Liga
+238868,Rubén Peña,1991,Right-Back,"1,70 m",right,€1.80m,La Liga
+634125,Xabi Huarte,2001,Attacking Midfield,"1,72 m",right,€250k,La Liga
+785353,Pablo Ibáñez,1998,Central Midfield,"1,79 m",right,€2.30m,La Liga
+488626,Jesús Areso,1999,Right-Back,"1,82 m",right,€8.00m,La Liga
+1038512,Asier Osambela,2004,Attacking Midfield,"1,86 m",right,€500k,La Liga
+197122,Unai García,1992,Centre-Back,"1,86 m",right,€1.00m,La Liga
+890817,Dimitrios Stamatakis,2003,Goalkeeper,"1,91 m",both,€200k,La Liga
+364603,José Manuel Arnáiz,1995,Left Winger,"1,73 m",right,€1.80m,La Liga
+298589,David García,1994,Centre-Back,"1,86 m",both,€8.00m,La Liga
+248738,Sergio Herrera,1993,Goalkeeper,"1,92 m",right,€4.00m,La Liga
+1065442,Iñigo Arguibide,2005,Right Winger,"1,78 m",right,€150k,La Liga
+46413,Ante Budimir,1991,Centre-Forward,"1,90 m",left,€5.00m,La Liga
+169497,Juan Cruz,1992,Left-Back,"1,82 m",left,€1.80m,La Liga
+471474,Javi Martínez,1999,Attacking Midfield,"1,81 m",right,€1.00m,La Liga
+95641,Darko Brasanac,1992,Central Midfield,"1,78 m",right,€1.20m,La Liga
+705808,Max Svensson,2001,Centre-Forward,"1,82 m",right,€500k,La Liga
+298575,Kike Barja,1997,Right Winger,"1,79 m",right,€1.80m,La Liga
+118997,Aitor Fernández,1991,Goalkeeper,"1,82 m",right,€1.50m,La Liga
+216870,Nacho Vidal,1995,Right-Back,"1,80 m",right,€1.50m,La Liga
+449796,Alejandro Catena,1994,Centre-Back,"1,94 m",right,€4.00m,La Liga
+717957,Jorge Moreno,2001,Centre-Back,"1,84 m",right,€500k,La Liga
+634131,Aimar Oroz,2001,Attacking Midfield,"1,77 m",right,€15.00m,La Liga
+1255616,Alberto Risco,2005,Attacking Midfield,,,€200k,La Liga
+257376,Domingos Duarte,1995,Centre-Back,"1,92 m",right,€800k,La Liga
+623025,Sergio Gimeno,2001,Centre-Back,,,-,La Liga
+617074,Ilaix Moriba,2003,Central Midfield,"1,85 m",right,€4.00m,La Liga
+1184137,Yassin Tallal,2005,Left Winger,"1,73 m",right,€100k,La Liga
+1130318,Djordjije Medenica,2006,Goalkeeper,,,,La Liga
+1000136,Gorka Rivera,2004,Left-Back,,left,€100k,La Liga
+251106,Enes Ünal,1997,Centre-Forward,"1,87 m",right,€13.00m,La Liga
+143029,Stefan Mitrovic,1990,Centre-Back,"1,89 m",right,€1.00m,La Liga
+281989,Luis Milla,1994,Central Midfield,"1,75 m",right,€3.50m,La Liga
+532826,Mason Greenwood,2001,Right Winger,"1,81 m",both,€35.00m,La Liga
+623521,Juanmi Latasa,2001,Centre-Forward,"1,92 m",left,€2.50m,La Liga
+908621,Nabil Aberdin,2002,Centre-Back,"1,92 m",right,€800k,La Liga
+737138,Facu Esnáider,2001,Central Midfield,"1,84 m",right,€100k,La Liga
+390688,Juan Iglesias,1998,Right-Back,"1,87 m",right,€3.50m,La Liga
+227961,Jaime Mata,1988,Centre-Forward,"1,86 m",right,€800k,La Liga
+537763,Jordi Martín,2001,Left-Back,"1,76 m",left,€800k,La Liga
+1135452,Jorge Benito,2006,Goalkeeper,,,€25k,La Liga
+76746,Damián Suárez,1988,Right-Back,"1,73 m",right,€150k,La Liga
+284884,Óscar Rodríguez,1998,Attacking Midfield,"1,74 m",right,€2.50m,La Liga
+732096,Santi García,2001,Attacking Midfield,"1,84 m",right,€600k,La Liga
+1041934,Jeremy Jorge,2003,Left Winger,,right,€200k,La Liga
+577486,Gastón Álvarez,2000,Centre-Back,"1,84 m",left,€10.00m,La Liga
+268506,Fabrizio Angileri,1994,Left-Back,"1,85 m",left,€700k,La Liga
+226012,David Soria,1993,Goalkeeper,"1,92 m",right,€4.00m,La Liga
+273152,Nemanja Maksimovic,1995,Central Midfield,"1,89 m",right,€5.00m,La Liga
+438682,Daniel Fuzato,1997,Goalkeeper,"1,90 m",right,€900k,La Liga
+1158757,Alejandro Herranz,2004,Left-Back,"1,88 m",left,€25k,La Liga
+841121,John Patrick,2003,Central Midfield,"1,92 m",right,€200k,La Liga
+353032,Omar Alderete,1996,Centre-Back,"1,88 m",left,€5.00m,La Liga
+941869,Yellu Santiago,2004,Central Midfield,"1,92 m",right,€1.00m,La Liga
+131275,Choco Lozano,1993,Centre-Forward,"1,83 m",right,€1.20m,La Liga
+221150,Djené,1991,Centre-Back,"1,78 m",right,€2.00m,La Liga
+290249,Mauro Arambarri,1995,Central Midfield,"1,75 m",right,€5.00m,La Liga
+711625,José Ángel Carmona,2002,Right-Back,"1,84 m",right,€10.00m,La Liga
+284854,Carles Aleñá,1998,Central Midfield,"1,80 m",left,€2.50m,La Liga
+99353,Portu,1992,Right Winger,"1,67 m",right,€2.50m,La Liga
+298976,Borja Mayoral,1997,Centre-Forward,"1,82 m",right,€9.00m,La Liga
+891091,Diego López,2001,Attacking Midfield,,,€50k,La Liga
+433257,Arvin Appiah,2001,Right Winger,"1,77 m",left,€400k,La Liga
+490223,Ibrahima Koné,1999,Centre-Forward,"1,90 m",left,€2.30m,La Liga
+367464,Luís Maximiano,1999,Goalkeeper,"1,90 m",both,€4.00m,La Liga
+1013774,Marciano Sanca,2004,Centre-Forward,"1,82 m",right,€300k,La Liga
+891310,Rachad Fettal,2005,Centre-Forward,"1,84 m",left,€500k,La Liga
+457221,Lucas Robertone,1997,Central Midfield,"1,69 m",right,€6.00m,La Liga
+221899,Léo Baptistão,1992,Centre-Forward,"1,83 m",right,€1.00m,La Liga
+339501,Aleksandar Radovanovic,1993,Centre-Back,"1,90 m",left,€600k,La Liga
+743589,Kaiky,2004,Centre-Back,"1,82 m",right,€1.50m,La Liga
+518644,Largie Ramazani,2001,Left Winger,"1,68 m",right,€7.50m,La Liga
+341272,Álex Pozo,1999,Right-Back,"1,72 m",right,€1.50m,La Liga
+424784,Luis Suárez,1997,Centre-Forward,"1,81 m",right,€5.00m,La Liga
+288318,Adrián Embarba,1992,Right Winger,"1,73 m",right,€1.50m,La Liga
+81997,Fernando Martínez,1990,Goalkeeper,"1,83 m",right,€400k,La Liga
+574772,Lázaro,2002,Left Winger,"1,81 m",right,€2.50m,La Liga
+387687,César Montes,1997,Centre-Back,"1,95 m",right,€5.00m,La Liga
+536030,Arnau Puigmal,2001,Central Midfield,"1,73 m",right,€1.50m,La Liga
+401624,Edgar González,1997,Centre-Back,"1,92 m",right,€2.00m,La Liga
+747197,Bruno Iribarne,2004,Goalkeeper,"1,91 m",right,€100k,La Liga
+355627,Sergio Akieme,1997,Left-Back,"1,75 m",left,€7.00m,La Liga
+1064116,Paco Sanz,2004,Centre-Back,"1,88 m",right,€25k,La Liga
+630523,Martin Svidersky,2002,Central Midfield,"1,81 m",left,€200k,La Liga
+222805,Srdjan Babic,1996,Centre-Back,"1,94 m",left,€6.00m,La Liga
+945760,Carlos Ballestero,2004,Right-Back,"1,78 m",both,€25k,La Liga
+769063,Luka Romero,2004,Right Winger,"1,69 m",left,€3.50m,La Liga
+162056,Gonzalo Melero,1994,Central Midfield,"1,83 m",right,€1.20m,La Liga
+442552,Houboulang Mendes,1998,Right-Back,"1,85 m",right,€800k,La Liga
+718178,Miguel Peña,2001,Right-Back,"1,79 m",right,€50k,La Liga
+423443,Álex Centelles,1999,Left-Back,"1,85 m",left,€1.40m,La Liga
+1064121,Marcos Peña,2005,Central Midfield,"1,80 m",right,€1.00m,La Liga
+537762,Sergio Arribas,2001,Attacking Midfield,"1,74 m",left,€10.00m,La Liga
+59349,Diego Mariño,1990,Goalkeeper,"1,85 m",right,€300k,La Liga
+631472,Bruno Langa,1997,Left-Back,"1,78 m",left,€1.50m,La Liga
+696506,Gui Guedes,2002,Central Midfield,"1,84 m",right,€600k,La Liga
+333361,Chumi,1999,Centre-Back,"1,83 m",right,€1.80m,La Liga
+442805,Iddrisu Baba,1996,Central Midfield,"1,82 m",right,€1.80m,La Liga
+649033,Dion Lopy,2002,Defensive Midfield,"1,84 m",right,€6.00m,La Liga
+845568,Marko Milovanovic,2003,Centre-Forward,"1,97 m",right,€600k,La Liga
+844637,Marc Pubill,2003,Right-Back,"1,90 m",right,€4.00m,La Liga
+54534,Agustín Marchesín,1988,Goalkeeper,"1,88 m",right,€700k,La Liga
+625882,Javi Domínguez,2001,Centre-Back,"1,95 m",right,€150k,La Liga
+271455,Mihailo Ristic,1995,Left-Back,"1,80 m",left,€900k,La Liga
+181547,Gonçalo Paciência,1994,Centre-Forward,"1,84 m",right,€1.20m,La Liga
+634427,Miguel Rodríguez,2003,Right Winger,"1,79 m",left,€2.00m,La Liga
+581640,Coke Carrillo,2002,Goalkeeper,"1,88 m",right,€200k,La Liga
+623524,Carlos Dotor,2001,Central Midfield,"1,80 m",right,€1.20m,La Liga
+892929,Hugo Álvarez,2003,Left Winger,"1,76 m",right,€7.50m,La Liga
+341110,Franco Cervi,1994,Left Winger,"1,66 m",left,€900k,La Liga
+338285,Unai Núñez,1997,Centre-Back,"1,86 m",right,€4.00m,La Liga
+1076815,Javi Rodríguez,2003,Centre-Back,"1,78 m",right,€6.00m,La Liga
+221315,Kevin Vázquez,1993,Right-Back,"1,75 m",right,€800k,La Liga
+892221,Hugo Sotelo,2003,Central Midfield,"1,80 m",right,€5.00m,La Liga
+523318,Anastasios Douvikas,1999,Centre-Forward,"1,86 m",right,€5.00m,La Liga
+282810,Carles Pérez,1998,Right Winger,"1,73 m",left,€3.00m,La Liga
+577869,Ruly García,2000,Goalkeeper,"1,88 m",left,€250k,La Liga
+72047,Iago Aspas,1987,Centre-Forward,"1,76 m",left,€2.50m,La Liga
+358250,Joseph Aidoo,1995,Centre-Back,"1,81 m",right,€2.00m,La Liga
+162029,Javier Manquillo,1994,Right-Back,"1,78 m",right,€1.80m,La Liga
+715628,Damián Rodríguez,2003,Defensive Midfield,"1,80 m",left,€3.00m,La Liga
+297194,Iván Villar,1997,Goalkeeper,"1,86 m",right,€1.20m,La Liga
+636093,Carlos Domínguez,2001,Centre-Back,"1,87 m",left,€2.50m,La Liga
+331505,Óscar Mingueza,1999,Right-Back,"1,84 m",right,€20.00m,La Liga
+699704,Gabri Veiga,2002,Central Midfield,"1,85 m",right,€23.00m,La Liga
+258987,Carl Starfelt,1995,Centre-Back,"1,87 m",right,€6.00m,La Liga
+646741,César Fernández,2004,Goalkeeper,"1,81 m",right,€200k,La Liga
+292818,Jonathan Bamba,1996,Left Winger,"1,75 m",right,€4.00m,La Liga
+423444,Fran Beltrán,1999,Central Midfield,"1,65 m",right,€6.00m,La Liga
+872184,Tadeo Allende,1999,Right Winger,"1,83 m",right,€2.00m,La Liga
+652331,Javi Rueda,2002,Right-Back,"1,77 m",right,€400k,La Liga
+429983,Jørgen Strand Larsen,2000,Centre-Forward,"1,93 m",right,€27.00m,La Liga
+277137,Renato Tapia,1995,Defensive Midfield,"1,85 m",right,€5.00m,La Liga
+764859,Williot Swedberg,2004,Left Winger,"1,87 m",right,€5.00m,La Liga
+586736,Joel López,2002,Left-Back,"1,80 m",left,€200k,La Liga
+315762,Luca de la Torre,1998,Central Midfield,"1,77 m",right,€1.50m,La Liga
+939374,Yoel Lago,2004,Centre-Back,"1,85 m",right,€200k,La Liga
+618809,Manu Sánchez,2000,Left-Back,"1,71 m",left,€6.00m,La Liga
+64399,Vicente Guaita,1987,Goalkeeper,"1,90 m",right,€800k,La Liga
+366948,Jailson,1995,Defensive Midfield,"1,87 m",right,€1.50m,La Liga
+404839,Andriy Lunin,1999,Goalkeeper,"1,91 m",right,€20.00m,La Liga
+221316,Lucas Vázquez,1991,Right-Back,"1,73 m",right,€3.50m,La Liga
+935230,Gonzalo García,2004,Right Winger,"1,82 m",,€2.00m,La Liga
+108390,Thibaut Courtois,1992,Goalkeeper,"2,00 m",left,€25.00m,La Liga
+58884,Nacho Fernández,1990,Centre-Back,"1,80 m",right,€2.50m,La Liga
+652330,Álvaro Carrillo,2002,Centre-Back,"1,82 m",right,€400k,La Liga
+337917,Théo Zidane,2002,Central Midfield,"1,96 m",right,€300k,La Liga
+948294,Nico Paz,2004,Attacking Midfield,"1,86 m",left,€20.00m,La Liga
+709997,Lorenzo Aguado,2002,Right-Back,"1,77 m",right,€100k,La Liga
+926850,Diego Piñeiro,2004,Goalkeeper,"1,85 m",right,€50k,La Liga
+27992,Luka Modric,1985,Central Midfield,"1,72 m",right,€5.00m,La Liga
+741289,Youssef Enríquez,2005,Left-Back,"1,70 m",right,€200k,La Liga
+81999,Joselu,1990,Centre-Forward,"1,91 m",right,€4.50m,La Liga
+935245,Raúl Asencio,2003,Centre-Back,"1,84 m",right,€7.50m,La Liga
+646745,Edgar Pujol,2004,Centre-Back,"1,77 m",right,€200k,La Liga
+314678,Brahim Díaz,1999,Right Winger,"1,70 m",both,€35.00m,La Liga
+86202,Antonio Rüdiger,1993,Centre-Back,"1,90 m",right,€24.00m,La Liga
+948273,Mario Martín,2004,Defensive Midfield,"1,77 m",right,€800k,La Liga
+31909,Toni Kroos,1990,Central Midfield,"1,83 m",right,-,La Liga
+371998,Vinicius Junior,2000,Left Winger,"1,76 m",right,€200.00m,La Liga
+743587,Vinícius Tobias,2004,Right-Back,"1,77 m",right,€3.00m,La Liga
+251896,Jesús Vallejo,1997,Centre-Back,"1,84 m",right,€1.00m,La Liga
+138927,Daniel Carvajal,1992,Right-Back,"1,73 m",right,€10.00m,La Liga
+369081,Federico Valverde,1998,Central Midfield,"1,82 m",right,€130.00m,La Liga
+861410,Arda Güler,2005,Right Winger,"1,75 m",left,€45.00m,La Liga
+1055220,Fran González,2005,Goalkeeper,"1,99 m",right,€200k,La Liga
+401530,Éder Militão,1998,Centre-Back,"1,86 m",right,€40.00m,La Liga
+568154,Lucas Cañizares,2002,Goalkeeper,"1,88 m",right,€400k,La Liga
+319745,Dani Ceballos,1996,Central Midfield,"1,79 m",right,€4.00m,La Liga
+581678,Jude Bellingham,2003,Attacking Midfield,"1,86 m",right,€180.00m,La Liga
+59016,David Alaba,1992,Centre-Back,"1,80 m",left,€10.00m,La Liga
+341264,Fran García,1999,Left-Back,"1,69 m",left,€15.00m,La Liga
+413112,Aurélien Tchouaméni,2000,Defensive Midfield,"1,88 m",right,€80.00m,La Liga
+412363,Rodrygo,2001,Right Winger,"1,74 m",right,€100.00m,La Liga
+192279,Kepa Arrizabalaga,1994,Goalkeeper,"1,88 m",right,€11.00m,La Liga
+717952,Mario de Luis,2002,Goalkeeper,"1,85 m",left,€200k,La Liga
+971570,Endrick,2006,Centre-Forward,"1,73 m",left,€40.00m,La Liga
+291417,Ferland Mendy,1995,Left-Back,"1,80 m",left,€18.00m,La Liga
+948278,Jacobo Ramón,2005,Centre-Back,"1,96 m",,€200k,La Liga
+342229,Kylian Mbappé,1998,Centre-Forward,"1,78 m",right,€160.00m,La Liga
+640428,Eduardo Camavinga,2002,Central Midfield,"1,82 m",left,€80.00m,La Liga
+948275,Álvaro Rodríguez,2004,Centre-Forward,"1,93 m",left,€3.00m,La Liga
+438001,Santiago Bueno,1998,Centre-Back,"1,90 m",right,€8.00m,La Liga
+195488,Paulo Gazzaniga,1992,Goalkeeper,"1,95 m",right,€3.50m,La Liga
+466794,Eric García,2001,Centre-Back,"1,82 m",right,€18.00m,La Liga
+1025582,Juan Arango,2006,Left Winger,"1,75 m",right,,La Liga
+826224,Arnau Martínez,2003,Right-Back,"1,82 m",right,€10.00m,La Liga
+923915,Antal Yaakobishvili,2004,Centre-Back,"1,93 m",both,,La Liga
+341278,Iván Martín,1999,Attacking Midfield,"1,78 m",left,€10.00m,La Liga
+785967,Ibrahima Kébé,2000,Defensive Midfield,"1,86 m",right,€600k,La Liga
+378293,Yangel Herrera,1998,Central Midfield,"1,84 m",right,€20.00m,La Liga
+115333,Juanpe,1991,Centre-Back,"1,90 m",right,€900k,La Liga
+261504,Aleix García,1997,Central Midfield,"1,73 m",right,€20.00m,La Liga
+946269,Alex Almansa,2003,Left Winger,"1,86 m",left,€150k,La Liga
+129444,David López,1989,Centre-Back,"1,85 m",right,€2.00m,La Liga
+1061656,Iker Almena,2004,Right Winger,"1,77 m",left,€1.00m,La Liga
+1061665,Jastin Garcia,2004,Left Winger,"1,80 m",right,,La Liga
+787154,Eric Monjonell,2001,Centre-Back,"1,87 m",right,€200k,La Liga
+64598,Bernardo Espinosa,1989,Centre-Back,"1,92 m",right,€200k,La Liga
+627228,Yan Couto,2002,Right-Back,"1,68 m",right,€25.00m,La Liga
+527350,Manu Vallejo,1997,Second Striker,"1,67 m",right,€600k,La Liga
+67808,Borja García,1990,Attacking Midfield,"1,75 m",right,€500k,La Liga
+1000626,Enric García,2006,Central Midfield,,,,La Liga
+623526,Toni Fuidias,2001,Goalkeeper,"1,95 m",right,€300k,La Liga
+343537,Artem Dovbyk,1997,Centre-Forward,"1,89 m",left,€30.00m,La Liga
+331496,Valery Fernández,1999,Right Winger,"1,82 m",right,€2.50m,La Liga
+743591,Savinho,2004,Right Winger,"1,76 m",left,€55.00m,La Liga
+906025,Ricard Artero,2003,Attacking Midfield,"1,81 m",right,-,La Liga
+264372,Viktor Tsygankov,1997,Right Winger,"1,78 m",left,€22.00m,La Liga
+720038,Pablo Torre,2003,Attacking Midfield,"1,73 m",right,€7.50m,La Liga
+12282,Daley Blind,1990,Centre-Back,"1,80 m",left,€2.00m,La Liga
+525299,Miguel Gutiérrez,2001,Left-Back,"1,80 m",left,€25.00m,La Liga
+964264,Carles Garrido,2004,Centre-Forward,"1,83 m",both,-,La Liga
+120705,Juan Carlos,1988,Goalkeeper,"1,87 m",,€100k,La Liga
+742521,Jhon Solís,2004,Central Midfield,"1,86 m",right,€3.50m,La Liga
+337066,Toni Villa,1995,Left Winger,"1,72 m",right,€1.20m,La Liga
+59323,Cristhian Stuani,1986,Centre-Forward,"1,84 m",right,€1.20m,La Liga
+1061660,Selvi Clua,2005,Central Midfield,"1,89 m",left,,La Liga
+646739,Ángel Alarcón,2004,Left Winger,"1,75 m",right,€800k,La Liga
+709966,Aleix Garrido,2004,Central Midfield,"1,70 m",right,€500k,La Liga
+636688,Alejandro Balde,2003,Left-Back,"1,75 m",left,€50.00m,La Liga
+326330,Frenkie de Jong,1997,Central Midfield,"1,81 m",right,€45.00m,La Liga
+646740,Gavi,2004,Central Midfield,"1,73 m",right,€80.00m,La Liga
+112515,Marcos Alonso,1990,Left-Back,"1,88 m",left,€1.80m,La Liga
+938144,Diego Kochen,2006,Goalkeeper,"1,88 m",right,€300k,La Liga
+937955,Héctor Fort,2006,Right-Back,"1,85 m",right,€10.00m,La Liga
+707572,Pau Víctor,2001,Centre-Forward,"1,84 m",right,€5.00m,La Liga
+411295,Raphinha,1996,Left Winger,"1,76 m",left,€80.00m,La Liga
+466810,Ansu Fati,2002,Left Winger,"1,78 m",right,€10.00m,La Liga
+970633,Unai Hernández,2004,Central Midfield,"1,71 m",right,€1.00m,La Liga
+398184,Ferran Torres,2000,Right Winger,"1,84 m",right,€28.00m,La Liga
+683840,Pedri,2002,Central Midfield,"1,74 m",right,€100.00m,La Liga
+962110,Pau Cubarsí,2007,Centre-Back,"1,84 m",right,€70.00m,La Liga
+943837,Vitor Roque,2005,Centre-Forward,"1,74 m",right,€20.00m,La Liga
+182712,João Cancelo,1994,Right-Back,"1,82 m",right,€18.00m,La Liga
+411975,Jules Koundé,1998,Right-Back,"1,80 m",right,€60.00m,La Liga
+480267,Ronald Araujo,1999,Centre-Back,"1,92 m",right,€55.00m,La Liga
+74857,Marc-André ter Stegen,1992,Goalkeeper,"1,87 m",right,€15.00m,La Liga
+462250,João Félix,1999,Second Striker,"1,81 m",right,€30.00m,La Liga
+53622,İlkay Gündoğan,1990,Central Midfield,"1,80 m",right,€10.00m,La Liga
+724520,Abde Ezzalzouli,2001,Left Winger,"1,77 m",right,€15.00m,La Liga
+66100,Oriol Romeu,1991,Defensive Midfield,"1,83 m",right,€1.80m,La Liga
+938158,Marc Guiu,2006,Centre-Forward,"1,87 m",right,€8.00m,La Liga
+283170,Iñaki Peña,1999,Goalkeeper,"1,84 m",right,€10.00m,La Liga
+196948,Andreas Christensen,1996,Centre-Back,"1,87 m",right,€20.00m,La Liga
+938145,Áron Yaakobishvili,2006,Goalkeeper,"1,85 m",both,€100k,La Liga
+158863,Iñigo Martínez,1991,Centre-Back,"1,82 m",left,€5.00m,La Liga
+636695,Marc Casadó,2003,Defensive Midfield,"1,72 m",right,€30.00m,La Liga
+85370,Sergi Roberto,1992,Central Midfield,"1,78 m",right,€2.00m,La Liga
+937958,Lamine Yamal,2007,Right Winger,"1,80 m",left,€180.00m,La Liga
+38253,Robert Lewandowski,1988,Centre-Forward,"1,85 m",right,€15.00m,La Liga
+709955,Ander Astralaga,2004,Goalkeeper,"1,90 m",right,€1.00m,La Liga
+937956,Pau Prim,2006,Defensive Midfield,"1,79 m",right,€500k,La Liga
+666974,Mikayil Faye,2004,Centre-Back,"1,83 m",left,€10.00m,La Liga
+636703,Fermín López,2003,Central Midfield,"1,74 m",right,€50.00m,La Liga
+1034853,Nobel Mendy,2004,Centre-Back,"1,87 m",left,€1.00m,La Liga
+457931,Luiz Felipe,1997,Centre-Back,"1,87 m",right,€8.00m,La Liga
+122155,Willian José,1991,Centre-Forward,"1,86 m",right,€2.00m,La Liga
+100131,William Carvalho,1992,Defensive Midfield,"1,87 m",right,€2.00m,La Liga
+466801,Sergi Altimira,2001,Central Midfield,"1,88 m",right,€7.50m,La Liga
+127048,Cédric Bakambu,1991,Centre-Forward,"1,82 m",right,€1.80m,La Liga
+234811,Rui Silva,1994,Goalkeeper,"1,91 m",left,€5.00m,La Liga
+800175,Luiz Henrique,2001,Right Winger,"1,82 m",left,€22.00m,La Liga
+20506,Andrés Guardado,1986,Central Midfield,"1,67 m",left,€600k,La Liga
+378139,Aitor Ruibal,1996,Right-Back,"1,76 m",right,€3.50m,La Liga
+342385,Guido Rodríguez,1994,Defensive Midfield,"1,85 m",right,€15.00m,La Liga
+961944,Ginés Sorroche,2004,Central Midfield,"1,80 m",,€250k,La Liga
+1061277,Germán García,2004,Goalkeeper,,,€50k,La Liga
+646402,Abner,2000,Left-Back,"1,81 m",left,€9.00m,La Liga
+585700,Juan Cruz,2000,Left Winger,"1,80 m",left,€4.00m,La Liga
+135492,Youssouf Sabaly,1993,Right-Back,"1,73 m",right,€2.00m,La Liga
+689505,Johnny Cardoso,2001,Defensive Midfield,"1,86 m",right,€20.00m,La Liga
+689637,Chadi Riad,2003,Centre-Back,"1,87 m",left,€15.00m,La Liga
+971774,Xavi Pleguezuelo,2003,Left-Back,"1,78 m",left,€100k,La Liga
+668184,Quique Fernández,2003,Central Midfield,"1,77 m",left,€100k,La Liga
+551182,Fran Vieites,1999,Goalkeeper,"1,96 m",left,€800k,La Liga
+895331,Dani Pérez,2005,Attacking Midfield,"1,73 m",right,€500k,La Liga
+203496,Nabil Fekir,1993,Attacking Midfield,"1,73 m",left,€9.00m,La Liga
+567504,Guilherme Fernandes,2001,Goalkeeper,"1,91 m",right,€150k,La Liga
+34322,Sokratis Papastathopoulos,1988,Centre-Back,"1,86 m",right,-,La Liga
+85288,Isco,1992,Attacking Midfield,"1,76 m",right,€6.00m,La Liga
+357885,Pablo Fornals,1996,Attacking Midfield,"1,78 m",right,€9.00m,La Liga
+1054909,Pablo Busto,2005,Right-Back,"1,80 m",right,€300k,La Liga
+429901,Paul Akouokou,1997,Defensive Midfield,"1,81 m",right,€800k,La Liga
+246968,Ayoze Pérez,1993,Centre-Forward,"1,78 m",right,€10.00m,La Liga
+630995,Rodri Sánchez,2000,Right Winger,"1,75 m",left,€2.70m,La Liga
+113133,Germán Pezzella,1991,Centre-Back,"1,87 m",right,€2.70m,La Liga
+630989,Ricardo Visus,2001,Centre-Back,"1,92 m",right,€550k,La Liga
+99922,Marc Bartra,1991,Centre-Back,"1,84 m",right,€1.00m,La Liga
+1061282,Assane Diao,2005,Right Winger,"1,85 m",right,€9.00m,La Liga
+341227,Juan Miranda,2000,Left-Back,"1,85 m",left,€11.00m,La Liga
+191217,Héctor Bellerín,1995,Right-Back,"1,78 m",right,€3.00m,La Liga
+278359,Borja Iglesias,1993,Centre-Forward,"1,87 m",right,€4.00m,La Liga
+40423,Claudio Bravo,1983,Goalkeeper,"1,84 m",right,-,La Liga
+336869,Marc Roca,1996,Defensive Midfield,"1,84 m",left,€8.00m,La Liga
+320271,Toni Lato,1997,Left-Back,"1,71 m",left,€2.80m,La Liga
+143559,Matija Nastasic,1993,Centre-Back,"1,87 m",left,€1.30m,La Liga
+947460,Pau Mascaró,2004,Centre-Forward,,,€25k,La Liga
+632913,Pere García,2002,Goalkeeper,"1,93 m",right,€50k,La Liga
+520840,José Copete,1999,Centre-Back,"1,90 m",left,€2.80m,La Liga
+177452,Abdón Prats,1992,Centre-Forward,"1,81 m",left,€1.50m,La Liga
+892421,Alex Quevedo,2004,Goalkeeper,"1,91 m",left,€50k,La Liga
+1056655,Rubén Quintanilla,2002,Central Midfield,,,€50k,La Liga
+400131,Siebe Van der Heyden,1998,Centre-Back,"1,85 m",left,€1.50m,La Liga
+657430,Samú Costa,2000,Defensive Midfield,"1,85 m",left,€15.00m,La Liga
+857830,Daniel Luna,2003,Attacking Midfield,"1,78 m",left,€300k,La Liga
+190263,Predrag Rajković,1995,Goalkeeper,"1,91 m",right,€9.00m,La Liga
+339699,Giovanni González,1994,Right-Back,"1,73 m",right,€2.80m,La Liga
+142021,Sergi Darder,1993,Central Midfield,"1,80 m",right,€4.00m,La Liga
+256267,Vedat Muriqi,1994,Centre-Forward,"1,94 m",left,€8.00m,La Liga
+947432,Marcos Fernández,2003,Left-Back,"1,76 m",left,-,La Liga
+65318,Jaume Costa,1988,Left-Back,"1,71 m",left,€200k,La Liga
+316884,Dominik Greif,1997,Goalkeeper,"1,97 m",right,€6.00m,La Liga
+343463,Cyle Larin,1995,Centre-Forward,"1,88 m",right,€3.50m,La Liga
+142031,Omar Mascarell,1993,Defensive Midfield,"1,81 m",right,€900k,La Liga
+335225,Manu Morlanes,1999,Central Midfield,"1,78 m",right,€2.50m,La Liga
+947431,David López,2003,Centre-Back,"1,95 m",,€500k,La Liga
+278296,Antonio Raíllo,1991,Centre-Back,"1,87 m",,€2.00m,La Liga
+632498,Miguelito,2001,Right-Back,"1,75 m",right,€100k,La Liga
+251876,Pablo Maffeo,1997,Right-Back,"1,72 m",right,€5.00m,La Liga
+245078,Nemanja Radonjić,1996,Left Winger,"1,82 m",both,€3.50m,La Liga
+27493,Iván Cuéllar,1984,Goalkeeper,"1,87 m",left,€100k,La Liga
+139435,Dani Rodríguez,1988,Attacking Midfield,"1,78 m",right,€900k,La Liga
+706138,Javi Llabrés,2002,Left Winger,"1,74 m",both,€600k,La Liga
+339820,Amath Ndiaye,1996,Right Winger,"1,73 m",right,€1.20m,La Liga
+513031,Antonio Sánchez,1997,Central Midfield,"1,79 m",right,€2.50m,La Liga
+1179588,Yuzún Ley,2004,Right-Back,"1,80 m",right,€25k,La Liga
+277384,Martin Valjent,1995,Centre-Back,"1,87 m",right,€6.00m,La Liga
+1004518,Carles Sogorb,2005,Right-Back,"1,73 m",right,€25k,La Liga
+711394,Javier Martón,1999,Centre-Forward,"1,81 m",right,€500k,La Liga
+709187,Nico Williams,2002,Left Winger,"1,81 m",right,€70.00m,La Liga
+178425,Dani García,1990,Central Midfield,"1,80 m",right,€1.20m,La Liga
+1056971,Aingeru Olabarrieta,2005,Right Winger,"1,82 m",left,€500k,La Liga
+524000,Dani Vivian,1999,Centre-Back,"1,84 m",right,€40.00m,La Liga
+255488,Yeray Álvarez,1995,Centre-Back,"1,82 m",right,€7.50m,La Liga
+834485,Unai Egiluz,2002,Centre-Back,"1,86 m",right,€200k,La Liga
+834752,Unai Gómez,2003,Attacking Midfield,"1,83 m",left,€8.00m,La Liga
+625014,Julen Agirrezabala,2000,Goalkeeper,"1,87 m",left,€15.00m,La Liga
+126751,Iñigo Ruiz de Galarreta,1993,Central Midfield,"1,75 m",right,€4.00m,La Liga
+96718,Óscar de Marcos,1989,Right-Back,"1,82 m",right,€1.50m,La Liga
+834487,Hugo Rincón,2003,Right-Back,"1,83 m",right,€700k,La Liga
+938729,Mikel Jauregizar,2003,Central Midfield,"1,77 m",right,€10.00m,La Liga
+340205,Gorka Guruzeta,1996,Centre-Forward,"1,88 m",right,€15.00m,La Liga
+61812,Yuri Berchiche,1990,Left-Back,"1,81 m",left,€1.50m,La Liga
+591916,Aitor Paredes,2000,Centre-Back,"1,85 m",right,€22.00m,La Liga
+300168,Mikel Vesga,1993,Defensive Midfield,"1,91 m",left,€3.00m,La Liga
+255508,Iñaki Williams,1994,Right Winger,"1,86 m",right,€20.00m,La Liga
+262396,Unai Simón,1997,Goalkeeper,"1,90 m",right,€28.00m,La Liga
+834483,Álex Padilla,2003,Goalkeeper,"1,90 m",right,€2.00m,La Liga
+625047,Beñat Prados,2001,Central Midfield,"1,80 m",right,€20.00m,La Liga
+447052,Peru Nolaskoain,1998,Defensive Midfield,"1,86 m",right,€1.00m,La Liga
+54235,Iker Muniain,1992,Attacking Midfield,"1,69 m",right,€4.50m,La Liga
+571020,Oihan Sancet,2000,Attacking Midfield,"1,88 m",right,€50.00m,La Liga
+251897,Asier Villalibre,1997,Centre-Forward,"1,82 m",left,€2.20m,La Liga
+255501,Iñigo Lekue,1993,Right-Back,"1,80 m",right,€2.50m,La Liga
+895480,Adu Ares,2001,Right Winger,"1,83 m",right,€2.00m,La Liga
+626954,Imanol García de Albéniz,2000,Left-Back,"1,77 m",left,€1.00m,La Liga
+338425,Álex Berenguer,1995,Left Winger,"1,75 m",right,€12.00m,La Liga
+99343,Ander Herrera,1989,Central Midfield,"1,82 m",right,€1.50m,La Liga
+34601,Raúl García,1986,Attacking Midfield,"1,84 m",right,-,La Liga
+568535,Theo Corbeanu,2002,Right Winger,"1,90 m",left,€1.00m,La Liga
+713649,Miguel Ángel Brau,2001,Left-Back,"1,83 m",left,€1.00m,La Liga
+315289,Myrto Uzuni,1995,Left Winger,"1,78 m",right,€5.00m,La Liga
+412042,Adri López,1999,Goalkeeper,"1,88 m",right,€200k,La Liga
+70245,Ignasi Miquel,1992,Centre-Back,"1,89 m",left,€1.00m,La Liga
+334222,Lucas Boyé,1996,Centre-Forward,"1,83 m",right,€5.00m,La Liga
+394694,Sergio Ruiz,1994,Central Midfield,"1,76 m",right,€2.00m,La Liga
+1056096,Eghosa Bello,2004,Centre-Forward,"2,00 m",right,€50k,La Liga
+262365,Antonio Puertas,1992,Right Winger,"1,83 m",right,€1.50m,La Liga
+487688,Alberto Soro,1999,Right Winger,"1,73 m",left,€550k,La Liga
+388545,Ricard Sánchez,2000,Right-Back,"1,75 m",right,€2.50m,La Liga
+833340,Mario González,2004,Attacking Midfield,"1,74 m",right,€100k,La Liga
+448844,Carlos Neva,1996,Left-Back,"1,74 m",left,€2.00m,La Liga
+376588,Njegos Petrovic,1999,Defensive Midfield,"1,85 m",right,€2.20m,La Liga
+345449,Kamil Piatkowski,2000,Centre-Back,"1,91 m",right,€4.50m,La Liga
+398163,Gonzalo Villar,1998,Central Midfield,"1,81 m",right,€3.00m,La Liga
+707276,Miki Bosch,2001,Centre-Back,"1,90 m",right,€150k,La Liga
+448344,Óscar Melendo,1997,Attacking Midfield,"1,67 m",left,€1.20m,La Liga
+357072,Faitout Maouassa,1998,Left-Back,"1,70 m",left,€2.00m,La Liga
+129374,Marc Martínez,1990,Goalkeeper,"1,86 m",right,€300k,La Liga
+552912,Bruno Méndez,1999,Centre-Back,"1,80 m",right,€4.50m,La Liga
+58330,Víctor Díaz,1988,Right-Back,"1,83 m",right,€300k,La Liga
+605528,Pol Tristán,2002,Goalkeeper,"1,88 m",both,€100k,La Liga
+290346,André Ferreira,1996,Goalkeeper,"1,93 m",right,€800k,La Liga
+61253,José Callejón,1987,Right Winger,"1,78 m",right,€300k,La Liga
+289167,Kamil Jóźwiak,1998,Left Winger,"1,76 m",right,€1.50m,La Liga
+631222,Raúl Torrente,2001,Centre-Back,"1,93 m",left,€4.00m,La Liga
+247652,Shon Weissman,1996,Centre-Forward,"1,74 m",right,€1.40m,La Liga
+944124,Lass Sangaré,2001,Central Midfield,"1,84 m",right,€150k,La Liga
+257388,Wilson Manafá,1994,Right-Back,"1,77 m",right,€1.00m,La Liga
+676318,Facundo Pellistri,2001,Right Winger,"1,75 m",right,€10.00m,La Liga
+891312,Fran Árbol,2006,Goalkeeper,"1,85 m",left,€200k,La Liga
+991268,Samu Aghehowa,2004,Centre-Forward,"1,93 m",right,€50.00m,La Liga
+713644,Bryan Zaragoza,2001,Left Winger,"1,64 m",right,€12.00m,La Liga
+821820,Pablo Sáenz,2001,Right Winger,"1,75 m",left,€500k,La Liga
+99559,Alberto Perea,1990,Left Winger,"1,80 m",right,€300k,La Liga
+54217,Raúl Fernández,1988,Goalkeeper,"1,95 m",right,€200k,La Liga
+611426,Matías Arezo,2002,Centre-Forward,"1,77 m",right,€6.00m,La Liga
+268670,Gerard Gumbau,1994,Defensive Midfield,"1,88 m",left,€2.00m,La Liga
+275218,Augusto Batalla,1996,Goalkeeper,"1,86 m",right,€6.00m,La Liga
+583510,Miguel Rubio,1998,Centre-Back,"1,91 m",right,€1.50m,La Liga
+237125,Famara Diédhiou,1992,Centre-Forward,"1,89 m",right,€400k,La Liga
+1064103,Sergio Rodelas,2004,Left Winger,"1,68 m",left,€400k,La Liga
+811778,Álvaro Carreras,2003,Left-Back,"1,86 m",left,€18.00m,La Liga
+398808,Martin Hongla,1998,Defensive Midfield,"1,82 m",right,€2.50m,La Liga
+238407,Alexander Sørloth,1995,Centre-Forward,"1,95 m",left,€25.00m,La Liga
+207917,Alberto Moreno,1992,Left-Back,"1,71 m",left,€1.80m,La Liga
+494880,Jorge Cuenca,1999,Centre-Back,"1,90 m",left,€6.00m,La Liga
+709372,Carlos Romero,2001,Left-Back,,left,€2.50m,La Liga
+466807,Adrià Altimira,2001,Right-Back,"1,70 m",right,€1.80m,La Liga
+252677,José Luis Morales,1987,Centre-Forward,"1,80 m",right,€900k,La Liga
+937942,Daniel Budesca,2006,Right-Back,"1,83 m",right,€50k,La Liga
+165007,Denis Suárez,1994,Attacking Midfield,"1,76 m",right,€1.30m,La Liga
+886047,Antonio Espigares,2004,Centre-Back,"1,87 m",right,€500k,La Liga
+635344,Abraham del Moral,2001,Centre-Back,"1,83 m",left,€100k,La Liga
+547248,Iker Álvarez,2001,Goalkeeper,"1,90 m",right,€800k,La Liga
+585323,Filip Jørgensen,2002,Goalkeeper,"1,92 m",right,€20.00m,La Liga
+797572,Stefan Leković,2004,Centre-Back,"1,92 m",right,€1.80m,La Liga
+7825,Pepe Reina,1982,Goalkeeper,"1,88 m",right,€600k,La Liga
+568157,Yéremy Pino,2002,Right Winger,"1,72 m",right,€30.00m,La Liga
+323167,Matteo Gabbia,1999,Centre-Back,"1,85 m",right,€20.00m,La Liga
+225122,Gonçalo Guedes,1996,Left Winger,"1,79 m",right,€15.00m,La Liga
+945709,Dani Requena,2004,Central Midfield,"1,86 m",right,€400k,La Liga
+709969,Ilias Akhomach,2004,Right Winger,"1,75 m",left,€15.00m,La Liga
+59561,Dani Parejo,1989,Central Midfield,"1,82 m",right,€2.00m,La Liga
+80293,Aïssa Mandi,1991,Centre-Back,"1,86 m",right,€1.50m,La Liga
+566965,Diego Collado,2001,Left Winger,"1,83 m",right,€400k,La Liga
+380598,Santi Comesaña,1996,Central Midfield,"1,88 m",both,€8.00m,La Liga
+131996,Bertrand Traoré,1995,Right Winger,"1,81 m",left,€9.00m,La Liga
+188854,Manu Trigueros,1991,Central Midfield,"1,78 m",right,€1.00m,La Liga
+356197,Alfonso Pedraza,1996,Left-Back,"1,84 m",left,€2.50m,La Liga
+709380,Álex Forés,2001,Centre-Forward,"1,79 m",right,€600k,La Liga
+286384,Eric Bailly,1994,Centre-Back,"1,87 m",right,€2.50m,La Liga
+669511,Jorge Pascual,2003,Centre-Forward,"1,87 m",left,€1.20m,La Liga
+548111,Álex Baena,2001,Left Winger,"1,74 m",right,€50.00m,La Liga
+76467,Kiko Femenía,1991,Right-Back,"1,74 m",right,€1.20m,La Liga
+783396,Ramón Terrats,2000,Defensive Midfield,"1,81 m",left,€3.50m,La Liga
+177467,Gerard Moreno,1992,Centre-Forward,"1,80 m",left,€5.00m,La Liga
+426192,Ben Brereton Díaz,1999,Centre-Forward,"1,85 m",right,€8.00m,La Liga
+480763,Juan Foyth,1998,Right-Back,"1,87 m",right,€7.50m,La Liga
+74869,Francis Coquelin,1991,Defensive Midfield,"1,77 m",right,€1.00m,La Liga
+15452,Raúl Albiol,1985,Centre-Back,"1,90 m",right,€1.30m,La Liga
+716276,Yerson Mosquera,2001,Centre-Back,"1,88 m",right,€8.00m,La Liga
+63494,Étienne Capoue,1988,Defensive Midfield,"1,89 m",right,€800k,La Liga
+932349,Diego Méndez,2003,Central Midfield,"1,82 m",right,,La Liga
+162038,Raúl de Tomás,1994,Centre-Forward,"1,80 m",right,€800k,La Liga
+39152,Radamel Falcao,1986,Centre-Forward,"1,77 m",right,€300k,La Liga
+246204,Salvi Sánchez,1991,Right Winger,"1,70 m",right,€900k,La Liga
+638588,Martín Pascual,1999,Centre-Back,"1,90 m",right,€300k,La Liga
+596122,Pep Chavarría,1998,Left-Back,"1,74 m",left,€2.00m,La Liga
+30321,Oscar Trejo,1988,Attacking Midfield,"1,80 m",right,€800k,La Liga
+82503,Aridane Hernández,1989,Centre-Back,"1,88 m",right,€400k,La Liga
+525578,Pathé Ciss,1994,Central Midfield,"1,86 m",right,€2.00m,La Liga
+257062,Álvaro García,1992,Left Winger,"1,67 m",both,€2.50m,La Liga
+451801,Abdul Mumin,1998,Centre-Back,"1,88 m",right,€5.00m,La Liga
+505674,Sergio Camello,2001,Centre-Forward,"1,82 m",right,€3.50m,La Liga
+362086,Isi Palazón,1994,Right Winger,"1,69 m",left,€4.00m,La Liga
+165467,Stole Dimitrievski,1993,Goalkeeper,"1,88 m",right,€3.00m,La Liga
+1045767,Pablo Muñoz,2003,Left Winger,"1,70 m",right,€150k,La Liga
+397676,Dani Cárdenas,1997,Goalkeeper,"1,86 m",right,€1.80m,La Liga
+560483,Randy Nteka,1997,Attacking Midfield,"1,89 m",left,€1.50m,La Liga
+192009,Unai López,1995,Central Midfield,"1,70 m",right,€2.80m,La Liga
+527698,Kike Pérez,1997,Central Midfield,"1,84 m",left,€2.80m,La Liga
+195605,José Pozo,1996,Attacking Midfield,"1,71 m",left,€750k,La Liga
+85295,Iván Balliu,1992,Right-Back,"1,72 m",right,€1.50m,La Liga
+153427,Bebé,1990,Left Winger,"1,90 m",right,€400k,La Liga
+455181,Jorge de Frutos,1997,Right Winger,"1,73 m",right,€4.00m,La Liga
+607780,Miguel Ángel Morro,2000,Goalkeeper,"1,95 m",left,€450k,La Liga
+127108,Florian Lejeune,1991,Centre-Back,"1,90 m",right,€2.80m,La Liga
+311044,Alfonso Espino,1992,Left-Back,"1,72 m",left,€1.50m,La Liga
+498529,Miguel Crespo,1996,Central Midfield,"1,86 m",right,€3.50m,La Liga
+517753,Óscar Valentín,1994,Central Midfield,"1,77 m",right,€3.50m,La Liga
+527966,Andrei Rațiu,1998,Right-Back,"1,83 m",right,€7.00m,La Liga
+606570,Sergio Guerrero,1999,Central Midfield,"1,74 m",right,€400k,La Liga
+741253,Javier Boñar,2005,Right-Back,"1,80 m",right,€500k,La Liga
+282411,Marcos Llorente,1995,Right Midfield,"1,84 m",right,€28.00m,La Liga
+140776,Yannick Carrasco,1993,Left Winger,"1,81 m",right,€8.00m,La Liga
+633111,Álex Calatrava,2000,Right Winger,"1,75 m",left,€600k,La Liga
+255901,Rodrigo De Paul,1994,Central Midfield,"1,80 m",right,€25.00m,La Liga
+266807,Ángel Correa,1995,Right Winger,"1,71 m",right,€15.00m,La Liga
+250845,José María Giménez,1995,Centre-Back,"1,85 m",right,€20.00m,La Liga
+646735,Aitor Gismera,2004,Central Midfield,"1,82 m",right,€250k,La Liga
+694928,Samuel Lino,1999,Left Winger,"1,70 m",right,€25.00m,La Liga
+461617,Rodrigo Riquelme,2000,Left Winger,"1,74 m",right,€22.00m,La Liga
+935457,Salim El Jebari,2004,Left Winger,"1,78 m",right,€400k,La Liga
+240692,Reinildo Mandava,1994,Left-Back,"1,80 m",left,€8.00m,La Liga
+424042,Nahuel Molina,1998,Right-Back,"1,75 m",right,€25.00m,La Liga
+614988,Ilias Kostis,2003,Centre-Back,"1,88 m",left,€500k,La Liga
+926849,Adrián Niño,2004,Centre-Forward,"1,84 m",right,€700k,La Liga
+226073,Ivo Grbic,1996,Goalkeeper,"1,95 m",right,€2.60m,La Liga
+128223,Álvaro Morata,1992,Centre-Forward,"1,89 m",right,€13.00m,La Liga
+148928,Saúl Ñíguez,1994,Central Midfield,"1,84 m",left,€3.50m,La Liga
+57500,César Azpilicueta,1989,Centre-Back,"1,78 m",right,€1.80m,La Liga
+860062,Abde Raihani,2004,Centre-Forward,"1,87 m",right,€300k,La Liga
+281769,Mario Hermoso,1995,Centre-Back,"1,84 m",left,€10.00m,La Liga
+930415,Antonio Gomis,2003,Goalkeeper,"1,91 m",left,€150k,La Liga
+125781,Antoine Griezmann,1991,Centre-Forward,"1,76 m",left,€22.00m,La Liga
+945500,Rayane Belaid,2005,Left Winger,"1,75 m",right,€500k,La Liga
+775605,Pablo Barrios,2003,Central Midfield,"1,81 m",right,€50.00m,La Liga
+107010,Stefan Savic,1991,Centre-Back,"1,87 m",right,€1.30m,La Liga
+167850,Memphis Depay,1994,Centre-Forward,"1,78 m",right,€10.00m,La Liga
+74229,Koke,1992,Central Midfield,"1,76 m",right,€10.00m,La Liga
+35047,Axel Witsel,1989,Centre-Back,"1,86 m",right,€2.50m,La Liga
+525438,Horațiu Moldovan,1998,Goalkeeper,"1,82 m",right,€2.20m,La Liga
+973314,Sergio Mestre,2005,Goalkeeper,"1,93 m",right,€50k,La Liga
+320141,Çağlar Söyüncü,1996,Centre-Back,"1,85 m",both,€8.50m,La Liga
+205562,Thomas Lemar,1995,Attacking Midfield,"1,71 m",left,€5.00m,La Liga
+67082,Vitolo,1989,Left Winger,"1,84 m",right,-,La Liga
+534376,Marco Moreno,2001,Centre-Back,"1,91 m",right,€600k,La Liga
+926694,Arthur Vermeeren,2005,Defensive Midfield,"1,80 m",right,€25.00m,La Liga
+121483,Jan Oblak,1993,Goalkeeper,"1,88 m",right,€25.00m,La Liga
+612496,Marcos Paulo,2001,Left Winger,"1,86 m",right,€500k,La Liga
+177046,Rubén Duarte,1995,Left-Back,"1,79 m",left,€3.00m,La Liga
+550492,Giorgi Gagua,2001,Centre-Forward,"1,93 m",right,€300k,La Liga
+718029,Unai Ropero,2001,Right Winger,"1,88 m",right,€500k,La Liga
+431190,Carlos Protesoni,1998,Defensive Midfield,"1,85 m",right,€1.50m,La Liga
+1054931,Selu Diallo,2003,Central Midfield,"1,87 m",right,€200k,La Liga
+718177,Joseda Álvarez,2001,Right-Back,"1,83 m",right,€100k,La Liga
+895316,Gaizka García,2005,Goalkeeper,"1,92 m",right,€100k,La Liga
+480883,Miguel de la Fuente,1999,Centre-Forward,"1,82 m",right,€2.00m,La Liga
+495621,Antonio Blanco,2000,Defensive Midfield,"1,76 m",right,€7.50m,La Liga
+1064402,Ander Sánchez,2004,Attacking Midfield,,,€50k,La Liga
+289255,Andoni Gorosabel,1996,Right-Back,"1,74 m",right,€5.00m,La Liga
+1064871,Joaquín Panichelli,2002,Centre-Forward,"1,87 m",right,€800k,La Liga
+533568,Nahuel Tenaglia,1996,Right-Back,"1,81 m",right,€3.00m,La Liga
+631693,Jesús Owono,2001,Goalkeeper,"1,81 m",both,€1.00m,La Liga
+559979,Abdel Abqar,1999,Centre-Back,"1,88 m",right,€7.50m,La Liga
+568158,Javi López,2002,Left-Back,"1,83 m",left,€7.50m,La Liga
+742201,Giuliano Simeone,2002,Right Winger,"1,73 m",right,€12.00m,La Liga
+646734,Tomás Mendes,2004,Central Midfield,,,€200k,La Liga
+282076,Ianis Hagi,1998,Attacking Midfield,"1,82 m",both,€1.50m,La Liga
+892217,Eneko Ortiz,2003,Left-Back,,,€150k,La Liga
+718034,Abde Rebbach,1998,Left Winger,"1,76 m",right,€700k,La Liga
+572271,Xeber Alkain,1997,Right Winger,"1,74 m",right,€1.50m,La Liga
+289257,Jon Guridi,1995,Central Midfield,"1,79 m",left,€4.00m,La Liga
+166683,Mamadou Sylla,1994,Centre-Forward,"1,80 m",right,€1.50m,La Liga
+608382,Adrián Rodríguez,2000,Goalkeeper,"1,95 m",right,€100k,La Liga
+465967,Ander Guevara,1997,Central Midfield,"1,80 m",right,€5.00m,La Liga
+278837,Luis Rioja,1993,Left Winger,"1,76 m",left,€2.00m,La Liga
+867611,José de León,2004,Left Winger,"1,85 m",right,€200k,La Liga
+1064391,Egoitz Muñoz,2004,Right-Back,,right,€200k,La Liga
+298197,Antonio Sivera,1996,Goalkeeper,"1,85 m",right,€6.00m,La Liga
+591957,Victor Parada,2002,Left-Back,"1,85 m",left,€200k,La Liga
+948253,Rubén Montero,2005,Goalkeeper,,,,La Liga
+258475,Nikola Maras,1995,Centre-Back,"1,89 m",right,€1.00m,La Liga
+540536,Carlos Vicente,1999,Right Winger,"1,79 m",right,€8.00m,La Liga
+93936,Kike García,1989,Centre-Forward,"1,86 m",right,€900k,La Liga
+237499,Aleksandar Sedlar,1991,Centre-Back,"1,80 m",right,€400k,La Liga
+662261,Rafa Marín,2002,Centre-Back,"1,91 m",right,€9.00m,La Liga
+1064403,Álvaro García,2005,Centre-Back,"1,92 m",,€150k,La Liga

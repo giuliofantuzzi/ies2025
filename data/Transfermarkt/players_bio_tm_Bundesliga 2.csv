@@ -1,0 +1,623 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+168678,Marvin Schulz,1995,Defensive Midfield,"1,86 m",right,€700k,Bundesliga 2
+96331,Mikkel Kirkeskov,1991,Left-Back,"1,85 m",left,€250k,Bundesliga 2
+55508,Lewis Holtby,1990,Central Midfield,"1,76 m",left,€500k,Bundesliga 2
+528619,Jonas Sterner,2002,Right-Back,"1,81 m",right,€600k,Bundesliga 2
+622722,Colin Kleine-Bekel,2003,Centre-Back,"1,92 m",right,€2.50m,Bundesliga 2
+282349,Timo Becker,1997,Centre-Back,"1,90 m",right,€2.00m,Bundesliga 2
+193859,Patrick Erras,1995,Defensive Midfield,"1,96 m",right,€1.00m,Bundesliga 2
+388409,Philipp Sander,1998,Central Midfield,"1,86 m",both,€4.00m,Bundesliga 2
+550580,Shuto Machino,1999,Centre-Forward,"1,85 m",right,€3.00m,Bundesliga 2
+939807,Lio Rothenhagen,2006,Goalkeeper,"1,88 m",right,€100k,Bundesliga 2
+93827,Steven Skrzybski,1992,Attacking Midfield,"1,74 m",right,€1.00m,Bundesliga 2
+633454,Alexander Bernhardsson,1998,Right Winger,"1,85 m",left,€1.50m,Bundesliga 2
+798043,Tom Rothe,2004,Left-Back,"1,93 m",left,€12.00m,Bundesliga 2
+512352,Lasse Rosenboom,2002,Right-Back,"1,90 m",right,€500k,Bundesliga 2
+592534,Nicolai Remberg,2000,Central Midfield,"1,88 m",right,€1.80m,Bundesliga 2
+241307,Finn Porath,1997,Attacking Midfield,"1,80 m",right,€1.50m,Bundesliga 2
+124080,Marcel Engelhardt,1993,Goalkeeper,"1,91 m",right,€175k,Bundesliga 2
+335631,Marco Komenda,1996,Centre-Back,"1,84 m",left,€800k,Bundesliga 2
+806073,Niklas Niehoff,2004,Right Winger,"1,87 m",right,€300k,Bundesliga 2
+747983,Aurel Wagbe,2004,Left Midfield,"1,91 m",left,€100k,Bundesliga 2
+225043,Carl Johansson,1994,Centre-Back,"1,94 m",right,€700k,Bundesliga 2
+227974,Ba-Muaka Simakala,1997,Left Winger,"1,80 m",both,€500k,Bundesliga 2
+115979,Thomas Dähne,1994,Goalkeeper,"1,93 m",both,€400k,Bundesliga 2
+331362,Benedikt Pichler,1997,Centre-Forward,"1,88 m",right,€2.00m,Bundesliga 2
+343337,Fiete Arp,2000,Centre-Forward,"1,86 m",right,€800k,Bundesliga 2
+447864,Lucas Wolf,2001,Central Midfield,"1,73 m",,€250k,Bundesliga 2
+149996,Hólmbert Aron Fridjónsson,1993,Centre-Forward,"1,96 m",left,€300k,Bundesliga 2
+674500,Nico Carrera,2002,Centre-Back,"1,90 m",right,€150k,Bundesliga 2
+196815,Joshua Mees,1996,Left Winger,"1,80 m",both,€650k,Bundesliga 2
+591882,Noah Oberbeck,2002,Goalkeeper,"1,91 m",,€75k,Bundesliga 2
+296428,Timon Weiner,1999,Goalkeeper,"1,91 m",both,€1.50m,Bundesliga 2
+706024,Marko Ivezic,2001,Centre-Back,"1,91 m",right,€2.50m,Bundesliga 2
+94771,Andreas Voglsammer,1992,Centre-Forward,"1,77 m",right,€500k,Bundesliga 2
+605242,Monju Momuluh,2002,Right Winger,"1,81 m",right,€500k,Bundesliga 2
+905896,Montell Ndikom,2005,Attacking Midfield,"1,81 m",left,€200k,Bundesliga 2
+392157,Kolja Oudenne,2001,Left Winger,"1,83 m",right,€400k,Bundesliga 2
+615036,Antonio Foti,2003,Attacking Midfield,"1,80 m",right,€500k,Bundesliga 2
+580193,Bright Arrey-Mbi,2003,Centre-Back,"1,87 m",left,€6.00m,Bundesliga 2
+196427,Leo Weinkauf,1996,Goalkeeper,"1,96 m",right,€250k,Bundesliga 2
+717329,Nicolò Tresoldi,2004,Centre-Forward,"1,86 m",right,€5.00m,Bundesliga 2
+521474,Brooklyn Ezeh,2001,Left-Back,"1,88 m",left,€500k,Bundesliga 2
+136181,Havard Nielsen,1993,Centre-Forward,"1,87 m",right,€800k,Bundesliga 2
+207578,Max Besuschkow,1997,Central Midfield,"1,88 m",right,€600k,Bundesliga 2
+211671,Jannik Dehm,1996,Right-Back,"1,81 m",right,€900k,Bundesliga 2
+1105999,Leon-Oumar Wechsel,2005,Goalkeeper,"1,90 m",right,€350k,Bundesliga 2
+188910,Sei Muroya,1994,Right-Back,"1,76 m",right,€700k,Bundesliga 2
+391780,Derrick Köhn,1999,Left-Back,"1,80 m",left,€6.00m,Bundesliga 2
+383362,Enzo Leopold,2000,Central Midfield,"1,74 m",right,€2.50m,Bundesliga 2
+207597,Cedric Teuchert,1997,Centre-Forward,"1,82 m",right,€3.50m,Bundesliga 2
+108198,Sebastian Ernst,1995,Attacking Midfield,"1,80 m",left,€500k,Bundesliga 2
+503162,Christopher Scott,2002,Attacking Midfield,"1,78 m",right,€600k,Bundesliga 2
+347722,Toni Stahl,1999,Goalkeeper,"1,94 m",right,€125k,Bundesliga 2
+789898,Muhammed Damar,2004,Attacking Midfield,"1,85 m",both,€1.50m,Bundesliga 2
+455932,Lars Gindorf,2001,Attacking Midfield,"1,81 m",right,€400k,Bundesliga 2
+192300,Max Christiansen,1996,Defensive Midfield,"1,85 m",right,€700k,Bundesliga 2
+70243,Marcel Halstenberg,1991,Centre-Back,"1,88 m",left,€1.50m,Bundesliga 2
+45677,Julian Börner,1991,Centre-Back,"1,88 m",left,-,Bundesliga 2
+265176,Phil Neumann,1997,Centre-Back,"1,92 m",right,€3.00m,Bundesliga 2
+21327,Ron-Robert Zieler,1989,Goalkeeper,"1,88 m",right,€500k,Bundesliga 2
+334186,Fabian Kunze,1998,Defensive Midfield,"1,93 m",right,€1.20m,Bundesliga 2
+147485,Louis Schaub,1994,Right Midfield,"1,77 m",left,€800k,Bundesliga 2
+627356,Yannik Lührs,2003,Centre-Back,"1,90 m",right,€600k,Bundesliga 2
+410561,Sidi Sané,2003,Right Winger,"1,87 m",right,€350k,Bundesliga 2
+119292,Danilo Wiebe,1994,Defensive Midfield,"1,87 m",right,€250k,Bundesliga 2
+317444,Ron-Thorben Hoffmann,1999,Goalkeeper,"1,92 m",right,€600k,Bundesliga 2
+447730,Luc Ihorst,2000,Centre-Forward,"1,90 m",both,€250k,Bundesliga 2
+121454,Robin Krauße,1994,Defensive Midfield,"1,79 m",right,€450k,Bundesliga 2
+688544,Justin Duda,2003,Goalkeeper,"1,93 m",,€50k,Bundesliga 2
+154578,Saulo Decarli,1992,Centre-Back,"1,88 m",right,€200k,Bundesliga 2
+240274,Anderson Lucoqui,1997,Left-Back,"1,81 m",left,€250k,Bundesliga 2
+153555,Sebastian Griesbeck,1990,Defensive Midfield,"1,89 m",right,€275k,Bundesliga 2
+160980,Fabio Kaufmann,1992,Central Midfield,"1,81 m",right,€400k,Bundesliga 2
+694507,Rayan Philippe,2000,Centre-Forward,"1,82 m",left,€3.00m,Bundesliga 2
+280553,Anton Donkor,1997,Left-Back,"1,86 m",both,€600k,Bundesliga 2
+307845,Marvin Rittmüller,1999,Right-Back,"1,78 m",both,€650k,Bundesliga 2
+684307,Youssef Amyn,2003,Left Winger,"1,75 m",right,€500k,Bundesliga 2
+597039,Emil Kischka,2002,Central Midfield,"1,83 m",,-,Bundesliga 2
+421726,Keita Endo,1997,Left Winger,"1,76 m",right,€500k,Bundesliga 2
+373876,Robert Ivanov,1994,Centre-Back,"1,97 m",right,€750k,Bundesliga 2
+745081,Leon Suzuki,2004,Centre-Back,"1,85 m",,,Bundesliga 2
+187496,Maurice Multhaup,1996,Right Winger,"1,73 m",right,€300k,Bundesliga 2
+488996,Thórir Jóhann Helgason,2000,Central Midfield,"1,87 m",right,€800k,Bundesliga 2
+673925,Johan Gómez,2001,Attacking Midfield,"1,83 m",both,€900k,Bundesliga 2
+193032,Niko Kijewski,1996,Left-Back,"1,76 m",left,€225k,Bundesliga 2
+335464,Yannik Bangsow,1998,Goalkeeper,"1,92 m",both,€50k,Bundesliga 2
+51676,Ermin Bicakcic,1990,Centre-Back,"1,85 m",right,€400k,Bundesliga 2
+317740,Florian Krüger,1999,Centre-Forward,"1,86 m",,€400k,Bundesliga 2
+470815,Niklas Tauer,2001,Defensive Midfield,"1,83 m",right,€600k,Bundesliga 2
+169271,Tino Casali,1995,Goalkeeper,"1,93 m",right,€300k,Bundesliga 2
+292812,Hasan Kuruçay,1997,Centre-Back,"1,87 m",right,€1.50m,Bundesliga 2
+405313,Hampus Finndell,2000,Central Midfield,"1,77 m",right,€600k,Bundesliga 2
+561647,Kaan Caliskaner,1999,Centre-Forward,"1,92 m",both,€400k,Bundesliga 2
+93649,Jannis Nikolaou,1993,Centre-Back,"1,87 m",left,€400k,Bundesliga 2
+169295,Jan-Hendrik Marx,1995,Right-Back,"1,73 m",both,€275k,Bundesliga 2
+704069,Rami Zouaoui,2004,Central Midfield,"1,81 m",both,€75k,Bundesliga 2
+142281,Anthony Ujah,1990,Centre-Forward,"1,80 m",right,€300k,Bundesliga 2
+85660,Brian Behrendt,1991,Centre-Back,"1,87 m",right,€200k,Bundesliga 2
+168186,Marco Schuster,1995,Defensive Midfield,"1,79 m",right,€450k,Bundesliga 2
+94120,Philipp Klewin,1993,Goalkeeper,"1,92 m",right,€150k,Bundesliga 2
+666168,Dario Gebuhr,2003,Centre-Back,"1,88 m",right,€225k,Bundesliga 2
+395674,Adrien Lebeau,1999,Attacking Midfield,"1,75 m",right,€350k,Bundesliga 2
+630761,Louis Köster,2003,Attacking Midfield,"1,89 m",right,€125k,Bundesliga 2
+223572,Kai Pröger,1992,Right Winger,"1,77 m",right,€400k,Bundesliga 2
+899764,Patrick Nkoa,1999,Centre-Back,"1,92 m",right,€150k,Bundesliga 2
+284188,Simon Rhein,1998,Defensive Midfield,"1,80 m",left,€400k,Bundesliga 2
+548861,Max Hagemoser,2003,Goalkeeper,"1,90 m",left,€125k,Bundesliga 2
+385240,Serhat-Semih Güler,1997,Centre-Forward,"1,81 m",both,€225k,Bundesliga 2
+316983,Marko Johansson,1998,Goalkeeper,"1,94 m",right,€400k,Bundesliga 2
+59054,Lukas Hinterseer,1991,Centre-Forward,"1,92 m",right,€175k,Bundesliga 2
+654257,Ryan Naderi,2003,Centre-Forward,"1,93 m",right,€300k,Bundesliga 2
+397696,Ahmet Gürleyen,1999,Centre-Back,"1,93 m",right,€500k,Bundesliga 2
+820973,Benno Dietze,2003,Central Midfield,"1,83 m",right,€125k,Bundesliga 2
+913509,Tim Krohn,2005,Centre-Forward,"1,85 m",left,€175k,Bundesliga 2
+296188,Alexander Rossipal,1996,Centre-Back,"1,84 m",left,€400k,Bundesliga 2
+368922,Kevin Schumacher,1997,Left-Back,"1,82 m",left,€350k,Bundesliga 2
+99451,Markus Kolke,1990,Goalkeeper,"1,87 m",right,€300k,Bundesliga 2
+148967,Konstantinos Stafylidis,1993,Left-Back,"1,78 m",left,€500k,Bundesliga 2
+153198,Damian Roßbach,1993,Centre-Back,"1,87 m",left,€250k,Bundesliga 2
+322519,Jasper van der Werff,1998,Centre-Back,"1,88 m",right,€750k,Bundesliga 2
+605222,Jonas Dirkner,2002,Defensive Midfield,"1,81 m",both,€275k,Bundesliga 2
+1010851,King Manu,2003,Centre-Back,"1,95 m",right,€200k,Bundesliga 2
+327862,Janik Bachmann,1996,Central Midfield,"1,96 m",right,€500k,Bundesliga 2
+404267,Jan Mejdr,1995,Right-Back,"1,87 m",right,€450k,Bundesliga 2
+350357,Sarpreet Singh,1999,Attacking Midfield,"1,77 m",left,€300k,Bundesliga 2
+241974,Nils Körber,1996,Goalkeeper,"1,89 m",right,€250k,Bundesliga 2
+820977,Felix Ruschke,2003,Left-Back,"1,85 m",left,€250k,Bundesliga 2
+342968,Christian Kinsombi,1999,Attacking Midfield,"1,77 m",right,€400k,Bundesliga 2
+911462,Elias Höftmann,2004,Goalkeeper,"1,89 m",,€50k,Bundesliga 2
+159258,Franz Pfanne,1994,Defensive Midfield,"1,87 m",right,€325k,Bundesliga 2
+120296,Benjamin Uphoff,1993,Goalkeeper,"1,92 m",right,€300k,Bundesliga 2
+321079,Svante Ingelsson,1998,Attacking Midfield,"1,89 m",left,€900k,Bundesliga 2
+158360,Nico Neidhart,1994,Right-Back,"1,77 m",both,€350k,Bundesliga 2
+284178,Cedric Harenbrock,1998,Attacking Midfield,"1,80 m",left,€300k,Bundesliga 2
+431848,Jonas David,2000,Centre-Back,"1,92 m",right,€500k,Bundesliga 2
+911465,Joshua Krüger,2004,Defensive Midfield,"1,80 m",right,€75k,Bundesliga 2
+333516,Sebastian Vasiliadis,1997,Central Midfield,"1,77 m",right,€500k,Bundesliga 2
+532784,Nils Fröling,2000,Attacking Midfield,"1,81 m",right,€500k,Bundesliga 2
+324856,Dennis Dressel,1998,Central Midfield,"1,86 m",left,€400k,Bundesliga 2
+496767,Juan José Perea,2000,Centre-Forward,"1,84 m",right,€2.00m,Bundesliga 2
+332527,Sveinn Aron Gudjohnsen,1998,Centre-Forward,"1,89 m",left,€650k,Bundesliga 2
+472234,Jannis Lang,2002,Right-Back,"1,88 m",right,€100k,Bundesliga 2
+237113,John-Patrick Strauß,1996,Defensive Midfield,"1,78 m",right,€350k,Bundesliga 2
+380263,Antonio Jonjic,1999,Centre-Forward,"1,84 m",right,€350k,Bundesliga 2
+109436,Oliver Hüsing,1993,Centre-Back,"1,93 m",right,-,Bundesliga 2
+333666,Dominik Lanius,1997,Centre-Back,"1,95 m",right,€150k,Bundesliga 2
+386541,Sigurd Haugen,1997,Centre-Forward,"1,87 m",right,€600k,Bundesliga 2
+585901,Albin Berisha,2001,Centre-Forward,"1,89 m",,€275k,Bundesliga 2
+661158,Milosz Brzozowski,2004,Left Midfield,"1,80 m",left,€150k,Bundesliga 2
+524590,Júnior Brumado,1999,Centre-Forward,"1,90 m",right,€1.00m,Bundesliga 2
+192309,Lukas Scherff,1996,Left-Back,"1,75 m",left,€150k,Bundesliga 2
+741044,Belal Halbouni,1999,Centre-Back,"1,89 m",right,€150k,Bundesliga 2
+285944,Tarek Chahed,1996,Right-Back,"1,84 m",both,€100k,Bundesliga 2
+1023784,Robert Kampa,2005,Goalkeeper,"1,88 m",right,,Bundesliga 2
+522248,Jamie Lawrence,2002,Centre-Back,"2,01 m",right,€500k,Bundesliga 2
+232355,Leon Bell Bell,1996,Left-Back,"1,80 m",left,€650k,Bundesliga 2
+433185,Xavier Amaechi,2001,Right Winger,"1,79 m",left,€500k,Bundesliga 2
+446625,Alexander Nollenberger,1997,Left Winger,"1,80 m",right,€600k,Bundesliga 2
+151583,Daniel Heber,1994,Centre-Back,"1,82 m",right,€750k,Bundesliga 2
+695644,Jean Hugonet,1999,Centre-Back,"1,86 m",right,€1.50m,Bundesliga 2
+529895,Daniel Elfadli,1997,Defensive Midfield,"1,88 m",right,€2.50m,Bundesliga 2
+656095,Andi Hoti,2003,Centre-Back,"1,91 m",right,€700k,Bundesliga 2
+386792,Stefan Korsch,1999,Left Winger,"1,81 m",right,-,Bundesliga 2
+657635,Bryan Teixeira,2000,Centre-Forward,"1,74 m",right,€800k,Bundesliga 2
+384587,Mohammed El Hankouri,1997,Left Midfield,"1,76 m",right,€1.50m,Bundesliga 2
+405683,Jonah Fabisch,2001,Central Midfield,"1,80 m",both,€175k,Bundesliga 2
+123558,Malcolm Cacutalua,1994,Centre-Back,"1,88 m",right,€200k,Bundesliga 2
+388029,Luca Schuler,1999,Centre-Forward,"1,90 m",right,€700k,Bundesliga 2
+627658,Eldin Dzogovic,2003,Right-Back,"1,80 m",right,€100k,Bundesliga 2
+228975,Julian Pollersbeck,1994,Goalkeeper,"1,95 m",right,€250k,Bundesliga 2
+163086,Cristiano Piccini,1992,Centre-Back,"1,89 m",right,€500k,Bundesliga 2
+390661,Jason Ceka,1999,Right Winger,"1,69 m",both,€600k,Bundesliga 2
+207580,Amara Condé,1997,Central Midfield,"1,73 m",right,€900k,Bundesliga 2
+696822,Emir Kuhinja,2002,Centre-Forward,"1,86 m",right,€150k,Bundesliga 2
+481091,Silas Gnaka,1998,Defensive Midfield,"1,79 m",left,€1.50m,Bundesliga 2
+238722,Dominik Reimann,1997,Goalkeeper,"1,86 m",right,€1.00m,Bundesliga 2
+381248,Tatsuya Ito,1997,Left Winger,"1,67 m",left,€600k,Bundesliga 2
+107205,Connor Krempicki,1994,Central Midfield,"1,78 m",both,€400k,Bundesliga 2
+161072,Baris Atik,1995,Left Winger,"1,69 m",right,€800k,Bundesliga 2
+818246,Noah Kruth,2003,Goalkeeper,"1,86 m",right,€100k,Bundesliga 2
+19483,Tobias Müller,1994,Centre-Back,"1,88 m",both,€600k,Bundesliga 2
+209686,Ahmet Arslan,1994,Attacking Midfield,"1,79 m",right,€350k,Bundesliga 2
+186477,Herbert Bockhorn,1995,Right-Back,"1,76 m",right,€600k,Bundesliga 2
+91915,Luc Castaignos,1992,Centre-Forward,"1,88 m",right,€350k,Bundesliga 2
+477274,Nikolas Agrafiotis,2000,Centre-Forward,"1,90 m",right,€400k,Bundesliga 2
+924330,Nassim El Ouarti,2005,Left-Back,"1,80 m",left,€75k,Bundesliga 2
+398851,Aleksandar Vukotic,1995,Centre-Back,"2,01 m",left,€900k,Bundesliga 2
+166281,Nico Rieble,1995,Left-Back,"1,83 m",both,€175k,Bundesliga 2
+425916,Franko Kovacevic,1999,Centre-Forward,"1,86 m",right,€550k,Bundesliga 2
+522245,Lasse Günther,2003,Left-Back,"1,81 m",left,€1.50m,Bundesliga 2
+340700,Ivan Prtajin,1996,Centre-Forward,"1,89 m",right,€1.50m,Bundesliga 2
+148096,Florian Stritzel,1994,Goalkeeper,"1,97 m",both,€450k,Bundesliga 2
+268216,Marcus Mathisen,1996,Centre-Back,"1,85 m",right,€1.20m,Bundesliga 2
+202838,Max Reinthaler,1995,Centre-Back,"1,93 m",right,€300k,Bundesliga 2
+45674,Mohamed Amsif,1989,Goalkeeper,"1,87 m",both,€75k,Bundesliga 2
+1137145,Ben Nink,2007,Centre-Back,"1,86 m",both,€250k,Bundesliga 2
+239987,Bjarke Jacobsen,1993,Centre-Back,"1,90 m",right,€275k,Bundesliga 2
+122695,Martin Angha,1994,Centre-Back,"1,88 m",both,€400k,Bundesliga 2
+147216,Sascha Mockenhaupt,1991,Centre-Back,"1,87 m",right,€250k,Bundesliga 2
+820760,Noah Brdar,2005,Goalkeeper,"1,90 m",right,€50k,Bundesliga 2
+692397,Amin Farouk,2003,Attacking Midfield,"1,80 m",both,€75k,Bundesliga 2
+334543,Florian Carstens,1998,Centre-Back,"1,92 m",right,€350k,Bundesliga 2
+534304,John Iredale,1999,Centre-Forward,"1,88 m",right,€500k,Bundesliga 2
+196785,Emanuel Taffertshofer,1995,Central Midfield,"1,74 m",right,€250k,Bundesliga 2
+321096,Keanan Bennetts,1999,Left Midfield,"1,81 m",left,€350k,Bundesliga 2
+372127,Arthur Lyska,2000,Goalkeeper,"1,88 m",right,€150k,Bundesliga 2
+443855,Nick Bätzner,2000,Attacking Midfield,"1,76 m",right,€700k,Bundesliga 2
+342240,Thijmen Goppel,1997,Right-Back,"1,80 m",right,€700k,Bundesliga 2
+294701,Kianz Froese,1996,Attacking Midfield,"1,77 m",right,€250k,Bundesliga 2
+264633,Gino Fechner,1997,Defensive Midfield,"1,88 m",both,€400k,Bundesliga 2
+337042,Robin Heußer,1998,Central Midfield,"1,70 m",right,€900k,Bundesliga 2
+317735,Julius Kade,1999,Central Midfield,"1,82 m",left,€375k,Bundesliga 2
+709166,Hyun-ju Lee,2003,Attacking Midfield,"1,72 m",right,€1.50m,Bundesliga 2
+450195,Amar Catic,1999,Right Winger,"1,78 m",right,€425k,Bundesliga 2
+72792,Niko Gießelmann,1991,Left-Back,"1,82 m",left,€400k,Bundesliga 2
+515964,Maximilian Dietz,2002,Centre-Back,"1,89 m",right,€2.50m,Bundesliga 2
+296378,Luca Itter,1999,Centre-Back,"1,83 m",left,€1.50m,Bundesliga 2
+199221,Andreas Linde,1993,Goalkeeper,"1,96 m",right,€400k,Bundesliga 2
+159239,Dennis Srbeny,1994,Centre-Forward,"1,90 m",right,€600k,Bundesliga 2
+171209,Branimir Hrgota,1993,Attacking Midfield,"1,85 m",left,€1.00m,Bundesliga 2
+797564,Leander Popp,2005,Left Winger,"1,80 m",right,€300k,Bundesliga 2
+401639,Lukas Petkov,2000,Right Winger,"1,83 m",right,€800k,Bundesliga 2
+247661,Gideon Jung,1994,Centre-Back,"1,89 m",right,€700k,Bundesliga 2
+607720,Jonas Urbig,2003,Goalkeeper,"1,89 m",both,€3.00m,Bundesliga 2
+291383,Leon Schaffran,1998,Goalkeeper,"1,86 m",right,€200k,Bundesliga 2
+196084,Marco Meyerhöfer,1995,Right-Back,"1,79 m",right,€800k,Bundesliga 2
+392131,Simon Asta,2001,Right-Back,"1,78 m",right,€1.20m,Bundesliga 2
+553285,Tim Lemperle,2002,Centre-Forward,"1,87 m",right,€5.00m,Bundesliga 2
+161204,Julian Green,1995,Central Midfield,"1,73 m",right,€1.70m,Bundesliga 2
+337243,Orestis Kiomourtzoglou,1998,Defensive Midfield,"1,88 m",right,€350k,Bundesliga 2
+673273,Oualid Mhamdi,2003,Right-Back,"1,86 m",right,€300k,Bundesliga 2
+385518,Damian Michalski,1998,Centre-Back,"1,89 m",right,€800k,Bundesliga 2
+511246,Jomaine Consbruch,2002,Central Midfield,"1,74 m",right,€700k,Bundesliga 2
+908370,Ben Schlicke,2005,Centre-Back,"1,95 m",left,€175k,Bundesliga 2
+60028,Edgar Prib,1989,Central Midfield,"1,80 m",left,€100k,Bundesliga 2
+729097,Philipp Müller,2004,Defensive Midfield,"1,81 m",both,€800k,Bundesliga 2
+717345,Sidney Raebiger,2005,Central Midfield,"1,76 m",right,€300k,Bundesliga 2
+569033,Armindo Sieb,2003,Second Striker,"1,75 m",both,€4.00m,Bundesliga 2
+596813,Dickson Abiama,1998,Centre-Forward,"1,84 m",right,€500k,Bundesliga 2
+807452,Semir Kaymakci,2004,Goalkeeper,"1,85 m",right,€150k,Bundesliga 2
+690429,Robert Wagner,2003,Central Midfield,"1,81 m",right,€3.00m,Bundesliga 2
+692338,Devin Angleberger,2003,Central Midfield,"1,79 m",right,€125k,Bundesliga 2
+553905,Kerim Calhanoglu,2002,Left-Back,"1,80 m",left,€250k,Bundesliga 2
+908682,Denis Pfaffenrot,2005,Right Midfield,"1,73 m",right,€300k,Bundesliga 2
+191407,Oussama Haddadi,1992,Centre-Back,"1,85 m",left,€400k,Bundesliga 2
+569032,Florian Bähr,2003,Left-Back,"1,86 m",left,€225k,Bundesliga 2
+527278,Lars Kehl,2002,Attacking Midfield,"1,72 m",right,€275k,Bundesliga 2
+519414,Noel Niemann,1999,Left Winger,"1,71 m",right,€325k,Bundesliga 2
+448027,Florian Kleinhansl,2000,Left-Back,"1,80 m",left,€800k,Bundesliga 2
+189142,Bashkim Ajdini,1992,Right-Back,"1,78 m",both,€250k,Bundesliga 2
+291537,Erik Engelhardt,1998,Centre-Forward,"1,81 m",left,€550k,Bundesliga 2
+452078,Maxwell Gyamfi,2000,Centre-Back,"1,90 m",right,€600k,Bundesliga 2
+388316,Maximilian Thalhammer,1997,Defensive Midfield,"1,91 m",right,€350k,Bundesliga 2
+265136,Oumar Diakhite,1993,Centre-Back,"1,90 m",right,€300k,Bundesliga 2
+817013,Luca Böggemann,2004,Goalkeeper,"1,95 m",right,€50k,Bundesliga 2
+75295,John Verhoek,1989,Centre-Forward,"1,88 m",right,-,Bundesliga 2
+529475,Jannes Wulff,1999,Attacking Midfield,"1,88 m",right,€200k,Bundesliga 2
+917255,Kevin Wiethaup,2005,Attacking Midfield,"1,75 m",right,€150k,Bundesliga 2
+309397,Lennart Grill,1999,Goalkeeper,"1,92 m",right,€450k,Bundesliga 2
+341680,Athanasios Androutsos,1997,Right-Back,"1,82 m",right,€450k,Bundesliga 2
+154819,Kwasi Wriedt,1994,Centre-Forward,"1,88 m",left,€250k,Bundesliga 2
+605244,Emeka Oduah,2002,Right Winger,"1,92 m",right,€50k,Bundesliga 2
+334238,Niklas Wiemann,1999,Centre-Back,"1,92 m",left,€250k,Bundesliga 2
+88430,Timo Beermann,1990,Centre-Back,"1,88 m",left,€200k,Bundesliga 2
+286593,Dave Gnaase,1996,Defensive Midfield,"1,79 m",both,€400k,Bundesliga 2
+124187,Philipp Kühn,1992,Goalkeeper,"1,89 m",right,€250k,Bundesliga 2
+149265,Paterson Chato,1996,Defensive Midfield,"1,86 m",left,€200k,Bundesliga 2
+333239,Lukas Kunze,1998,Central Midfield,"1,91 m",right,€400k,Bundesliga 2
+530298,Christian Conteh,1999,Right Winger,"1,82 m",right,€500k,Bundesliga 2
+344600,Michaël Cuisance,1999,Central Midfield,"1,81 m",left,€3.50m,Bundesliga 2
+381755,Henry Rorig,2000,Right-Back,"1,82 m",right,€225k,Bundesliga 2
+457448,Daniel Adamczyk,2002,Goalkeeper,"1,88 m",right,€150k,Bundesliga 2
+378874,Lex-Tyger Lobinger,1999,Centre-Forward,"1,92 m",right,€350k,Bundesliga 2
+41458,Robert Tesche,1987,Central Midfield,"1,82 m",right,€200k,Bundesliga 2
+414318,Charalambos Makridis,1996,Left Winger,"1,80 m",both,€400k,Bundesliga 2
+364375,Oliver Wähling,1999,Attacking Midfield,"1,86 m",right,€125k,Bundesliga 2
+189912,Thomas Goiginger,1993,Left Winger,"1,81 m",right,€400k,Bundesliga 2
+187097,Budu Zivzivadze,1994,Centre-Forward,"1,89 m",both,€1.80m,Bundesliga 2
+185427,Nicolai Rapp,1996,Defensive Midfield,"1,86 m",right,€1.00m,Bundesliga 2
+1045852,Louey Ben Farhat,2006,Attacking Midfield,"1,75 m",right,,Bundesliga 2
+49730,Sebastian Jung,1990,Right-Back,"1,79 m",right,€300k,Bundesliga 2
+604358,David Herold,2003,Left-Back,"1,85 m",left,€1.50m,Bundesliga 2
+321048,Kelvin Arase,1999,Right Winger,"1,72 m",both,€300k,Bundesliga 2
+1045857,Mateo Kritzer,2006,Defensive Midfield,"1,82 m",right,,Bundesliga 2
+251295,Dzenis Burnic,1998,Right Midfield,"1,81 m",left,€1.20m,Bundesliga 2
+307509,Christoph Kobald,1997,Centre-Back,"1,86 m",both,€600k,Bundesliga 2
+43984,Daniel Brosinski,1988,Right-Back,"1,78 m",right,-,Bundesliga 2
+229176,Fabian Schleusener,1991,Centre-Forward,"1,86 m",both,€500k,Bundesliga 2
+503160,Paul Nebel,2002,Attacking Midfield,"1,69 m",both,€7.00m,Bundesliga 2
+923611,Ali-Eren Ersungur,2005,Attacking Midfield,"1,85 m",right,€200k,Bundesliga 2
+192191,Kai Eisele,1995,Goalkeeper,"1,90 m",both,€150k,Bundesliga 2
+927016,Luis Dettling,2005,Attacking Midfield,"1,83 m",both,€10k,Bundesliga 2
+94192,Patrick Drewes,1993,Goalkeeper,"1,94 m",right,€1.00m,Bundesliga 2
+48298,Lars Stindl,1988,Attacking Midfield,"1,81 m",right,-,Bundesliga 2
+594655,Marcel Beifus,2002,Centre-Back,"1,87 m",right,€2.00m,Bundesliga 2
+273904,Leon Jensen,1997,Central Midfield,"1,75 m",both,€1.00m,Bundesliga 2
+77108,Jérôme Gondorf,1988,Defensive Midfield,"1,76 m",right,-,Bundesliga 2
+283286,Robin Bormuth,1995,Centre-Back,"1,90 m",right,€600k,Bundesliga 2
+829267,Stefano Marino,2004,Centre-Forward,"1,86 m",,€150k,Bundesliga 2
+927017,Efe Kaan Sihlaroglu,2005,Central Midfield,"1,78 m",,€150k,Bundesliga 2
+692148,Tim Rossmann,2003,Left Winger,"1,83 m",left,€1.00m,Bundesliga 2
+112617,Philip Heise,1991,Left-Back,"1,84 m",left,€300k,Bundesliga 2
+156715,Marco Thiede,1992,Right-Back,"1,78 m",right,€300k,Bundesliga 2
+729155,Eren Öztürk,2004,Attacking Midfield,"1,65 m",right,€200k,Bundesliga 2
+605268,Igor Matanovic,2003,Centre-Forward,"1,94 m",right,€8.00m,Bundesliga 2
+131967,Daniel O'Shaughnessy,1994,Centre-Back,"1,90 m",left,€300k,Bundesliga 2
+152435,Marcel Franke,1993,Centre-Back,"1,93 m",right,€700k,Bundesliga 2
+829299,Max Weiß,2004,Goalkeeper,"1,90 m",,€2.00m,Bundesliga 2
+119581,Marvin Wanitzek,1993,Central Midfield,"1,79 m",right,€1.20m,Bundesliga 2
+1085900,Rafael Pinto Pedrosa,2007,Right-Back,"1,80 m",right,€350k,Bundesliga 2
+315332,Aymen Barkok,1998,Attacking Midfield,"1,89 m",right,€700k,Bundesliga 2
+685680,Gustav Christensen,2004,Left Winger,"1,78 m",right,€500k,Bundesliga 2
+203123,Haris Tabakovic,1994,Centre-Forward,"1,94 m",right,€3.00m,Bundesliga 2
+787152,Veit Stange,2004,Defensive Midfield,"1,88 m",right,€150k,Bundesliga 2
+553282,Tjark Ernst,2003,Goalkeeper,"1,93 m",both,€2.50m,Bundesliga 2
+789252,Bence Dárdai,2006,Attacking Midfield,"1,89 m",right,€6.00m,Bundesliga 2
+914720,Tim Hoffmann,2005,Centre-Back,"1,84 m",left,€275k,Bundesliga 2
+279009,Marco Richter,1997,Attacking Midfield,"1,76 m",right,€2.00m,Bundesliga 2
+871837,Bradley Ibrahim,2004,Defensive Midfield,"1,85 m",,€400k,Bundesliga 2
+432281,Márton Dárdai,2002,Centre-Back,"1,88 m",left,€2.50m,Bundesliga 2
+471936,Oliver Christensen,1999,Goalkeeper,"1,90 m",right,€1.50m,Bundesliga 2
+152963,Florian Niederlechner,1990,Centre-Forward,"1,87 m",right,€500k,Bundesliga 2
+93869,Philip Sprint,1993,Goalkeeper,"1,96 m",right,-,Bundesliga 2
+227102,Fabian Reese,1997,Left Winger,"1,89 m",right,€5.00m,Bundesliga 2
+258883,Jonjoe Kenny,1997,Right-Back,"1,76 m",right,€2.50m,Bundesliga 2
+371142,Myziane Maolida,1999,Left Winger,"1,81 m",right,€900k,Bundesliga 2
+193012,Nader Jindaoui,1996,Right Winger,"1,72 m",left,€200k,Bundesliga 2
+147359,Jeremy Dudziak,1995,Left-Back,"1,76 m",left,€750k,Bundesliga 2
+300508,Palkó Dárdai,1999,Right Winger,"1,80 m",left,€800k,Bundesliga 2
+86916,Toni Leistner,1990,Centre-Back,"1,90 m",right,€300k,Bundesliga 2
+328264,Smail Prevljak,1995,Centre-Forward,"1,87 m",right,€700k,Bundesliga 2
+678088,Luca Wollschläger,2003,Centre-Forward,"1,95 m",both,€125k,Bundesliga 2
+815180,Robert Kwasigroch,2004,Goalkeeper,"1,94 m",left,€200k,Bundesliga 2
+157535,Andreas Bouchalakis,1993,Central Midfield,"1,86 m",left,€500k,Bundesliga 2
+448266,Bilal Hussein,2000,Central Midfield,"1,73 m",right,€400k,Bundesliga 2
+822960,Tim Goller,2005,Goalkeeper,"1,93 m",right,€350k,Bundesliga 2
+196382,Marius Gersbeck,1995,Goalkeeper,"1,87 m",left,€350k,Bundesliga 2
+261905,Suat Serdar,1997,Central Midfield,"1,84 m",right,€5.00m,Bundesliga 2
+820957,Derry Scherhant,2002,Left Winger,"1,85 m",right,€1.50m,Bundesliga 2
+401604,Michal Karbownik,2001,Central Midfield,"1,75 m",right,€2.50m,Bundesliga 2
+569368,Kelian Nsona,2002,Left Winger,"1,89 m",right,€600k,Bundesliga 2
+456535,Agustín Rogel,1997,Centre-Back,"1,91 m",right,€600k,Bundesliga 2
+605227,Mesut Kesik,2003,Defensive Midfield,"1,83 m",right,€200k,Bundesliga 2
+160938,Marc Oliver Kempf,1995,Centre-Back,"1,86 m",left,€2.50m,Bundesliga 2
+914716,Eliyas Strasner,2005,Left-Back,"1,79 m",left,€200k,Bundesliga 2
+688641,Tony Rölke,2003,Attacking Midfield,"1,88 m",both,€200k,Bundesliga 2
+706617,Julian Eitschberger,2004,Right-Back,"1,82 m",right,€450k,Bundesliga 2
+905011,Ibrahim Maza,2005,Attacking Midfield,"1,80 m",right,€12.00m,Bundesliga 2
+574569,Marten Winkler,2002,Right Winger,"1,84 m",left,€1.50m,Bundesliga 2
+51100,Peter Pekarík,1986,Right-Back,"1,77 m",right,€225k,Bundesliga 2
+325887,Filip Uremovic,1997,Centre-Back,"1,84 m",right,€3.00m,Bundesliga 2
+820261,Pascal Klemens,2005,Defensive Midfield,"1,86 m",,€4.00m,Bundesliga 2
+338032,Deyovaisio Zeefuik,1998,Right-Back,"1,78 m",right,€1.00m,Bundesliga 2
+692734,Linus Gechter,2004,Centre-Back,"1,91 m",right,€2.50m,Bundesliga 2
+139304,Karol Mets,1993,Centre-Back,"1,91 m",left,€1.30m,Bundesliga 2
+815173,Kevin Jendrzej,2005,Goalkeeper,"1,95 m",right,€100k,Bundesliga 2
+271103,Etienne Amenyido,1998,Centre-Forward,"1,85 m",right,€500k,Bundesliga 2
+154147,Hauke Wahl,1994,Centre-Back,"1,89 m",right,€1.50m,Bundesliga 2
+242661,Manolis Saliakas,1996,Right-Back,"1,77 m",right,€2.80m,Bundesliga 2
+189073,Marcel Hartel,1996,Central Midfield,"1,77 m",both,€4.50m,Bundesliga 2
+692737,Aljoscha Kemlein,2004,Defensive Midfield,"1,85 m",right,€7.00m,Bundesliga 2
+562409,Afeez Aremu,1999,Defensive Midfield,"1,81 m",right,€600k,Bundesliga 2
+509650,Tjark Scheller,2002,Centre-Back,"1,92 m",both,€1.00m,Bundesliga 2
+36898,Sascha Burchert,1989,Goalkeeper,"1,87 m",right,€200k,Bundesliga 2
+451906,David Nemeth,2001,Centre-Back,"1,91 m",both,€1.00m,Bundesliga 2
+248454,Nikola Vasilj,1995,Goalkeeper,"1,93 m",right,€3.00m,Bundesliga 2
+335993,Philipp Treu,2000,Left-Back,"1,73 m",right,€3.50m,Bundesliga 2
+529087,Luca Günther,2001,Right-Back,"1,76 m",right,€100k,Bundesliga 2
+897481,Eric da Silva Moreira,2006,Right Midfield,"1,85 m",right,€1.00m,Bundesliga 2
+236966,Adam Dzwigala,1995,Centre-Back,"1,85 m",right,€600k,Bundesliga 2
+596821,Scott Banks,2001,Right Winger,"1,83 m",left,€500k,Bundesliga 2
+522223,Connor Metcalfe,1999,Central Midfield,"1,83 m",left,€2.50m,Bundesliga 2
+333903,Lars Ritzka,1998,Left-Back,"1,85 m",left,€900k,Bundesliga 2
+192557,Jackson Irvine,1993,Central Midfield,"1,89 m",right,€2.00m,Bundesliga 2
+88647,Andreas Albers,1990,Centre-Forward,"1,93 m",right,€300k,Bundesliga 2
+227511,Maurides,1994,Centre-Forward,"1,89 m",left,€300k,Bundesliga 2
+346499,Danel Sinani,1997,Right Winger,"1,85 m",left,€500k,Bundesliga 2
+292534,Eric Smith,1997,Centre-Back,"1,92 m",right,€5.00m,Bundesliga 2
+487850,Oladapo Afolayan,1997,Right Winger,"1,80 m",right,€4.00m,Bundesliga 2
+488755,Jakov Medic,1998,Centre-Back,"1,93 m",right,€2.00m,Bundesliga 2
+501049,Erik Ahlstrand,2001,Central Midfield,"1,84 m",,€700k,Bundesliga 2
+526466,Elias Saad,1999,Left Winger,"1,85 m",right,€4.00m,Bundesliga 2
+251303,Johannes Eggestein,1998,Centre-Forward,"1,83 m",right,€2.50m,Bundesliga 2
+333074,Sören Ahlers,1997,Goalkeeper,"1,94 m",both,€50k,Bundesliga 2
+79967,Simon Zoller,1991,Centre-Forward,"1,79 m",right,€300k,Bundesliga 2
+329373,Carlo Boukhalfa,1999,Central Midfield,"1,86 m",left,€1.00m,Bundesliga 2
+532495,Marlon Mustapha,2001,Centre-Forward,"1,85 m",right,€750k,Bundesliga 2
+85164,Andre Hoffmann,1993,Centre-Back,"1,90 m",right,€650k,Bundesliga 2
+790918,Joshua Quarshie,2004,Centre-Back,"1,96 m",right,€800k,Bundesliga 2
+324851,Christoph Daferner,1998,Centre-Forward,"1,89 m",right,€600k,Bundesliga 2
+79501,Daniel Ginczek,1991,Centre-Forward,"1,91 m",right,-,Bundesliga 2
+521634,Karol Niemczycki,1999,Goalkeeper,"1,90 m",left,€400k,Bundesliga 2
+928265,Sima Suso,2005,Defensive Midfield,"1,90 m",left,€350k,Bundesliga 2
+579565,Ísak Jóhannesson,2003,Central Midfield,"1,84 m",left,€5.00m,Bundesliga 2
+405670,Yannik Engelhardt,2001,Defensive Midfield,"1,84 m",right,€7.00m,Bundesliga 2
+815629,David Savic,2005,Right-Back,"1,82 m",both,€75k,Bundesliga 2
+809682,Jona Niemiec,2001,Right Winger,"1,88 m",both,€650k,Bundesliga 2
+273054,Vincent Vermeij,1994,Centre-Forward,"1,96 m",right,€900k,Bundesliga 2
+182816,Nicolas Gavory,1995,Left-Back,"1,83 m",left,€800k,Bundesliga 2
+934519,Elione Fernandes Neto,2005,Central Midfield,"1,84 m",both,€600k,Bundesliga 2
+119044,Marcel Sobottka,1994,Defensive Midfield,"1,85 m",right,€800k,Bundesliga 2
+700105,Daniel Bunk,2004,Central Midfield,"1,70 m",right,€100k,Bundesliga 2
+452121,Shinta Appelkamp,2000,Central Midfield,"1,75 m",right,€2.50m,Bundesliga 2
+489359,Ao Tanaka,1998,Central Midfield,"1,80 m",right,€4.00m,Bundesliga 2
+515147,Tim Corsten,2001,Centre-Back,"1,87 m",left,€125k,Bundesliga 2
+549490,Dennis Gorka,2002,Goalkeeper,"1,90 m",left,€150k,Bundesliga 2
+701397,Takashi Uchino,2001,Right-Back,"1,77 m",both,€375k,Bundesliga 2
+86848,Matthias Zimmermann,1992,Defensive Midfield,"1,77 m",right,€650k,Bundesliga 2
+215096,Jordy de Wijs,1995,Centre-Back,"1,89 m",left,€750k,Bundesliga 2
+358906,Tim Oberdorf,1996,Centre-Back,"1,86 m",right,€1.20m,Bundesliga 2
+527813,Robin Bird,2001,Right Winger,"1,72 m",both,€75k,Bundesliga 2
+604113,Jamil Siebert,2002,Centre-Back,"1,93 m",right,€3.00m,Bundesliga 2
+89591,Felix Klaus,1992,Right Midfield,"1,79 m",right,€650k,Bundesliga 2
+488048,Benjamin Böckle,2002,Left-Back,"1,85 m",left,€500k,Bundesliga 2
+255294,Florian Kastenmeier,1997,Goalkeeper,"1,92 m",right,€1.50m,Bundesliga 2
+314245,Emmanuel Iyoha,1997,Left-Back,"1,91 m",both,€1.20m,Bundesliga 2
+358870,Dennis Jastrzembski,2000,Left Winger,"1,80 m",left,€400k,Bundesliga 2
+451677,Christos Tzolis,2002,Left Winger,"1,79 m",right,€18.00m,Bundesliga 2
+530165,Seymour Fünger,2002,Centre-Back,"1,91 m",,€100k,Bundesliga 2
+924117,Finn Jeltsch,2006,Centre-Back,"1,88 m",right,€5.00m,Bundesliga 2
+519868,Ali Loune,2002,Defensive Midfield,"1,80 m",,€300k,Bundesliga 2
+192840,Jan Gyamerah,1995,Right-Back,"1,84 m",right,€700k,Bundesliga 2
+57842,Christopher Schindler,1990,Centre-Back,"1,88 m",right,-,Bundesliga 2
+231586,Jannes Horn,1997,Centre-Back,"1,86 m",left,€1.50m,Bundesliga 2
+296227,Iván Márquez,1994,Centre-Back,"1,91 m",right,€600k,Bundesliga 2
+816585,Can Uzun,2005,Attacking Midfield,"1,86 m",right,€12.00m,Bundesliga 2
+690993,Daichi Hayashi,1997,Centre-Forward,"1,78 m",right,€650k,Bundesliga 2
+164767,Felix Lohkemper,1995,Right Winger,"1,80 m",right,€350k,Bundesliga 2
+260657,Erik Wekesser,1997,Left-Back,"1,86 m",left,€450k,Bundesliga 2
+596881,Florian Flick,2000,Defensive Midfield,"1,90 m",both,€1.00m,Bundesliga 2
+82361,Christian Mathenia,1992,Goalkeeper,"1,90 m",right,€300k,Bundesliga 2
+40605,Enrico Valentini,1989,Right-Back,"1,82 m",right,€250k,Bundesliga 2
+147573,Sebastian Andersson,1991,Centre-Forward,"1,90 m",right,€300k,Bundesliga 2
+654872,Marcel Wenig,2004,Attacking Midfield,"1,88 m",right,€500k,Bundesliga 2
+85822,Florian Hübner,1991,Centre-Back,"1,93 m",right,€150k,Bundesliga 2
+912250,Julian Kania,2001,Centre-Forward,"1,93 m",right,€400k,Bundesliga 2
+314214,Taylan Duman,1997,Central Midfield,"1,80 m",right,€450k,Bundesliga 2
+515654,Kanji Okunuki,1999,Left Winger,"1,71 m",right,€800k,Bundesliga 2
+388058,Benjamin Goller,1999,Right Winger,"1,80 m",right,€600k,Bundesliga 2
+479273,Lukas Schleimer,1999,Centre-Forward,"1,84 m",right,€750k,Bundesliga 2
+272706,James Lawrence,1992,Centre-Back,"1,88 m",left,€350k,Bundesliga 2
+594747,Jannik Hofmann,2002,Right-Back,"1,77 m",right,€300k,Bundesliga 2
+666167,Nicolas Ortegel,2004,Goalkeeper,"1,93 m",right,€125k,Bundesliga 2
+624462,Jan Reichert,2001,Goalkeeper,"1,91 m",,€800k,Bundesliga 2
+691892,Nathaniel Brown,2003,Left-Back,"1,80 m",left,€8.00m,Bundesliga 2
+613192,Jens Castrop,2003,Central Midfield,"1,78 m",right,€3.00m,Bundesliga 2
+161057,Carl Klaus,1994,Goalkeeper,"1,89 m",right,€350k,Bundesliga 2
+725703,Joseph Hungbo,2000,Right Winger,"1,73 m",left,€450k,Bundesliga 2
+190831,Mats Møller Dæhli,1995,Defensive Midfield,"1,72 m",right,€1.20m,Bundesliga 2
+89650,Johannes Geis,1993,Defensive Midfield,"1,81 m",right,€300k,Bundesliga 2
+284177,Tim Handwerker,1998,Left-Back,"1,82 m",left,€1.00m,Bundesliga 2
+386786,Darko Churlinov,2000,Left Winger,"1,80 m",right,€1.50m,Bundesliga 2
+810100,Taylan Bulut,2006,Right-Back,"1,88 m",right,€2.00m,Bundesliga 2
+129358,Marcin Kaminski,1992,Centre-Back,"1,92 m",left,€400k,Bundesliga 2
+283141,Blendi Idrizi,1998,Attacking Midfield,"1,76 m",right,€450k,Bundesliga 2
+570160,Henning Matriciani,2000,Centre-Back,"1,87 m",right,€450k,Bundesliga 2
+897424,Assan Ouédraogo,2006,Central Midfield,"1,91 m",right,€10.00m,Bundesliga 2
+908946,Niklas Castelle,2002,Centre-Forward,"1,82 m",right,€150k,Bundesliga 2
+453770,Justin Heekeren,2000,Goalkeeper,"1,96 m",,€600k,Bundesliga 2
+153661,Tobias Mohr,1995,Left Midfield,"1,82 m",left,€500k,Bundesliga 2
+477109,Bryan Lasme,1998,Centre-Forward,"1,94 m",right,€600k,Bundesliga 2
+187491,Timo Baumgartl,1996,Centre-Back,"1,92 m",right,€450k,Bundesliga 2
+796216,Emmanuel Gyamfi,2004,Left Midfield,"1,78 m",left,€200k,Bundesliga 2
+147038,Cédric Brunner,1994,Right-Back,"1,81 m",right,€500k,Bundesliga 2
+604359,Yusuf Kabadayi,2004,Left Winger,"1,86 m",right,€1.50m,Bundesliga 2
+378883,Lino Tempelmann,1999,Central Midfield,"1,75 m",right,€500k,Bundesliga 2
+241477,Thomas Ouwejan,1996,Left-Back,"1,83 m",left,€1.20m,Bundesliga 2
+60957,Sebastian Polter,1991,Centre-Forward,"1,92 m",right,€300k,Bundesliga 2
+471897,Jimmy Kaparos,2001,Defensive Midfield,"1,87 m",right,€200k,Bundesliga 2
+19114,Michael Langer,1985,Goalkeeper,"1,95 m",right,€50k,Bundesliga 2
+39025,Danny Latza,1989,Central Midfield,"1,79 m",right,€150k,Bundesliga 2
+425478,Nelson Amadin,2000,Right Winger,"1,86 m",left,€150k,Bundesliga 2
+457341,Derry Murkin,1999,Left-Back,"1,83 m",left,€1.80m,Bundesliga 2
+701757,Keke Topp,2004,Centre-Forward,"1,92 m",right,€4.00m,Bundesliga 2
+548935,Steven van der Sloot,2002,Right-Back,"1,75 m",right,€350k,Bundesliga 2
+684340,Ibrahima Cissé,2001,Centre-Back,"1,96 m",right,€350k,Bundesliga 2
+118161,Marius Müller,1993,Goalkeeper,"1,92 m",right,€1.50m,Bundesliga 2
+53400,Dominick Drexler,1990,Attacking Midfield,"1,83 m",right,€300k,Bundesliga 2
+546880,Brandon Soppy,2002,Right-Back,"1,80 m",right,€1.50m,Bundesliga 2
+148657,Tomas Kalas,1993,Centre-Back,"1,84 m",right,€700k,Bundesliga 2
+508961,Malik Talabidi,2001,Centre-Back,"1,85 m",right,€75k,Bundesliga 2
+119557,Kenan Karaman,1994,Centre-Forward,"1,89 m",right,€2.50m,Bundesliga 2
+332392,Ron Schallenberg,1998,Defensive Midfield,"1,85 m",right,€1.50m,Bundesliga 2
+405393,Soichiro Kozuki,2000,Left Winger,"1,82 m",right,€450k,Bundesliga 2
+39015,Ralf Fährmann,1988,Goalkeeper,"1,97 m",right,€200k,Bundesliga 2
+434110,Leo Greiml,2001,Centre-Back,"1,87 m",right,€900k,Bundesliga 2
+183780,Paul Seguin,1995,Central Midfield,"1,86 m",right,€1.20m,Bundesliga 2
+452054,Joey Müller,2000,Left-Back,"1,80 m",left,€450k,Bundesliga 2
+36284,Simon Terodde,1988,Centre-Forward,"1,92 m",right,-,Bundesliga 2
+118196,Jean Zimmer,1993,Right-Back,"1,73 m",right,€450k,Bundesliga 2
+396230,Filip Kaloc,2000,Central Midfield,"1,90 m",right,€1.20m,Bundesliga 2
+344063,Aaron Opoku,1999,Left Winger,"1,86 m",right,€800k,Bundesliga 2
+273937,Avdo Spahic,1997,Goalkeeper,"1,90 m",right,€175k,Bundesliga 2
+103064,Terrence Boyd,1991,Centre-Forward,"1,88 m",right,€325k,Bundesliga 2
+216399,Philipp Hercher,1996,Right Midfield,"1,82 m",right,€600k,Bundesliga 2
+674921,Nikola Soldo,2001,Centre-Back,"1,89 m",right,€400k,Bundesliga 2
+361575,Tymoteusz Puchacz,1999,Left-Back,"1,83 m",left,€1.70m,Bundesliga 2
+151636,Marlon Ritter,1994,Attacking Midfield,"1,73 m",right,€850k,Bundesliga 2
+93922,Erik Durm,1992,Right-Back,"1,83 m",right,-,Bundesliga 2
+60394,Philipp Klement,1992,Attacking Midfield,"1,75 m",left,€400k,Bundesliga 2
+53116,Robin Himmelmann,1989,Goalkeeper,"1,87 m",right,€150k,Bundesliga 2
+416380,Ragnar Ache,1998,Centre-Forward,"1,83 m",right,€5.00m,Bundesliga 2
+216181,Almamy Touré,1996,Centre-Back,"1,81 m",right,€900k,Bundesliga 2
+411133,Niklas Heeger,2000,Goalkeeper,"1,87 m",,-,Bundesliga 2
+270027,Frank Ronstadt,1997,Right-Back,"1,79 m",right,€550k,Bundesliga 2
+93841,Ben Zolinski,1992,Right Winger,"1,81 m",right,€200k,Bundesliga 2
+196147,Kenny-Prince Redondo,1994,Left Winger,"1,80 m",left,€500k,Bundesliga 2
+416809,Daniel Hanslik,1996,Centre-Forward,"1,86 m",left,€800k,Bundesliga 2
+530173,Julian Niehues,2001,Defensive Midfield,"1,95 m",right,€1.50m,Bundesliga 2
+464195,Filip Stojilkovic,2000,Centre-Forward,"1,86 m",right,€700k,Bundesliga 2
+384745,Tobias Raschl,2000,Central Midfield,"1,77 m",right,€700k,Bundesliga 2
+82018,Hendrick Zuck,1990,Left-Back,"1,76 m",left,€175k,Bundesliga 2
+58996,Kevin Kraus,1992,Centre-Back,"1,90 m",right,€300k,Bundesliga 2
+280581,Boris Tomiak,1998,Centre-Back,"1,93 m",right,€2.00m,Bundesliga 2
+337082,Julian Krahl,2000,Goalkeeper,"1,94 m",right,€1.00m,Bundesliga 2
+390460,Richmond Tachie,1999,Centre-Forward,"1,78 m",right,€800k,Bundesliga 2
+741319,Shawn Blum,2003,Left Winger,"1,80 m",both,-,Bundesliga 2
+798092,Aaron Basenach,2003,Defensive Midfield,"1,84 m",,-,Bundesliga 2
+41323,Andreas Luthe,1987,Goalkeeper,"1,95 m",right,-,Bundesliga 2
+322506,Jan Elvedi,1996,Centre-Back,"1,87 m",right,€800k,Bundesliga 2
+264960,Robin Fellhauer,1998,Defensive Midfield,"1,82 m",right,€1.50m,Bundesliga 2
+900909,Paul Wanner,2005,Attacking Midfield,"1,85 m",left,€18.00m,Bundesliga 2
+260008,Manuel Feil,1994,Right Winger,"1,70 m",right,€450k,Bundesliga 2
+501794,Jannik Rochelt,1998,Left Winger,"1,82 m",both,€1.20m,Bundesliga 2
+448259,Lukas Pinckert,2000,Centre-Back,"1,85 m",right,€1.00m,Bundesliga 2
+82526,Nico Antonitsch,1991,Centre-Back,"1,87 m",right,-,Bundesliga 2
+85908,Luca Dürholtz,1993,Central Midfield,"1,78 m",both,€250k,Bundesliga 2
+244997,Arne Sicker,1997,Left-Back,"1,84 m",left,€300k,Bundesliga 2
+216422,Maurice Neubauer,1996,Left-Back,"1,80 m",left,€700k,Bundesliga 2
+917569,Dylan Downey,2005,Defender,,,,Bundesliga 2
+55597,Marcel Correia,1989,Centre-Back,"1,86 m",right,€175k,Bundesliga 2
+693357,Hugo Vandermersch,1999,Right-Back,"1,80 m",right,€1.50m,Bundesliga 2
+625781,Luis Kerner,2000,Centre-Back,"1,88 m",right,,Bundesliga 2
+85534,Tim Boss,1993,Goalkeeper,"1,86 m",both,€200k,Bundesliga 2
+193611,Patryk Dragon,1996,Defensive Midfield,"1,86 m",right,€50k,Bundesliga 2
+610431,Wahid Faghir,2003,Centre-Forward,"1,86 m",right,€1.00m,Bundesliga 2
+697015,Sebastian Saftig,2002,Defensive Midfield,"1,93 m",,-,Bundesliga 2
+405679,Frederik Jäkel,2001,Centre-Back,"1,94 m",right,€1.20m,Bundesliga 2
+236986,Thore Jacobsen,1997,Defensive Midfield,"1,82 m",left,€450k,Bundesliga 2
+44536,Frank Lehmann,1989,Goalkeeper,"1,93 m",right,€100k,Bundesliga 2
+227093,Dominik Martinovic,1997,Centre-Forward,"1,80 m",right,€300k,Bundesliga 2
+61758,Kevin Koffi,1986,Centre-Forward,"1,81 m",right,-,Bundesliga 2
+57990,Kevin Conrad,1990,Centre-Back,"1,81 m",both,-,Bundesliga 2
+425834,Paul Stock,1997,Attacking Midfield,"1,88 m",right,€600k,Bundesliga 2
+352332,Florian Le Joncour,1995,Centre-Back,"1,93 m",left,€600k,Bundesliga 2
+228386,Joseph Boyamba,1996,Right Winger,"1,72 m",left,€275k,Bundesliga 2
+566857,Semih Sahin,1999,Central Midfield,"1,77 m",right,€1.80m,Bundesliga 2
+229991,Luca Schnellbacher,1994,Centre-Forward,"1,80 m",right,€700k,Bundesliga 2
+349465,Nicolas Kristof,1999,Goalkeeper,"1,87 m",both,€1.00m,Bundesliga 2
+282163,Carlo Sickinger,1997,Defensive Midfield,"1,83 m",both,€800k,Bundesliga 2
+335999,Vincent Gembalies,2000,Centre-Back,"1,87 m",right,€100k,Bundesliga 2
+119120,Robert Leipertz,1993,Attacking Midfield,"1,83 m",left,€400k,Bundesliga 2
+453121,Koen Kostons,1999,Centre-Forward,"1,86 m",right,€750k,Bundesliga 2
+406889,Pelle Boevink,1998,Goalkeeper,"1,90 m",both,€500k,Bundesliga 2
+817999,Dawyn-Paul Donner,2002,Centre-Back,"1,92 m",right,€75k,Bundesliga 2
+369888,Jannis Heuer,1999,Centre-Back,"1,89 m",right,€1.00m,Bundesliga 2
+602796,Filip Bilbija,2000,Right Winger,"1,90 m",both,€2.00m,Bundesliga 2
+606220,Martin Ens,2001,Centre-Back,"1,87 m",right,€200k,Bundesliga 2
+516978,Laurin Curda,2001,Centre-Back,"1,85 m",,€800k,Bundesliga 2
+1081947,Travis de Jong,2005,Centre-Forward,"1,93 m",right,€100k,Bundesliga 2
+358766,Calvin Brackelmann,1999,Centre-Back,"1,96 m",left,€1.00m,Bundesliga 2
+332624,Kai Klefisch,1999,Defensive Midfield,"1,90 m",right,€1.50m,Bundesliga 2
+420376,Michael Martin,2000,Central Midfield,"1,80 m",,€275k,Bundesliga 2
+606301,Arne Schulz,2003,Goalkeeper,"1,92 m",right,€100k,Bundesliga 2
+196834,David Kinsombi,1995,Central Midfield,"1,83 m",right,€600k,Bundesliga 2
+1116191,Luis Engelns,2007,Central Midfield,"1,88 m",right,€1.50m,Bundesliga 2
+565118,Jesse Tugbenyo,2001,Attacking Midfield,"1,87 m",right,€150k,Bundesliga 2
+930013,Florian Pruhs,2006,Goalkeeper,"1,90 m",,€150k,Bundesliga 2
+378424,Sebastian Klaas,1998,Central Midfield,"1,80 m",both,€800k,Bundesliga 2
+337036,Florent Muslija,1998,Left Winger,"1,72 m",right,€2.50m,Bundesliga 2
+160954,Jannik Huth,1994,Goalkeeper,"1,85 m",right,€400k,Bundesliga 2
+1035765,Ilyas Ansah,2004,Left Winger,"1,94 m",,€2.00m,Bundesliga 2
+570152,Marcel Hoffmeier,1999,Centre-Back,"1,82 m",right,€1.00m,Bundesliga 2
+453865,Kimberly Ezekwem,2001,Left-Back,"1,87 m",left,€300k,Bundesliga 2
+859433,Moritz Flotho,2002,Centre-Forward,"1,93 m",right,€350k,Bundesliga 2
+440386,Maximilian Rohr,1995,Centre-Back,"1,93 m",both,€600k,Bundesliga 2
+330699,Raphael Obermair,1996,Right Midfield,"1,82 m",right,€1.50m,Bundesliga 2
+606209,Justus Henke,2001,Centre-Back,"1,89 m",,€75k,Bundesliga 2
+930025,Medin Kojic,2005,Defensive Midfield,"1,79 m",,€250k,Bundesliga 2
+820819,Marco Pledl,2000,Left Midfield,"1,73 m",both,€150k,Bundesliga 2
+307183,Sirlord Conteh,1996,Right Winger,"1,78 m",right,€1.50m,Bundesliga 2
+730484,Aaron Zehnter,2004,Left Midfield,"1,80 m",left,€3.00m,Bundesliga 2
+447799,Niclas Nadj,2000,Attacking Midfield,"1,78 m",right,€250k,Bundesliga 2
+694132,Mattes Hansen,2004,Defensive Midfield,"1,83 m",right,€1.50m,Bundesliga 2
+195782,Felix Platte,1996,Centre-Forward,"1,90 m",right,€500k,Bundesliga 2
+603734,Jascha Brandt,2003,Attacking Midfield,"1,84 m",left,€200k,Bundesliga 2
+207623,Visar Musliu,1994,Centre-Back,"1,87 m",both,€550k,Bundesliga 2
+69392,Adriano Grimaldi,1991,Centre-Forward,"1,88 m",right,€400k,Bundesliga 2
+36182,Max Kruse,1988,Second Striker,"1,80 m",left,-,Bundesliga 2
+291222,Jean-Luc Dompé,1995,Left Winger,"1,70 m",right,€2.00m,Bundesliga 2
+213751,Sebastian Schonlau,1994,Centre-Back,"1,88 m",both,€1.00m,Bundesliga 2
+469949,Noah Katterbach,2001,Left-Back,"1,80 m",left,€600k,Bundesliga 2
+322065,Dennis Hadzikadunic,1998,Centre-Back,"1,91 m",right,€1.70m,Bundesliga 2
+806007,Luis Seifert,2004,Centre-Back,"1,85 m",,€150k,Bundesliga 2
+196139,Robert Glatzel,1994,Centre-Forward,"1,93 m",both,€3.00m,Bundesliga 2
+482383,Valon Zumberi,2002,Centre-Back,"1,88 m",right,€150k,Bundesliga 2
+743500,William Mikelbrencis,2004,Right-Back,"1,76 m",right,€750k,Bundesliga 2
+415194,Bakery Jatta,1998,Right Winger,"1,84 m",right,€1.30m,Bundesliga 2
+44607,Tom Mickel,1989,Goalkeeper,"1,85 m",right,€100k,Bundesliga 2
+546415,András Németh,2002,Centre-Forward,"1,87 m",right,€800k,Bundesliga 2
+307052,Masaya Okugawa,1996,Left Winger,"1,77 m",both,€900k,Bundesliga 2
+107574,Jonas Meffert,1994,Defensive Midfield,"1,86 m",right,€1.00m,Bundesliga 2
+386685,Matheo Raab,1998,Goalkeeper,"1,86 m",right,€600k,Bundesliga 2
+897491,Bilal Yalcinkaya,2006,Attacking Midfield,"1,82 m",both,,Bundesliga 2
+798038,Tom Sanne,2004,Centre-Forward,"1,72 m",both,€250k,Bundesliga 2
+327536,Stephan Ambrosius,1998,Centre-Back,"1,82 m",right,€800k,Bundesliga 2
+298603,Miro Muheim,1998,Left-Back,"1,82 m",left,€2.70m,Bundesliga 2
+490423,Ignace Van der Brempt,2002,Right-Back,"1,87 m",right,€3.00m,Bundesliga 2
+340521,Gui Ramos,1997,Centre-Back,"1,91 m",right,€800k,Bundesliga 2
+412935,Immanuel Pherai,2001,Attacking Midfield,"1,75 m",right,€2.50m,Bundesliga 2
+729165,Nicolas Oliveira,2004,Right-Back,"1,83 m",right,€300k,Bundesliga 2
+532169,Lukasz Poreba,2000,Central Midfield,"1,79 m",right,€1.00m,Bundesliga 2
+910582,Omar Megeed,2005,Attacking Midfield,"1,93 m",right,€200k,Bundesliga 2
+433894,Anssi Suhonen,2001,Central Midfield,"1,75 m",both,€500k,Bundesliga 2
+1058520,Otto Stange,2007,Centre-Forward,"1,87 m",right,€400k,Bundesliga 2
+432757,Mario Vuskovic,2001,Centre-Back,"1,89 m",right,-,Bundesliga 2
+243188,László Bénes,1997,Central Midfield,"1,81 m",left,€4.00m,Bundesliga 2
+470038,Ransford Königsdörffer,2001,Centre-Forward,"1,82 m",right,€3.00m,Bundesliga 2
+168543,Levin Öztunali,1996,Left Winger,"1,84 m",right,€400k,Bundesliga 2
+490884,Ludovit Reis,2000,Central Midfield,"1,78 m",right,€3.50m,Bundesliga 2
+638631,Elijah Krahn,2003,Defensive Midfield,"1,88 m",right,€350k,Bundesliga 2
+193025,Moritz Heyer,1995,Centre-Back,"1,85 m",right,€500k,Bundesliga 2
+84993,Daniel Heuer Fernandes,1992,Goalkeeper,"1,88 m",right,€700k,Bundesliga 2

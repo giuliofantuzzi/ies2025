@@ -1,0 +1,648 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+1043471,Augusto Dabó,2004,Left-Back,"1,86 m",left,€300k,Primeira Liga
+344474,Ilija Vukotić,1999,Central Midfield,"1,91 m",left,€600k,Primeira Liga
+685805,João Gonçalves,2000,Goalkeeper,"1,88 m",right,€700k,Primeira Liga
+182936,Filipe Ferreira,1990,Left-Back,"1,78 m",left,€200k,Primeira Liga
+1013713,Tomé Sousa,2006,Goalkeeper,"1,90 m",,€200k,Primeira Liga
+595012,Ibrahima,1999,Defensive Midfield,"1,90 m",right,€500k,Primeira Liga
+1070536,Tiago Machado,2004,Centre-Forward,"1,85 m",left,€200k,Primeira Liga
+929573,Joel Silva,2003,Central Midfield,"1,85 m",left,€600k,Primeira Liga
+1153785,Luís Pires,2004,Goalkeeper,"1,88 m",right,€100k,Primeira Liga
+182108,Seba Pérez,1993,Defensive Midfield,"1,75 m",right,€1.50m,Primeira Liga
+450173,Gaius Makouta,1997,Central Midfield,"1,80 m",right,€2.30m,Primeira Liga
+454576,Robert Bozenik,1999,Centre-Forward,"1,88 m",right,€4.00m,Primeira Liga
+924885,Martim Tavares,2003,Centre-Forward,"1,83 m",right,€400k,Primeira Liga
+657791,Jeriel de Santis,2002,Centre-Forward,"1,90 m",right,€250k,Primeira Liga
+685807,Luís dos Santos,2000,Right Winger,"1,76 m",right,€225k,Primeira Liga
+815652,Tiago Morais,2003,Left Winger,"1,68 m",right,€3.00m,Primeira Liga
+358143,Chidozie Awaziem,1997,Centre-Back,"1,89 m",right,€2.00m,Primeira Liga
+550631,Masaki Watai,1999,Attacking Midfield,"1,68 m",right,€350k,Primeira Liga
+929575,Cristiano Fitzgerald,2003,Left Winger,"1,74 m",right,€100k,Primeira Liga
+155395,Salvador Agra,1991,Right Winger,"1,66 m",right,€300k,Primeira Liga
+314942,Bruno Lourenço,1998,Right Winger,"1,79 m",left,€700k,Primeira Liga
+478366,Miguel Reisinho,1999,Central Midfield,"1,84 m",left,€800k,Primeira Liga
+701325,Bruno Onyemaechi,1999,Left-Back,"1,84 m",left,€3.00m,Primeira Liga
+122115,Vincent Sasso,1991,Centre-Back,"1,90 m",right,€200k,Primeira Liga
+818252,Pedro Malheiro,2001,Right-Back,"1,79 m",right,€4.80m,Primeira Liga
+775399,Berna,2003,Attacking Midfield,"1,69 m",left,€225k,Primeira Liga
+367652,Rodrigo Abascal,1994,Centre-Back,"1,90 m",left,€800k,Primeira Liga
+177776,César,1992,Goalkeeper,"1,92 m",right,€300k,Primeira Liga
+1062741,Gonçalo Miguel,2003,Right-Back,"1,81 m",right,€250k,Primeira Liga
+526111,Alex Méndez,2000,Central Midfield,"1,80 m",left,€300k,Primeira Liga
+461937,Nuno Moreira,1999,Left Winger,"1,75 m",right,€1.50m,Primeira Liga
+391719,Domingos Quina,1999,Central Midfield,"1,73 m",right,€1.00m,Primeira Liga
+739438,Matheus Pereira,2000,Left-Back,"1,72 m",left,€1.20m,Primeira Liga
+706176,Abdul Awudu,2001,Central Midfield,"1,85 m",right,€300k,Primeira Liga
+344519,Bruno Costa,1997,Central Midfield,"1,74 m",right,€500k,Primeira Liga
+539183,Anderson,1995,Centre-Back,"1,86 m",right,€400k,Primeira Liga
+378174,Jardel,1997,Centre-Forward,"1,84 m",right,€275k,Primeira Liga
+71830,Bruno Wilson,1996,Centre-Back,"1,92 m",right,€800k,Primeira Liga
+487688,Alberto Soro,1999,Right Winger,"1,73 m",left,€550k,Primeira Liga
+461939,Tomás Silva,1999,Right-Back,"1,72 m",right,€500k,Primeira Liga
+735822,Hugo Oliveira,2002,Right-Back,"1,74 m",right,€225k,Primeira Liga
+610238,Pedro Ortiz,2000,Central Midfield,"1,84 m",left,€300k,Primeira Liga
+192968,Francesco Ruberto,1993,Goalkeeper,"1,87 m",right,€175k,Primeira Liga
+869901,Messias,2005,Right-Back,"1,63 m",right,,Primeira Liga
+355370,Dylan Saint-Louis,1995,Left Winger,"1,85 m",right,€200k,Primeira Liga
+587550,Rafael Bustamante,1999,Defensive Midfield,"1,76 m",right,€400k,Primeira Liga
+524964,Orest Lebedenko,1998,Left-Back,"1,76 m",left,€400k,Primeira Liga
+605466,Iker Unzueta,1998,Centre-Forward,"1,84 m",right,€500k,Primeira Liga
+95429,Osama Rashid,1992,Defensive Midfield,"1,78 m",right,€175k,Primeira Liga
+291939,Samu,1996,Attacking Midfield,"1,70 m",left,€2.00m,Primeira Liga
+426523,Joaquín Novillo,1998,Centre-Back,"1,90 m",left,€300k,Primeira Liga
+423610,Sava Petrov,1998,Centre-Forward,"1,90 m",right,€300k,Primeira Liga
+763798,Alejandro Alvarado,2003,Second Striker,"1,80 m",right,€50k,Primeira Liga
+340524,Ivanildo Fernandes,1996,Centre-Back,"1,94 m",left,€300k,Primeira Liga
+842780,Houssem Mrezigue,2000,Defensive Midfield,"1,83 m",right,€900k,Primeira Liga
+396428,Rodrigo Escoval,1997,Centre-Back,"1,88 m",right,€800k,Primeira Liga
+399844,Aleksandar Busnić,1997,Defensive Midfield,"1,91 m",right,€500k,Primeira Liga
+395522,Samuel Essende,1998,Centre-Forward,"1,93 m",right,€4.50m,Primeira Liga
+590302,Kiko Bondoso,1995,Left Winger,"1,69 m",right,€800k,Primeira Liga
+702402,Nikola Bursać,2001,Goalkeeper,"1,91 m",right,€100k,Primeira Liga
+248349,Fabijan Buntic,1997,Goalkeeper,"1,94 m",left,€700k,Primeira Liga
+1042940,Rodrigo Ramos,2004,Right Winger,"1,81 m",right,€300k,Primeira Liga
+642721,Matías Lacava,2002,Right Winger,"1,67 m",left,€700k,Primeira Liga
+325200,Jason Lokilo,1998,Right Winger,"1,75 m",left,€700k,Primeira Liga
+889618,Amadou Ba-Sy,2001,Centre-Forward,"1,91 m",both,€300k,Primeira Liga
+690924,Jota,2000,Centre-Back,"1,86 m",right,€500k,Primeira Liga
+654099,Diogo Nascimento,2002,Central Midfield,"1,66 m",right,€800k,Primeira Liga
+657435,Pedro Santos,2000,Central Midfield,"1,83 m",right,€1.00m,Primeira Liga
+821824,Matías Rocha,2001,Centre-Back,"1,83 m",right,€500k,Primeira Liga
+194005,Nino Galović,1992,Centre-Back,"1,84 m",right,€350k,Primeira Liga
+458715,Robson Bambu,1997,Centre-Back,"1,85 m",right,€3.00m,Primeira Liga
+627183,Benji Michel,1997,Left Winger,"1,78 m",right,€500k,Primeira Liga
+396333,Javi Montero,1999,Centre-Back,"1,85 m",left,€2.00m,Primeira Liga
+392655,Bogdan Milovanov,1998,Right-Back,"1,78 m",right,€400k,Primeira Liga
+530032,Quaresma,1996,Left-Back,"1,81 m",left,€1.00m,Primeira Liga
+632901,Miguel Puche,2001,Left Winger,"1,80 m",right,€300k,Primeira Liga
+744074,Rafael Fernandes,2002,Centre-Back,"1,91 m",right,€1.00m,Primeira Liga
+282721,Uri Busquets,1999,Defensive Midfield,"1,85 m",right,€300k,Primeira Liga
+741517,Alfonso Trezza,1999,Right Winger,"1,66 m",right,€600k,Primeira Liga
+343289,André Bukia,1995,Right Winger,"1,73 m",left,€350k,Primeira Liga
+314137,Eboue Kouassi,1997,Defensive Midfield,"1,85 m",right,€800k,Primeira Liga
+339707,Cristo,1997,Second Striker,"1,78 m",right,€6.00m,Primeira Liga
+263860,Jason,1994,Right Winger,"1,78 m",right,€2.50m,Primeira Liga
+361504,Rafa Mujica,1998,Centre-Forward,"1,83 m",right,€8.00m,Primeira Liga
+629567,Yanis Hamache,1999,Left-Back,"1,77 m",left,€900k,Primeira Liga
+467940,Vitinho,2000,Central Midfield,"1,75 m",right,-,Primeira Liga
+294817,Thiago Silva,1996,Goalkeeper,"1,88 m",right,€200k,Primeira Liga
+412367,Weverson,2000,Left-Back,"1,85 m",left,€1.00m,Primeira Liga
+534528,Yusuf Lawal,1998,Left Winger,"1,75 m",right,€250k,Primeira Liga
+70359,David Simão,1990,Central Midfield,"1,83 m",left,€200k,Primeira Liga
+527304,Yaw Moses,1999,Defensive Midfield,"1,70 m",right,€125k,Primeira Liga
+367651,Ignacio de Arruabarrena,1997,Goalkeeper,"1,85 m",right,€1.50m,Primeira Liga
+64371,Pedro Moreira,1989,Central Midfield,"1,81 m",right,€100k,Primeira Liga
+581121,Tiago Esgaio,1995,Right-Back,"1,75 m",right,€900k,Primeira Liga
+402112,Morlaye Sylla,1998,Left Winger,"1,70 m",right,€2.50m,Primeira Liga
+408563,Jerome Opoku,1998,Centre-Back,"1,97 m",left,€2.90m,Primeira Liga
+662415,Vladislav Morozov,2000,Centre-Forward,"1,88 m",right,€300k,Primeira Liga
+532900,João Valido,2000,Goalkeeper,"1,85 m",right,€200k,Primeira Liga
+553062,Vítor Carvalho,1997,Defensive Midfield,"1,86 m",right,€6.00m,Primeira Liga
+1041532,Djibril Soumaré,2003,Defensive Midfield,"1,85 m",left,€400k,Primeira Liga
+295414,Adrián Marín,1997,Left-Back,"1,81 m",left,€2.00m,Primeira Liga
+906329,Roger,2005,Right Winger,"1,66 m",left,€15.00m,Primeira Liga
+58267,Castro,1988,Central Midfield,"1,81 m",right,€100k,Primeira Liga
+356099,Cristián Borja,1993,Left-Back,"1,79 m",left,€2.00m,Primeira Liga
+858238,Diogo Fonseca,2002,Centre-Back,"1,91 m",right,€300k,Primeira Liga
+898721,Chissumba,2005,Left-Back,"1,80 m",left,,Primeira Liga
+551980,Yan Said,2002,Centre-Forward,"1,75 m",right,,Primeira Liga
+579284,Joe Mendes,2002,Right-Back,"1,77 m",right,€4.00m,Primeira Liga
+139396,Bruma,1994,Left Winger,"1,73 m",right,€8.00m,Primeira Liga
+33829,José Fonte,1983,Centre-Back,"1,91 m",right,€100k,Primeira Liga
+606752,Rodrigo Zalazar,1999,Central Midfield,"1,78 m",right,€16.00m,Primeira Liga
+495601,Víctor Gómez,2000,Right-Back,"1,69 m",right,€6.00m,Primeira Liga
+413118,Sikou Niakaté,1999,Centre-Back,"1,86 m",left,€6.00m,Primeira Liga
+629773,Lukas Hornicek,2002,Goalkeeper,"1,98 m",right,€2.00m,Primeira Liga
+139336,Paulo Oliveira,1992,Centre-Back,"1,87 m",right,€1.00m,Primeira Liga
+344869,Simon Banza,1996,Centre-Forward,"1,89 m",right,€15.00m,Primeira Liga
+177547,Matheus,1992,Goalkeeper,"1,90 m",right,€5.00m,Primeira Liga
+997467,Kauan Kelvin,2005,Second Striker,"1,86 m",right,,Primeira Liga
+671649,Álvaro Djaló,1999,Left Winger,"1,75 m",right,€12.00m,Primeira Liga
+655899,Serdar Saatçı,2003,Centre-Back,"1,90 m",right,€3.50m,Primeira Liga
+64339,Pizzi,1989,Attacking Midfield,"1,77 m",right,€600k,Primeira Liga
+651005,Cher Ndour,2004,Central Midfield,"1,90 m",both,€4.00m,Primeira Liga
+719646,Bernardo,2002,Goalkeeper,"1,96 m",left,€600k,Primeira Liga
+329722,André Horta,1996,Central Midfield,"1,74 m",right,€4.50m,Primeira Liga
+261927,Ricardo Horta,1994,Left Winger,"1,73 m",right,€12.00m,Primeira Liga
+29364,João Moutinho,1986,Central Midfield,"1,70 m",right,€600k,Primeira Liga
+982559,Nuno Matos,2004,Centre-Back,"1,82 m",right,,Primeira Liga
+286908,Tiago Sá,1995,Goalkeeper,"1,86 m",right,€500k,Primeira Liga
+176485,Lucas Piazón,1994,Attacking Midfield,"1,82 m",right,€1.00m,Primeira Liga
+174694,Rony Lopes,1995,Right Winger,"1,74 m",left,€2.00m,Primeira Liga
+340376,Abel Ruiz,2000,Centre-Forward,"1,82 m",right,€7.50m,Primeira Liga
+377641,Moatasem Al-Musrati,1996,Defensive Midfield,"1,89 m",right,€11.00m,Primeira Liga
+684348,João Mendes,2000,Left-Back,"1,79 m",left,€2.50m,Primeira Liga
+222813,Marko Grujić,1996,Defensive Midfield,"1,91 m",right,€5.00m,Primeira Liga
+14132,Pepe,1983,Centre-Back,"1,87 m",right,-,Primeira Liga
+1050215,Gonçalo Sousa,2006,Right Winger,"1,86 m",right,€1.80m,Primeira Liga
+302371,Toni Martínez,1997,Centre-Forward,"1,87 m",right,€4.00m,Primeira Liga
+544784,Zaidu,1997,Left-Back,"1,82 m",left,€3.00m,Primeira Liga
+392767,Danny Namaso,2000,Centre-Forward,"1,82 m",right,€5.00m,Primeira Liga
+711337,Evanilson,1999,Centre-Forward,"1,83 m",both,€35.00m,Primeira Liga
+589911,Wendel Silva,2000,Centre-Forward,"1,80 m",right,€1.20m,Primeira Liga
+723733,Bernardo Folha,2002,Central Midfield,"1,80 m",right,€1.20m,Primeira Liga
+537602,João Mário,2000,Right-Back,"1,78 m",right,€14.00m,Primeira Liga
+627221,Gabriel Veron,2002,Right Winger,"1,76 m",right,€7.00m,Primeira Liga
+284883,Fran Navarro,1998,Centre-Forward,"1,79 m",right,€6.00m,Primeira Liga
+228433,Wendell,1993,Left-Back,"1,76 m",left,€4.50m,Primeira Liga
+231289,Otávio,1995,Attacking Midfield,"1,72 m",right,€18.00m,Primeira Liga
+520662,Pepê,1997,Left Winger,"1,75 m",right,€27.00m,Primeira Liga
+406151,Zé Pedro,1997,Centre-Back,"1,87 m",right,€3.00m,Primeira Liga
+57723,Iván Marcano,1987,Centre-Back,"1,89 m",left,€200k,Primeira Liga
+357153,Diogo Costa,1999,Goalkeeper,"1,86 m",right,€40.00m,Primeira Liga
+155396,Cláudio Ramos,1991,Goalkeeper,"1,83 m",right,€1.50m,Primeira Liga
+929334,Gonçalo Ribeiro,2006,Goalkeeper,"1,90 m",right,€1.50m,Primeira Liga
+670715,Gabriel Brás,2004,Centre-Back,"1,86 m",right,€1.50m,Primeira Liga
+818495,Otávio,2002,Centre-Back,"1,88 m",left,€12.00m,Primeira Liga
+307058,Mehdi Taremi,1992,Centre-Forward,"1,85 m",right,€8.00m,Primeira Liga
+155025,Fábio Cardoso,1994,Centre-Back,"1,87 m",right,€3.50m,Primeira Liga
+935480,Martim Fernandes,2006,Right-Back,"1,81 m",right,€8.00m,Primeira Liga
+756990,Alan Varela,2001,Defensive Midfield,"1,77 m",right,€35.00m,Primeira Liga
+375383,Romário Baró,2000,Central Midfield,"1,79 m",right,€2.00m,Primeira Liga
+466805,Nico González,2002,Central Midfield,"1,88 m",right,€18.00m,Primeira Liga
+448470,André Franco,1998,Attacking Midfield,"1,77 m",left,€2.50m,Primeira Liga
+487474,Francisco Conceição,2002,Right Winger,"1,70 m",left,€36.00m,Primeira Liga
+498237,David Carmo,1999,Centre-Back,"1,96 m",left,€12.00m,Primeira Liga
+454121,Galeno,1997,Left Winger,"1,79 m",right,€27.00m,Primeira Liga
+512913,Stephen Eustaquio,1996,Central Midfield,"1,77 m",right,€11.00m,Primeira Liga
+610335,Iván Jaime,2000,Attacking Midfield,"1,80 m",right,€7.00m,Primeira Liga
+284701,Samuel Portugal,1994,Goalkeeper,"1,88 m",right,€1.00m,Primeira Liga
+356044,Jorge Sánchez,1997,Right-Back,"1,75 m",right,€2.80m,Primeira Liga
+479649,Gonçalo Borges,2001,Right Winger,"1,84 m",right,€4.00m,Primeira Liga
+102427,Sebastián Coates,1990,Centre-Back,"1,96 m",right,€1.50m,Primeira Liga
+946883,Iván Fresneda,2004,Right-Back,"1,83 m",right,€7.00m,Primeira Liga
+325443,Viktor Gyökeres,1998,Centre-Forward,"1,89 m",right,€75.00m,Primeira Liga
+461943,Daniel Bragança,1999,Central Midfield,"1,78 m",left,€14.00m,Primeira Liga
+44062,Antonio Adán,1987,Goalkeeper,"1,90 m",left,€350k,Primeira Liga
+478317,Travassos,2004,Right-Back,"1,76 m",right,€300k,Primeira Liga
+492319,Franco Israel,2000,Goalkeeper,"1,90 m",right,€7.00m,Primeira Liga
+314367,Marcus Edwards,1998,Right Winger,"1,68 m",left,€15.00m,Primeira Liga
+211072,Paulinho,1992,Centre-Forward,"1,88 m",left,€8.00m,Primeira Liga
+670717,Dário Essugo,2005,Defensive Midfield,"1,78 m",right,€8.00m,Primeira Liga
+808574,Miguel Menino,2003,Central Midfield,"1,81 m",right,€700k,Primeira Liga
+549006,Gonçalo Inácio,2001,Centre-Back,"1,86 m",left,€45.00m,Primeira Liga
+139395,Ricardo Esgaio,1993,Right-Back,"1,72 m",right,€2.00m,Primeira Liga
+984439,João Muniz,2005,Centre-Back,"1,90 m",left,€500k,Primeira Liga
+1138758,Geovany Quenda,2007,Right Winger,"1,72 m",left,€30.00m,Primeira Liga
+670711,Diogo Pinto,2004,Goalkeeper,"1,94 m",right,€500k,Primeira Liga
+290391,Nuno Santos,1995,Left Midfield,"1,77 m",left,€11.00m,Primeira Liga
+288253,Jerry St. Juste,1996,Centre-Back,"1,86 m",right,€8.00m,Primeira Liga
+461496,Morten Hjulmand,1999,Defensive Midfield,"1,85 m",right,€45.00m,Primeira Liga
+448466,Jovane Cabral,1998,Left Winger,"1,74 m",right,€1.50m,Primeira Liga
+744186,Chico Lamba,2003,Centre-Back,"1,90 m",right,€1.50m,Primeira Liga
+56036,Luís Neto,1988,Centre-Back,"1,85 m",right,-,Primeira Liga
+379249,Matheus Reis,1995,Left-Back,"1,84 m",left,€7.00m,Primeira Liga
+506150,Mamede,2002,Left Winger,"1,71 m",left,€100k,Primeira Liga
+952282,Afonso Moreira,2005,Left Winger,"1,76 m",right,€400k,Primeira Liga
+569375,Koba Koindredi,2001,Central Midfield,"1,84 m",left,€3.50m,Primeira Liga
+701979,Geny Catamo,2001,Right Winger,"1,73 m",left,€15.00m,Primeira Liga
+848875,Diego Callai,2004,Goalkeeper,"1,90 m",right,€1.00m,Primeira Liga
+524315,Hidemasa Morita,1995,Central Midfield,"1,77 m",right,€15.00m,Primeira Liga
+974982,Ousmane Diomande,2003,Centre-Back,"1,90 m",right,€40.00m,Primeira Liga
+400831,Rafael Camacho,2000,Right Winger,"1,75 m",both,€800k,Primeira Liga
+880245,Mateus Fernandes,2004,Central Midfield,"1,78 m",right,€15.00m,Primeira Liga
+504073,Eduardo Quaresma,2002,Centre-Back,"1,85 m",right,€14.00m,Primeira Liga
+1057523,Rafael Nel,2005,Centre-Forward,"1,82 m",right,,Primeira Liga
+974506,Rafael Pontelo,2003,Centre-Back,"1,91 m",left,€600k,Primeira Liga
+726701,Rodrigo Ribeiro,2005,Centre-Forward,"1,86 m",right,€3.00m,Primeira Liga
+412669,Trincão,1999,Right Winger,"1,84 m",left,€27.00m,Primeira Liga
+741492,Francisco Silva,2005,Goalkeeper,"1,90 m",right,,Primeira Liga
+426620,Pedro Gonçalves,1998,Left Winger,"1,73 m",right,€32.00m,Primeira Liga
+697716,Serginho,2001,Right Winger,"1,83 m",right,€1.70m,Primeira Liga
+830767,Ricardo Fernandes,2002,Left-Back,"1,73 m",left,€200k,Primeira Liga
+870143,Alan Gobetti,2001,Goalkeeper,"1,95 m",right,-,Primeira Liga
+588114,Rodrigo Martins,1998,Left Winger,"1,77 m",right,€200k,Primeira Liga
+740087,Michel Costa,2001,Central Midfield,"1,65 m",left,€600k,Primeira Liga
+481628,Tiago Araújo,2001,Left-Back,"1,84 m",left,€1.00m,Primeira Liga
+445517,Heri Tavares,1997,Right Winger,"1,81 m",left,€400k,Primeira Liga
+475407,Dani Figueira,1998,Goalkeeper,"1,89 m",right,€750k,Primeira Liga
+813229,Volnei,2000,Centre-Back,"1,88 m",right,€500k,Primeira Liga
+410183,Basso,1997,Centre-Back,"1,87 m",right,€1.50m,Primeira Liga
+375376,Pedro Álvaro,2000,Centre-Back,"1,87 m",right,€1.50m,Primeira Liga
+14881,Marcelo Carné,1990,Goalkeeper,"1,88 m",right,€325k,Primeira Liga
+550179,João Carlos,1995,Centre-Forward,"1,87 m",both,€400k,Primeira Liga
+524677,Harouna Sy,1996,Left-Back,"1,70 m",left,€150k,Primeira Liga
+818247,Fran Pereira,2002,Central Midfield,"1,85 m",right,-,Primeira Liga
+302991,Erick Cabaco,1995,Centre-Back,"1,85 m",right,€700k,Primeira Liga
+1072017,Wagner Pina,2002,Right-Back,"1,80 m",right,€3.00m,Primeira Liga
+658737,Mor Ndiaye,2000,Defensive Midfield,"1,85 m",right,€400k,Primeira Liga
+906307,Diogo Dias,2003,Goalkeeper,"1,88 m",right,€300k,Primeira Liga
+238367,Cassiano,1989,Centre-Forward,"1,84 m",right,€200k,Primeira Liga
+891971,João Marques,2002,Left Winger,"1,79 m",right,€3.00m,Primeira Liga
+719383,Ivan Pavlic,2001,Central Midfield,"1,85 m",right,€300k,Primeira Liga
+848483,Finn Dicke,2004,Defensive Midfield,"1,89 m",right,€350k,Primeira Liga
+667121,Rodrigo Gomes,2003,Right Midfield,"1,75 m",right,€15.00m,Primeira Liga
+90681,Eliaquim Mangala,1991,Centre-Back,"1,87 m",left,€350k,Primeira Liga
+690273,Bernardo Vital,2000,Centre-Back,"1,87 m",right,€2.50m,Primeira Liga
+207571,Alex Soares,1991,Central Midfield,"1,79 m",right,€75k,Primeira Liga
+569349,Frederik Winther,2001,Centre-Back,"1,90 m",left,€800k,Primeira Liga
+525602,Alejandro Marqués,2000,Centre-Forward,"1,89 m",right,€1.50m,Primeira Liga
+825834,Rodrigo Ramos,2003,Left Winger,"1,70 m",right,€550k,Primeira Liga
+744063,Dele,2001,Right Winger,"1,80 m",left,€1.50m,Primeira Liga
+614424,Nemanja Jovic,2002,Left Winger,"1,78 m",right,€1.50m,Primeira Liga
+429309,Jordan Holsgrove,1999,Defensive Midfield,"1,80 m",left,€1.20m,Primeira Liga
+784719,Raúl Parra,1999,Right-Back,"1,87 m",right,€275k,Primeira Liga
+646404,Zanocelo,2001,Defensive Midfield,"1,85 m",right,€3.00m,Primeira Liga
+394328,Rafik Guitane,1999,Right Winger,"1,70 m",left,€5.00m,Primeira Liga
+1070645,Fabrício Garcia,2001,Right Winger,"1,72 m",left,€600k,Primeira Liga
+341516,Ponck,1995,Centre-Back,"1,85 m",right,€600k,Primeira Liga
+369706,Matheus Aiás,1996,Centre-Forward,"1,76 m",both,€400k,Primeira Liga
+564544,Pedro Amador,1998,Left-Back,"1,81 m",left,€850k,Primeira Liga
+138285,Mika,1991,Goalkeeper,"1,95 m",left,€100k,Primeira Liga
+603137,Rafael Santos,1998,Centre-Back,"1,90 m",left,€300k,Primeira Liga
+594273,Jeremy Antonisse,2002,Left Winger,"1,84 m",right,€700k,Primeira Liga
+657387,Fabiano,2000,Right-Back,"1,75 m",right,€1.50m,Primeira Liga
+428786,Alan,2000,Attacking Midfield,"1,65 m",right,€3.00m,Primeira Liga
+1071606,Miguel Rebelo,2003,Central Midfield,"1,85 m",right,€200k,Primeira Liga
+731879,Hernâni,2001,Right Winger,"1,78 m",right,€400k,Primeira Liga
+816572,Gilberto Batista,2003,Centre-Back,"1,87 m",right,€200k,Primeira Liga
+554300,Madson,1999,Left Winger,"1,64 m",left,€1.50m,Primeira Liga
+268732,João Camacho,1994,Left Winger,"1,74 m",right,€800k,Primeira Liga
+190185,Marcelo,1989,Centre-Back,"1,85 m",right,€100k,Primeira Liga
+742073,Wallisson,1997,Defensive Midfield,"1,84 m",right,€500k,Primeira Liga
+1159373,Ebrima Ndow,2004,Centre-Forward,"1,88 m",right,-,Primeira Liga
+1153568,Matar Manga,2004,Right Winger,"1,80 m",right,-,Primeira Liga
+663254,Dinis Pinto,2000,Right-Back,"1,78 m",right,€800k,Primeira Liga
+364238,Alhassane Sylla,1995,Right-Back,"1,77 m",right,€75k,Primeira Liga
+542769,Pedro Aparício,1995,Attacking Midfield,"1,72 m",right,€300k,Primeira Liga
+658664,Vinicius Mingotti,2000,Centre-Forward,"1,90 m",right,€600k,Primeira Liga
+390478,Kobamelo Kodisang,1999,Right Winger,"1,68 m",left,€1.30m,Primeira Liga
+539203,André Luis,1994,Centre-Forward,"1,84 m",right,€1.50m,Primeira Liga
+536081,Lawrence Ofori,1998,Central Midfield,"1,69 m",right,€2.00m,Primeira Liga
+801463,Rodrigo Macedo,2003,Centre-Forward,"1,81 m",right,€200k,Primeira Liga
+175188,Caio Secco,1990,Goalkeeper,"1,95 m",right,€200k,Primeira Liga
+674798,Gonçalo Franco,2000,Central Midfield,"1,76 m",right,€3.00m,Primeira Liga
+1095318,Carlos Henrique,2003,Centre-Back,"1,91 m",right,€75k,Primeira Liga
+373187,Maracás,1994,Centre-Back,"1,84 m",right,€1.00m,Primeira Liga
+364244,Godfried Frimpong,1999,Left-Back,"1,80 m",left,€2.00m,Primeira Liga
+702911,Luís Asué,2001,Centre-Forward,"1,84 m",left,€2.50m,Primeira Liga
+468332,Ismael,1999,Defensive Midfield,"1,84 m",right,€1.00m,Primeira Liga
+669219,Kewin,1995,Goalkeeper,"1,89 m",right,€1.50m,Primeira Liga
+383008,Daniel Azevedo,1998,Goalkeeper,"1,95 m",right,€100k,Primeira Liga
+490760,Tchamba,1998,Centre-Back,"1,91 m",left,€800k,Primeira Liga
+666539,Beni,2002,Central Midfield,"1,80 m",right,€600k,Primeira Liga
+264848,Rúben Lameiras,1994,Right Winger,"1,74 m",left,€450k,Primeira Liga
+669956,Leonardo Lelo,2000,Left-Back,"1,75 m",left,€3.50m,Primeira Liga
+623120,Artur Serobyan,2003,Right Winger,"1,81 m",left,€400k,Primeira Liga
+1159449,Samu,2006,Right Winger,"1,80 m",right,€100k,Primeira Liga
+529730,Kiki,1998,Right Winger,"1,72 m",left,€300k,Primeira Liga
+594069,Yuki Soma,1997,Right Winger,"1,66 m",right,€1.30m,Primeira Liga
+418563,Kevin Krygård,2000,Defensive Midfield,"1,84 m",right,€700k,Primeira Liga
+439465,Gaizka Larrazabal,1997,Right-Back,"1,81 m",right,€800k,Primeira Liga
+314886,Tiago Dias,1998,Left-Back,"1,75 m",left,€250k,Primeira Liga
+236537,Fernando Andrade,1993,Right Winger,"1,82 m",right,€300k,Primeira Liga
+1104249,Afonso Monteiro,2005,Goalkeeper,"1,90 m",right,€100k,Primeira Liga
+291968,Neto,1991,Central Midfield,"1,81 m",right,€250k,Primeira Liga
+596067,Felippe Cardoso,1998,Centre-Forward,"1,86 m",right,€900k,Primeira Liga
+24202,Vasco Fernandes,1986,Centre-Back,"1,82 m",right,€75k,Primeira Liga
+99499,Rafael Martins,1989,Centre-Forward,"1,77 m",right,€50k,Primeira Liga
+733579,Clayton,1999,Centre-Forward,"1,84 m",right,€3.50m,Primeira Liga
+59084,Fernando Varela,1987,Centre-Back,"1,85 m",right,€50k,Primeira Liga
+154319,André Geraldes,1991,Right-Back,"1,81 m",right,€200k,Primeira Liga
+295327,Saviour Godwin,1996,Left Winger,"1,73 m",right,€2.20m,Primeira Liga
+429564,Derick Poloni,1993,Left-Back,"1,73 m",left,€300k,Primeira Liga
+407841,Lucas Paes,1997,Goalkeeper,"1,93 m",right,€400k,Primeira Liga
+929867,Isaac Monteiro,2004,Centre-Back,"1,93 m",right,€100k,Primeira Liga
+726705,Samuel Justo,2004,Central Midfield,"1,78 m",right,€400k,Primeira Liga
+462252,Diogo Pinto,1999,Attacking Midfield,"1,75 m",right,€400k,Primeira Liga
+24846,Ricardo Batista,1986,Goalkeeper,"1,92 m",left,€100k,Primeira Liga
+592375,Pablo Roberto,1999,Central Midfield,"1,83 m",right,€600k,Primeira Liga
+739477,Jajá,2001,Left Winger,"1,77 m",right,€900k,Primeira Liga
+198021,João Nunes,1995,Centre-Back,"1,88 m",right,€600k,Primeira Liga
+131740,Nermin Zolotić,1993,Centre-Back,"1,89 m",left,€600k,Primeira Liga
+752442,André Lacximicant,2001,Left Winger,"1,88 m",left,€300k,Primeira Liga
+805864,Fahem Benaissa-Yahia,2002,Left-Back,"1,88 m",left,€300k,Primeira Liga
+504075,Rafael Brito,2002,Defensive Midfield,"1,83 m",right,€400k,Primeira Liga
+858719,Telasco Segovia,2003,Central Midfield,"1,80 m",right,€1.00m,Primeira Liga
+406637,Tashan Oakley-Boothe,2000,Central Midfield,"1,82 m",right,€200k,Primeira Liga
+25289,António Filipe,1985,Goalkeeper,"1,87 m",left,-,Primeira Liga
+467610,Shinga,2000,Left-Back,"1,75 m",left,€250k,Primeira Liga
+1112449,Tiago Gabriel,2004,Centre-Back,"1,94 m",right,€400k,Primeira Liga
+72857,Pedro Mendes,1990,Centre-Back,"1,86 m",right,€300k,Primeira Liga
+695121,Hevertton,2001,Right-Back,"1,83 m",right,€700k,Primeira Liga
+340531,Ronaldo Tavares,1997,Centre-Forward,"1,94 m",right,€350k,Primeira Liga
+666545,Capita,2002,Left Winger,"1,72 m",left,€200k,Primeira Liga
+383807,Kikas,1998,Centre-Forward,"1,77 m",right,€1.00m,Primeira Liga
+350310,Vitó,1997,Central Midfield,"1,80 m",left,€100k,Primeira Liga
+477161,Aloísio,1996,Defensive Midfield,"1,80 m",right,€400k,Primeira Liga
+547187,Léo Cordeiro,1995,Central Midfield,"1,74 m",right,€1.20m,Primeira Liga
+862554,Ronald,2001,Right Winger,"1,77 m",right,€1.80m,Primeira Liga
+256013,Jean Felipe,1994,Right-Back,"1,79 m",right,€350k,Primeira Liga
+718643,Alioune Ndour,2001,Centre-Forward,"1,88 m",right,€200k,Primeira Liga
+468260,Léo Jabá,1998,Right Winger,"1,78 m",right,€800k,Primeira Liga
+59248,Miguel Lopes,1986,Right-Back,"1,83 m",right,€50k,Primeira Liga
+935996,Luan,2003,Right Winger,"1,65 m",right,€750k,Primeira Liga
+211345,Mansur,1993,Centre-Back,"1,81 m",left,€350k,Primeira Liga
+919262,André Luiz,2002,Right Winger,"1,87 m",left,€1.50m,Primeira Liga
+172066,João Reis,1992,Left-Back,"1,74 m",left,€150k,Primeira Liga
+366278,Rodrigo Pinho,1991,Centre-Forward,"1,85 m",left,€350k,Primeira Liga
+796739,Júnior Almeida,2000,Centre-Back,"1,89 m",left,€400k,Primeira Liga
+722441,Lucão,1998,Centre-Back,"1,88 m",right,€175k,Primeira Liga
+973703,Brenner,2002,Left Winger,"1,71 m",right,€500k,Primeira Liga
+836441,Kialonda Gaspar,1997,Centre-Back,"1,93 m",right,€2.50m,Primeira Liga
+666549,Edmilson Cambila,2002,Goalkeeper,"1,83 m",right,,Primeira Liga
+765728,Manu Figueiredo,2002,Central Midfield,"1,77 m",right,-,Primeira Liga
+671652,Gustavo Henrique,1999,Left Winger,"1,76 m",right,€300k,Primeira Liga
+681829,Nilton,2001,Left-Back,"1,82 m",left,€800k,Primeira Liga
+588635,Omurwa,1998,Centre-Back,"1,91 m",right,€600k,Primeira Liga
+1059814,Manuel Keliano,2003,Defensive Midfield,"1,85 m",right,€400k,Primeira Liga
+1054542,Dida,1998,Goalkeeper,"1,88 m",right,€175k,Primeira Liga
+711640,Régis N'Do,2001,Right Winger,"1,81 m",left,€300k,Primeira Liga
+959171,André Dhominique,2003,Right-Back,"1,78 m",right,€600k,Primeira Liga
+178942,Bruno Brígido,1991,Goalkeeper,"1,87 m",right,€300k,Primeira Liga
+1035794,Euri Carvalho,2004,Right-Back,"1,85 m",right,€100k,Primeira Liga
+291399,Nanu,1994,Right-Back,"1,77 m",right,€400k,Primeira Liga
+830841,Leonel Bucca,1999,Defensive Midfield,"1,90 m",left,€600k,Primeira Liga
+299400,Pedro Sá,1993,Defensive Midfield,"1,85 m",right,€300k,Primeira Liga
+932340,Buba Jammeh,2001,Right Winger,"1,84 m",left,,Primeira Liga
+58965,Rúben Lima,1989,Left-Back,"1,77 m",left,€100k,Primeira Liga
+134602,Zé Luís,1991,Centre-Forward,"1,84 m",left,€200k,Primeira Liga
+414774,Jhon Velásquez,1995,Attacking Midfield,"1,74 m",right,€200k,Primeira Liga
+683538,Seruca,2000,Defensive Midfield,"1,91 m",right,€100k,Primeira Liga
+740498,Pastor,2000,Right-Back,"1,76 m",right,€1.00m,Primeira Liga
+225151,Rafael Barbosa,1996,Attacking Midfield,"1,73 m",right,€400k,Primeira Liga
+527026,Ricardo Velho,1998,Goalkeeper,"1,88 m",right,€5.00m,Primeira Liga
+437566,Claudio Falcão,1994,Defensive Midfield,"1,87 m",right,€1.00m,Primeira Liga
+374987,Elves Baldé,1999,Right Winger,"1,69 m",right,€500k,Primeira Liga
+598629,Bruno Duarte,1996,Centre-Forward,"1,82 m",right,€4.00m,Primeira Liga
+637802,Sapara,1995,Left Winger,"1,75 m",right,-,Primeira Liga
+130616,Igor Rossi,1989,Centre-Back,"1,89 m",left,-,Primeira Liga
+512127,Fabrício Isidoro,1992,Central Midfield,"1,72 m",right,-,Primeira Liga
+711638,Fran Delgado,2001,Right-Back,"1,81 m",right,€250k,Primeira Liga
+198722,Zach Muscat,1993,Centre-Back,"1,84 m",right,€350k,Primeira Liga
+1189523,Rafinha,2006,Attacking Midfield,"1,84 m",left,,Primeira Liga
+61764,Marco Matias,1989,Left Winger,"1,77 m",right,€100k,Primeira Liga
+205116,Talocha,1989,Left-Back,"1,80 m",left,€75k,Primeira Liga
+194214,Gonçalo Silva,1991,Centre-Back,"1,86 m",right,€225k,Primeira Liga
+829434,Facundo Cáseres,2001,Central Midfield,"1,78 m",right,€1.00m,Primeira Liga
+970609,Maxuel,2000,Centre-Forward,"1,86 m",right,-,Primeira Liga
+925413,André Candeias,2003,Right Winger,"1,76 m",right,,Primeira Liga
+954744,Kauan,2002,Goalkeeper,"1,95 m",right,,Primeira Liga
+451858,Rui Costa,1996,Centre-Forward,"1,79 m",right,€550k,Primeira Liga
+857079,Mohamed Belloumi,2002,Right Winger,"1,77 m",left,€5.00m,Primeira Liga
+198005,Cristian Ponde,1995,Right Winger,"1,81 m",right,€150k,Primeira Liga
+276030,Artur Jorge,1994,Centre-Back,"1,86 m",right,€400k,Primeira Liga
+352015,Miguel Carvalho,1996,Goalkeeper,"1,89 m",right,€100k,Primeira Liga
+226138,Mattheus,1994,Central Midfield,"1,82 m",left,€1.00m,Primeira Liga
+573907,Luiz Felipe,1997,Goalkeeper,"1,98 m",left,-,Primeira Liga
+562671,Talys,1999,Left-Back,"1,81 m",left,€400k,Primeira Liga
+194547,Vítor Gonçalves,1992,Central Midfield,"1,74 m",right,€150k,Primeira Liga
+290384,Berto,1996,Right Winger,"1,77 m",right,€300k,Primeira Liga
+383014,Gonçalo Costa,2000,Left-Back,"1,79 m",left,€500k,Primeira Liga
+1043030,Guga,2003,Right-Back,"1,78 m",right,€600k,Primeira Liga
+916954,Rafael Alcobia,2003,Centre-Back,"1,87 m",right,-,Primeira Liga
+666953,Steve Mvoué,2002,Central Midfield,"1,85 m",right,€200k,Primeira Liga
+520994,Lucas Ventura,1998,Defensive Midfield,"1,80 m",right,€1.00m,Primeira Liga
+688690,Igor Formiga,1999,Right-Back,"1,77 m",right,€400k,Primeira Liga
+738504,João Victor,2000,Goalkeeper,"1,91 m",right,€75k,Primeira Liga
+357149,Paulo Estrela,1999,Central Midfield,"1,71 m",right,€200k,Primeira Liga
+997472,Zinho,2003,Left Winger,"1,78 m",right,€200k,Primeira Liga
+348039,Ronie Carrillo,1996,Centre-Forward,"1,86 m",right,€500k,Primeira Liga
+682796,Ângelo Taveira,2000,Right-Back,"1,83 m",right,-,Primeira Liga
+819249,Luan Campos,2002,Right Winger,"1,78 m",right,€500k,Primeira Liga
+567497,Filipe Relvas,1999,Centre-Back,"1,92 m",left,€2.00m,Primeira Liga
+800177,Rildo,2000,Right Winger,"1,78 m",right,€1.00m,Primeira Liga
+1100480,Thiago Dombroski,2002,Centre-Back,"1,90 m",left,€150k,Primeira Liga
+842517,Tamble,2000,Centre-Forward,"1,91 m",right,€350k,Primeira Liga
+840836,Hélio Varela,2002,Left Winger,"1,76 m",right,€2.00m,Primeira Liga
+842718,Paulinho,1999,Centre-Forward,"1,86 m",right,€400k,Primeira Liga
+1065901,Midana Cassamá,2002,Centre-Forward,"1,85 m",right,€400k,Primeira Liga
+165794,Kosuke Nakamura,1995,Goalkeeper,"1,85 m",right,€300k,Primeira Liga
+1177190,Ye-chan Lee,2005,Centre-Back,"1,84 m",,,Primeira Liga
+994229,Gabriel Souza,2004,Goalkeeper,"1,94 m",right,€200k,Primeira Liga
+226155,Carlinhos,1994,Attacking Midfield,"1,79 m",right,€1.00m,Primeira Liga
+599978,Ricardo Sousa,2001,Defensive Midfield,"1,79 m",right,,Primeira Liga
+353147,Dennis Adeniran,1999,Central Midfield,"1,80 m",right,€250k,Primeira Liga
+1005651,Alemão,2002,Centre-Back,"1,94 m",right,€700k,Primeira Liga
+706960,Yong-hak Kim,2003,Right Winger,"1,72 m",left,€250k,Primeira Liga
+868622,Taichi Fukui,2004,Central Midfield,"1,77 m",right,€1.50m,Primeira Liga
+268179,Moustapha Seck,1996,Left-Back,"1,76 m",left,€350k,Primeira Liga
+651205,Luquinha,2000,Attacking Midfield,"1,67 m",right,€300k,Primeira Liga
+502074,Sylvester Jasper,2001,Attacking Midfield,"1,80 m",right,€500k,Primeira Liga
+1074124,Davis,2002,Attacking Midfield,"1,75 m",right,€175k,Primeira Liga
+190543,Dener,1992,Central Midfield,"1,88 m",right,€300k,Primeira Liga
+286772,Vinícius,1994,Goalkeeper,"1,95 m",right,€500k,Primeira Liga
+53286,Maurício,1988,Defensive Midfield,"1,84 m",right,-,Primeira Liga
+611430,Momo Diaby,1996,Defensive Midfield,"1,88 m",right,€300k,Primeira Liga
+585264,Pedrão,1997,Centre-Back,"1,94 m",right,€1.70m,Primeira Liga
+791528,Telmo Arcanjo,2001,Right Winger,"1,80 m",left,€800k,Primeira Liga
+1077059,Hugo Nunes,2002,Defensive Midfield,"1,87 m",right,,Primeira Liga
+448264,Afonso Freitas,2000,Left-Back,"1,81 m",left,€400k,Primeira Liga
+645588,Tomás Händel,2000,Defensive Midfield,"1,80 m",left,€13.00m,Primeira Liga
+236997,Tiago Silva,1993,Central Midfield,"1,72 m",right,€3.00m,Primeira Liga
+744099,Jota,2002,Right Winger,"1,76 m",left,-,Primeira Liga
+344395,Jorge Fernandes,1997,Centre-Back,"1,91 m",right,€2.50m,Primeira Liga
+1093809,Gui,2006,Goalkeeper,"1,91 m",,,Primeira Liga
+182722,Bruno Varela,1994,Goalkeeper,"1,91 m",right,€4.00m,Primeira Liga
+314944,Ricardo Mangas,1998,Left-Back,"1,79 m",left,€3.00m,Primeira Liga
+396342,Toni Borevković,1997,Centre-Back,"1,93 m",right,€5.00m,Primeira Liga
+699592,Manu,2001,Defensive Midfield,"1,90 m",right,€3.00m,Primeira Liga
+842384,Matheus Índio,1999,Defensive Midfield,"1,82 m",right,€600k,Primeira Liga
+596884,Adrián Butzke,1999,Centre-Forward,"1,93 m",right,€300k,Primeira Liga
+565232,André Silva,1997,Centre-Forward,"1,81 m",left,€3.50m,Primeira Liga
+820070,Mamadou Tounkara,2001,Centre-Back,"1,92 m",right,€250k,Primeira Liga
+433358,Tomás Ribeiro,1999,Centre-Back,"1,85 m",left,€2.00m,Primeira Liga
+729140,Maga,2002,Right-Back,"1,75 m",right,€1.20m,Primeira Liga
+514304,Nélson da Luz,1998,Left Winger,"1,83 m",left,€750k,Primeira Liga
+367468,Nuno Santos,1999,Attacking Midfield,"1,79 m",right,€2.50m,Primeira Liga
+181773,Charles,1994,Goalkeeper,"1,86 m",right,€300k,Primeira Liga
+504503,João Mendes,1994,Attacking Midfield,"1,83 m",right,€2.00m,Primeira Liga
+766258,Kaio César,2004,Right Winger,"1,68 m",left,€3.00m,Primeira Liga
+63837,André André,1989,Central Midfield,"1,74 m",right,€100k,Primeira Liga
+1091130,Clinton,2002,Right Winger,"1,74 m",right,-,Primeira Liga
+870187,Rafa,2003,Goalkeeper,"1,93 m",right,-,Primeira Liga
+230457,Bruno Gaspar,1993,Right-Back,"1,80 m",right,€800k,Primeira Liga
+352815,Dénis Duarte,1994,Centre-Back,"1,89 m",right,-,Primeira Liga
+637782,André Amaro,2002,Centre-Back,"1,88 m",right,€5.50m,Primeira Liga
+308371,Mikel Villanueva,1993,Centre-Back,"1,90 m",left,€1.50m,Primeira Liga
+372445,Dani Silva,2000,Central Midfield,"1,80 m",right,€1.50m,Primeira Liga
+461963,Celton Biai,2000,Goalkeeper,"1,88 m",right,€325k,Primeira Liga
+908936,Zé Carlos,2001,Central Midfield,"1,72 m",right,€1.20m,Primeira Liga
+443338,Alisson Safira,1995,Centre-Forward,"1,85 m",right,€600k,Primeira Liga
+663244,Jota Silva,1999,Left Winger,"1,79 m",right,€14.00m,Primeira Liga
+836182,Ronaldo Lumungo,2001,Right Winger,"1,78 m",right,€325k,Primeira Liga
+877140,Gonçalo Nogueira,2003,Central Midfield,"1,80 m",right,€500k,Primeira Liga
+72768,Nélson Oliveira,1991,Centre-Forward,"1,86 m",right,€500k,Primeira Liga
+877139,Alberto Costa,2003,Right-Back,"1,86 m",right,€1.00m,Primeira Liga
+479638,Tiago Gouveia,2001,Right Winger,"1,76 m",right,€5.00m,Primeira Liga
+390638,Arthur Cabral,1998,Centre-Forward,"1,86 m",right,€12.00m,Primeira Liga
+670710,André Gomes,2004,Goalkeeper,"1,82 m",left,€2.00m,Primeira Liga
+501737,Leo Kokubo,2001,Goalkeeper,"1,93 m",right,€2.50m,Primeira Liga
+334557,Chiquinho,1995,Attacking Midfield,"1,75 m",right,€4.50m,Primeira Liga
+469822,David Neres,1997,Right Winger,"1,76 m",left,€28.00m,Primeira Liga
+668267,Marcos Leonardo,2003,Centre-Forward,"1,77 m",right,€20.00m,Primeira Liga
+357162,Florentino,1999,Defensive Midfield,"1,84 m",right,€20.00m,Primeira Liga
+223367,Fredrik Aursnes,1995,Central Midfield,"1,81 m",right,€20.00m,Primeira Liga
+45320,Ángel Di María,1988,Right Winger,"1,78 m",left,€3.00m,Primeira Liga
+238055,Rafa,1993,Second Striker,"1,72 m",right,€12.00m,Primeira Liga
+931415,João Rego,2005,Attacking Midfield,"1,82 m",right,€2.20m,Primeira Liga
+452607,Alexander Bah,1997,Right-Back,"1,83 m",right,€14.00m,Primeira Liga
+225122,Gonçalo Guedes,1996,Left Winger,"1,79 m",right,€15.00m,Primeira Liga
+673492,Morato,2001,Centre-Back,"1,92 m",left,€15.00m,Primeira Liga
+54781,Nicolás Otamendi,1988,Centre-Back,"1,83 m",right,€1.00m,Primeira Liga
+126719,Juan Bernat,1993,Left-Back,"1,70 m",left,€2.50m,Primeira Liga
+149729,João Mário,1993,Central Midfield,"1,79 m",right,€2.80m,Primeira Liga
+671145,João Victor,1998,Centre-Back,"1,87 m",right,€5.00m,Primeira Liga
+1000674,Gianluca Prestianni,2006,Right Winger,"1,66 m",right,€10.00m,Primeira Liga
+500054,David Jurásek,2000,Left-Back,"1,83 m",left,€7.00m,Primeira Liga
+650568,António Silva,2003,Centre-Back,"1,87 m",right,€38.00m,Primeira Liga
+387110,Petar Musa,1998,Centre-Forward,"1,88 m",right,€7.00m,Primeira Liga
+491704,Benjamín Rollheiser,2000,Right Winger,"1,72 m",left,€10.00m,Primeira Liga
+670681,João Neves,2004,Defensive Midfield,"1,74 m",right,€60.00m,Primeira Liga
+811778,Álvaro Carreras,2003,Left-Back,"1,86 m",left,€18.00m,Primeira Liga
+670103,Andreas Schjelderup,2004,Left Winger,"1,76 m",right,€10.00m,Primeira Liga
+124419,Odysseas Vlachodimos,1994,Goalkeeper,"1,91 m",right,€7.00m,Primeira Liga
+977465,Gustavo Marques,2001,Centre-Back,"1,89 m",right,€1.40m,Primeira Liga
+464598,Casper Tengstedt,2000,Centre-Forward,"1,84 m",right,€7.00m,Primeira Liga
+670683,Hugo Félix,2004,Attacking Midfield,"1,70 m",right,€2.00m,Primeira Liga
+504087,Tomás Araújo,2002,Centre-Back,"1,87 m",right,€28.00m,Primeira Liga
+537844,Anatoliy Trubin,2001,Goalkeeper,"1,99 m",right,€25.00m,Primeira Liga
+659713,Gerson Sousa,2002,Right Winger,"1,78 m",right,€1.30m,Primeira Liga
+504072,Samuel Soares,2002,Goalkeeper,"1,90 m",right,€3.00m,Primeira Liga
+670718,Diogo Prioste,2004,Central Midfield,"1,79 m",right,€1.70m,Primeira Liga
+582987,Adrian Bajrami,2002,Centre-Back,"1,88 m",left,€1.50m,Primeira Liga
+858252,Diogo Spencer,2004,Right-Back,"1,78 m",right,€750k,Primeira Liga
+454567,Orkun Kökçü,2000,Central Midfield,"1,75 m",both,€28.00m,Primeira Liga
+931900,Gustavo Varela,2005,Centre-Forward,"1,84 m",right,€600k,Primeira Liga
+271455,Mihailo Ristic,1995,Left-Back,"1,80 m",left,€900k,Primeira Liga
+428993,Kazu,2000,Left-Back,"1,75 m",left,€300k,Primeira Liga
+952730,Kiko,1999,Left-Back,"1,77 m",left,€600k,Primeira Liga
+645191,Roan Wilson,2002,Defensive Midfield,"1,84 m",right,€700k,Primeira Liga
+914629,André Simões,2003,Attacking Midfield,"1,76 m",right,€175k,Primeira Liga
+1043831,Miro,2003,Centre-Forward,"1,84 m",left,€300k,Primeira Liga
+742091,Vinícius,1997,Goalkeeper,"1,88 m",right,€175k,Primeira Liga
+908236,Felipe Silva,2002,Centre-Back,"1,88 m",left,€400k,Primeira Liga
+641576,Tidjany Touré,2002,Left Winger,"1,84 m",right,€500k,Primeira Liga
+658848,Jesús Castillo,2001,Defensive Midfield,"1,85 m",right,€700k,Primeira Liga
+929603,Miguel Monteiro,2003,Centre-Forward,"1,87 m",right,€250k,Primeira Liga
+1043832,Cláudio Araújo,2003,Central Midfield,"1,77 m",right,,Primeira Liga
+415525,Kanya Fujimoto,1999,Attacking Midfield,"1,76 m",left,€4.00m,Primeira Liga
+1159044,Peixinho,2004,Right Winger,"1,85 m",left,,Primeira Liga
+885694,Depú,2000,Centre-Forward,"1,87 m",right,€150k,Primeira Liga
+617679,Zé Carlos,1998,Right-Back,"1,78 m",right,€800k,Primeira Liga
+371008,Roko Baturina,2000,Centre-Forward,"1,87 m",left,€600k,Primeira Liga
+635807,Marlon,1997,Left Winger,"1,76 m",right,€300k,Primeira Liga
+695141,Brian Araújo,2000,Goalkeeper,"1,89 m",right,€300k,Primeira Liga
+641153,Né Lopes,2000,Centre-Back,"1,85 m",right,€250k,Primeira Liga
+653415,Leonardo Buta,2002,Left-Back,"1,82 m",left,€2.50m,Primeira Liga
+610417,Andrew,2001,Goalkeeper,"1,88 m",right,€4.00m,Primeira Liga
+796118,Miguel Salgado Sanz,2005,Centre-Forward,"1,88 m",right,,Primeira Liga
+869063,Thomas Luciano,2002,Right-Back,"1,80 m",right,€200k,Primeira Liga
+249360,Ali Alipour,1995,Centre-Forward,"1,81 m",both,€850k,Primeira Liga
+207561,Maxime Dominguez,1996,Central Midfield,"1,73 m",left,€1.20m,Primeira Liga
+415645,Alex Pinto,1998,Right-Back,"1,87 m",right,€400k,Primeira Liga
+345061,Murilo de Souza,1994,Right Winger,"1,77 m",left,€1.00m,Primeira Liga
+742095,Gabriel Pereira,2000,Centre-Back,"1,88 m",right,€5.00m,Primeira Liga
+950918,João Barros,2001,Left-Back,"1,86 m",left,€75k,Primeira Liga
+27178,Rúben Fernandes,1986,Centre-Back,"1,87 m",right,€100k,Primeira Liga
+167165,Pedro Tiba,1988,Central Midfield,"1,74 m",right,€50k,Primeira Liga
+479648,Félix Correia,2001,Left Winger,"1,78 m",right,€3.50m,Primeira Liga
+1126167,Marlon Maranhão,2002,Right Winger,"1,84 m",left,€75k,Primeira Liga
+98547,Stanislav Kritsyuk,1990,Goalkeeper,"1,92 m",right,€275k,Primeira Liga
+549027,Martim Neto,2003,Central Midfield,"1,85 m",right,€3.00m,Primeira Liga
+717585,Mory Gbane,2000,Defensive Midfield,"1,88 m",right,€2.50m,Primeira Liga
+137313,Jonathan Buatu,1993,Centre-Back,"1,87 m",right,€600k,Primeira Liga
+409884,Miguel Nóbrega,2000,Centre-Back,"1,90 m",right,€500k,Primeira Liga
+306668,Amine Oudrhiri,1992,Defensive Midfield,"1,84 m",right,€350k,Primeira Liga
+340491,Joca,1996,Right Winger,"1,68 m",right,€650k,Primeira Liga
+358177,André Pereira,1995,Centre-Forward,"1,88 m",left,€300k,Primeira Liga
+212216,Jhonatan,1991,Goalkeeper,"1,90 m",right,€500k,Primeira Liga
+788995,Bruno Ventura,2001,Attacking Midfield,"1,74 m",right,€200k,Primeira Liga
+159142,Aderllan Santos,1989,Centre-Back,"1,93 m",right,€200k,Primeira Liga
+503212,Aziz Yakubu,1998,Centre-Forward,"1,87 m",right,€2.50m,Primeira Liga
+818068,Magrão,2000,Goalkeeper,"1,97 m",right,€300k,Primeira Liga
+38780,Vítor Gomes,1987,Defensive Midfield,"1,82 m",right,€100k,Primeira Liga
+344399,Leonardo Ruiz,1996,Centre-Forward,"1,87 m",right,€375k,Primeira Liga
+607093,Sávio,1995,Left-Back,"1,73 m",left,€200k,Primeira Liga
+982545,Lucas Flores,2002,Goalkeeper,"1,96 m",right,€200k,Primeira Liga
+726697,Cristian Devenish,2001,Centre-Back,"1,92 m",right,€800k,Primeira Liga
+410281,Renato Pantalon,1997,Centre-Back,"1,94 m",right,€800k,Primeira Liga
+56810,Adrien Silva,1989,Central Midfield,"1,75 m",right,€300k,Primeira Liga
+332612,Emmanuel Boateng,1996,Centre-Forward,"1,75 m",right,€1.20m,Primeira Liga
+517704,Frederico Namora,1998,Left-Back,"1,78 m",left,€225k,Primeira Liga
+990860,Amine Rehmi,2002,Left Winger,"1,86 m",left,€175k,Primeira Liga
+139341,Josué Sá,1992,Centre-Back,"1,87 m",right,€400k,Primeira Liga
+487167,Cezary Miszta,2001,Goalkeeper,"1,93 m",right,€1.00m,Primeira Liga
+851804,Mateo Tanlongo,2003,Defensive Midfield,"1,77 m",right,€1.60m,Primeira Liga
+560903,Patrick William,1997,Centre-Back,"1,87 m",right,€1.00m,Primeira Liga
+539252,Costinha,2000,Right-Back,"1,81 m",right,€4.50m,Primeira Liga
+742506,Fábio Ronaldo,2001,Right Winger,"1,78 m",right,€1.00m,Primeira Liga
+549013,Hélder Sá,2002,Left-Back,"1,87 m",left,€300k,Primeira Liga
+862204,Julien Lomboto,2002,Centre-Back,"1,92 m",right,€350k,Primeira Liga
+257707,João Graça,1995,Central Midfield,"1,77 m",right,€300k,Primeira Liga
+182710,João Teixeira,1994,Attacking Midfield,"1,78 m",right,€400k,Primeira Liga
+55994,Ukra,1988,Right Winger,"1,76 m",right,-,Primeira Liga
+172142,Hernâni,1991,Left Winger,"1,80 m",left,€250k,Primeira Liga
+395632,Marios Vrousai,1998,Right-Back,"1,83 m",right,€1.50m,Primeira Liga
+409886,Úmaro Embaló,2001,Right Winger,"1,70 m",left,€700k,Primeira Liga
+113025,Zé Manuel,1990,Right Winger,"1,81 m",right,€25k,Primeira Liga
+258034,Guga,1997,Central Midfield,"1,68 m",right,€2.80m,Primeira Liga
+1008640,Ktatau,2001,Central Midfield,"1,80 m",right,€200k,Primeira Liga
+235568,João Pedro,1993,Central Midfield,"1,77 m",right,€300k,Primeira Liga
+567587,Habib Sylla,1999,Right-Back,"1,78 m",right,€450k,Primeira Liga
+388581,Cafú Phete,1994,Defensive Midfield,"1,87 m",right,€300k,Primeira Liga
+657386,Bruno Rodrigues,2001,Centre-Back,"1,92 m",right,€800k,Primeira Liga
+52480,Rúben Ribeiro,1987,Attacking Midfield,"1,75 m",right,€100k,Primeira Liga
+709006,Picas,2001,Right Winger,"1,70 m",right,-,Primeira Liga
+383654,João Correia,1996,Right Midfield,"1,75 m",right,€500k,Primeira Liga
+187211,Ygor Nogueira,1995,Centre-Back,"1,87 m",right,€450k,Primeira Liga
+314969,Júnior Pius,1995,Centre-Back,"1,93 m",right,€250k,Primeira Liga
+401931,Jô,1995,Centre-Forward,"1,92 m",left,€150k,Primeira Liga
+481627,Sandro Cruz,2001,Left-Back,"1,82 m",left,€800k,Primeira Liga
+482145,Issah Abass,1998,Left Winger,"1,73 m",right,€175k,Primeira Liga
+197880,Raphael Guzzo,1995,Central Midfield,"1,78 m",right,€500k,Primeira Liga
+54716,Steven Vitória,1987,Centre-Back,"1,95 m",right,€100k,Primeira Liga
+659705,Paulo Victor,2001,Left Winger,"1,80 m",left,€350k,Primeira Liga
+927636,Rodrigo Melro,2004,Attacking Midfield,"1,77 m",right,€100k,Primeira Liga
+375380,Benny,2000,Right Winger,"1,78 m",left,€500k,Primeira Liga
+1157581,Guilherme Biscaia,2003,Centre-Forward,"1,85 m",right,,Primeira Liga
+383153,Kelechi Nwakali,1998,Central Midfield,"1,84 m",right,€500k,Primeira Liga
+539154,Leandro Sanca,2000,Right Winger,"1,84 m",right,€400k,Primeira Liga
+631472,Bruno Langa,1997,Left-Back,"1,78 m",left,€1.50m,Primeira Liga
+291941,Carraça,1993,Right-Back,"1,77 m",right,€300k,Primeira Liga
+574901,Hugo Souza,1999,Goalkeeper,"1,99 m",right,€8.00m,Primeira Liga
+841731,Edu Borges,2002,Centre-Back,"1,85 m",right,-,Primeira Liga
+273738,Héctor Hernández,1995,Centre-Forward,"1,80 m",right,€1.70m,Primeira Liga
+415642,João Queirós,1998,Centre-Back,"1,92 m",left,€250k,Primeira Liga
+699171,Pedro Pinho,2000,Defensive Midfield,"1,89 m",right,€250k,Primeira Liga
+728597,Guilherme Ferreira,1999,Centre-Back,"1,94 m",right,€125k,Primeira Liga
+818240,Hélder Morim,2001,Defensive Midfield,"1,81 m",left,€200k,Primeira Liga
+543103,Rodrigo Moura,1996,Goalkeeper,"1,98 m",right,€175k,Primeira Liga
+537476,Gonçalo Pinto,2000,Goalkeeper,"1,94 m",right,€100k,Primeira Liga
+305425,Guima,1995,Defensive Midfield,"1,81 m",right,€550k,Primeira Liga
+282654,Ivan Zlobin,1997,Goalkeeper,"1,91 m",right,€1.50m,Primeira Liga
+448920,Enea Mihaj,1998,Centre-Back,"1,86 m",right,€3.00m,Primeira Liga
+564919,João Neto,2003,Central Midfield,"1,86 m",right,-,Primeira Liga
+461629,Gustavo Assunção,2000,Defensive Midfield,"1,78 m",right,€1.00m,Primeira Liga
+478365,Francisco Moura,1999,Left-Back,"1,81 m",left,€8.00m,Primeira Liga
+1071834,Duarte Oliveira,2005,Right-Back,"1,76 m",right,,Primeira Liga
+425028,José Luis Rodríguez,1998,Left Winger,"1,80 m",left,€1.80m,Primeira Liga
+453200,Théo Fonseca,2000,Centre-Forward,"1,78 m",right,€450k,Primeira Liga
+1085018,Martim Almeida,2005,Central Midfield,"1,82 m",right,,Primeira Liga
+483573,Martín Aguirregabiria,1996,Right-Back,"1,78 m",right,€1.00m,Primeira Liga
+365770,Alexandru Dobre,1998,Left Winger,"1,85 m",right,€1.00m,Primeira Liga
+537475,Hugo Cunha,2001,Goalkeeper,"1,98 m",right,€100k,Primeira Liga
+615302,Mirko Topić,2001,Defensive Midfield,"1,90 m",right,€5.00m,Primeira Liga
+982572,Hugo Oliveira,2004,Centre-Back,"1,89 m",right,,Primeira Liga
+1041543,João Santos,2003,Defensive Midfield,"1,75 m",left,,Primeira Liga
+357163,Filipe Soares,1999,Attacking Midfield,"1,80 m",right,€1.20m,Primeira Liga
+868101,Sorriso,2001,Left Winger,"1,75 m",right,€4.00m,Primeira Liga
+983571,Rodrigo Ribeiro,2006,Attacking Midfield,"1,75 m",right,,Primeira Liga
+847759,Tom Lacoux,2002,Defensive Midfield,"1,82 m",right,€1.00m,Primeira Liga
+982575,Gustavo Sá,2004,Attacking Midfield,"1,89 m",right,€10.00m,Primeira Liga
+818085,Mauro Ribeiro,2002,Right Winger,"1,75 m",left,,Primeira Liga
+271256,Jhonder Cádiz,1995,Centre-Forward,"1,90 m",right,€3.00m,Primeira Liga
+819938,Florian Danho,2000,Centre-Forward,"1,88 m",right,€550k,Primeira Liga
+957736,Leonardo Oliveira,2005,Centre-Forward,"1,87 m",right,€100k,Primeira Liga
+817665,Pablo,2004,Centre-Forward,"1,84 m",right,€400k,Primeira Liga
+712107,Luiz Júnior,2001,Goalkeeper,"1,92 m",left,€5.00m,Primeira Liga
+695454,Chiquinho,2000,Left Winger,"1,79 m",right,€2.50m,Primeira Liga
+740273,Nathan,2001,Right-Back,"1,83 m",right,€2.00m,Primeira Liga
+718152,Otso Liimatta,2004,Attacking Midfield,"1,69 m",left,€800k,Primeira Liga
+646677,Riccieli,1998,Centre-Back,"1,87 m",right,€2.50m,Primeira Liga
+420196,Justin de Haas,2000,Centre-Back,"1,94 m",left,€1.50m,Primeira Liga
+652332,Óscar Aranda,2002,Left Winger,"1,81 m",right,€3.00m,Primeira Liga
+927644,Afonso Rodrigues,2002,Left Winger,"1,78 m",left,€400k,Primeira Liga
+471582,Zaydou Youssouf,1999,Central Midfield,"1,82 m",left,€7.00m,Primeira Liga
+617267,Henrique Araújo,2002,Centre-Forward,"1,82 m",right,€2.00m,Primeira Liga
+282726,Dani Morer,1998,Right-Back,"1,70 m",right,€250k,Primeira Liga

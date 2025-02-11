@@ -1,0 +1,751 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+274963,Fernando González,1994,Defensive Midfield,"1,75 m",left,€1.50m,Liga MX
+107136,Hiram Mier,1989,Centre-Back,"1,82 m",right,€200k,Liga MX
+786000,Pável Pérez,1998,Left Winger,"1,68 m",right,€1.00m,Liga MX
+644272,Alejandro Organista,2000,Central Midfield,"1,71 m",right,€650k,Liga MX
+424689,Alexis Vega,1997,Left Winger,"1,73 m",right,€5.50m,Liga MX
+686445,Luis Gabriel Rey,2002,Centre-Back,"1,88 m",right,€800k,Liga MX
+121166,Isaác Brizuela,1990,Right Winger,"1,71 m",right,€400k,Liga MX
+549294,Fernando Beltrán,1998,Central Midfield,"1,63 m",right,€6.00m,Liga MX
+108825,Jesús Sánchez,1989,Right-Back,"1,68 m",right,-,Liga MX
+636066,Daniel Aguirre,1999,Central Midfield,"1,76 m",right,€300k,Liga MX
+955756,Yael Padilla,2005,Right Winger,"1,74 m",right,€1.20m,Liga MX
+1127591,Sebastián Liceaga,2007,Goalkeeper,"1,85 m",,,Liga MX
+258207,Carlos Cisneros,1993,Left Winger,"1,75 m",right,€1.00m,Liga MX
+596929,Gilberto Sepúlveda,1999,Centre-Back,"1,82 m",right,€4.00m,Liga MX
+107444,Antonio Briseño,1994,Centre-Back,"1,86 m",right,€1.50m,Liga MX
+371178,Luis Olivas,2000,Centre-Back,"1,85 m",left,€1.20m,Liga MX
+811373,José Castillo,2001,Left-Back,"1,79 m",right,€2.00m,Liga MX
+694156,Raúl Martínez,2003,Centre-Back,"1,85 m",right,€600k,Liga MX
+1066953,Mateo Chávez,2004,Left-Back,"1,77 m",left,€2.00m,Liga MX
+400194,Ricardo Marín,1998,Centre-Forward,"1,80 m",left,€1.50m,Liga MX
+397003,Alan Mozo,1997,Right-Back,"1,75 m",right,€5.50m,Liga MX
+260662,Óscar Whalley,1994,Goalkeeper,"1,91 m",left,€500k,Liga MX
+837619,Armando González,2003,Centre-Forward,"1,79 m",right,€1.50m,Liga MX
+408534,Cristian Calderón,1997,Left-Back,"1,77 m",left,€2.20m,Liga MX
+298796,Érick Gutiérrez,1995,Central Midfield,"1,81 m",left,€5.00m,Liga MX
+353583,Roberto Alvarado,1998,Attacking Midfield,"1,76 m",left,€7.50m,Liga MX
+994121,Gael García,2004,Left Winger,"1,73 m",right,€1.00m,Liga MX
+639774,Zahid Muñoz,2001,Attacking Midfield,"1,83 m",right,€500k,Liga MX
+325603,Daniel Ríos,1995,Centre-Forward,"1,85 m",left,€800k,Liga MX
+915155,Jesús Orozco Chiquete,2002,Centre-Back,"1,88 m",left,€8.50m,Liga MX
+1033267,Ariel Castro,2005,Defensive Midfield,"1,70 m",right,,Liga MX
+802855,Raúl Rangel,2000,Goalkeeper,"1,91 m",right,€4.00m,Liga MX
+312570,Ronaldo Cisneros,1997,Centre-Forward,"1,80 m",right,€700k,Liga MX
+282927,Omar Govea,1996,Defensive Midfield,"1,76 m",right,€1.50m,Liga MX
+596906,Alan Torres,2000,Defensive Midfield,"1,77 m",right,€700k,Liga MX
+546047,José Juan Macías,1999,Centre-Forward,"1,80 m",right,€1.20m,Liga MX
+469855,Leonardo Sepúlveda,2001,Left-Back,"1,85 m",left,€400k,Liga MX
+647235,Cade Cowell,2003,Left Winger,"1,82 m",right,€5.00m,Liga MX
+325598,Víctor Guzmán,1995,Attacking Midfield,"1,75 m",right,€3.00m,Liga MX
+401344,Alejandro Mayorga,1997,Left-Back,"1,78 m",left,€1.20m,Liga MX
+147282,Miguel Jiménez,1990,Goalkeeper,"1,82 m",left,€500k,Liga MX
+922681,Jesús Brígido,2001,Left Winger,"1,74 m",left,€400k,Liga MX
+50935,Chicharito,1988,Centre-Forward,"1,75 m",right,€500k,Liga MX
+936958,Luis Ledesma,2004,Central Midfield,"1,71 m",left,€400k,Liga MX
+994267,Fidel Barajas,2006,Right Winger,"1,75 m",left,€3.00m,Liga MX
+796063,Alán Montes,2000,Centre-Back,"1,92 m",right,€2.50m,Liga MX
+650861,Diber Cambindo,1996,Centre-Forward,"1,88 m",right,€4.00m,Liga MX
+337600,Ezequiel Unsain,1995,Goalkeeper,"1,88 m",right,€3.50m,Liga MX
+959197,Román Torres,2004,Right-Back,"1,87 m",right,,Liga MX
+864436,Alfredo Gutiérrez,2003,Centre-Back,"1,86 m",left,€100k,Liga MX
+639152,José Paradela,1998,Central Midfield,"1,80 m",left,€5.00m,Liga MX
+950874,Heriberto Jurado,2005,Left Winger,"1,73 m",left,€2.00m,Liga MX
+630032,Kevin Rosero,1998,Right Winger,"1,78 m",right,€500k,Liga MX
+197231,Fabricio Formiliano,1993,Centre-Back,"1,85 m",right,€900k,Liga MX
+796060,Jesús Alcántar,2003,Centre-Back,"1,92 m",left,€500k,Liga MX
+349150,Fernando Arce,1996,Defensive Midfield,"1,85 m",right,€1.50m,Liga MX
+520405,Braian Samudio,1995,Centre-Forward,"1,81 m",right,€1.20m,Liga MX
+1095604,Ángel Chávez,2005,Centre-Back,"1,84 m",,,Liga MX
+644744,Jair Cortés,2000,Defensive Midfield,"1,83 m",right,€650k,Liga MX
+838928,Emilio Martínez,2003,Right-Back,"1,79 m",right,€1.80m,Liga MX
+955220,Kevin Armenta,2006,Left Winger,"1,79 m",left,,Liga MX
+1026943,César López,2002,Centre-Forward,"1,82 m",,€300k,Liga MX
+213614,Jhon Chancellor,1992,Centre-Back,"1,97 m",right,€300k,Liga MX
+804282,Alek Álvarez,2003,Left Winger,"1,68 m",,€400k,Liga MX
+589363,Agustín Oliveros,1998,Centre-Back,"1,83 m",left,€3.50m,Liga MX
+648309,Andrés Colorado,1998,Defensive Midfield,"1,93 m",right,€700k,Liga MX
+959187,Emiliano Pérez,2003,Goalkeeper,"1,82 m",,,Liga MX
+401311,Brayan Garnica,1996,Right Winger,"1,67 m",right,€1.50m,Liga MX
+657744,Vicente Poggi,2002,Defensive Midfield,"1,73 m",right,€1.80m,Liga MX
+577260,Facundo Batista,1999,Centre-Forward,"1,82 m",right,€1.80m,Liga MX
+1094495,Juan Estrada,2005,Defender,"1,88 m",,,Liga MX
+854360,Jorge Rodríguez,2001,Left-Back,"1,79 m",left,€600k,Liga MX
+133794,Edgar Méndez,1990,Right Winger,"1,87 m",right,€450k,Liga MX
+955312,Javier Orantes,2005,Goalkeeper,"1,80 m",right,,Liga MX
+335086,José Esquivel,1998,Defensive Midfield,"1,80 m",right,€1.20m,Liga MX
+451221,Misael Domínguez,1999,Attacking Midfield,"1,61 m",right,€300k,Liga MX
+540308,Raúl Sandoval,2000,Left-Back,"1,76 m",left,€1.50m,Liga MX
+1095216,Arath Moreno,2005,Midfield,"1,73 m",,,Liga MX
+1055320,Waldo Madrid,2003,Defensive Midfield,"1,82 m",right,,Liga MX
+365827,Maximiliano Silvera,1997,Centre-Forward,"1,76 m",right,€2.00m,Liga MX
+571912,Daniel Mantilla,1996,Left Winger,"1,73 m",right,€600k,Liga MX
+801775,Alejandro Andrade,2001,Defensive Midfield,"1,78 m",,€700k,Liga MX
+1053536,Rogelio Cortéz,2004,Centre-Forward,"1,74 m",,€600k,Liga MX
+295400,Raúl Gudiño,1996,Goalkeeper,"1,97 m",right,€600k,Liga MX
+1095037,Santiago Márquez,2003,Midfield,"1,87 m",,€50k,Liga MX
+568546,Tomás Badaloni,2000,Centre-Forward,"1,86 m",left,€1.20m,Liga MX
+508256,Cristian González,1998,Right-Back,"1,70 m",right,€650k,Liga MX
+397680,Alexis Peña,1996,Centre-Back,"1,87 m",right,€3.50m,Liga MX
+610590,Agustín Palavecino,1996,Central Midfield,"1,79 m",right,€2.00m,Liga MX
+971398,Diego Gómez,2003,Central Midfield,"1,71 m",right,€1.20m,Liga MX
+532240,Ricardo Monreal,2001,Centre-Forward,"1,82 m",right,€1.80m,Liga MX
+859020,Bryan Casas,2004,Centre-Forward,"1,87 m",,,Liga MX
+846367,Miguel Ramírez,2002,Defensive Midfield,"1,68 m",,,Liga MX
+315125,Javairô Dilrosun,1998,Left Winger,"1,75 m",left,€3.00m,Liga MX
+687558,Israel Reyes,2000,Right-Back,"1,80 m",right,€4.00m,Liga MX
+280795,Jonathan Rodríguez,1993,Centre-Forward,"1,78 m",right,€4.00m,Liga MX
+1065369,Adrián Fernández,2006,Right Winger,"1,70 m",,,Liga MX
+416090,Julián Quiñones,1997,Centre-Forward,"1,80 m",right,€9.00m,Liga MX
+356099,Cristián Borja,1993,Left-Back,"1,79 m",left,€2.00m,Liga MX
+542344,Richard Sánchez,1996,Central Midfield,"1,70 m",right,€5.00m,Liga MX
+71401,Rodolfo Cota,1987,Goalkeeper,"1,83 m",right,€350k,Liga MX
+1150372,Patricio Salas,2004,Attack,"1,85 m",,,Liga MX
+249776,Diego Valdés,1994,Attacking Midfield,"1,79 m",right,€4.00m,Liga MX
+370875,Érick Sánchez,1999,Central Midfield,"1,67 m",right,€7.50m,Liga MX
+261503,Álvaro Fidalgo,1997,Central Midfield,"1,72 m",right,€8.00m,Liga MX
+1011028,Diego Reyes Costilla,2007,Centre-Forward,"1,75 m",right,,Liga MX
+699797,Ramón Juárez,2001,Centre-Back,"1,82 m",right,€4.50m,Liga MX
+668497,Sergio de los Ríos,2003,Centre-Forward,"1,82 m",left,,Liga MX
+1096704,Diego Esqueda,2002,Centre-Back,"1,87 m",,,Liga MX
+1041475,Ralph Orquin,2003,Left-Back,"1,77 m",left,€2.00m,Liga MX
+797702,Esteban Lozano,2003,Centre-Forward,"1,90 m",,€100k,Liga MX
+366143,Víctor Dávila,1997,Centre-Forward,"1,74 m",left,€6.00m,Liga MX
+557070,Salvador Reyes,1998,Left-Back,"1,72 m",left,€1.80m,Liga MX
+686449,Emilio Lara,2002,Right-Back,"1,80 m",right,€1.20m,Liga MX
+1086757,Aarón Arredondo,2003,Defensive Midfield,"1,78 m",,,Liga MX
+549361,Iván Rodríguez,1996,Defensive Midfield,"1,71 m",left,€800k,Liga MX
+858671,Karel Campos,2003,Attacking Midfield,"1,72 m",right,,Liga MX
+1019485,Miguel Vázquez,2004,Centre-Back,"1,85 m",,€100k,Liga MX
+703843,Bruce El-mesmari,2002,Left Winger,"1,66 m",left,€150k,Liga MX
+125275,Óscar Jiménez,1988,Goalkeeper,"1,82 m",right,€100k,Liga MX
+837182,Daniel Blanco,2002,Right-Back,"1,68 m",,€25k,Liga MX
+60445,Jonathan dos Santos,1990,Defensive Midfield,"1,72 m",right,€600k,Liga MX
+58576,Miguel Layún,1988,Right-Back,"1,80 m",right,-,Liga MX
+70833,Luis Fuentes,1986,Left-Back,"1,70 m",left,€300k,Liga MX
+294894,Leo Suárez,1996,Right Winger,"1,69 m",left,€3.00m,Liga MX
+704867,Illian Hernández,2000,Centre-Forward,"1,75 m",,€700k,Liga MX
+351505,Álex Zendejas,1998,Right Winger,"1,67 m",left,€5.00m,Liga MX
+189410,Rodrigo Aguirre,1994,Centre-Forward,"1,86 m",left,€3.00m,Liga MX
+64134,Néstor Araújo,1991,Centre-Back,"1,88 m",right,€800k,Liga MX
+700503,Santiago Naveda,2001,Defensive Midfield,"1,80 m",right,€800k,Liga MX
+423619,Luis Malagón,1997,Goalkeeper,"1,80 m",right,€7.00m,Liga MX
+959193,Dagoberto Espinoza,2004,Central Midfield,"1,80 m",,€100k,Liga MX
+325600,Mauro Laínez,1996,Left Winger,"1,80 m",left,€600k,Liga MX
+1095218,Juan Cantú,2004,Attack,"1,79 m",,,Liga MX
+1041480,Sebastián Martínez,2003,Defensive Midfield,"1,86 m",,,Liga MX
+400173,Alan Cervantes,1998,Defensive Midfield,"1,81 m",right,€4.50m,Liga MX
+508122,Jonathan Estrada,1998,Goalkeeper,"1,80 m",,€400k,Liga MX
+286339,Henry Martín,1992,Centre-Forward,"1,77 m",right,€4.00m,Liga MX
+572705,Kevin Álvarez,1999,Right-Back,"1,78 m",right,€5.50m,Liga MX
+532389,Sebastián Cáceres,1999,Centre-Back,"1,80 m",right,€6.50m,Liga MX
+209513,Igor Lichnovsky,1994,Centre-Back,"1,88 m",right,€2.00m,Liga MX
+1065370,Leonardo Palestina,2004,Goalkeeper,"1,82 m",right,€80k,Liga MX
+745904,Arturo Martínez,2002,Centre-Forward,"1,80 m",right,€200k,Liga MX
+1100594,Franco Rossano,2005,Left-Back,"1,79 m",,,Liga MX
+465818,Brian Rodríguez,2000,Left Winger,"1,75 m",right,€6.00m,Liga MX
+163086,Cristiano Piccini,1992,Centre-Back,"1,89 m",right,€500k,Liga MX
+801161,Diego Urtiaga,1998,Goalkeeper,"1,86 m",right,€400k,Liga MX
+1002127,Iker Moreno,2003,Attacking Midfield,"1,72 m",right,€100k,Liga MX
+771966,Uziel García,2001,Centre-Back,"1,82 m",left,€600k,Liga MX
+181780,Rodrigo Dourado,1994,Defensive Midfield,"1,86 m",right,€4.50m,Liga MX
+600730,José González,1998,Centre-Forward,"1,86 m",left,€450k,Liga MX
+262092,Juan Castro,1991,Central Midfield,"1,65 m",right,€300k,Liga MX
+718074,Gabriel Martínez,2002,Centre-Back,"1,88 m",right,€450k,Liga MX
+1075604,Yan Phillipe,2004,Attacking Midfield,"1,76 m",right,€1.50m,Liga MX
+907430,Jonantán Villal,2005,Attacking Midfield,"1,70 m",right,€500k,Liga MX
+221735,Jürgen Damm,1992,Right Winger,"1,85 m",right,€350k,Liga MX
+212630,Franck Boli,1993,Centre-Forward,"1,76 m",right,€1.00m,Liga MX
+552960,Aldo Cruz,1997,Left-Back,"1,73 m",left,€1.20m,Liga MX
+181781,Léo Bonatini,1994,Centre-Forward,"1,85 m",right,€3.00m,Liga MX
+288251,Sébastien Salles-Lamonge,1996,Central Midfield,"1,71 m",right,€3.00m,Liga MX
+737127,Pablo Martínez,1999,Right-Back,"1,80 m",right,€600k,Liga MX
+53180,Julio César Domínguez,1987,Centre-Back,"1,77 m",right,€650k,Liga MX
+689837,Luis Gutiérrez,2001,Left Winger,"1,75 m",right,€500k,Liga MX
+308560,Jhon Murillo,1995,Right Winger,"1,76 m",right,€2.20m,Liga MX
+1035924,Eduardo Águila,2002,Centre-Back,"1,80 m",,€1.50m,Liga MX
+175445,Unai Bilbao,1994,Centre-Back,"1,92 m",left,€2.80m,Liga MX
+920968,Ronaldo Nájera,2003,Attacking Midfield,"1,72 m",left,€2.50m,Liga MX
+271321,Ángel Zaldívar,1994,Centre-Forward,"1,78 m",left,€1.00m,Liga MX
+347577,Ricardo Chávez,1994,Right-Back,"1,75 m",right,€3.20m,Liga MX
+660990,Benjamín Galdames,2001,Right Winger,"1,72 m",left,€1.00m,Liga MX
+813048,Vitinho,2001,Right Winger,"1,69 m",left,€3.00m,Liga MX
+694159,Diego Abitia,2003,Centre-Forward,"1,86 m",,-,Liga MX
+627211,David Rodríguez,2002,Attacking Midfield,"1,76 m",left,€150k,Liga MX
+426439,Andrés Iniestra,1996,Defensive Midfield,"1,77 m",right,€500k,Liga MX
+432215,Kevin Ortega,2002,Defensive Midfield,"1,71 m",,,Liga MX
+308477,Diéter Villalpando,1991,Central Midfield,"1,72 m",right,€800k,Liga MX
+446106,Juan Manuel Sanabria,2000,Left-Back,"1,72 m",left,€8.00m,Liga MX
+334538,Jordan Silva,1994,Centre-Back,"1,90 m",right,€500k,Liga MX
+540302,Mateo Klimowicz,2000,Attacking Midfield,"1,81 m",right,€2.50m,Liga MX
+164749,Javier Güemez,1991,Defensive Midfield,"1,74 m",right,€1.00m,Liga MX
+540305,César López,2000,Goalkeeper,"1,83 m",right,€500k,Liga MX
+923205,Daniel Guillén,2001,Centre-Back,"1,83 m",right,€600k,Liga MX
+549419,Óscar Macías,1998,Attacking Midfield,"1,78 m",right,€800k,Liga MX
+599331,Andrés Sánchez,1997,Goalkeeper,"1,93 m",right,€2.00m,Liga MX
+58591,Jesús Molina,1988,Defensive Midfield,"1,85 m",right,-,Liga MX
+662451,José Caicedo,2002,Defensive Midfield,"1,85 m",right,€4.00m,Liga MX
+426438,José Galindo,1998,Centre-Back,"1,81 m",right,€400k,Liga MX
+369082,Robert Ergas,1998,Left-Back,"1,77 m",left,€1.50m,Liga MX
+1095864,Santiago López,2005,Centre-Forward,"1,75 m",right,,Liga MX
+1232362,Carlos García,2006,Goalkeeper,"1,82 m",,,Liga MX
+227604,Christian Tabó,1993,Right Winger,"1,74 m",right,€500k,Liga MX
+288786,Juan Dinenno,1994,Centre-Forward,"1,86 m",right,€3.00m,Liga MX
+1030003,Rodrigo López,2001,Central Midfield,"1,73 m",right,€1.00m,Liga MX
+955283,Ángel Rico,2005,Attacking Midfield,"1,70 m",left,€700k,Liga MX
+135082,Rogelio Funes Mori,1991,Centre-Forward,"1,86 m",right,€1.00m,Liga MX
+158327,Julio González,1991,Goalkeeper,"1,82 m",left,€1.00m,Liga MX
+787250,Miguel Carreón,2004,Midfield,"1,67 m",,,Liga MX
+283528,Ignacio Pussetto,1995,Right Winger,"1,80 m",right,€2.20m,Liga MX
+347932,Guillermo Martínez,1995,Centre-Forward,"1,91 m",left,€2.80m,Liga MX
+599293,Carlos Gutiérrez,1999,Right Winger,"1,77 m",right,€550k,Liga MX
+1087295,Mateo Casares,2003,Centre-Back,"1,84 m",,,Liga MX
+540315,César Huerta,2000,Left Winger,"1,71 m",right,€6.00m,Liga MX
+353420,Gil Alcalá,1992,Goalkeeper,"1,79 m",right,€600k,Liga MX
+693547,Michell Rodríguez,2000,Right Winger,"1,66 m",left,€1.00m,Liga MX
+1095965,Marco Hernández,2005,Central Midfield,"1,72 m",,,Liga MX
+84535,Eduardo Salvio,1990,Right Winger,"1,73 m",right,€1.30m,Liga MX
+1087306,Pablo Monroy,2002,Right-Back,"1,70 m",right,€1.20m,Liga MX
+955776,Pablo Lara,2005,Goalkeeper,"1,83 m",,,Liga MX
+238155,Arturo Ortiz,1992,Centre-Back,"1,78 m",right,€450k,Liga MX
+259930,Gabriel Fernández,1994,Centre-Forward,"1,85 m",right,€2.50m,Liga MX
+66736,Lisandro Magallán,1993,Centre-Back,"1,85 m",right,€1.80m,Liga MX
+716749,Emanuel Montejano,2001,Centre-Forward,"1,76 m",right,€300k,Liga MX
+704557,Alí Ávila,2003,Centre-Forward,"1,78 m",right,€750k,Liga MX
+923688,Santiago Trigos,2002,Defensive Midfield,"1,69 m",right,€600k,Liga MX
+671951,Gustavo del Prete,1996,Centre-Forward,"1,76 m",left,€2.00m,Liga MX
+871655,Piero Quispe,2001,Attacking Midfield,"1,70 m",right,€2.80m,Liga MX
+177046,Rubén Duarte,1995,Left-Back,"1,79 m",left,€3.00m,Liga MX
+1056412,Gael Rodríguez,2002,Centre-Forward,"1,71 m",,,Liga MX
+716750,Jesús Rivas,2002,Right-Back,"1,71 m",right,€800k,Liga MX
+54817,Adrián Aldrete,1988,Left-Back,"1,77 m",left,€300k,Liga MX
+787261,Héctor Ramírez,2004,Left-Back,"1,77 m",,,Liga MX
+923213,Pablo Bennevendo,2000,Right-Back,"1,77 m",right,€2.00m,Liga MX
+295424,Ulises Rivas,1996,Central Midfield,"1,77 m",right,€2.50m,Liga MX
+950873,Jorge Ruvalcaba,2001,Right Winger,"1,76 m",right,€1.20m,Liga MX
+440652,Nathan Silva,1997,Centre-Back,"1,83 m",right,€6.00m,Liga MX
+860857,Joaquim,1998,Centre-Back,"1,90 m",right,€5.00m,Liga MX
+691075,Jesús Garza,2000,Right-Back,"1,65 m",right,€1.50m,Liga MX
+185593,Nicolás López,1993,Centre-Forward,"1,78 m",left,€2.00m,Liga MX
+1086860,Juan Luna,2003,Defender,"1,72 m",,,Liga MX
+67917,Rafael Carioca,1989,Defensive Midfield,"1,79 m",right,€1.00m,Liga MX
+1086869,Bernardo Parra,2005,Midfield,"1,77 m",,,Liga MX
+466268,Juan Brunetta,1997,Attacking Midfield,"1,75 m",right,€8.00m,Liga MX
+971077,Kenneth Jaime,2004,Left-Back,"1,72 m",left,-,Liga MX
+1094408,Diego Sánchez,2005,Attacking Midfield,"1,55 m",,€100k,Liga MX
+1086862,Fernando Ordóñez,2001,Left-Back,"1,75 m",right,€200k,Liga MX
+920611,David Ayala,2000,Central Midfield,"1,80 m",,€200k,Liga MX
+465647,Miguel Ortega,1995,Goalkeeper,"1,93 m",right,€200k,Liga MX
+629006,Ozziel Herrera,2001,Right Winger,"1,83 m",right,€4.50m,Liga MX
+553816,Juan José Purata,1998,Centre-Back,"1,87 m",right,€1.50m,Liga MX
+704553,Eugenio Pizzuto,2002,Defensive Midfield,"1,80 m",left,€200k,Liga MX
+255744,Samir Caetano,1994,Centre-Back,"1,84 m",left,€2.00m,Liga MX
+1130802,Joel Santana,2004,Attack,"1,76 m",,,Liga MX
+267753,Nicolás Ibáñez,1994,Centre-Forward,"1,78 m",right,€3.00m,Liga MX
+724415,Anthony Ramos,2003,Goalkeeper,"1,85 m",right,,Liga MX
+480892,Eduardo Tercero,1996,Centre-Back,"1,82 m",right,€400k,Liga MX
+668495,Marcelo Flores,2003,Left Winger,"1,68 m",right,€1.80m,Liga MX
+43907,André-Pierre Gignac,1985,Centre-Forward,"1,87 m",right,€700k,Liga MX
+1086871,Manuel Aguilar,2003,Centre-Back,"1,81 m",left,,Liga MX
+111082,Javier Aquino,1990,Right-Back,"1,67 m",right,€600k,Liga MX
+310744,Fernando Gorriarán,1994,Central Midfield,"1,68 m",right,€7.00m,Liga MX
+1011114,Leonel Prieto,2001,Attack,"1,74 m",,€250k,Liga MX
+1067605,Fernando González,2001,Central Midfield,"1,77 m",,€400k,Liga MX
+599569,Vladímir Loroña,1998,Right-Back,"1,80 m",right,€500k,Liga MX
+600905,Raymundo Fulgencio,2000,Left Winger,"1,76 m",right,€3.50m,Liga MX
+131090,Diego Reyes,1992,Centre-Back,"1,92 m",right,€1.00m,Liga MX
+102699,Felipe Rodríguez,1989,Goalkeeper,"1,83 m",right,€200k,Liga MX
+312568,Jesús Angulo,1998,Left-Back,"1,79 m",left,€6.00m,Liga MX
+227404,Luis Quiñones,1991,Right Winger,"1,78 m",left,€800k,Liga MX
+431533,Sebastián Córdova,1997,Attacking Midfield,"1,73 m",,€4.00m,Liga MX
+234227,Juan Pablo Vigón,1991,Central Midfield,"1,75 m",right,€800k,Liga MX
+432203,Arturo Delgado,2002,Goalkeeper,"1,82 m",,€200k,Liga MX
+87859,Nahuel Guzmán,1986,Goalkeeper,"1,91 m",right,€300k,Liga MX
+819874,Fernando Tapia,2001,Goalkeeper,"1,85 m",right,€1.00m,Liga MX
+371174,Diego Lainez,2000,Right Winger,"1,68 m",left,€3.00m,Liga MX
+105899,Guido Pizarro,1990,Centre-Back,"1,86 m",right,€800k,Liga MX
+1086870,Sebastián Fierro,2001,Defensive Midfield,"1,75 m",,€400k,Liga MX
+160700,Ángel Sepúlveda,1991,Centre-Forward,"1,82 m",right,€750k,Liga MX
+332829,Jordan Sierra,1997,Central Midfield,"1,74 m",right,€2.00m,Liga MX
+816843,Martín Río,2001,Central Midfield,"1,80 m",right,€700k,Liga MX
+857897,Alan Vega,2000,Left-Back,"1,73 m",left,€500k,Liga MX
+515512,Aké Loba,1998,Centre-Forward,"1,80 m",right,€1.50m,Liga MX
+400205,Brayton Vázquez,1998,Centre-Back,"1,80 m",right,€500k,Liga MX
+431703,Miguel Barbieri,1993,Centre-Back,"1,81 m",right,€1.00m,Liga MX
+748355,Leonardo Vargas,2001,Attack,"1,72 m",,,Liga MX
+955299,Carlo Soldati,2005,Centre-Back,"1,91 m",left,,Liga MX
+1086814,Pablo Ortiz,2002,Left-Back,"1,74 m",left,€700k,Liga MX
+244724,Jaime Gómez,1993,Right-Back,"1,75 m",right,€700k,Liga MX
+550264,Carlos Higuera,2000,Goalkeeper,"1,87 m",,€200k,Liga MX
+1086824,José Varela,2003,Defensive Midfield,"1,70 m",,,Liga MX
+428210,Samuel Sosa,1999,Left Winger,"1,77 m",left,€700k,Liga MX
+408830,Alejandro Arana,1997,Goalkeeper,"1,83 m",right,€50k,Liga MX
+51546,Kevin Escamilla,1994,Defensive Midfield,"1,77 m",right,€1.00m,Liga MX
+331282,Rubio Rubín,1996,Centre-Forward,"1,80 m",left,€800k,Liga MX
+172285,Camilo Sanvezzo,1988,Centre-Forward,"1,70 m",right,-,Liga MX
+319471,Joaquín Montecinos,1995,Right Winger,"1,73 m",right,€450k,Liga MX
+365947,Emanuel Gularte,1997,Centre-Back,"1,89 m",right,€3.00m,Liga MX
+51079,Pablo Barrera,1987,Right Winger,"1,75 m",right,€300k,Liga MX
+426654,Paolo Yrízar,1997,Centre-Forward,"1,84 m",right,€400k,Liga MX
+125104,Federico Lértora,1990,Defensive Midfield,"1,85 m",right,€900k,Liga MX
+654326,Salim Hernández,1998,Goalkeeper,"1,91 m",right,€400k,Liga MX
+380996,Lucas Rodríguez,1997,Attacking Midfield,"1,69 m",right,€2.50m,Liga MX
+1099324,Sebastián Hernández,2004,Defender,"1,75 m",,€150k,Liga MX
+224117,Alberto García,1993,Left Winger,"1,71 m",right,€50k,Liga MX
+400208,Francisco Venegas,1998,Left-Back,"1,84 m",left,€1.00m,Liga MX
+1086815,Aldahir Pérez,2004,Attacking Midfield,"1,75 m",,,Liga MX
+386610,Jonatan Torres,1996,Centre-Forward,"1,87 m",right,€600k,Liga MX
+73523,Guillermo Allison,1990,Goalkeeper,"1,92 m",right,€300k,Liga MX
+1095188,Yahir del Aguila,2004,Defender,"1,80 m",,€25k,Liga MX
+545547,Jonathan Perlaza,1997,Left Winger,"1,75 m",left,€500k,Liga MX
+448414,Alan Medina,1997,Right Winger,"1,80 m",right,€800k,Liga MX
+135851,Omar Mendoza,1988,Right-Back,"1,73 m",right,€300k,Liga MX
+690681,José Raúl Zúñiga,1994,Centre-Forward,"1,81 m",right,€1.80m,Liga MX
+312576,Óscar Manzanárez,1995,Centre-Back,"1,80 m",right,€1.00m,Liga MX
+737129,Marco García,2000,Central Midfield,"1,67 m",right,€200k,Liga MX
+212310,Ayrton Preciado,1994,Left Winger,"1,81 m",right,€600k,Liga MX
+582513,Víctor López,2003,Left Winger,"1,67 m",,€300k,Liga MX
+378463,Franco Russo,1994,Centre-Back,"1,86 m",right,€900k,Liga MX
+652948,Nicolás Cordero,1999,Centre-Forward,"1,85 m",right,€600k,Liga MX
+945935,Ettson Ayón,2001,Centre-Forward,"1,80 m",,€1.00m,Liga MX
+1086825,Marco González,2002,Defensive Midfield,"1,75 m",,€100k,Liga MX
+310639,Jefferson Intriago,1996,Defensive Midfield,"1,71 m",right,€2.00m,Liga MX
+1087349,Ramiro Árciga,2004,Attacking Midfield,"1,75 m",,€1.00m,Liga MX
+1086892,Ramiro Franco,2003,Centre-Back,"1,91 m",,€100k,Liga MX
+886290,Salvador Rodríguez,2001,Left-Back,"1,78 m",left,€300k,Liga MX
+473096,Willian Vargas,1997,Right-Back,,right,€350k,Liga MX
+234166,Ventura Alvarado,1992,Centre-Back,"1,82 m",right,€500k,Liga MX
+1098092,Edson Velázquez,2003,Defender,"1,81 m",,,Liga MX
+138560,Miguel Sansores,1991,Centre-Forward,"1,76 m",right,€200k,Liga MX
+384368,Bryan Colula,1996,Right-Back,"1,76 m",right,€1.50m,Liga MX
+325596,Sergio Flores,1995,Defensive Midfield,"1,85 m",right,€1.20m,Liga MX
+1087352,Omar Moreno,2005,Attack,"1,75 m",,€100k,Liga MX
+1101843,Said Godínez,2004,Midfield,"1,76 m",,,Liga MX
+291658,Luis Amarilla,1995,Centre-Forward,"1,76 m",right,€1.80m,Liga MX
+591375,Stiven Plaza,1999,Centre-Forward,"1,89 m",right,€100k,Liga MX
+1086885,Héctor López,2003,Midfield,"1,78 m",,,Liga MX
+1029160,Raúl Camacho,2002,Centre-Forward,"1,82 m",right,€600k,Liga MX
+1215056,Yostin Valadez,2001,Centre-Forward,"1,90 m",,€100k,Liga MX
+787248,Brian Betancourt,2004,Goalkeeper,"1,81 m",,,Liga MX
+495116,Jair Díaz,1998,Left-Back,"1,81 m",left,€1.00m,Liga MX
+597727,Daniel Gutiérrez,1997,Goalkeeper,"1,81 m",,€600k,Liga MX
+162947,José Madueña,1990,Right-Back,"1,72 m",right,€250k,Liga MX
+309505,Eduard Bello,1995,Second Striker,"1,76 m",right,€1.20m,Liga MX
+71520,Néstor Vidrio,1989,Centre-Back,"1,82 m",right,€300k,Liga MX
+424984,Lucas Merolla,1995,Centre-Back,"1,95 m",left,€3.00m,Liga MX
+1065536,Ángel Saavedra,2003,Left Winger,"1,72 m",,,Liga MX
+1029149,Gabriel López,2003,Attack,"1,68 m",,,Liga MX
+993722,Andrés Montaño,2002,Central Midfield,"1,75 m",left,€3.00m,Liga MX
+129031,Hugo González,1990,Goalkeeper,"1,84 m",right,€600k,Liga MX
+370864,Roberto Meraz,1999,Defensive Midfield,"1,80 m",right,€2.00m,Liga MX
+283473,Yoel Bárcenas,1993,Right Winger,"1,75 m",right,€1.00m,Liga MX
+570547,Brian Rubio,1996,Centre-Forward,"1,86 m",,€800k,Liga MX
+1095110,Christian García,2004,Goalkeeper,"1,82 m",,,Liga MX
+382836,Nicolás Benedetti,1997,Attacking Midfield,"1,77 m",right,€2.50m,Liga MX
+955297,Luis Carrillo,2005,Right-Back,"1,79 m",right,,Liga MX
+379082,Jorge Padilla,1993,Right-Back,"1,80 m",right,€300k,Liga MX
+670185,Luis Sánchez,2000,Centre-Back,"1,82 m",,€1.20m,Liga MX
+639390,Facundo Almada,1998,Centre-Back,"1,82 m",right,€2.00m,Liga MX
+401726,Josué Colmán,1998,Left Winger,"1,70 m",right,€1.80m,Liga MX
+193344,Alonso Escoboza,1993,Left-Back,"1,69 m",left,€700k,Liga MX
+1034775,Sebastián Olmedo,2001,Centre-Back,"1,82 m",right,€1.20m,Liga MX
+599568,Santiago Ormeño,1994,Centre-Forward,"1,87 m",left,€700k,Liga MX
+911183,Lucas de los Santos,2001,Defensive Midfield,"1,82 m",right,€500k,Liga MX
+221038,Lucas Cavallini,1992,Centre-Forward,"1,82 m",left,€1.20m,Liga MX
+726153,Emiliano García,2003,Centre-Forward,"1,86 m",right,€100k,Liga MX
+1086740,Patrick Villa,2003,Defender,"1,75 m",,,Liga MX
+348264,Gustavo Ferrareis,1996,Right-Back,"1,76 m",right,€2.00m,Liga MX
+280157,Gabriel Carabajal,1990,Attacking Midfield,"1,78 m",right,€275k,Liga MX
+670183,Daniel Aguilar,1998,Defensive Midfield,"1,78 m",left,€450k,Liga MX
+686447,Jair González,2002,Left Winger,"1,73 m",right,€400k,Liga MX
+370868,Efraín Orona,1999,Centre-Back,"1,82 m",left,€800k,Liga MX
+663290,Raúl Castillo,2001,Attacking Midfield,"1,75 m",right,€800k,Liga MX
+810710,Juan Pablo Gómez,2001,Goalkeeper,"1,84 m",,€50k,Liga MX
+721027,Ángel Robles,2001,Centre-Forward,"1,74 m",,€500k,Liga MX
+322696,Facundo Waller,1997,Left Midfield,"1,74 m",left,€900k,Liga MX
+1089145,Vinícius Côrtes,2005,Midfield,"1,65 m",,€100k,Liga MX
+692582,Ivo Vázquez,2000,Left-Back,"1,75 m",left,€400k,Liga MX
+264126,Martín Barragán,1991,Centre-Forward,"1,78 m",right,€600k,Liga MX
+102708,Diego de Buen,1991,Defensive Midfield,"1,82 m",right,€800k,Liga MX
+552958,Rafael Durán,1997,Centre-Forward,"1,84 m",right,€600k,Liga MX
+71468,Fernando Navarro,1989,Central Midfield,"1,65 m",right,-,Liga MX
+945134,Alberto Herrera,2001,Defensive Midfield,"1,73 m",left,€900k,Liga MX
+600857,Kevin Velasco,1997,Right Winger,"1,68 m",left,€1.00m,Liga MX
+54839,Miguel Fraga,1987,Goalkeeper,"1,84 m",right,-,Liga MX
+222010,Jesús Rodríguez,1993,Goalkeeper,"1,85 m",,€800k,Liga MX
+189452,Gastón Silva,1994,Centre-Back,"1,85 m",left,€1.50m,Liga MX
+179987,Luis García,1993,Left Winger,"1,78 m",right,€500k,Liga MX
+1086749,Samuel González,2003,Attack,"1,67 m",,€300k,Liga MX
+67866,Brayan Angulo,1989,Left-Back,"1,75 m",left,€500k,Liga MX
+560325,Carlos Baltazar,1997,Attacking Midfield,"1,71 m",right,€700k,Liga MX
+222005,Pablo González,1992,Central Midfield,"1,74 m",right,€600k,Liga MX
+96313,Federico Mancuello,1989,Central Midfield,"1,77 m",left,€350k,Liga MX
+1150567,José Pachuca,2005,Centre-Back,"1,85 m",,€150k,Liga MX
+347575,Daniel Álvarez,1994,Left Winger,"1,77 m",right,€800k,Liga MX
+739082,Diego Zago,2002,Defensive Midfield,"1,69 m",right,€400k,Liga MX
+575368,Frankie Amaya,2000,Central Midfield,"1,63 m",,€2.50m,Liga MX
+688069,Juan Gamboa,2001,Centre-Forward,"1,69 m",,€350k,Liga MX
+370861,Iván López,1999,Centre-Forward,"1,80 m",left,€1.50m,Liga MX
+471988,Brian García,1997,Right-Back,"1,70 m",right,€3.80m,Liga MX
+572675,Maxi Araújo,2000,Left Winger,"1,79 m",left,€14.00m,Liga MX
+915016,Juan Domínguez,1998,Right Winger,"1,76 m",right,€2.50m,Liga MX
+1121481,Juan López,2006,Attacking Midfield,"1,74 m",left,,Liga MX
+694157,Diego Abreu,2003,Centre-Forward,"1,89 m",right,€50k,Liga MX
+211072,Paulinho,1992,Centre-Forward,"1,88 m",left,€8.00m,Liga MX
+227671,Tiago Volpi,1990,Goalkeeper,"1,89 m",right,€1.00m,Liga MX
+552912,Bruno Méndez,1999,Centre-Back,"1,80 m",right,€4.50m,Liga MX
+483446,Tomás Belmonte,1998,Defensive Midfield,"1,81 m",right,€5.00m,Liga MX
+178984,Luan,1993,Centre-Back,"1,88 m",right,€1.80m,Liga MX
+344854,Jesús Gallardo,1994,Left-Back,"1,76 m",left,€3.80m,Liga MX
+248346,Claudio Baeza,1993,Defensive Midfield,"1,71 m",right,€3.00m,Liga MX
+564965,Jesús Venegas,1995,Defensive Midfield,"1,76 m",,€700k,Liga MX
+854027,Fernando Piñuelas,1998,Centre-Back,"1,82 m",right,€500k,Liga MX
+353034,Juan Escobar,1995,Centre-Back,"1,77 m",right,€3.00m,Liga MX
+832340,Robert Morales,1999,Centre-Forward,"1,79 m",right,€1.50m,Liga MX
+236710,Luis García,1992,Goalkeeper,"1,83 m",right,€500k,Liga MX
+1091863,Víctor Arteaga,2004,Defensive Midfield,"1,75 m",right,€500k,Liga MX
+614303,Adrián Mora,1997,Centre-Back,"1,93 m",left,€600k,Liga MX
+124788,Carlos Orrantía,1991,Right-Back,"1,74 m",right,€400k,Liga MX
+597728,Marcel Ruiz,2000,Central Midfield,"1,82 m",right,€6.50m,Liga MX
+671479,Federico Pereira,2000,Centre-Back,"1,85 m",right,€5.00m,Liga MX
+1152301,Brayan Monroy,2004,Defender,"1,75 m",,,Liga MX
+799707,Mauricio Isaís,2001,Left-Back,"1,86 m",left,€1.20m,Liga MX
+1279910,Kléver Castillo,2005,Midfield,"1,67 m",,,Liga MX
+411709,Jesús Angulo,1997,Attacking Midfield,"1,72 m",left,€4.00m,Liga MX
+1095269,Sait Tlaxcalteco,2003,Midfield,"1,72 m",,,Liga MX
+547443,Pedro Raul,1996,Centre-Forward,"1,93 m",right,€2.00m,Liga MX
+226306,Valber Huerta,1993,Centre-Back,"1,85 m",left,€1.00m,Liga MX
+668496,Isaías Violante,2003,Left Winger,"1,78 m",left,€1.50m,Liga MX
+796254,Gustavo Gutiérrez,1996,Goalkeeper,"1,83 m",,€500k,Liga MX
+959226,Emiliano Freyfeld,2004,Centre-Back,"1,89 m",right,,Liga MX
+1087291,Arturo Martín del Campo,2003,Attack,"1,75 m",,,Liga MX
+993723,Ronaldo Beltrán,2002,Goalkeeper,"1,83 m",,,Liga MX
+370858,Antonio Figueroa,1999,Right Winger,"1,72 m",left,€400k,Liga MX
+955303,Everardo del Villar,2005,Centre-Back,"1,80 m",left,,Liga MX
+217228,Jean Meneses,1993,Left Winger,"1,63 m",right,€2.50m,Liga MX
+74421,Andrés Mosquera,1990,Centre-Back,"1,78 m",right,€450k,Liga MX
+988440,Abraham Villegas,2002,Defender,"1,80 m",,,Liga MX
+243580,José Abella,1994,Right-Back,"1,75 m",right,€1.50m,Liga MX
+526111,Alex Méndez,2000,Central Midfield,"1,80 m",left,€300k,Liga MX
+1086940,Jan Carlo Carmona,2004,Midfield,"1,70 m",,,Liga MX
+901575,Gonzalo Pelúa,2003,Centre-Back,"1,80 m",left,€150k,Liga MX
+997057,Denzell García,2003,Defensive Midfield,"1,70 m",,€1.00m,Liga MX
+371169,Haret Ortega,2000,Centre-Back,"1,92 m",right,€1.00m,Liga MX
+450406,Sebastián Jurado,1997,Goalkeeper,"1,88 m",right,€1.00m,Liga MX
+636441,Agustín Urzi,2000,Right Winger,"1,69 m",right,€1.50m,Liga MX
+304322,Diego Chávez,1995,Centre-Forward,"1,79 m",right,-,Liga MX
+135867,Mario Osuna,1988,Central Midfield,"1,78 m",right,€100k,Liga MX
+433962,Benny Díaz,1998,Goalkeeper,"1,85 m",left,€700k,Liga MX
+600956,Francisco Nevárez,2000,Right-Back,"1,85 m",right,€300k,Liga MX
+50965,Alfredo Talavera,1982,Goalkeeper,"1,88 m",right,€100k,Liga MX
+228255,Javier Salas,1993,Defensive Midfield,"1,81 m",right,€800k,Liga MX
+1086937,César Sosa,2004,Attack,"1,78 m",,,Liga MX
+214468,Aitor García,1994,Left Winger,"1,73 m",right,€1.20m,Liga MX
+1041454,Abraham Nuño,2003,Goalkeeper,"1,85 m",,-,Liga MX
+802857,Diego Campillo,2001,Centre-Back,"1,80 m",right,€1.20m,Liga MX
+798507,Ángel Zapata,2001,Defensive Midfield,"1,66 m",,€800k,Liga MX
+178107,Michael Santos,1993,Centre-Forward,"1,74 m",right,€1.20m,Liga MX
+294987,Andrija Vukcevic,1996,Left-Back,"1,80 m",left,€800k,Liga MX
+186415,Amaury Escoto,1992,Centre-Forward,"1,80 m",right,€300k,Liga MX
+413983,Diego Valoyes,1996,Right Winger,"1,81 m",right,€3.00m,Liga MX
+686332,Edson Fernando,1998,Defensive Midfield,"1,78 m",right,€700k,Liga MX
+141103,Luis Rodríguez,1991,Right-Back,"1,75 m",right,€600k,Liga MX
+611018,Francisco Reyes,1998,Centre-Back,"1,83 m",right,€300k,Liga MX
+1235196,Eder López,2006,Right-Back,"1,78 m",,,Liga MX
+371185,Jairo Torres,2000,Right Winger,"1,70 m",right,€3.00m,Liga MX
+817133,Moisés Mosquera,2001,Centre-Back,"1,89 m",right,€1.50m,Liga MX
+345624,Sebastián Saucedo,1997,Left Winger,"1,73 m",right,€400k,Liga MX
+148713,Avilés Hurtado,1987,Left Winger,"1,71 m",right,€500k,Liga MX
+994004,Bryan Romero,2003,Centre-Back,"1,88 m",,,Liga MX
+563812,Christian Oliva,1996,Defensive Midfield,"1,78 m",right,€1.00m,Liga MX
+188470,Francisco Calvo,1992,Centre-Back,"1,83 m",left,€1.20m,Liga MX
+335984,Manuel Castro,1995,Right Winger,"1,75 m",right,€1.20m,Liga MX
+352552,José Juan Manríquez,1996,Centre-Back,"1,84 m",right,€800k,Liga MX
+332764,Jonathan González,1999,Defensive Midfield,"1,75 m",right,€700k,Liga MX
+256866,Carlos Salcedo,1993,Centre-Back,"1,85 m",right,€1.20m,Liga MX
+427267,Ramón Pasquel,1996,Goalkeeper,"1,81 m",right,€150k,Liga MX
+936956,Sebastián Pérez Bouquet,2003,Attacking Midfield,"1,67 m",right,€500k,Liga MX
+787264,Héctor Uribe,2004,Right Winger,"1,71 m",,,Liga MX
+1239038,Román Almanza,2006,Centre-Forward,"1,74 m",right,,Liga MX
+295426,Osvaldo Rodríguez,1996,Left-Back,"1,75 m",left,€2.00m,Liga MX
+784509,Óscar Villa,2001,Left-Back,"1,78 m",left,€300k,Liga MX
+599482,Alan Medina,1998,Right Winger,"1,70 m",right,€1.80m,Liga MX
+1059499,Pedro Budib,2004,Centre-Back,"1,93 m",,,Liga MX
+598145,Jordy Alcívar,1999,Defensive Midfield,"1,68 m",,€1.00m,Liga MX
+1031645,Luis Cervantes,2001,Right-Back,"1,74 m",right,,Liga MX
+597092,Iván Moreno,1998,Right-Back,"1,68 m",right,€2.00m,Liga MX
+322174,David Ramírez,1995,Right-Back,"1,78 m",right,€1.00m,Liga MX
+857491,Edgar Guerra,2001,Right Winger,"1,72 m",right,€1.00m,Liga MX
+1091774,Erick Torres,2003,Midfield,"1,75 m",,,Liga MX
+1150779,Erick Torres,2004,Defender,"1,79 m",,,Liga MX
+285810,Omar Fernández,1993,Left Winger,"1,66 m",left,€1.00m,Liga MX
+950872,Daniel Hernández,2001,Right Winger,"1,70 m",right,€800k,Liga MX
+1087247,Sebastián Santos,2003,Central Midfield,"1,83 m",right,€700k,Liga MX
+378351,Paul Bellón,1997,Centre-Back,"1,89 m",left,€1.20m,Liga MX
+570431,Alfonso Alvarado,2000,Centre-Forward,"1,74 m",right,€1.50m,Liga MX
+242201,Lucas Romero,1994,Defensive Midfield,"1,72 m",right,€2.80m,Liga MX
+829063,Ángel Estrada,2003,Midfield,"1,84 m",,€700k,Liga MX
+137840,William Tesillo,1990,Centre-Back,"1,85 m",left,€500k,Liga MX
+271256,Jhonder Cádiz,1995,Centre-Forward,"1,90 m",right,€3.00m,Liga MX
+123609,Ángel Mena,1988,Right Winger,"1,68 m",left,€300k,Liga MX
+578419,Federico Viñas,1998,Centre-Forward,"1,81 m",left,€4.00m,Liga MX
+217155,Borja Sánchez,1996,Left Winger,"1,86 m",right,€1.00m,Liga MX
+131101,Stiven Mendoza,1992,Left Winger,"1,71 m",left,€900k,Liga MX
+63333,Alfonso Blanco,1987,Goalkeeper,"1,82 m",left,€150k,Liga MX
+465816,Gonzalo Nápoli,2000,Central Midfield,"1,74 m",left,€1.20m,Liga MX
+20506,Andrés Guardado,1986,Central Midfield,"1,67 m",left,€600k,Liga MX
+71433,Elías Hernández,1988,Right Winger,"1,71 m",right,€200k,Liga MX
+760988,Armando León,2000,Centre-Forward,"1,89 m",right,€350k,Liga MX
+721028,Víctor Barajas,2003,Defender,"1,72 m",,,Liga MX
+1087243,Óscar García,2003,Goalkeeper,"1,86 m",,,Liga MX
+1091775,Óscar Alba,2004,Midfield,"1,68 m",,,Liga MX
+799706,José Salazar,2002,Attack,"1,74 m",,,Liga MX
+1063477,Alan Gutiérrez,2006,Attack,"1,73 m",,,Liga MX
+598838,Adonis Frías,1998,Centre-Back,"1,89 m",right,€4.00m,Liga MX
+723240,Fidel Ambríz,2003,Defensive Midfield,"1,84 m",right,€6.50m,Liga MX
+212699,Stiven Barreiro,1994,Centre-Back,"1,89 m",right,€3.00m,Liga MX
+1282040,Diego Lomelí,2005,Centre-Back,"1,78 m",,,Liga MX
+798509,Pedro Hernández,2000,Centre-Back,"1,74 m",,€500k,Liga MX
+1097659,Pedro Martínez,2001,Centre-Back,"1,88 m",,€100k,Liga MX
+1094383,Alán Bautista,2002,Attacking Midfield,"1,69 m",right,€2.00m,Liga MX
+854686,Jahaziel Marchand,2001,Central Midfield,"1,79 m",,€650k,Liga MX
+833269,René López,2002,Right-Back,"1,78 m",right,€400k,Liga MX
+1203193,David Shrem,2005,Goalkeeper,"1,95 m",,,Liga MX
+955338,Alexéi Domínguez,2005,Right Winger,"1,71 m",right,€700k,Liga MX
+1095046,Sergio Hernández,2002,Second Striker,"1,79 m",left,€1.50m,Liga MX
+439108,Lucas Di Yorio,1996,Centre-Forward,"1,90 m",right,€2.00m,Liga MX
+661481,Carlos Moreno,1998,Goalkeeper,"1,90 m",right,€2.50m,Liga MX
+704868,Pedro Pedraza,2000,Defensive Midfield,"1,83 m",right,€3.00m,Liga MX
+30677,Gustavo Cabral,1985,Centre-Back,"1,82 m",right,€300k,Liga MX
+1087262,Emi Rodríguez,2003,Right Winger,"1,75 m",left,€500k,Liga MX
+858660,José Eulogio,2004,Goalkeeper,"1,78 m",,€200k,Liga MX
+556047,Sergio Barreto,1999,Centre-Back,"1,83 m",right,€2.80m,Liga MX
+1125592,Elías Montiel,2005,Defensive Midfield,"1,70 m",right,€3.50m,Liga MX
+1039303,Julio Pérez,2002,Centre-Back,"1,87 m",,€100k,Liga MX
+663319,Marino Hinestroza,2002,Right Winger,"1,72 m",right,€2.80m,Liga MX
+80197,Salomón Rondón,1989,Centre-Forward,"1,89 m",right,€800k,Liga MX
+836664,Valentín Rodríguez,2001,Left-Back,"1,73 m",left,€500k,Liga MX
+955313,Ari Contreras,2005,Left-Back,"1,70 m",left,€500k,Liga MX
+261309,David Terans,1994,Attacking Midfield,"1,76 m",left,€3.00m,Liga MX
+185012,Arturo González,1994,Left Winger,"1,75 m",left,€2.80m,Liga MX
+3755,Oscar Ustari,1986,Goalkeeper,"1,83 m",right,€100k,Liga MX
+1094402,Sergio Aguayo,2002,Centre-Forward,"1,85 m",,€300k,Liga MX
+630945,Fernando Ovelar,2004,Right Winger,"1,72 m",left,€800k,Liga MX
+704556,Bryan González,2003,Left-Back,"1,81 m",left,€4.00m,Liga MX
+125250,Celso Ortiz,1989,Defensive Midfield,"1,75 m",left,€400k,Liga MX
+883265,Andrés Micolta,1999,Centre-Back,"1,93 m",left,€2.50m,Liga MX
+400961,Byron Castillo,1995,Right-Back,"1,67 m",right,€1.00m,Liga MX
+261502,Paulino de la Fuente,1997,Right Winger,"1,84 m",left,€1.40m,Liga MX
+1087256,José Saldívar,2003,Midfield,"1,80 m",,,Liga MX
+1087253,Jorge Berlanga,2003,Centre-Back,"1,80 m",right,€800k,Liga MX
+241391,Oussama Idrissi,1996,Left Winger,"1,79 m",right,€7.00m,Liga MX
+725791,Luis Calzadilla,2000,Right Winger,"1,68 m",right,€600k,Liga MX
+1094384,Owen González,2003,Right Winger,"1,69 m",right,€1.20m,Liga MX
+803608,Carlos Sánchez,2002,Right-Back,"1,70 m",right,€800k,Liga MX
+1087255,Jason Flores,2003,Centre-Back,"1,89 m",,,Liga MX
+704555,Israel Luna,2002,Attacking Midfield,"1,78 m",right,€800k,Liga MX
+955233,Gael Álvarez,2006,Attacking Midfield,"1,70 m",,€100k,Liga MX
+371168,Roberto de la Rosa,2000,Centre-Forward,"1,79 m",right,€1.00m,Liga MX
+911336,Carlos Rodas,2001,Goalkeeper,"1,94 m",,€50k,Liga MX
+907559,Nelson Deossa,2000,Central Midfield,"1,78 m",left,€4.50m,Liga MX
+422990,Faber Gil,1995,Right Winger,"1,78 m",right,€900k,Liga MX
+85324,Borja Bastón,1992,Centre-Forward,"1,86 m",right,€1.50m,Liga MX
+274288,Javier Eduardo López,1994,Attacking Midfield,"1,67 m",left,€1.00m,Liga MX
+668528,Luis Puente,2003,Centre-Forward,"1,85 m",right,€350k,Liga MX
+833268,Alonso Aceves,2001,Left-Back,"1,80 m",left,€800k,Liga MX
+284120,Gonzalo Piovi,1994,Centre-Back,"1,80 m",left,€3.00m,Liga MX
+905089,Raymundo Rubio,2001,Centre-Back,"1,83 m",,€200k,Liga MX
+508257,Carlos Vargas,1999,Left-Back,"1,78 m",left,€500k,Liga MX
+221805,Ignacio Rivero,1992,Central Midfield,"1,74 m",right,€2.00m,Liga MX
+788361,Moisés,1996,Left Winger,"1,77 m",right,€2.50m,Liga MX
+959192,Josué Díaz,2004,Right-Back,"1,74 m",right,€300k,Liga MX
+690469,Amaury García,2001,Central Midfield,"1,84 m",,€300k,Liga MX
+1150510,Bryan Gamboa,2002,Centre-Forward,"1,80 m",right,,Liga MX
+1087355,Louis Víctor Derbez,2003,Defensive Midfield,"1,75 m",,,Liga MX
+532938,Luis Romo,1995,Central Midfield,"1,83 m",right,€5.50m,Liga MX
+1118326,Amaury Morales,2005,Left Winger,"1,69 m",right,€500k,Liga MX
+382473,Camilo Cándido,1995,Left-Back,"1,73 m",left,€1.20m,Liga MX
+668529,Rodrigo Huescas,2003,Right-Back,"1,72 m",right,€5.00m,Liga MX
+67646,Jesús Dueñas,1989,Defensive Midfield,"1,75 m",right,-,Liga MX
+602324,Érik Lira,2000,Defensive Midfield,"1,72 m",right,€7.50m,Liga MX
+433216,Jorge García,2002,Defensive Midfield,"1,70 m",,€150k,Liga MX
+971631,Mauro Zaleta,2002,Defensive Midfield,"1,75 m",,,Liga MX
+609255,Willer Ditta,1998,Centre-Back,"1,79 m",right,€6.00m,Liga MX
+881350,Cristian Jiménez,2002,Central Midfield,"1,88 m",,€200k,Liga MX
+1154123,Mateo Levy,2006,Centre-Forward,"1,75 m",right,€500k,Liga MX
+181706,Lorenzo Faravelli,1993,Attacking Midfield,"1,79 m",right,€2.50m,Liga MX
+491542,Kevin Mier,2000,Goalkeeper,"1,87 m",right,€8.00m,Liga MX
+234850,Georgios Giakoumakis,1994,Centre-Forward,"1,85 m",right,€9.00m,Liga MX
+355998,Uriel Antuna,1997,Right Winger,"1,74 m",right,€5.00m,Liga MX
+1091807,Luis Jiménez,2004,Goalkeeper,"1,95 m",right,€100k,Liga MX
+461608,Iván Morales,1999,Centre-Forward,"1,80 m",right,€400k,Liga MX
+1006077,Javier Suárez,2006,Right-Back,"1,76 m",right,,Liga MX
+856282,Luis Iturbide,2002,Centre-Back,"1,82 m",right,€200k,Liga MX
+371171,Alexis Gutiérrez,2000,Attacking Midfield,"1,75 m",left,€3.00m,Liga MX
+553422,Carlos Rotondi,1997,Left Winger,"1,81 m",left,€6.00m,Liga MX
+1150634,Karol Velázquez,2005,Defensive Midfield,"1,77 m",,,Liga MX
+857948,Kevin Castaño,2000,Defensive Midfield,"1,77 m",right,€6.00m,Liga MX
+1087354,Alan Zubiri,2001,Centre-Back,"1,82 m",right,-,Liga MX
+406296,Augusto Lotti,1996,Second Striker,"1,80 m",right,€800k,Liga MX
+356044,Jorge Sánchez,1997,Right-Back,"1,75 m",right,€2.80m,Liga MX
+534620,Carlos Rodríguez,1997,Defensive Midfield,"1,71 m",right,€6.00m,Liga MX
+959225,Alfredo Cabañas,2003,Goalkeeper,"1,78 m",,,Liga MX
+421920,Andrés Gudiño,1997,Goalkeeper,"1,85 m",right,€700k,Liga MX
+971630,Rafael Guerrero,2003,Centre-Back,"1,83 m",,€700k,Liga MX
+130413,Javier Correa,1992,Centre-Forward,"1,86 m",right,€1.50m,Liga MX
+1086902,Jesús Ramírez,2002,Attacking Midfield,"1,78 m",,,Liga MX
+886304,Salvador Mariscal,2003,Defensive Midfield,"1,87 m",right,€1.50m,Liga MX
+1087365,Emmanuel Echeverría,2003,Left-Back,"1,72 m",left,€1.00m,Liga MX
+929438,Franco Fagúndez,2000,Second Striker,"1,87 m",right,€1.20m,Liga MX
+787263,Juan Tejeda,2004,Centre-Back,"1,79 m",,,Liga MX
+468174,Félix Torres,1997,Centre-Back,"1,87 m",right,€4.00m,Liga MX
+955224,Stéphano Carrillo,2006,Centre-Forward,"1,84 m",right,€1.00m,Liga MX
+1091854,Luis Vega,2004,Attacking Midfield,"1,77 m",,,Liga MX
+273638,Pedro Aquino,1995,Defensive Midfield,"1,75 m",right,€2.50m,Liga MX
+356042,Carlos Acevedo,1996,Goalkeeper,"1,84 m",right,€3.80m,Liga MX
+400179,Joel García,1998,Goalkeeper,"1,85 m",right,€300k,Liga MX
+213841,Matheus Dória,1994,Centre-Back,"1,88 m",left,€2.50m,Liga MX
+570558,Ismael Govea,1997,Right-Back,"1,78 m",right,€1.20m,Liga MX
+854454,Omar Campos,2002,Left-Back,"1,76 m",left,€4.00m,Liga MX
+432222,Héctor Holguín,2001,Goalkeeper,"1,80 m",,€400k,Liga MX
+270035,Raúl López,1993,Right-Back,"1,84 m",right,€1.00m,Liga MX
+1127597,Luis Gómez,2007,Attacking Midfield,"1,76 m",right,,Liga MX
+432225,Diego Medina,2001,Right Winger,"1,76 m",right,€1.20m,Liga MX
+147157,Hugo Rodríguez,1990,Centre-Back,"1,83 m",right,€300k,Liga MX
+959208,Santiago Núñez,2000,Centre-Back,"1,86 m",right,€2.70m,Liga MX
+311680,Fran Villalba,1998,Attacking Midfield,"1,68 m",right,€1.20m,Liga MX
+1064246,Geovanni Pérez,2005,Centre-Back,"1,81 m",,€500k,Liga MX
+362668,Hárold Preciado,1994,Centre-Forward,"1,85 m",right,€2.50m,Liga MX
+830112,Ramiro Sordo,2000,Left Winger,"1,76 m",right,€2.80m,Liga MX
+131275,Choco Lozano,1993,Centre-Forward,"1,83 m",right,€1.20m,Liga MX
+401355,Jesús Ocejo,1998,Centre-Forward,"1,80 m",right,€1.00m,Liga MX
+704554,Santiago Muñoz,2002,Centre-Forward,"1,79 m",right,€1.20m,Liga MX
+413658,Duván Vergara,1996,Left Winger,"1,77 m",right,€2.80m,Liga MX
+1100159,Guillermo Muñoz,2004,Attacking Midfield,"1,70 m",,,Liga MX
+715140,Emerson Rodríguez,2000,Left Winger,"1,74 m",right,€2.00m,Liga MX
+599564,Santiago Ramírez,1997,Goalkeeper,"1,80 m",,€800k,Liga MX
+1084716,Luis Gutiérrez,2002,Central Midfield,"1,62 m",,€700k,Liga MX
+1086900,David Sánchez,2003,Goalkeeper,"1,83 m",,,Liga MX
+504104,Alejandro Gómez,2002,Centre-Back,"1,83 m",left,€1.50m,Liga MX
+740574,Jordán Carrillo,2001,Left Winger,"1,68 m",right,€1.50m,Liga MX
+644676,Bruno Amione,2002,Centre-Back,"1,87 m",left,€3.00m,Liga MX
+690024,Aldo López,2000,Defensive Midfield,"1,75 m",right,€1.50m,Liga MX
+1086901,Emilio Santillán,2003,Attack,"1,72 m",,,Liga MX
+242580,Gibrán Lajud,1993,Goalkeeper,"1,83 m",right,€600k,Liga MX
+142745,Anderson Santamaría,1992,Centre-Back,"1,84 m",right,€900k,Liga MX
+599292,Ronaldo Prieto,1997,Central Midfield,"1,72 m",left,€600k,Liga MX
+1193298,Tahiel Jiménez,2006,Centre-Forward,"1,80 m",,€700k,Liga MX
+371170,Áxel Grijalva,2000,Centre-Back,"1,79 m",,€200k,Liga MX
+370203,Joao Rojas,1997,Left Winger,"1,79 m",right,€1.20m,Liga MX
+131093,Stefan Medina,1992,Right-Back,"1,79 m",right,€1.50m,Liga MX
+280379,Luis Cárdenas,1993,Goalkeeper,"1,83 m",right,€350k,Liga MX
+370869,Daniel Parra,1999,Left-Back,"1,82 m",left,€250k,Liga MX
+270145,Édson Gutiérrez,1996,Centre-Back,"1,71 m",right,€600k,Liga MX
+745454,Tony Leone,2004,Centre-Back,"1,83 m",right,€200k,Liga MX
+974652,Johan Rojas,2002,Attacking Midfield,"1,80 m",right,€3.00m,Liga MX
+214775,Óliver Torres,1994,Central Midfield,"1,75 m",right,€5.00m,Liga MX
+288609,Sebastián Vegas,1996,Centre-Back,"1,83 m",left,€3.00m,Liga MX
+371175,Jaziel Martínez,2000,Central Midfield,"1,75 m",left,€500k,Liga MX
+1095326,Iker Fimbres,2005,Attacking Midfield,"1,74 m",,€1.50m,Liga MX
+389255,Brandon Vazquez,1998,Centre-Forward,"1,88 m",right,€6.00m,Liga MX
+333760,Jorge Rodríguez,1995,Defensive Midfield,"1,79 m",right,€4.00m,Liga MX
+469718,Gerardo Arteaga,1998,Left-Back,"1,75 m",left,€5.00m,Liga MX
+1154124,Christian Franco,2004,Left-Back,"1,80 m",left,,Liga MX
+1099383,Ángel Jordán,2005,Centre-Forward,"1,78 m",,,Liga MX
+51046,Héctor Moreno,1988,Centre-Back,"1,86 m",left,€350k,Liga MX
+1087279,Erick Carballo,2002,Attacking Midfield,"1,76 m",,,Liga MX
+1171460,César Garza,2005,Defensive Midfield,"1,72 m",,€400k,Liga MX
+430021,Jordi Cortizo,1996,Right Winger,"1,72 m",left,€3.00m,Liga MX
+282476,Maxi Meza,1992,Right Winger,"1,81 m",right,€4.00m,Liga MX
+944086,César Bustos,2005,Centre-Back,"1,76 m",right,€100k,Liga MX
+984338,Luis Basulto,2002,Centre-Back,"1,82 m",,-,Liga MX
+1099053,Alessandro Tagle,2005,Defender,"1,75 m",,,Liga MX
+540306,César Ramos,2000,Goalkeeper,"1,84 m",,€200k,Liga MX
+1047141,Isidro Suárez,2003,Attacking Midfield,"1,79 m",,,Liga MX
+66106,Sergio Canales,1991,Attacking Midfield,"1,78 m",left,€7.00m,Liga MX
+955314,Joel Domínguez,2005,Central Midfield,"1,74 m",right,,Liga MX
+1175776,Rodrigo Rentería,2005,Centre-Back,"1,83 m",,,Liga MX
+1029947,Ricardo Rentería,2002,Right Winger,"1,80 m",,,Liga MX
+1185397,Luis Ortiz,2006,Central Midfield,"1,64 m",,,Liga MX
+295373,Érick Aguirre,1997,Right-Back,"1,74 m",right,€3.00m,Liga MX
+125165,Jesús Corona,1993,Right Winger,"1,73 m",right,€2.50m,Liga MX
+1224695,Cristian Reyes,2006,Right Winger,"1,64 m",right,,Liga MX
+1105435,Joaquín Moxica,2006,Centre-Forward,"1,74 m",,,Liga MX
+686444,Víctor Guzmán,2002,Centre-Back,"1,82 m",right,€8.50m,Liga MX
+401572,Germán Berterame,1998,Centre-Forward,"1,76 m",right,€7.00m,Liga MX
+105888,Esteban Andrada,1991,Goalkeeper,"1,94 m",right,€1.80m,Liga MX
+1063481,Francisco Valenzuela,2007,Centre-Forward,"1,84 m",,,Liga MX
+1059802,Jorge Guzmán,2003,Left Winger,"1,73 m",,€350k,Liga MX
+1150376,Carlos Cruz,2004,Midfield,"1,70 m",,,Liga MX
+242303,Aldo Rocha,1992,Defensive Midfield,"1,70 m",right,€1.50m,Liga MX
+1150375,Sergio Álvarez,2004,Attack,"1,78 m",,€50k,Liga MX
+570550,Edyairth Ortega,1997,Central Midfield,"1,76 m",right,-,Liga MX
+578536,Christopher Trejo,1999,Centre-Forward,"1,78 m",right,€600k,Liga MX
+264133,Luis Reyes,1991,Left-Back,"1,80 m",left,€800k,Liga MX
+401349,José Hernández,1997,Goalkeeper,"1,82 m",right,€350k,Liga MX
+687559,Rivaldo Lozano,1998,Left-Back,"1,75 m",left,€1.50m,Liga MX
+833271,Antonio Sánchez,2000,Goalkeeper,"1,87 m",,€400k,Liga MX
+74113,Camilo Vargas,1989,Goalkeeper,"1,85 m",left,€1.00m,Liga MX
+400171,Eduardo Aguirre,1998,Centre-Forward,"1,76 m",right,€2.50m,Liga MX
+190804,Uros Djurdjevic,1994,Centre-Forward,"1,81 m",right,€1.00m,Liga MX
+1205244,Jesús Serrato,2005,Midfield,"1,74 m",,,Liga MX
+737125,Jeremy Márquez,2000,Central Midfield,"1,77 m",right,€3.00m,Liga MX
+503164,Carlos Robles,2000,Centre-Back,"1,80 m",right,€500k,Liga MX
+1094366,Víctor Ríos,2004,Central Midfield,"1,91 m",right,€700k,Liga MX
+1087214,Alejandro Bravo,2001,Midfield,"1,72 m",,€350k,Liga MX
+1087215,Israel Larios,2003,Attack,"1,66 m",,,Liga MX
+419457,Gaddi Aguirre,1996,Centre-Back,"1,81 m",right,€1.20m,Liga MX
+427203,Édgar Zaldívar,1996,Defensive Midfield,"1,72 m",right,€1.20m,Liga MX
+726154,Luis Flores,2001,Right-Back,"1,73 m",right,€75k,Liga MX
+282694,Augusto Solari,1992,Right Midfield,"1,78 m",right,€500k,Liga MX
+107503,Hugo Nervo,1991,Centre-Back,"1,83 m",right,€800k,Liga MX
+441287,Mateo García,1996,Right Winger,"1,72 m",left,€1.20m,Liga MX
+1087209,Eduardo Moreno,2003,Defender,"1,72 m",,,Liga MX
+659693,Juan Zapata,2000,Central Midfield,"1,79 m",right,€1.40m,Liga MX
+803552,Abraham Bass,2001,Defensive Midfield,"1,80 m",right,€300k,Liga MX
+1099706,Luis Egurrola,2004,Attack,"1,73 m",,€100k,Liga MX
+1094368,Jorge San Martín,2004,Defender,"1,85 m",,,Liga MX
+599313,Idekel Domínguez,2000,Right-Back,"1,72 m",right,€600k,Liga MX
+360412,Jordy Caicedo,1997,Centre-Forward,"1,87 m",right,€2.00m,Liga MX
+432202,Leonardo Correa,2002,Centre-Forward,"1,76 m",,,Liga MX
+1059803,Daniel Cervantes,2003,Centre-Forward,"1,83 m",,,Liga MX
+1087210,Paulo Ramírez,2002,Defender,"1,78 m",,,Liga MX
+149393,Julio Furch,1989,Centre-Forward,"1,88 m",right,€500k,Liga MX
+325614,Mauro Manotas,1995,Centre-Forward,"1,82 m",right,€700k,Liga MX
+338889,Brian Lozano,1994,Left Winger,"1,69 m",right,€1.00m,Liga MX
+654144,Eduardo Armenta,2001,Central Midfield,"1,73 m",right,€600k,Liga MX
+285127,Domingo Blanco,1995,Right Winger,"1,67 m",right,€1.80m,Liga MX
+29574,Jesús Corona,1981,Goalkeeper,"1,84 m",right,€100k,Liga MX
+1087127,Manuel Carrillo,2002,Midfield,"1,70 m",,€25k,Liga MX
+357937,Braian Romero,1991,Centre-Forward,"1,80 m",right,€1.30m,Liga MX
+1087125,José Castro,2004,Goalkeeper,"1,82 m",,€250k,Liga MX
+1103155,Geonathan Barrera,2004,Goalkeeper,"1,82 m",,,Liga MX
+553831,Francisco Contreras,1999,Left-Back,"1,74 m",left,€1.20m,Liga MX
+282985,Fernando Madrigal,1991,Defensive Midfield,"1,75 m",right,€500k,Liga MX
+644271,Fernando Monárrez,1999,Left Winger,"1,72 m",,€700k,Liga MX
+426324,Christian Rivera,1996,Defensive Midfield,"1,85 m",right,€3.50m,Liga MX
+715428,Rafael Inzunza,2000,Centre-Back,"1,83 m",right,€1.50m,Liga MX
+729356,Alejandro Martínez,1997,Left Winger,"1,70 m",left,€1.20m,Liga MX
+249789,Alexis Canelo,1992,Centre-Forward,"1,78 m",right,€700k,Liga MX
+1087126,Jaime Álvarez,2003,Attack,"1,72 m",,€150k,Liga MX
+539067,Nicolás Díaz,1999,Centre-Back,"1,80 m",left,€2.80m,Liga MX
+131074,Antonio Rodríguez,1992,Goalkeeper,"1,86 m",right,€800k,Liga MX
+232732,Rodrigo Godínez,1992,Centre-Back,"1,80 m",right,€300k,Liga MX
+1087120,Daniel Vázquez,2003,Attack,"1,75 m",,,Liga MX
+646297,Iván Tona,2000,Central Midfield,"1,76 m",right,€1.20m,Liga MX
+441477,Carlos Valenzuela,1997,Left Winger,"1,67 m",left,€500k,Liga MX
+234951,Betsiel Hernández,1994,Left-Back,"1,70 m",left,€300k,Liga MX
+1096298,Carlos Galicia,2004,Central Midfield,"1,69 m",,,Liga MX
+366620,Carlos González,1993,Centre-Forward,"1,83 m",right,€2.00m,Liga MX
+1031562,Rubén Hernández,2002,Centre-Forward,"1,73 m",right,€200k,Liga MX
+822164,Aarón Mejía,2001,Right-Back,"1,73 m",right,€1.80m,Liga MX
+416083,Diego Barbosa,1996,Right-Back,"1,73 m",right,€2.00m,Liga MX
+162940,Joe Corona,1990,Central Midfield,"1,76 m",right,€150k,Liga MX
+1087119,Arath Egaña,2003,Attack,"1,75 m",,€25k,Liga MX
+601335,Ricardo Díaz,1995,Goalkeeper,"1,78 m",,€400k,Liga MX
+718075,Abraham Flores,2002,Left-Back,"1,72 m",left,€100k,Liga MX
+787256,Jesús Hernández,2004,Centre-Forward,"1,84 m",right,,Liga MX
+694160,Rodrigo Parra,2003,Right-Back,"1,78 m",right,€200k,Liga MX
+339758,Kevin Balanta,1997,Centre-Back,"1,83 m",right,€2.00m,Liga MX
+504113,Efraín Álvarez,2002,Right Winger,"1,73 m",left,€4.50m,Liga MX
+599732,Kevin Castañeda,1999,Attacking Midfield,"1,70 m",right,€1.80m,Liga MX

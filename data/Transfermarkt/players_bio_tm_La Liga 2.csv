@@ -1,0 +1,786 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+945716,Álex Alcira,2004,Left-Back,,left,,La Liga 2
+718027,Hugo Pérez,2002,Centre-Back,"1,89 m",right,€100k,La Liga 2
+973805,Andrés Ferrari,2003,Centre-Forward,"1,90 m",right,€1.50m,La Liga 2
+466807,Adrià Altimira,2001,Right-Back,"1,70 m",right,€1.80m,La Liga 2
+709372,Carlos Romero,2001,Left-Back,,left,€2.50m,La Liga 2
+666918,Jordi Ortega,2003,Central Midfield,"1,82 m",left,€50k,La Liga 2
+668505,Tiago Geralnik,2003,Attacking Midfield,"1,78 m",right,€300k,La Liga 2
+886047,Antonio Espigares,2004,Centre-Back,"1,87 m",right,€500k,La Liga 2
+668276,Hugo Novoa,2003,Right-Back,"1,82 m",right,€2.00m,La Liga 2
+1106524,Facundo Viveros,2003,Central Midfield,,,€50k,La Liga 2
+635344,Abraham del Moral,2001,Centre-Back,"1,83 m",left,€100k,La Liga 2
+547248,Iker Álvarez,2001,Goalkeeper,"1,90 m",right,€800k,La Liga 2
+709336,Rubén Gómez,2002,Goalkeeper,"1,85 m",right,€100k,La Liga 2
+797572,Stefan Leković,2004,Centre-Back,"1,92 m",right,€1.80m,La Liga 2
+1063545,Kevin Martel,2005,Centre-Back,,,,La Liga 2
+945709,Dani Requena,2004,Central Midfield,"1,86 m",right,€400k,La Liga 2
+709969,Ilias Akhomach,2004,Right Winger,"1,75 m",left,€15.00m,La Liga 2
+566965,Diego Collado,2001,Left Winger,"1,83 m",right,€400k,La Liga 2
+741254,Gerard Hernández,2005,Defensive Midfield,,right,€500k,La Liga 2
+627287,Carlo García,2001,Central Midfield,"1,82 m",right,€400k,La Liga 2
+709380,Álex Forés,2001,Centre-Forward,"1,79 m",right,€600k,La Liga 2
+669511,Jorge Pascual,2003,Centre-Forward,"1,87 m",left,€1.20m,La Liga 2
+652329,Aitor Gelardo,2002,Central Midfield,"1,80 m",right,€300k,La Liga 2
+1061336,Pau Navarro,2005,Centre-Back,"1,85 m",right,€500k,La Liga 2
+1063553,Pau Cabanes,2005,Centre-Forward,"1,79 m",right,€500k,La Liga 2
+668178,Rodri Alonso,2003,Central Midfield,"1,72 m",right,€300k,La Liga 2
+668211,Marcos Sánchez,2003,Right-Back,"1,78 m",right,€100k,La Liga 2
+607780,Miguel Ángel Morro,2000,Goalkeeper,"1,95 m",left,€450k,La Liga 2
+945759,Fran Tafalla,2004,Centre-Back,"1,86 m",right,€50k,La Liga 2
+631098,Lanchi,2001,Right-Back,"1,75 m",right,€450k,La Liga 2
+895335,Víctor Moreno,2005,Right Winger,"1,74 m",right,€200k,La Liga 2
+298983,Javi Ontiveros,1997,Left Winger,"1,75 m",right,€2.00m,La Liga 2
+627282,Dani Tasende,2000,Left-Back,"1,72 m",left,€1.50m,La Liga 2
+648909,Fabio Blanco,2004,Left Winger,"1,73 m",right,€200k,La Liga 2
+165008,Pablo Iñiguez,1994,Centre-Back,"1,83 m",right,€300k,La Liga 2
+635347,Alberto del Moral,2000,Central Midfield,"1,85 m",right,€800k,La Liga 2
+531121,Juan Gutiérrez,2000,Centre-Back,"1,88 m",right,€400k,La Liga 2
+336729,Cedric Omoigui,1994,Centre-Forward,"1,81 m",left,€300k,La Liga 2
+396161,Manu Hernando,1998,Centre-Back,"1,83 m",right,€1.60m,La Liga 2
+961902,Neco Celorio,2004,Attacking Midfield,"1,72 m",right,€300k,La Liga 2
+197131,Marco Sangalli,1992,Right Winger,,right,€350k,La Liga 2
+636147,Marcos Bustillo,2001,Attacking Midfield,"1,84 m",right,€250k,La Liga 2
+249471,Saúl García,1994,Left-Back,"1,82 m",left,€500k,La Liga 2
+336747,Jorge Pombo,1994,Attacking Midfield,"1,77 m",right,€300k,La Liga 2
+242301,Miquel Parera,1996,Goalkeeper,"1,82 m",right,€700k,La Liga 2
+331498,Jordi Mboula,1999,Right Winger,"1,83 m",right,€1.00m,La Liga 2
+639733,Peque Fernández,2002,Second Striker,"1,72 m",right,€5.00m,La Liga 2
+848514,Yeray Cabanzón,2003,Right Winger,"1,70 m",left,€300k,La Liga 2
+379548,Jokin Ezkieta,1996,Goalkeeper,"1,93 m",right,€2.50m,La Liga 2
+403187,Dani Fernández,1997,Right-Back,"1,78 m",right,€800k,La Liga 2
+505494,Germán Fernández,2000,Goalkeeper,"1,86 m",left,€150k,La Liga 2
+636116,Álvaro Mantilla,2000,Centre-Back,"1,82 m",right,€700k,La Liga 2
+971663,Jeremy Arévalo,2005,Right Winger,"1,82 m",left,€200k,La Liga 2
+371008,Roko Baturina,2000,Centre-Forward,"1,87 m",left,€600k,La Liga 2
+719725,Álvaro Santamaría,2001,Centre-Forward,"1,84 m",right,€200k,La Liga 2
+636126,Diego Campo,2001,Central Midfield,"1,77 m",,€200k,La Liga 2
+72479,Clément Grenier,1991,Central Midfield,"1,86 m",right,€300k,La Liga 2
+531277,Andrés Martín,1999,Right Winger,"1,78 m",left,€2.80m,La Liga 2
+522730,Íñigo Sainz-Maza,1998,Central Midfield,"1,84 m",right,€1.00m,La Liga 2
+663258,Aritz Aldasoro,1999,Central Midfield,"1,76 m",right,€2.00m,La Liga 2
+335216,Iñigo Vicente,1998,Left Winger,"1,78 m",right,€3.00m,La Liga 2
+889459,Mario García,2003,Left-Back,"1,72 m",left,€700k,La Liga 2
+369706,Matheus Aiás,1996,Centre-Forward,"1,76 m",both,€400k,La Liga 2
+95963,Germán Sánchez,1986,Centre-Back,"1,87 m",right,€100k,La Liga 2
+274540,Pol Moreno,1994,Centre-Back,"1,87 m",right,€500k,La Liga 2
+512070,Ekain Zenitagoia,1994,Second Striker,"1,79 m",right,€500k,La Liga 2
+100722,Lago Júnior,1990,Left Winger,"1,80 m",right,€400k,La Liga 2
+548109,Iván Morante,2001,Central Midfield,"1,82 m",left,€700k,La Liga 2
+708388,Adrián Corral,2003,Centre-Back,"1,79 m",left,-,La Liga 2
+461631,Juan Carlos Arana,2000,Centre-Forward,"1,82 m",right,€2.50m,La Liga 2
+636113,Mario Jorrín,2002,Right-Back,"1,80 m",,€150k,La Liga 2
+379743,Rubén Alves,1994,Centre-Back,"1,84 m",left,€800k,La Liga 2
+1254166,Marco Leiton,2006,Left-Back,,,,La Liga 2
+308989,Sergio González,1992,Centre-Back,"1,89 m",right,€1.50m,La Liga 2
+282700,Enric Franquesa,1997,Left-Back,"1,75 m",left,€1.50m,La Liga 2
+945767,Hugo Solozábal,2003,Central Midfield,,,,La Liga 2
+594926,Naïs Djouahra,1999,Left Winger,"1,72 m",right,€700k,La Liga 2
+456938,Javier Avilés,1997,Right Winger,"1,81 m",right,€200k,La Liga 2
+583607,William de Camargo,1999,Right Winger,"1,69 m",right,€75k,La Liga 2
+932350,Álex Gil,2003,Central Midfield,"1,84 m",,€100k,La Liga 2
+480883,Miguel de la Fuente,1999,Centre-Forward,"1,82 m",right,€2.00m,La Liga 2
+585700,Juan Cruz,2000,Left Winger,"1,80 m",left,€4.00m,La Liga 2
+214770,Borja López,1994,Centre-Back,"1,91 m",left,€200k,La Liga 2
+341713,Diego Conde,1998,Goalkeeper,"1,88 m",right,€10.00m,La Liga 2
+715683,Naim García,2002,Right Winger,"1,80 m",left,€400k,La Liga 2
+396328,Luis Perea,1997,Defensive Midfield,"1,91 m",right,€500k,La Liga 2
+543537,Seydouba Cissé,2001,Central Midfield,"1,78 m",right,€3.00m,La Liga 2
+1214320,Sydney Osazuwa,2007,Centre-Forward,"1,93 m",right,€2.00m,La Liga 2
+715690,Sergio Navarro,2001,Right Winger,"1,76 m",right,€150k,La Liga 2
+255892,Josema,1996,Centre-Back,"1,82 m",left,€400k,La Liga 2
+906442,Javi Garrido,2003,Goalkeeper,"1,87 m",right,€50k,La Liga 2
+932354,Víctor Rodríguez,2003,Centre-Back,,,€100k,La Liga 2
+921734,Óscar Ureña,2003,Left Winger,"1,71 m",right,€400k,La Liga 2
+413262,Dani Raba,1995,Right Winger,"1,85 m",left,€1.80m,La Liga 2
+401583,Julián Chicco,1998,Defensive Midfield,"1,87 m",right,€800k,La Liga 2
+138803,Francisco Portillo,1990,Right Winger,"1,69 m",right,€300k,La Liga 2
+95641,Darko Brasanac,1992,Central Midfield,"1,78 m",right,€1.20m,La Liga 2
+594497,Diyaeddine Abzi,1998,Left-Back,"1,83 m",left,€300k,La Liga 2
+126509,Dani Jiménez,1990,Goalkeeper,"1,79 m",right,€300k,La Liga 2
+434602,Aritz Arambarri,1998,Centre-Back,"1,86 m",right,€500k,La Liga 2
+852727,Diego García,2000,Centre-Forward,"1,88 m",right,€1.50m,La Liga 2
+469669,Yvan Neyou,1997,Defensive Midfield,"1,80 m",right,€2.50m,La Liga 2
+1055833,Alvin Abajas,2003,Goalkeeper,,,€100k,La Liga 2
+340339,Jorge Sáenz,1996,Centre-Back,"1,88 m",right,€1.50m,La Liga 2
+715679,Lalo Aguilar,2002,Centre-Back,"1,88 m",right,€200k,La Liga 2
+181113,Iker Undabarrena,1995,Central Midfield,"1,82 m",right,€650k,La Liga 2
+228917,Jorge Miramón,1989,Right-Back,"1,75 m",right,€400k,La Liga 2
+1223892,Koke Mota,2005,Right Winger,"1,88 m",left,,La Liga 2
+399780,Darío Poveda,1997,Centre-Forward,"1,87 m",right,€500k,La Liga 2
+111508,Allan Nyom,1988,Right-Back,"1,89 m",right,€400k,La Liga 2
+935300,Piri,2003,Right Winger,"1,76 m",right,€25k,La Liga 2
+93935,Sergio Escudero,1989,Left-Back,"1,76 m",left,€300k,La Liga 2
+51710,Sergio Asenjo,1989,Goalkeeper,"1,89 m",right,-,La Liga 2
+592373,Lucas Oliveira,1996,Centre-Back,"1,87 m",right,€1.70m,La Liga 2
+208681,Gustavo Henrique,1993,Centre-Back,"1,94 m",right,€1.00m,La Liga 2
+205569,Mickaël Malsa,1995,Defensive Midfield,"1,79 m",right,€600k,La Liga 2
+956517,Jesús Martínez,2004,Central Midfield,,,€100k,La Liga 2
+709999,Víctor Rofino,2002,Centre-Back,"1,85 m",right,€400k,La Liga 2
+226261,César de la Hoz,1992,Defensive Midfield,"1,79 m",right,€400k,La Liga 2
+432914,John Victor,1996,Goalkeeper,"1,97 m",right,€7.00m,La Liga 2
+710474,Álvaro Aceves,2003,Goalkeeper,"1,90 m",right,€400k,La Liga 2
+707274,César Tárrega,2002,Centre-Back,"1,94 m",right,€6.00m,La Liga 2
+358115,Luis Pérez,1995,Right-Back,"1,73 m",right,€2.00m,La Liga 2
+857832,David Torres,2003,Centre-Back,"1,82 m",left,€1.50m,La Liga 2
+631055,Alberto Quintana,2001,Central Midfield,"1,86 m",right,€250k,La Liga 2
+468309,Lucas Rosa,2000,Left-Back,"1,77 m",right,€2.00m,La Liga 2
+634430,Israel Salazar,2003,Centre-Forward,"1,78 m",right,€200k,La Liga 2
+926763,Chuki,2004,Attacking Midfield,,left,€500k,La Liga 2
+327126,Anuar,1995,Right Winger,"1,73 m",right,€900k,La Liga 2
+940616,Iván Garriel,2005,Left-Back,"1,77 m",left,€200k,La Liga 2
+388125,Stanko Juric,1996,Defensive Midfield,"1,88 m",right,€1.80m,La Liga 2
+343273,Joni Montiel,1998,Attacking Midfield,"1,73 m",left,€900k,La Liga 2
+960948,Eugene Frimpong,2003,Central Midfield,"1,74 m",left,€150k,La Liga 2
+290346,André Ferreira,1996,Goalkeeper,"1,93 m",right,€800k,La Liga 2
+166683,Mamadou Sylla,1994,Centre-Forward,"1,80 m",right,€1.50m,La Liga 2
+481084,Marcos André,1996,Centre-Forward,"1,85 m",right,€1.50m,La Liga 2
+145769,Sergio León,1989,Centre-Forward,"1,76 m",right,-,La Liga 2
+18644,Álvaro Negredo,1985,Centre-Forward,"1,86 m",left,€300k,La Liga 2
+65263,Jordi Masip,1989,Goalkeeper,"1,80 m",right,€500k,La Liga 2
+1176519,Adrián Arnu,2007,Centre-Forward,"1,85 m",,€500k,La Liga 2
+636686,Arnau Rafús,2003,Goalkeeper,"1,90 m",,€150k,La Liga 2
+281404,Kenedy,1996,Left Winger,"1,80 m",left,€500k,La Liga 2
+924447,Tunde Akinsola,2003,Left Winger,"1,75 m",both,€350k,La Liga 2
+282727,Monchu,1999,Central Midfield,"1,73 m",right,€5.00m,La Liga 2
+710484,Mario Maroto,2003,Central Midfield,"1,76 m",left,€200k,La Liga 2
+340853,Javi Sánchez,1997,Centre-Back,"1,89 m",right,€2.00m,La Liga 2
+658269,Víctor Meseguer,1999,Central Midfield,"1,84 m",right,€2.00m,La Liga 2
+339820,Amath Ndiaye,1996,Right Winger,"1,73 m",right,€1.20m,La Liga 2
+624942,Raúl Moro,2002,Left Winger,"1,69 m",right,€5.00m,La Liga 2
+716163,Iván Cédric,2001,Centre-Forward,"1,87 m",right,€400k,La Liga 2
+377219,Selim Amallah,1996,Attacking Midfield,"1,85 m",right,€1.80m,La Liga 2
+221311,Iván Sánchez,1992,Right Winger,"1,69 m",left,€600k,La Liga 2
+635881,Manu Pozo,2001,Right Winger,"1,68 m",left,€500k,La Liga 2
+895333,Koke Iglesias,2005,Right-Back,,right,€200k,La Liga 2
+541555,Enzo Boyomo,2001,Centre-Back,"1,84 m",right,€20.00m,La Liga 2
+587520,Stipe Biuk,2002,Left Winger,"1,84 m",right,€3.50m,La Liga 2
+128456,Iker Seguín,1989,Left-Back,"1,83 m",left,€100k,La Liga 2
+599327,Jorge Mier,1999,Right-Back,"1,73 m",right,€300k,La Liga 2
+617059,Pablo Cuñat,2002,Goalkeeper,"1,88 m",left,€800k,La Liga 2
+961945,Félix Garreta,2004,Centre-Back,"1,83 m",left,€200k,La Liga 2
+606848,Jonmi Magunagoitia,2000,Goalkeeper,"1,83 m",right,€600k,La Liga 2
+166240,Jürgen Locadia,1993,Centre-Forward,"1,93 m",right,€300k,La Liga 2
+71559,Xabi Etxeita,1987,Centre-Back,"1,86 m",right,-,La Liga 2
+67542,Erik Morán,1991,Central Midfield,"1,87 m",right,€150k,La Liga 2
+192360,Ryan Edwards,1993,Central Midfield,"1,75 m",right,€400k,La Liga 2
+554859,Unai Marino,1999,Goalkeeper,"1,85 m",right,€100k,La Liga 2
+486834,Jorge Yriarte,2000,Central Midfield,"1,82 m",right,€300k,La Liga 2
+632495,Josep Gayá,2000,Centre-Back,"1,85 m",right,€300k,La Liga 2
+156814,Javi Eraso,1990,Central Midfield,"1,80 m",right,-,La Liga 2
+742864,Luis Quintero,2004,Right Winger,"1,78 m",left,€200k,La Liga 2
+455349,Jon Morcillo,1998,Left Winger,"1,83 m",left,€1.00m,La Liga 2
+336736,Daniel Lasure,1994,Left-Back,"1,76 m",left,€200k,La Liga 2
+376589,Eneko Jauregi,1996,Centre-Forward,"1,84 m",right,€700k,La Liga 2
+386150,Rayco Rodríguez,1996,Right Winger,"1,79 m",right,€250k,La Liga 2
+483453,Josué Dorrio,1994,Right Winger,"1,70 m",right,€800k,La Liga 2
+564795,Cosimo da Graça,2002,Centre-Forward,"1,85 m",right,€300k,La Liga 2
+538006,Kwasi Sibo,1998,Central Midfield,"1,83 m",right,€800k,La Liga 2
+626953,Álvaro Núñez,2000,Right-Back,"1,77 m",right,€800k,La Liga 2
+262389,Àlex Carbonell,1997,Central Midfield,"1,82 m",right,€450k,La Liga 2
+156808,Unai Bustinza,1992,Centre-Back,"1,74 m",right,€300k,La Liga 2
+710656,Ángel Troncho,2002,Left Winger,,right,€200k,La Liga 2
+605466,Iker Unzueta,1998,Centre-Forward,"1,84 m",right,€500k,La Liga 2
+311454,José Amo,1998,Centre-Back,"1,82 m",right,€400k,La Liga 2
+435500,Sergio González,1997,Central Midfield,"1,84 m",both,€800k,La Liga 2
+634598,Javi Alonso,1998,Central Midfield,"1,83 m",left,€200k,La Liga 2
+1197368,Dani Fernández,2008,Central Midfield,"1,78 m",left,€300k,La Liga 2
+360711,Mo Dauda,1998,Left Winger,"1,74 m",right,€300k,La Liga 2
+1198833,Sergio Aragoneses,2004,Goalkeeper,,,,La Liga 2
+311146,Nikola Sipcic,1995,Centre-Back,"1,92 m",right,€600k,La Liga 2
+707272,Loïc Williams,2002,Centre-Back,"1,88 m",left,€800k,La Liga 2
+255506,Yanis Rahmani,1995,Left Winger,"1,78 m",left,€700k,La Liga 2
+290533,Yann Bodiger,1995,Defensive Midfield,"1,88 m",left,€600k,La Liga 2
+251892,Juan Soriano,1997,Goalkeeper,"1,85 m",right,€1.50m,La Liga 2
+374081,Aitor Buñuel,1998,Right-Back,"1,72 m",right,€600k,La Liga 2
+1067111,Alassan Manjam,2002,Left Winger,"1,77 m",right,€200k,La Liga 2
+1191771,Brian Mahugo,2004,Goalkeeper,,,,La Liga 2
+537371,Marcos Otero,2001,Centre-Back,"1,85 m",left,€25k,La Liga 2
+404688,Waldo Rubio,1995,Left Winger,"1,83 m",right,€700k,La Liga 2
+525113,Jérémy Mellot,1994,Right-Back,"1,78 m",right,€1.00m,La Liga 2
+1068762,Dawda Dambelleh,2003,Right Winger,,,€25k,La Liga 2
+88397,Tomeu Nadal,1989,Goalkeeper,"1,88 m",right,€200k,La Liga 2
+437893,Álvaro Romero,1996,Left Winger,"1,67 m",right,€300k,La Liga 2
+925743,Isaac Hernández,2001,Left-Back,"1,76 m",left,-,La Liga 2
+268167,Àlex Corredera,1996,Central Midfield,"1,78 m",left,€800k,La Liga 2
+114060,Enric Gallego,1986,Centre-Forward,"1,89 m",left,€200k,La Liga 2
+610461,Luismi Cruz,2001,Right Winger,"1,66 m",left,€1.00m,La Liga 2
+71834,Aitor Sanz,1984,Central Midfield,"1,81 m",right,€100k,La Liga 2
+1191770,César Álvarez,2003,Right-Back,,right,€50k,La Liga 2
+893318,Airam Guzmán,2002,Centre-Forward,,right,€50k,La Liga 2
+908295,Martín Cascajo,2000,Goalkeeper,"1,91 m",,€25k,La Liga 2
+1175869,Jesús Belza,2004,Right-Back,"1,68 m",right,€200k,La Liga 2
+461619,Fernando Medrano,2000,Left-Back,"1,72 m",left,€500k,La Liga 2
+240849,Elady Zorrilla,1990,Left Winger,"1,76 m",right,€200k,La Liga 2
+281773,José León,1995,Centre-Back,"1,85 m",left,€700k,La Liga 2
+922420,Ethyan González,2002,Centre-Forward,"1,85 m",right,€200k,La Liga 2
+963613,Teto Martín,2001,Right Winger,"1,75 m",right,€700k,La Liga 2
+495602,Moha Ramos,2000,Goalkeeper,"1,89 m",right,€50k,La Liga 2
+1006927,Pablo Hernández,2000,Central Midfield,"1,76 m",right,€100k,La Liga 2
+51510,Ángel Rodríguez,1987,Centre-Forward,"1,71 m",right,€250k,La Liga 2
+127554,Nacho Martínez,1989,Left-Back,"1,74 m",left,€400k,La Liga 2
+840794,Dylan Perera,2003,Attacking Midfield,"1,75 m",right,€25k,La Liga 2
+911791,Salifo Caropitche,2001,Centre-Forward,"1,90 m",right,€100k,La Liga 2
+569866,Roberto López,2000,Attacking Midfield,"1,79 m",left,€2.20m,La Liga 2
+1270449,Aarón Martin,2006,Central Midfield,"1,75 m",right,€1.00m,La Liga 2
+282406,Álvaro Jiménez,1995,Right Winger,"1,75 m",right,€350k,La Liga 2
+287876,Antonino La Gumina,1996,Centre-Forward,"1,82 m",right,€400k,La Liga 2
+623525,Luis López,2001,Goalkeeper,"1,93 m",left,€300k,La Liga 2
+711394,Javier Martón,1999,Centre-Forward,"1,81 m",right,€500k,La Liga 2
+674501,Jonathan Gómez,2003,Left-Back,"1,78 m",left,€1.00m,La Liga 2
+716150,Álex Barbu,2001,Centre-Back,"1,89 m",left,€300k,La Liga 2
+705813,Rubén Sánchez,2001,Right-Back,"1,85 m",right,€700k,La Liga 2
+785967,Ibrahima Kébé,2000,Defensive Midfield,"1,86 m",right,€600k,La Liga 2
+603696,Alberto Reina,1997,Central Midfield,"1,79 m",right,€700k,La Liga 2
+466806,Álvaro Sanz,2001,Defensive Midfield,"1,70 m",right,€800k,La Liga 2
+892685,Pablo Tomeo,2000,Centre-Back,"1,86 m",right,€600k,La Liga 2
+614464,Nikita Iosifov,2001,Left Winger,"1,75 m",right,€400k,La Liga 2
+636092,Iago Domínguez,2001,Goalkeeper,,,€25k,La Liga 2
+857830,Daniel Luna,2003,Attacking Midfield,"1,78 m",left,€300k,La Liga 2
+561745,Lautaro de León,2001,Centre-Forward,"1,85 m",right,€300k,La Liga 2
+634122,Diego Moreno,2001,Right-Back,"1,77 m",right,€300k,La Liga 2
+1057873,Diego Rosales,2003,Left-Back,"1,79 m",left,,La Liga 2
+593412,Ilyas Chaira,2001,Left Winger,,right,€2.00m,La Liga 2
+1005550,Hugo Zárate,2004,Central Midfield,,,,La Liga 2
+628923,Juan María Alcedo,2001,Left-Back,"1,79 m",left,€400k,La Liga 2
+523977,Miguel Baeza,2000,Attacking Midfield,"1,77 m",left,€400k,La Liga 2
+906948,Gabri Martínez,2003,Left Winger,"1,85 m",right,€4.00m,La Liga 2
+979634,Asier Ortiz de Guinea,2002,Central Midfield,,left,,La Liga 2
+719724,Diego Bartolomé,2002,Central Midfield,,,€25k,La Liga 2
+562058,Sergio Barcia,2000,Centre-Back,"1,86 m",right,€650k,La Liga 2
+354697,Tachi,1997,Centre-Back,"1,84 m",right,€600k,La Liga 2
+531491,Ramón Juan,1999,Goalkeeper,"1,79 m",right,€600k,La Liga 2
+860669,Mathis Lachuer,2000,Defensive Midfield,"1,85 m",left,€600k,La Liga 2
+442552,Houboulang Mendes,1998,Right-Back,"1,85 m",right,€800k,La Liga 2
+554334,David Vicente,1999,Right-Back,"1,74 m",right,€250k,La Liga 2
+428948,Andoni Zubiaurre,1996,Goalkeeper,"1,89 m",left,€300k,La Liga 2
+629511,Pablo Ramón,2001,Centre-Back,"1,84 m",right,€200k,La Liga 2
+584809,Ivan Durdov,2000,Centre-Forward,"1,94 m",right,€500k,La Liga 2
+668277,Alan Godoy,2003,Centre-Forward,"1,78 m",right,€300k,La Liga 2
+225162,Diogo Verdasca,1996,Centre-Back,"1,85 m",right,€300k,La Liga 2
+618813,Carlos Martín,2002,Left Winger,"1,80 m",right,€4.00m,La Liga 2
+844755,Ekhiotz Orobio,2002,Attacking Midfield,"1,82 m",right,€25k,La Liga 2
+422460,Dani Gómez,1998,Centre-Forward,"1,78 m",right,€1.00m,La Liga 2
+931783,David Sellés,2003,Centre-Back,"1,85 m",left,-,La Liga 2
+947115,Xavi Grande,2005,Right-Back,"1,75 m",right,€200k,La Liga 2
+197545,Ander Capa,1992,Right-Back,"1,75 m",right,-,La Liga 2
+1063333,Jorge Cabello,2004,Centre-Back,"1,83 m",left,€700k,La Liga 2
+1063329,Andrés García,2003,Right-Back,"1,85 m",right,€1.20m,La Liga 2
+158791,Sergio Postigo,1988,Centre-Back,"1,84 m",right,€300k,La Liga 2
+537367,Alfonso Pastor,2000,Goalkeeper,"1,90 m",right,€200k,La Liga 2
+1063331,Marcos Navarro,2004,Left-Back,"1,72 m",left,€300k,La Liga 2
+974251,Lass Kourouma,2004,Central Midfield,"1,80 m",right,€200k,La Liga 2
+628886,Iván Romero,2001,Centre-Forward,"1,73 m",right,€800k,La Liga 2
+257851,Rúben Vezo,1994,Centre-Back,"1,82 m",right,€1.50m,La Liga 2
+293388,Oriol Rey,1998,Defensive Midfield,"1,77 m",left,€1.60m,La Liga 2
+341263,Adrián de la Fuente,1999,Centre-Back,"1,79 m",right,€1.00m,La Liga 2
+397676,Dani Cárdenas,1997,Goalkeeper,"1,86 m",right,€1.80m,La Liga 2
+557057,Roger Brugué,1996,Left Winger,"1,74 m",left,€1.50m,La Liga 2
+568835,Pablo Martínez,1998,Central Midfield,"1,82 m",right,€2.50m,La Liga 2
+668179,Carlos Álvarez,2003,Right Winger,"1,68 m",left,€2.50m,La Liga 2
+243760,Álex Muñoz,1994,Left-Back,"1,87 m",left,€1.20m,La Liga 2
+405564,Giorgi Kochorashvili,1999,Defensive Midfield,"1,78 m",right,€4.00m,La Liga 2
+962125,Buba Sangaré,2007,Right-Back,"1,83 m",right,€1.00m,La Liga 2
+856156,Carlos Benítez,2002,Central Midfield,"1,70 m",right,€100k,La Liga 2
+709957,Álex Valle,2004,Left-Back,"1,78 m",left,€3.00m,La Liga 2
+1232057,Paco Cortés,2007,Left Winger,,right,,La Liga 2
+638589,Ángel Algobia,1999,Defensive Midfield,"1,80 m",right,€800k,La Liga 2
+242532,Rober Ibáñez,1993,Right Winger,"1,75 m",right,€450k,La Liga 2
+211628,Mohamed Bouldini,1995,Centre-Forward,"1,87 m",right,€1.20m,La Liga 2
+937947,Borja Cortina,2006,Centre-Back,"1,89 m",left,,La Liga 2
+1063334,Carlos Jiménez,2006,Central Midfield,"1,97 m",right,,La Liga 2
+1063338,Carlos Espí,2005,Centre-Forward,"1,94 m",right,€1.00m,La Liga 2
+1063336,Edgar Alcañiz,2005,Central Midfield,"1,73 m",right,,La Liga 2
+642589,Fabri,2000,Centre-Forward,"1,86 m",right,€800k,La Liga 2
+396340,Óscar Clemente,1999,Central Midfield,"1,76 m",left,€600k,La Liga 2
+258475,Nikola Maras,1995,Centre-Back,"1,89 m",right,€1.00m,La Liga 2
+611198,Álex Blesa,2002,Central Midfield,"1,80 m",left,€250k,La Liga 2
+57522,Andrés Fernández,1986,Goalkeeper,"1,85 m",right,€300k,La Liga 2
+455363,Joan Femenías,1996,Goalkeeper,"1,89 m",right,€500k,La Liga 2
+939445,Álex Primo,2004,Goalkeeper,"1,87 m",right,-,La Liga 2
+341277,Sergio Lozano,1999,Central Midfield,"1,75 m",right,€1.50m,La Liga 2
+638235,Alejandro Cantero,2000,Left Winger,"1,84 m",right,€1.00m,La Liga 2
+331497,Martí Vilà,1999,Left-Back,"1,66 m",left,€250k,La Liga 2
+282417,Sergio Molina,1996,Central Midfield,"1,78 m",right,€500k,La Liga 2
+381979,Laorent Shabani,1999,Left Winger,"1,75 m",right,€250k,La Liga 2
+192073,Rubén Bover,1992,Central Midfield,"1,78 m",left,€250k,La Liga 2
+388548,Jandro Orellana,2000,Central Midfield,"1,76 m",right,€1.20m,La Liga 2
+710679,Iker Benito,2002,Right Winger,"1,76 m",right,€800k,La Liga 2
+1064699,Álex Calvo,2004,Right Winger,"1,70 m",left,€700k,La Liga 2
+335221,Dani Martín,1998,Goalkeeper,"1,87 m",right,€600k,La Liga 2
+426326,Anderson Arroyo,1999,Right-Back,"1,76 m",right,€800k,La Liga 2
+262703,Nico Ratti,1993,Goalkeeper,"1,79 m",,€200k,La Liga 2
+989115,Marc Bombardó,2005,Centre-Back,"1,85 m",right,€50k,La Liga 2
+399357,Manu Nieto,1998,Centre-Forward,"1,83 m",right,€400k,La Liga 2
+184885,Christos Almpanis,1994,Left Winger,"1,84 m",both,€300k,La Liga 2
+505493,Diego Pampín,2000,Left-Back,"1,75 m",left,€900k,La Liga 2
+373683,Diego Alende,1997,Centre-Back,"1,83 m",,€500k,La Liga 2
+167228,Raúl Lizoain,1991,Goalkeeper,"1,88 m",left,€300k,La Liga 2
+732862,Xiaoke He,2004,Centre-Forward,"1,76 m",right,€200k,La Liga 2
+8176,Oier Olazábal,1989,Goalkeeper,"1,89 m",left,€100k,La Liga 2
+625654,Julen Lobete,2000,Left Winger,"1,77 m",right,€1.20m,La Liga 2
+711382,Jon Karrikaburu,2002,Centre-Forward,"1,83 m",right,€2.50m,La Liga 2
+398056,Álex Pastor,1999,Centre-Back,"1,85 m",right,€300k,La Liga 2
+563139,José Marsà,2002,Centre-Back,"1,85 m",left,€1.20m,La Liga 2
+282696,Adrià Vilanova,1997,Centre-Back,"1,87 m",right,€150k,La Liga 2
+611075,Iván Gil,2000,Attacking Midfield,"1,68 m",right,€800k,La Liga 2
+181112,Sergi Samper,1995,Defensive Midfield,"1,81 m",right,€600k,La Liga 2
+527838,Álex Petxarroman,1997,Right-Back,"1,80 m",right,€600k,La Liga 2
+513441,Diego González,1999,Centre-Back,"1,79 m",left,€500k,La Liga 2
+466811,Pablo Moreno,2002,Centre-Forward,"1,78 m",right,€300k,La Liga 2
+622952,Álvaro Martín,2001,Left Winger,"1,74 m",left,€400k,La Liga 2
+527964,Migue Leal,1997,Right-Back,"1,70 m",right,€450k,La Liga 2
+497175,Aurélien Scheidler,1998,Centre-Forward,"1,92 m",right,€1.20m,La Liga 2
+632915,Carlos Sánchez,2001,Right-Back,,,€100k,La Liga 2
+228761,Jony,1991,Left Winger,"1,79 m",left,€100k,La Liga 2
+71918,David Ferreiro,1988,Left Winger,"1,70 m",right,€100k,La Liga 2
+184779,Gonzalo Verdú,1988,Centre-Back,"1,85 m",right,€100k,La Liga 2
+1178739,Juan Carlos Sabater,2005,Centre-Back,,right,€100k,La Liga 2
+983135,Iván Ayllón,2001,Centre-Forward,"1,75 m",right,€200k,La Liga 2
+1036044,Djakaría Barro,2002,Central Midfield,,right,€100k,La Liga 2
+212849,Iván Calero,1995,Right-Back,"1,74 m",right,€900k,La Liga 2
+720410,Farru,2001,Centre-Back,"1,83 m",,€150k,La Liga 2
+213595,Juanjo Narváez,1995,Centre-Forward,"1,81 m",right,€450k,La Liga 2
+536843,José Saldaña,2001,Goalkeeper,"1,84 m",left,€100k,La Liga 2
+201861,Juan Carlos Real,1991,Attacking Midfield,"1,83 m",right,€300k,La Liga 2
+720526,Mario Climent,2002,Left-Back,"1,79 m",left,€150k,La Liga 2
+454238,Tomás Alarcón,1999,Defensive Midfield,"1,76 m",right,€600k,La Liga 2
+802046,Arnau Ortiz,2001,Left Midfield,"1,75 m",both,€400k,La Liga 2
+51474,Mikel Rico,1984,Central Midfield,"1,78 m",right,-,La Liga 2
+51663,Pedro Alcalá,1989,Centre-Back,"1,96 m",right,€250k,La Liga 2
+129374,Marc Martínez,1990,Goalkeeper,"1,86 m",right,€300k,La Liga 2
+62947,Tomás Mejías,1989,Goalkeeper,"1,95 m",right,€100k,La Liga 2
+786438,Jony Álamo,2001,Central Midfield,"1,75 m",right,€300k,La Liga 2
+409886,Úmaro Embaló,2001,Right Winger,"1,70 m",left,€700k,La Liga 2
+709337,David Guerrero,2002,Centre-Back,"1,88 m",,€25k,La Liga 2
+741576,Nono Gómez,2005,Goalkeeper,"1,81 m",right,€50k,La Liga 2
+609361,José Fontán,2000,Centre-Back,"1,82 m",left,€1.00m,La Liga 2
+636697,Arnau Solà,2003,Left-Back,"1,79 m",left,€400k,La Liga 2
+67823,Damián Musto,1987,Defensive Midfield,"1,83 m",right,€100k,La Liga 2
+96540,Alfredo Ortuño,1991,Centre-Forward,"1,84 m",left,€400k,La Liga 2
+1182569,Jhafets Reyes,2006,Goalkeeper,"1,87 m",right,€50k,La Liga 2
+795028,Mamadou Cellou,2002,Right Winger,"1,78 m",right,€50k,La Liga 2
+337946,Jairo Izquierdo,1993,Left Winger,"1,65 m",left,€800k,La Liga 2
+252686,Andy Rodríguez,1990,Central Midfield,"1,85 m",left,€100k,La Liga 2
+993344,Diego de Pedro,2003,Left Winger,,left,€50k,La Liga 2
+355624,Luis Muñoz,1997,Central Midfield,"1,82 m",right,€1.00m,La Liga 2
+51667,Kiko Olivas,1988,Centre-Back,"1,84 m",right,€200k,La Liga 2
+277962,Hector Hevel,1996,Attacking Midfield,"1,71 m",left,€450k,La Liga 2
+227015,Toni Datkovic,1993,Centre-Back,"1,84 m",left,€450k,La Liga 2
+803377,Fromsa,2001,Centre-Back,"1,86 m",right,€50k,La Liga 2
+535820,Isak Jansson,2002,Right Winger,"1,75 m",right,€3.00m,La Liga 2
+385084,Fran Manzanara,1996,Central Midfield,"1,82 m",right,€400k,La Liga 2
+127457,Álex López,1988,Central Midfield,"1,78 m",right,€100k,La Liga 2
+638138,Brais Martínez,2001,Left-Back,"1,75 m",left,€500k,La Liga 2
+632741,Iker Losada,2001,Second Striker,"1,75 m",right,€1.80m,La Liga 2
+57935,Álvaro Giménez,1991,Centre-Forward,"1,83 m",left,€400k,La Liga 2
+127919,Fernando Pumar,1989,Left-Back,"1,84 m",left,€100k,La Liga 2
+413502,Óscar Pinchi,1996,Attacking Midfield,"1,71 m",right,€450k,La Liga 2
+487951,Enrique Clemente,1999,Centre-Back,"1,82 m",left,€400k,La Liga 2
+593357,Manu Justo,1996,Centre-Forward,"1,74 m",right,€400k,La Liga 2
+161267,Josep Señé,1991,Attacking Midfield,"1,84 m",right,€350k,La Liga 2
+156817,Jon García,1991,Centre-Back,"1,77 m",right,€200k,La Liga 2
+399779,Chuca,1997,Attacking Midfield,"1,81 m",right,€250k,La Liga 2
+513526,David Castro,1995,Centre-Back,"1,92 m",left,€500k,La Liga 2
+275020,Héber Pena,1990,Left Winger,"1,76 m",left,€100k,La Liga 2
+192736,Sabin Merino,1992,Centre-Forward,"1,87 m",right,€300k,La Liga 2
+480966,Emilio Bernad,1999,Goalkeeper,"1,84 m",left,€300k,La Liga 2
+260230,Moi Delgado,1994,Left-Back,"1,72 m",left,€300k,La Liga 2
+380320,Luca Ferrone,1993,Right-Back,"1,81 m",right,€200k,La Liga 2
+162074,Álvaro Vadillo,1994,Left Winger,"1,80 m",right,€350k,La Liga 2
+668183,Nico Serrano,2003,Left Winger,"1,76 m",left,€1.20m,La Liga 2
+391047,Nacho Sánchez,1993,Right Winger,"1,77 m",right,€400k,La Liga 2
+509483,Jesús Bernal,1996,Central Midfield,"1,82 m",right,€1.00m,La Liga 2
+199325,Ander Cantero,1995,Goalkeeper,"1,92 m",left,€1.00m,La Liga 2
+270314,Gianfranco Gazzaniga,1993,Goalkeeper,"1,87 m",right,€300k,La Liga 2
+540536,Carlos Vicente,1999,Right Winger,"1,79 m",right,€8.00m,La Liga 2
+1305863,David Carballo,2006,Central Midfield,,,,La Liga 2
+684253,Sergio Cubero,1999,Right-Back,"1,87 m",right,€600k,La Liga 2
+509484,Julián Delmás,1995,Right-Back,"1,74 m",right,€600k,La Liga 2
+345083,Álex Martín,1998,Centre-Back,"1,83 m",right,€400k,La Liga 2
+648908,Eric Gómez,2004,Left Winger,"1,75 m",left,€25k,La Liga 2
+1013774,Marciano Sanca,2004,Centre-Forward,"1,82 m",right,€300k,La Liga 2
+590690,Víctor García,1997,Right-Back,"1,80 m",right,€500k,La Liga 2
+157036,Dyego Sousa,1989,Centre-Forward,"1,89 m",right,€100k,La Liga 2
+1169940,Iker Vidal,2004,Left-Back,,,€50k,La Liga 2
+1116112,Iñigo García,2004,Left Winger,,,,La Liga 2
+248330,Chema Rodríguez,1992,Centre-Back,"1,89 m",left,€250k,La Liga 2
+511030,Christian Borrego,1996,Centre-Forward,"1,70 m",right,€500k,La Liga 2
+740253,Javi Castro,2000,Centre-Back,"1,83 m",right,€1.00m,La Liga 2
+984948,Isra García,2004,Attacking Midfield,"1,83 m",both,€25k,La Liga 2
+628461,Iker Recio,2001,Centre-Back,"1,84 m",left,€200k,La Liga 2
+297784,Yan Eteki,1997,Defensive Midfield,"1,82 m",right,€700k,La Liga 2
+572299,Iago López,1999,Right-Back,"1,77 m",right,€300k,La Liga 2
+626960,Juan Artola,2000,Right Winger,"1,77 m",right,€400k,La Liga 2
+386667,Iker Bilbao,1996,Central Midfield,"1,82 m",left,€200k,La Liga 2
+1064601,Edu Llorente,2004,Attacking Midfield,,,,La Liga 2
+706170,Fernando Romero,2001,Centre-Back,"1,84 m",right,€25k,La Liga 2
+340870,Jacobo González,1997,Right Winger,"1,79 m",right,€800k,La Liga 2
+162079,Fede Vico,1994,Attacking Midfield,"1,79 m",left,€500k,La Liga 2
+119622,Javi Lara,1985,Attacking Midfield,"1,79 m",right,-,La Liga 2
+705697,Alex Ruiz,2001,Goalkeeper,"1,84 m",right,€50k,La Liga 2
+45256,Jean-Sylvain Babin,1986,Centre-Back,"1,81 m",right,€100k,La Liga 2
+445584,Koldo Obieta,1993,Centre-Forward,"1,87 m",right,€200k,La Liga 2
+475833,Juanma Bravo,1998,Central Midfield,"1,88 m",right,€150k,La Liga 2
+890557,Óscar Rivas,2000,Centre-Back,"1,93 m",both,€500k,La Liga 2
+1169942,Héctor Criado,2004,Centre-Back,,,,La Liga 2
+948533,Jaime Garrido,2003,Central Midfield,"1,84 m",right,€25k,La Liga 2
+350208,Javi Pérez,1995,Central Midfield,"1,85 m",right,€500k,La Liga 2
+1006545,Èric Callís,2002,Right-Back,"1,70 m",right,€100k,La Liga 2
+313113,Álex López,1997,Central Midfield,"1,76 m",right,€200k,La Liga 2
+44069,Pedro Mosquera,1988,Central Midfield,"1,84 m",left,€100k,La Liga 2
+944367,Emmanuel Addai,2001,Right Winger,"1,73 m",,€1.20m,La Liga 2
+199324,Álvaro Bustos,1995,Left Winger,"1,75 m",left,€200k,La Liga 2
+1123022,Bryan Osorio,2004,Left-Back,,,,La Liga 2
+510388,Lucas Anacker,1996,Goalkeeper,"1,87 m",right,€350k,La Liga 2
+133675,David Morillas,1986,Left-Back,"1,86 m",left,€50k,La Liga 2
+204102,Xavi Quintillà,1996,Left-Back,"1,77 m",left,€450k,La Liga 2
+408288,Jesús Ruiz,1997,Goalkeeper,"1,82 m",right,€500k,La Liga 2
+85324,Borja Bastón,1992,Centre-Forward,"1,86 m",right,€1.50m,La Liga 2
+326416,Dani Calvo,1994,Centre-Back,"1,93 m",right,€1.20m,La Liga 2
+895679,Santiago Homenchenko,2003,Defensive Midfield,"1,86 m",left,€500k,La Liga 2
+263605,Romario Ibarra,1994,Left Winger,"1,76 m",right,€800k,La Liga 2
+395122,Santiago Colombatto,1997,Defensive Midfield,"1,78 m",left,€4.00m,La Liga 2
+595781,Jimmy Suárez,1996,Central Midfield,"1,70 m",right,€500k,La Liga 2
+292617,Sebas Moyano,1997,Right Winger,"1,73 m",right,€1.80m,La Liga 2
+1178600,Jaime Vázquez,2006,Centre-Back,,,€150k,La Liga 2
+447823,Oier Luengo,1997,Centre-Back,"1,85 m",right,€1.00m,La Liga 2
+722122,Aimar Collante,2002,Centre-Back,"1,84 m",left,€150k,La Liga 2
+238872,Carlos Pomares,1992,Left-Back,"1,83 m",left,€300k,La Liga 2
+390942,Quentin Braat,1997,Goalkeeper,"1,94 m",right,€500k,La Liga 2
+942988,Yayo González,2004,Central Midfield,,,€250k,La Liga 2
+628621,Jonathan Dubasin,2000,Left Winger,"1,81 m",right,€2.00m,La Liga 2
+276111,David Costas,1995,Centre-Back,"1,84 m",right,€1.40m,La Liga 2
+1006478,Marco Suárez,2004,Goalkeeper,,left,€100k,La Liga 2
+699607,Enol Rodríguez,2001,Centre-Forward,,,€200k,La Liga 2
+263856,Víctor Camarasa,1994,Central Midfield,"1,83 m",right,€700k,La Liga 2
+412041,Álex Millán,1999,Centre-Forward,"1,82 m",right,€500k,La Liga 2
+207922,Luismi Sánchez,1992,Defensive Midfield,"1,79 m",right,€450k,La Liga 2
+608531,Mario Hernández,1999,Right-Back,"1,77 m",right,€500k,La Liga 2
+353018,Javi Mier,1999,Central Midfield,"1,76 m",right,€600k,La Liga 2
+560417,Alemão,1998,Centre-Forward,"1,82 m",right,€3.00m,La Liga 2
+1065832,Marco Esteban,2006,Centre-Back,,,€200k,La Liga 2
+217155,Borja Sánchez,1996,Left Winger,"1,86 m",right,€1.00m,La Liga 2
+658115,Abel Bretones,2000,Left-Back,"1,88 m",left,€3.00m,La Liga 2
+1065837,Diego Menéndez,2005,Central Midfield,,,€150k,La Liga 2
+340867,Jaime Seoane,1997,Central Midfield,"1,77 m",right,€2.00m,La Liga 2
+719737,Álex Cardero,2003,Attacking Midfield,"1,74 m",,€200k,La Liga 2
+1019528,Charbel Wehbe,2004,Right-Back,"1,83 m",right,€100k,La Liga 2
+261502,Paulino de la Fuente,1997,Right Winger,"1,84 m",left,€1.40m,La Liga 2
+901736,Mario Sesè,2002,Right Winger,"1,78 m",right,€150k,La Liga 2
+562742,Leo Román,2000,Goalkeeper,"1,89 m",right,€2.50m,La Liga 2
+203617,Rodri Tarín,1996,Centre-Back,"1,83 m",right,€450k,La Liga 2
+510329,Hugo Rama,1996,Attacking Midfield,"1,77 m",right,€400k,La Liga 2
+349884,Lucas Ahijado,1995,Right-Back,"1,74 m",right,€1.00m,La Liga 2
+15799,Santi Cazorla,1984,Central Midfield,"1,68 m",both,€300k,La Liga 2
+438971,Viti Rozada,1997,Right-Back,"1,72 m",right,€2.50m,La Liga 2
+606720,Masca,2000,Centre-Forward,"1,82 m",right,€800k,La Liga 2
+81988,Sergi Enrich,1990,Centre-Forward,"1,83 m",right,€300k,La Liga 2
+627286,Miguel Operé,2001,Centre-Back,"1,92 m",right,€200k,La Liga 2
+708499,Juan Sebastián,2002,Right-Back,"1,87 m",right,€200k,La Liga 2
+548188,Germán Valera,2002,Right Winger,"1,70 m",left,€1.50m,La Liga 2
+332142,Quentin Lecoeuche,1994,Left-Back,"1,72 m",left,€500k,La Liga 2
+128479,Jair Amador,1989,Centre-Back,"1,90 m",left,€200k,La Liga 2
+505673,Víctor Mollejo,2001,Left Winger,"1,77 m",left,€500k,La Liga 2
+55135,Cristian Álvarez,1985,Goalkeeper,"1,86 m",right,€100k,La Liga 2
+295065,Toni Moya,1998,Central Midfield,"1,85 m",right,€1.60m,La Liga 2
+340864,Jaume Grau,1997,Central Midfield,"1,84 m",left,€700k,La Liga 2
+632930,Francho Serrano,2001,Central Midfield,"1,80 m",right,€3.50m,La Liga 2
+340682,Carlos Nieto,1996,Left-Back,"1,81 m",left,€400k,La Liga 2
+102146,Edgar Badia,1992,Goalkeeper,"1,80 m",right,€1.00m,La Liga 2
+566666,Dani Rebollo,1999,Goalkeeper,"1,88 m",right,€200k,La Liga 2
+935232,Aitor Mañas,2003,Centre-Forward,"1,85 m",left,€200k,La Liga 2
+1004516,Lucas Terrer,2005,Central Midfield,,right,€200k,La Liga 2
+1176524,Hugo Barrachina,2006,Centre-Back,"1,85 m",left,€150k,La Liga 2
+953901,Santiago Mouriño,2002,Centre-Back,"1,86 m",right,€2.00m,La Liga 2
+632896,Alejandro Francés,2002,Centre-Back,"1,82 m",right,€3.50m,La Liga 2
+718882,Pablo Cortés,2004,Right Winger,,,€150k,La Liga 2
+632892,Guillermo Acín,2001,Goalkeeper,"1,84 m",right,€150k,La Liga 2
+442816,Fran Gámez,1991,Right-Back,"1,74 m",right,€300k,La Liga 2
+372051,Sergio Bermejo,1997,Right Winger,"1,70 m",left,€900k,La Liga 2
+527350,Manu Vallejo,1997,Second Striker,"1,67 m",right,€600k,La Liga 2
+632931,Andrés Borge,2001,Right-Back,"1,81 m",right,€300k,La Liga 2
+718876,Marcos Luna,2003,Right-Back,"1,80 m",right,€500k,La Liga 2
+344591,Gaëtan Poussin,1999,Goalkeeper,"1,86 m",right,€1.00m,La Liga 2
+330352,Raúl Guti,1996,Central Midfield,"1,78 m",right,€1.50m,La Liga 2
+531404,Marc Aguado,2000,Defensive Midfield,"1,84 m",right,€1.40m,La Liga 2
+971094,Alberto Vaquero,2003,Central Midfield,,,€200k,La Liga 2
+633306,Iván Azón,2002,Centre-Forward,"1,82 m",right,€3.00m,La Liga 2
+709804,Marcos Cuenca,2002,Centre-Forward,"1,84 m",right,€200k,La Liga 2
+262391,Lluís López,1997,Centre-Back,"1,82 m",right,€500k,La Liga 2
+708497,Carlos Calavia,2003,Goalkeeper,,,€150k,La Liga 2
+327863,Akim Zedadka,1995,Right-Back,"1,74 m",right,€1.50m,La Liga 2
+1061122,Adrián Liso,2005,Left Winger,"1,82 m",left,€2.00m,La Liga 2
+134631,Sinan Bakış,1994,Centre-Forward,"1,88 m",right,€800k,La Liga 2
+197576,Maikel Mesa,1991,Attacking Midfield,"1,88 m",right,€500k,La Liga 2
+1061123,Pau Sans,2004,Centre-Forward,"1,77 m",right,€500k,La Liga 2
+268946,José Antonio Caro,1994,Goalkeeper,"1,84 m",left,€1.00m,La Liga 2
+240360,Esteban Saveljich,1991,Centre-Back,"1,87 m",right,€200k,La Liga 2
+350197,Aitor Córdoba,1995,Centre-Back,"1,91 m",right,€1.20m,La Liga 2
+884158,Saúl del Cerro,2004,Central Midfield,"1,85 m",left,€100k,La Liga 2
+268957,José Matos,1995,Left-Back,"1,68 m",left,€1.20m,La Liga 2
+718587,Sergio Fernández,2002,Right-Back,,right,-,La Liga 2
+253905,Grego Sierra,1993,Centre-Back,"1,86 m",left,€700k,La Liga 2
+208116,Curro Sánchez,1996,Right Winger,"1,76 m",left,€2.20m,La Liga 2
+473695,Álex Bermejo,1998,Left Winger,"1,83 m",right,€500k,La Liga 2
+989453,Oussama El Goumiri,2003,Left-Back,,,,La Liga 2
+342223,Kévin Appin,1998,Central Midfield,"1,76 m",right,€1.00m,La Liga 2
+255495,Unai Elgezabal,1993,Centre-Back,"1,85 m",right,€700k,La Liga 2
+863661,Antonio Molina,2003,Left Winger,"1,74 m",left,-,La Liga 2
+625658,Ander Martín,2000,Right Winger,"1,77 m",left,€400k,La Liga 2
+1161218,José Menor,2002,Centre-Forward,"1,82 m",,,La Liga 2
+1073141,Javi Moral,2005,Goalkeeper,,,,La Liga 2
+282422,Mumo Muñoz,1995,Central Midfield,"1,80 m",right,€600k,La Liga 2
+565523,Edu Espiau,1994,Centre-Forward,"1,85 m",,€600k,La Liga 2
+709595,Lucas Ricoy,2003,Centre-Forward,,right,€25k,La Liga 2
+356546,Borja González,1995,Right-Back,"1,76 m",right,€500k,La Liga 2
+278357,David Goldar,1994,Centre-Back,"1,84 m",right,€800k,La Liga 2
+705401,Javi López,2001,Left Winger,"1,83 m",right,€200k,La Liga 2
+342202,Loïc Badiashile,1998,Goalkeeper,"1,86 m",right,€100k,La Liga 2
+627294,Fer Niño,2000,Centre-Forward,"1,91 m",right,€2.00m,La Liga 2
+623013,Rubén de Gea,2000,Goalkeeper,"1,93 m",,,La Liga 2
+560705,Álex Sancris,1997,Right Winger,"1,81 m",both,€1.50m,La Liga 2
+945758,Samuel Rodriguez,2003,Goalkeeper,"1,93 m",right,€25k,La Liga 2
+111621,Dani Ojeda,1994,Left Winger,"1,78 m",both,€1.20m,La Liga 2
+268959,Raúl Navarro,1994,Right-Back,"1,67 m",right,€500k,La Liga 2
+480955,Miguel Atienza,1999,Central Midfield,"1,86 m",right,€1.00m,La Liga 2
+548187,Alejandro Pérez,2001,Centre-Back,"1,80 m",right,€100k,La Liga 2
+282410,José Carlos Lazo,1996,Left Winger,"1,78 m",both,€1.20m,La Liga 2
+544106,Óscar Gil,1998,Right-Back,"1,75 m",right,€700k,La Liga 2
+246204,Salvi Sánchez,1991,Right Winger,"1,70 m",right,€900k,La Liga 2
+909683,Joan Puig,2002,Left-Back,"1,84 m",left,€150k,La Liga 2
+1060821,José Luis Català,2004,Centre-Back,"1,88 m",right,€150k,La Liga 2
+741250,Sergio Rivarés,2005,Centre-Forward,,right,€100k,La Liga 2
+449496,Álvaro Aguado,1996,Central Midfield,"1,75 m",right,€2.00m,La Liga 2
+628487,Ángel Fortuño,2001,Goalkeeper,"1,83 m",right,€300k,La Liga 2
+295622,Keidi Bare,1997,Central Midfield,"1,74 m",right,€3.00m,La Liga 2
+557147,José Gragera,2000,Central Midfield,"1,86 m",right,€2.00m,La Liga 2
+95732,Martin Braithwaite,1991,Centre-Forward,"1,77 m",right,€3.00m,La Liga 2
+92947,Sergi Gómez,1992,Centre-Back,"1,85 m",right,€900k,La Liga 2
+946275,Ian Forns,2004,Left-Back,,left,€200k,La Liga 2
+961936,Pau Casadesús,2003,Right-Back,"1,82 m",right,€100k,La Liga 2
+628499,Kenneth Soler,2001,Left Winger,"1,75 m",left,€150k,La Liga 2
+506248,Edu Expósito,1996,Central Midfield,"1,78 m",right,€1.50m,La Liga 2
+822331,Omar El Hilali,2003,Right-Back,"1,83 m",right,€3.00m,La Liga 2
+357884,Fernando Calero,1995,Centre-Back,"1,84 m",right,€1.50m,La Liga 2
+487180,Nabil Touaizi,2001,Centre-Forward,"1,83 m",right,€200k,La Liga 2
+561613,Joan García,2001,Goalkeeper,"1,91 m",right,€10.00m,La Liga 2
+838751,Iker Venteo,2003,Goalkeeper,"1,93 m",right,€25k,La Liga 2
+869458,Omar Sadik,2004,Centre-Forward,,left,€300k,La Liga 2
+166677,Brian Oliván,1994,Left-Back,"1,75 m",left,€2.00m,La Liga 2
+408471,Javi Puado,1998,Left Winger,"1,77 m",right,€8.00m,La Liga 2
+663578,Ramon,2001,Left-Back,"1,79 m",left,€2.00m,La Liga 2
+570421,Nico Melamed,2001,Attacking Midfield,"1,73 m",right,€4.00m,La Liga 2
+709960,Marc Jurado,2004,Right-Back,"1,78 m",right,€150k,La Liga 2
+311489,Landry Dimata,1997,Left Winger,"1,85 m",right,€2.20m,La Liga 2
+834744,Antoniu Roca,2002,Right Winger,,right,€400k,La Liga 2
+62920,Víctor Ruiz,1989,Centre-Back,"1,84 m",left,€400k,La Liga 2
+412045,Pol Lozano,1999,Central Midfield,"1,76 m",right,€1.80m,La Liga 2
+628498,Jofre Carreras,2001,Right Winger,"1,75 m",right,€4.00m,La Liga 2
+1141128,Llorenç Serred,2005,Goalkeeper,,,€25k,La Liga 2
+102423,Leandro Cabrera,1991,Centre-Back,"1,90 m",left,€1.00m,La Liga 2
+946279,Javi Hernández,2004,Attacking Midfield,,left,€500k,La Liga 2
+172015,Fernando Pacheco,1992,Goalkeeper,"1,87 m",left,€900k,La Liga 2
+1171468,Ángel Gómez,2003,Centre-Back,"1,92 m",right,€150k,La Liga 2
+1178721,Rafel Bauzà,2005,Central Midfield,"1,83 m",right,€200k,La Liga 2
+1033478,Gastón Valles,2001,Centre-Forward,"1,92 m",left,€500k,La Liga 2
+238752,Keita Baldé,1995,Left Winger,"1,78 m",both,€1.00m,La Liga 2
+225593,Pere Milla,1992,Left Winger,"1,80 m",left,€1.50m,La Liga 2
+646746,Roger Martínez,2004,Central Midfield,"1,77 m",right,€300k,La Liga 2
+349886,Diegui,1993,Right-Back,"1,75 m",right,€200k,La Liga 2
+945713,Marcos Moreno,2004,Centre-Forward,"1,85 m",right,,La Liga 2
+949374,Luis Roldán,2003,Central Midfield,,,€50k,La Liga 2
+648076,Jovanny Bolívar,2001,Centre-Forward,"1,76 m",right,€400k,La Liga 2
+64000,Tomas Vaclik,1989,Goalkeeper,"1,89 m",right,€400k,La Liga 2
+377795,Lander Olaetxea,1993,Central Midfield,"1,79 m",right,€600k,La Liga 2
+254036,Bernabé Barragán,1993,Goalkeeper,"1,90 m",right,€450k,La Liga 2
+127838,Sergi Maestre,1990,Central Midfield,"1,87 m",right,€125k,La Liga 2
+743589,Kaiky,2004,Centre-Back,"1,82 m",right,€1.50m,La Liga 2
+396324,Carlos Isaac,1998,Right-Back,"1,84 m",right,€500k,La Liga 2
+549069,Diego Altube,2000,Goalkeeper,"1,88 m",right,€300k,La Liga 2
+560107,Álvaro Rodríguez,1994,Right-Back,"1,81 m",right,€800k,La Liga 2
+426943,Mohamed Djetei,1994,Centre-Back,"1,85 m",right,€450k,La Liga 2
+635349,Javi Vargas,2001,Left Winger,,right,-,La Liga 2
+380365,Cristian Glauder,1995,Centre-Back,"1,84 m",left,€900k,La Liga 2
+387313,Sam Shashoua,1999,Left Winger,"1,70 m",right,€350k,La Liga 2
+351541,Alberto Quiles,1995,Centre-Forward,"1,88 m",left,€1.20m,La Liga 2
+234866,Rai Marchán,1993,Central Midfield,"1,83 m",right,€200k,La Liga 2
+531829,Dani Escriche,1998,Centre-Forward,"1,78 m",right,€800k,La Liga 2
+835794,Pedro Benito,2000,Centre-Forward,"1,82 m",right,€300k,La Liga 2
+336051,Agus Medina,1994,Central Midfield,"1,76 m",right,€1.00m,La Liga 2
+1101300,Capi,2006,Central Midfield,,,,La Liga 2
+511021,Manu Fuster,1997,Left Winger,"1,69 m",right,€1.50m,La Liga 2
+521455,Julio Alonso,1998,Left-Back,"1,70 m",left,€600k,La Liga 2
+568156,Antonio Pacheco,2002,Central Midfield,"1,84 m",right,€600k,La Liga 2
+149231,Fidel,1989,Left Winger,"1,80 m",left,€500k,La Liga 2
+315312,Juanma García,1993,Right Winger,"1,67 m",,€700k,La Liga 2
+256018,Juan Antonio Ros,1996,Centre-Back,"1,88 m",both,€300k,La Liga 2
+596899,Riki Rodríguez,1997,Central Midfield,"1,75 m",right,€900k,La Liga 2
+189453,Jonathan Silva,1994,Left-Back,"1,78 m",left,€600k,La Liga 2
+663355,Neco Rubayo,2002,Attacking Midfield,"1,70 m",,-,La Liga 2
+242882,Higinio Marín,1993,Centre-Forward,"1,84 m",right,€1.00m,La Liga 2
+224774,Cristian Salvador,1994,Defensive Midfield,"1,84 m",right,€800k,La Liga 2
+819590,José Salinas,2000,Left-Back,"1,78 m",left,€1.50m,La Liga 2
+739315,Nicolás Fernández Mercau,2000,Attacking Midfield,"1,72 m",left,€2.50m,La Liga 2
+1064540,Didac Castellá,2005,Second Striker,,,€25k,La Liga 2
+720530,Javi Pamies,2003,Centre-Back,,,€25k,La Liga 2
+334222,Lucas Boyé,1996,Centre-Forward,"1,83 m",right,€5.00m,La Liga 2
+1249275,Mario Guilabert,2005,Central Midfield,,,€25k,La Liga 2
+831161,Lautaro Blanco,1999,Left-Back,"1,76 m",left,€3.80m,La Liga 2
+1064506,Adam Boayar,2005,Second Striker,"1,80 m",right,€500k,La Liga 2
+1064543,Nordin Al Lal,2005,Centre-Forward,"1,78 m",right,€25k,La Liga 2
+545647,Sergio Carreira,2000,Right-Back,"1,70 m",right,€1.20m,La Liga 2
+144128,Matías Dituro,1987,Goalkeeper,"1,91 m",right,€250k,La Liga 2
+339816,Tete Morente,1996,Left Winger,"1,84 m",right,€2.00m,La Liga 2
+277533,Josan,1989,Right Winger,"1,76 m",right,€500k,La Liga 2
+536030,Arnau Puigmal,2001,Central Midfield,"1,73 m",right,€1.50m,La Liga 2
+349836,Diego González,1995,Centre-Back,"1,85 m",left,€800k,La Liga 2
+221309,Óscar Plano,1991,Right Winger,"1,79 m",both,€700k,La Liga 2
+565899,Nicolás Castro,2000,Attacking Midfield,"1,82 m",right,€3.00m,La Liga 2
+1064538,Ali Houary,2005,Second Striker,"1,78 m",right,€100k,La Liga 2
+566036,Borja Garcés,1999,Centre-Forward,"1,83 m",right,€1.50m,La Liga 2
+203043,Pedro Bigas,1990,Centre-Back,"1,81 m",left,€500k,La Liga 2
+73250,Mario Gaspar,1990,Centre-Back,"1,80 m",right,€500k,La Liga 2
+947431,David López,2003,Centre-Back,"1,95 m",,€500k,La Liga 2
+330682,Jhegson Méndez,1997,Defensive Midfield,"1,80 m",right,€1.00m,La Liga 2
+961297,Rodrigo Mendoza,2005,Central Midfield,"1,82 m",right,€1.00m,La Liga 2
+217144,Aleix Febas,1996,Central Midfield,"1,72 m",right,€2.20m,La Liga 2
+193784,Carlos Clerc,1992,Left-Back,"1,81 m",left,€600k,La Liga 2
+627290,John Donald,2000,Centre-Back,"1,82 m",right,€800k,La Liga 2
+527972,Mourad El Ghezouani,1998,Centre-Forward,"1,89 m",right,€1.40m,La Liga 2
+589456,Rafa Núñez,2002,Left Winger,"1,78 m",right,€300k,La Liga 2
+396337,Miguel San Román,1997,Goalkeeper,"1,87 m",right,€600k,La Liga 2
+283489,Luca Zidane,1998,Goalkeeper,"1,83 m",right,€1.50m,La Liga 2
+169681,Frederico Venâncio,1993,Centre-Back,"1,86 m",right,€700k,La Liga 2
+58115,Yoel Rodríguez,1988,Goalkeeper,"1,84 m",right,€100k,La Liga 2
+198613,Stefan Simic,1995,Centre-Back,"1,89 m",right,€250k,La Liga 2
+379534,José Corpas,1991,Right Winger,"1,78 m",right,€900k,La Liga 2
+289236,Jon Bautista,1995,Centre-Forward,"1,80 m",right,€2.20m,La Liga 2
+710653,Iker Alday,2003,Centre-Back,,,€25k,La Liga 2
+568148,Mario Soriano,2002,Attacking Midfield,"1,63 m",right,€1.80m,La Liga 2
+93747,Yacine Qasmi,1991,Centre-Forward,"1,83 m",left,€200k,La Liga 2
+710180,Oscar Carrasco,2002,Central Midfield,"1,87 m",,€25k,La Liga 2
+271021,Stoichkov,1993,Second Striker,"1,78 m",right,€2.50m,La Liga 2
+1112214,Hodei Arrillaga,2004,Left-Back,,left,€400k,La Liga 2
+81980,José Ríos Reina,1990,Left-Back,"1,80 m",both,€200k,La Liga 2
+458466,Franchu,1998,Right Winger,"1,72 m",right,€250k,La Liga 2
+566575,Cristian Gutiérrez,2000,Left-Back,"1,77 m",left,€1.20m,La Liga 2
+634108,Eric Pérez,2001,Left Winger,"1,80 m",right,€50k,La Liga 2
+710657,Ander Madariaga,2002,Central Midfield,,right,€500k,La Liga 2
+711370,Aritz Muguruza,2001,Centre-Back,,,€50k,La Liga 2
+138935,Sergio Álvarez,1992,Defensive Midfield,"1,83 m",right,€900k,La Liga 2
+466809,Konrad de la Fuente,2001,Left Winger,"1,76 m",right,€1.20m,La Liga 2
+323934,Matheus Pereira,1998,Central Midfield,"1,83 m",left,€1.20m,La Liga 2
+79352,Quique González,1990,Centre-Forward,"1,77 m",left,€200k,La Liga 2
+461843,Juan Berrocal,1999,Centre-Back,"1,87 m",both,€2.00m,La Liga 2
+447052,Peru Nolaskoain,1998,Defensive Midfield,"1,86 m",right,€1.00m,La Liga 2
+668278,Ibon Ispizua,2003,Goalkeeper,"1,85 m",right,€25k,La Liga 2
+610083,Unai Vencedor,2000,Central Midfield,"1,76 m",right,€2.20m,La Liga 2
+158057,Ager Aketxe,1993,Right Winger,"1,74 m",left,€1.50m,La Liga 2
+71548,Anaitz Arbilla,1987,Centre-Back,"1,78 m",right,€200k,La Liga 2
+223890,Rober Correa,1992,Right-Back,"1,80 m",right,€300k,La Liga 2
+290273,Álvaro Tejero,1996,Right-Back,"1,74 m",both,€2.00m,La Liga 2
+453704,Álvaro Fernández,1998,Goalkeeper,"1,85 m",right,€2.50m,La Liga 2
+274753,Carlos Gutiérrez,1991,Centre-Back,"1,92 m",right,€100k,La Liga 2
+308982,José Ángel Carrillo,1994,Centre-Forward,"1,91 m",right,€300k,La Liga 2
+971693,David García,2003,Attacking Midfield,"1,83 m",right,€50k,La Liga 2
+315095,Abou Kanté,1994,Centre-Forward,"1,84 m",left,€350k,La Liga 2
+625653,Iker Kortajarena,2000,Central Midfield,"1,82 m",left,€600k,La Liga 2
+634460,Álex Balboa,2001,Central Midfield,"1,81 m",right,€300k,La Liga 2
+396334,Joaquín Muñoz,1999,Right Winger,"1,72 m",both,€1.00m,La Liga 2
+522719,Samuel Obeng,1997,Centre-Forward,"1,83 m",left,€600k,La Liga 2
+1124142,Diego Aznar,2003,Centre-Forward,,,€100k,La Liga 2
+709339,Nacho García,2002,Centre-Back,,,,La Liga 2
+946291,Alin Șerban,2003,Right-Back,,,€50k,La Liga 2
+581701,Ignasi Vilarrasa,1999,Left-Back,"1,83 m",left,€1.00m,La Liga 2
+632904,Rafa Tresaco,2000,Centre-Forward,"1,80 m",right,€150k,La Liga 2
+298613,Juan Pérez,1996,Goalkeeper,"1,91 m",right,€600k,La Liga 2
+1094227,Diego Espinosa,2004,Centre-Back,"1,95 m",left,€50k,La Liga 2
+1008957,Fadia Fofana,2001,Centre-Back,"1,86 m",right,,La Liga 2
+400104,Miguel Loureiro,1996,Right-Back,"1,82 m",right,€1.00m,La Liga 2
+741255,Iker Gil,2005,Centre-Forward,"1,71 m",,€50k,La Liga 2
+327207,Juanjo Nieto,1994,Right-Back,"1,74 m",right,€600k,La Liga 2
+524197,Patrick Soko,1997,Right Winger,"1,76 m",right,€700k,La Liga 2
+67550,Óscar Sielva,1991,Central Midfield,"1,80 m",right,€800k,La Liga 2
+67546,Jorge Pulido,1991,Centre-Back,"1,86 m",right,€750k,La Liga 2
+517845,Jérémy Blasco,1999,Centre-Back,"1,85 m",right,€700k,La Liga 2
+471474,Javi Martínez,1999,Attacking Midfield,"1,81 m",right,€1.00m,La Liga 2
+628301,Hugo Vallejo,2000,Left Winger,"1,81 m",right,€500k,La Liga 2
+406773,Iván Martos,1997,Left-Back,"1,83 m",left,€400k,La Liga 2
+443290,Enzo Lombardo,1997,Left Winger,"1,74 m",right,€350k,La Liga 2
+183436,Kento Hashimoto,1993,Defensive Midfield,"1,83 m",right,€800k,La Liga 2
+1137080,Ayman Arguigue,2005,Centre-Forward,"1,84 m",right,€200k,La Liga 2
+603969,Rubén Pulido,2000,Centre-Back,"1,84 m",right,€600k,La Liga 2
+635859,Fernando Guerrero,2001,Central Midfield,"1,82 m",,€50k,La Liga 2
+278651,Gerard Valentín,1993,Right Winger,"1,77 m",right,€900k,La Liga 2
+718203,Manu Rico,2003,Attacking Midfield,,,€150k,La Liga 2
+177065,Florin Andone,1993,Centre-Forward,"1,81 m",right,€300k,La Liga 2
+985910,Gabriel Jimeno,2003,Centre-Forward,"1,78 m",right,,La Liga 2
+1064499,Luismi Quirant,2004,Goalkeeper,,,,La Liga 2
+341570,Guillermo Vallejo,1995,Goalkeeper,"1,82 m",right,€400k,La Liga 2
+398738,Miguel Marí,1997,Central Midfield,"1,85 m",right,€200k,La Liga 2
+277500,Piña,1994,Centre-Back,"1,88 m",right,€300k,La Liga 2
+131357,Pedro Capó,1990,Central Midfield,"1,88 m",right,€100k,La Liga 2
+540654,Marc-Olivier Doué,2000,Central Midfield,"1,85 m",right,€200k,La Liga 2
+459661,Eddie Salcedo,2001,Centre-Forward,"1,78 m",right,€1.00m,La Liga 2
+186891,Álex Martínez,1990,Left-Back,"1,76 m",left,€100k,La Liga 2
+531476,Sergio Ortuño,1999,Central Midfield,,right,€1.00m,La Liga 2
+429564,Derick Poloni,1993,Left-Back,"1,73 m",left,€300k,La Liga 2
+613040,Youness Lachhab,1999,Central Midfield,"1,92 m",left,€200k,La Liga 2
+1168542,Antonio Pina,2003,Goalkeeper,,,,La Liga 2
+199131,Álex Bernal,1991,Central Midfield,"1,75 m",right,€100k,La Liga 2
+399775,Miguel Llambrich,1996,Right-Back,"1,70 m",right,€200k,La Liga 2
+78818,Dario Dumic,1992,Centre-Back,"1,93 m",right,€400k,La Liga 2
+225459,Carlos Hernández,1990,Centre-Back,"1,85 m",right,€100k,La Liga 2
+595357,Toni Abad,1996,Right-Back,"1,74 m",right,€600k,La Liga 2
+805479,Jesús Clemente,2000,Right-Back,"1,83 m",right,€400k,La Liga 2
+158795,David Timor,1989,Defensive Midfield,"1,85 m",left,€300k,La Liga 2
+421118,Christian Montes,1997,Attacking Midfield,"1,63 m",left,€400k,La Liga 2
+213875,Juanto Ortuño,1992,Centre-Forward,"1,77 m",right,€400k,La Liga 2
+633114,Joel Jorquera,2000,Left Winger,"1,71 m",right,€200k,La Liga 2
+281990,Nacho Monsalve,1994,Centre-Back,"1,88 m",both,€200k,La Liga 2
+522110,Mario Soberón,1997,Centre-Forward,"1,78 m",right,€2.00m,La Liga 2
+96539,Marc Mateu,1990,Left-Back,"1,80 m",left,€600k,La Liga 2
+412046,Iván Chapela,1999,Right Winger,"1,81 m",right,€1.20m,La Liga 2
+88917,Ian Mackay,1986,Goalkeeper,"1,81 m",right,€100k,La Liga 2
+812902,Jonathan Varane,2001,Central Midfield,"1,90 m",right,€1.20m,La Liga 2
+1065474,Borja Montes,2005,Centre-Back,,,,La Liga 2
+190804,Uros Djurdjevic,1994,Centre-Forward,"1,81 m",right,€1.00m,La Liga 2
+87469,Cote,1989,Left-Back,"1,82 m",left,€700k,La Liga 2
+557146,Guille Rosas,2000,Right-Back,"1,75 m",right,€1.50m,La Liga 2
+580525,Gaspar Campos,2000,Left Winger,"1,75 m",right,€2.50m,La Liga 2
+255995,Mario González,1996,Centre-Forward,"1,83 m",right,€2.00m,La Liga 2
+620163,Yann Kembo,2002,Centre-Back,"1,96 m",left,€100k,La Liga 2
+536823,Óscar Castro,2001,Central Midfield,"1,81 m",right,€50k,La Liga 2
+740574,Jordán Carrillo,2001,Left Winger,"1,68 m",right,€1.50m,La Liga 2
+531373,Christian Joel,1999,Goalkeeper,"1,93 m",left,€800k,La Liga 2
+202984,Roque Mesa,1989,Central Midfield,"1,72 m",right,€600k,La Liga 2
+719722,Nacho Martín,2002,Central Midfield,"1,75 m",right,€700k,La Liga 2
+1065477,Marcos Fernández,2005,Attack,,,,La Liga 2
+171362,Pablo Insua,1993,Centre-Back,"1,87 m",right,€800k,La Liga 2
+859742,Pierre Mbemba,2004,Centre-Back,,,,La Liga 2
+636303,Enol Coto,2001,Right-Back,"1,74 m",right,€150k,La Liga 2
+719726,Dani Queipo,2002,Left Winger,"1,68 m",right,€1.20m,La Liga 2
+719727,Diego Boza,2002,Left Winger,"1,74 m",right,,La Liga 2
+1184130,Cristian Acerete,2002,Centre-Forward,,,,La Liga 2
+394285,Víctor Campuzano,1997,Centre-Forward,"1,74 m",left,€1.00m,La Liga 2
+723154,Pablo Díez,2002,Goalkeeper,"1,87 m",both,-,La Liga 2
+421258,Alexandru Pașcanu,1998,Centre-Back,"1,87 m",right,€1.70m,La Liga 2
+374077,Christian Rivera,1997,Central Midfield,"1,91 m",right,€450k,La Liga 2
+582698,Florentin Bloch,2000,Goalkeeper,"1,90 m",left,€50k,La Liga 2
+636300,Pablo García,2000,Left-Back,"1,78 m",left,€600k,La Liga 2
+1065472,Álex Lozano,2005,Left Winger,,left,€100k,La Liga 2
+825184,Diego Sánchez,2003,Centre-Back,"1,86 m",left,€600k,La Liga 2
+332305,Juan Otero,1995,Right Winger,"1,82 m",right,€2.00m,La Liga 2
+311680,Fran Villalba,1998,Attacking Midfield,"1,68 m",right,€1.20m,La Liga 2
+208022,Giovanni Zarfino,1991,Central Midfield,"1,85 m",right,€300k,La Liga 2
+870139,Álex Oyón,2003,Second Striker,"1,71 m",both,€100k,La Liga 2
+620164,Haissem Hassan,2002,Right Winger,"1,75 m",right,€2.00m,La Liga 2
+387129,Róber Pier,1995,Centre-Back,"1,82 m",right,€1.50m,La Liga 2
+1136418,Tomás Fuentes,2003,Centre-Back,,,,La Liga 2
+116968,Carlos Izquierdoz,1988,Centre-Back,"1,85 m",right,€700k,La Liga 2
+797702,Esteban Lozano,2003,Centre-Forward,"1,90 m",,€100k,La Liga 2
+503837,Nacho Méndez,1998,Central Midfield,"1,78 m",left,€1.50m,La Liga 2
+203150,Ignacio Jeraldino,1995,Centre-Forward,"1,82 m",right,€800k,La Liga 2
+545487,Axel Bamba,1999,Centre-Back,"1,85 m",right,€500k,La Liga 2
+246335,Rubén Yáñez,1993,Goalkeeper,"1,88 m",right,€1.80m,La Liga 2

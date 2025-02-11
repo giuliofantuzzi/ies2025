@@ -1,0 +1,710 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+1004382,Ryan Contena,2004,Attack,,,,Ligue 2
+89030,Maxime Chanot,1989,Centre-Back,"1,86 m",right,€300k,Ligue 2
+989824,Ben Hamed Touré,2003,Centre-Forward,"1,85 m",right,€400k,Ligue 2
+1004385,Owen Martinez-Jullien,2005,Central Midfield,,,€50k,Ligue 2
+149518,Michaël Barreto,1991,Attacking Midfield,"1,75 m",right,€200k,Ligue 2
+988213,Salomon Abergel,2004,Right-Back,"1,70 m",right,-,Ligue 2
+172153,Mickaël Alphonse,1989,Right-Back,"1,82 m",right,-,Ligue 2
+18934,Thomas Mangani,1987,Central Midfield,"1,83 m",left,€200k,Ligue 2
+989819,Ivane Chegra,2004,Right Winger,"1,80 m",right,€150k,Ligue 2
+1064288,Jérémy De Bessa,2006,Left-Back,,,,Ligue 2
+353932,Julien Benhaim,1996,Left Midfield,"1,75 m",left,-,Ligue 2
+1063540,Mamadu Silla,2006,Centre-Forward,,right,,Ligue 2
+374040,Vincent Marchetti,1997,Central Midfield,"1,78 m",left,€1.50m,Ligue 2
+267147,Cyrille Bayala,1996,Right Winger,"1,81 m",right,€600k,Ligue 2
+193142,Mathieu Michel,1991,Goalkeeper,"1,88 m",right,€200k,Ligue 2
+413245,Fernand Mayembo,1996,Centre-Back,"1,84 m",right,€500k,Ligue 2
+449223,Thibault Campanini,1998,Right-Back,"1,79 m",right,€100k,Ligue 2
+331977,François-Joseph Sollacaro,1994,Goalkeeper,"1,82 m",right,€400k,Ligue 2
+303410,Christopher Ibayi,1995,Centre-Forward,"1,87 m",right,€600k,Ligue 2
+263951,Hamza Sakhi,1996,Attacking Midfield,"1,76 m",right,€1.30m,Ligue 2
+1004380,Anthony Fosse,2005,Attack,,,-,Ligue 2
+284526,Valentin Jacob,1994,Attacking Midfield,"1,71 m",both,€400k,Ligue 2
+68718,Yoann Touzghar,1986,Centre-Forward,"1,80 m",right,€150k,Ligue 2
+569388,Clément Vidal,2000,Centre-Back,"1,81 m",right,€700k,Ligue 2
+550572,Stephen Quemper,1993,Left-Back,"1,78 m",left,€350k,Ligue 2
+862972,Josué Escartin,2003,Centre-Back,"1,93 m",right,€400k,Ligue 2
+919236,Everson Jr,2003,Attacking Midfield,"1,78 m",right,€250k,Ligue 2
+1064242,Wolo Leblanc Touré,2004,Defensive Midfield,"1,79 m",,-,Ligue 2
+692440,Al Hassan Touré,2000,Centre-Forward,"1,85 m",right,€250k,Ligue 2
+989817,Anthony Khelifa,2005,Centre-Back,,,€50k,Ligue 2
+1004383,Ricardo Coutinho,2006,Left Winger,"1,78 m",,€100k,Ligue 2
+627163,Mounaïm El Idrissy,1999,Centre-Forward,"1,81 m",right,€500k,Ligue 2
+1004681,Tony Strata,2004,Right-Back,"1,77 m",right,€350k,Ligue 2
+855050,Ghjuvanni Quilichini,2002,Goalkeeper,"1,82 m",right,€100k,Ligue 2
+674241,Tim Jabol-Folcarelli,1999,Central Midfield,"1,87 m",right,€1.80m,Ligue 2
+1053266,Pablo Soules,2005,Central Midfield,"1,72 m",right,,Ligue 2
+1053240,Moussa Soumano,2005,Centre-Forward,"1,85 m",right,€600k,Ligue 2
+989826,Mehdi Puch-Herrantz,2004,Defensive Midfield,"1,75 m",right,€200k,Ligue 2
+987302,Sacha Contena,2005,Goalkeeper,,,-,Ligue 2
+276255,Yacine Bammou,1991,Centre-Forward,"1,89 m",right,€300k,Ligue 2
+1088199,Arsène Kouassi,2004,Left-Back,"1,78 m",left,€150k,Ligue 2
+57482,Mohamed Youssouf,1988,Right-Back,"1,69 m",right,€150k,Ligue 2
+119104,Riad Nouri,1985,Right Winger,"1,78 m",right,-,Ligue 2
+44421,Cédric Avinel,1986,Centre-Back,"1,87 m",right,-,Ligue 2
+804381,Hamjatou Soukouna,1998,Centre-Back,"1,88 m",left,€600k,Ligue 2
+891379,Nordine Kandil,2001,Left Winger,"1,67 m",left,€1.00m,Ligue 2
+796892,Samuel Ntamack,2001,Centre-Forward,"1,78 m",right,€400k,Ligue 2
+698222,Moïse Mahop,2000,Left-Back,"1,82 m",left,€400k,Ligue 2
+88971,Jonathan Kodjia,1989,Centre-Forward,"1,89 m",right,€200k,Ligue 2
+814976,Martin Adeline,2003,Central Midfield,"1,80 m",right,€900k,Ligue 2
+540643,Tidiane Malbec,2001,Goalkeeper,"1,87 m",right,€50k,Ligue 2
+212937,Alexy Bosetti,1993,Centre-Forward,"1,72 m",right,-,Ligue 2
+345225,Steve Shamal,1996,Left Winger,"1,82 m",right,€200k,Ligue 2
+803839,Goteh Ntignee,2002,Left Winger,"1,72 m",both,€50k,Ligue 2
+1009596,Junior Diaz,2003,Centre-Back,"1,93 m",right,€2.00m,Ligue 2
+374039,François Lajugie,1996,Right-Back,"1,90 m",right,€600k,Ligue 2
+651360,Brian Beyer,1996,Centre-Forward,"1,84 m",right,€225k,Ligue 2
+805886,Gaby Jean,2000,Centre-Back,"1,91 m",left,€1.00m,Ligue 2
+289437,Kévin Farade,1995,Centre-Forward,"1,88 m",right,-,Ligue 2
+775330,Antoine Larose,1993,Right Winger,"1,82 m",left,€600k,Ligue 2
+412091,Kapit Djoco,1995,Centre-Forward,"1,86 m",right,€600k,Ligue 2
+290588,Romain Spano,1994,Centre-Forward,"1,82 m",right,-,Ligue 2
+629637,Kévin Mouanga,2000,Centre-Back,"1,91 m",right,€900k,Ligue 2
+821136,Yacouba Barry,2002,Defensive Midfield,"1,88 m",right,€300k,Ligue 2
+126699,Vincent Pajot,1990,Defensive Midfield,"1,80 m",right,€250k,Ligue 2
+813171,Zakaria Bengueddoudj,2000,Centre-Forward,"1,83 m",right,-,Ligue 2
+780944,Jonathan Gonçalves,1989,Centre-Back,"1,82 m",right,-,Ligue 2
+827950,Ousmane Camara,2001,Centre-Forward,"1,76 m",left,€500k,Ligue 2
+369599,Warren Caddy,1997,Centre-Forward,"1,83 m",right,€400k,Ligue 2
+593315,Thomas Callens,1998,Goalkeeper,"1,82 m",left,€200k,Ligue 2
+73120,Ahmed Kashi,1988,Defensive Midfield,"1,77 m",right,€200k,Ligue 2
+579205,Clément Billemaz,1998,Left Winger,"1,75 m",left,€500k,Ligue 2
+222636,Florian Escales,1996,Goalkeeper,"1,84 m",left,€600k,Ligue 2
+415863,Kévin Testud,1992,Right Winger,"1,80 m",right,€250k,Ligue 2
+289435,Yohan Demoncy,1996,Central Midfield,"1,81 m",right,€600k,Ligue 2
+1063470,Thibault Delphis,2002,Centre-Back,"1,83 m",right,€400k,Ligue 2
+709482,Thierno Baldé,2002,Right-Back,"1,82 m",right,€1.80m,Ligue 2
+673514,Abdoulaye Ndiaye,2002,Centre-Back,"1,95 m",left,€3.00m,Ligue 2
+1066904,Jaurès Assoumou,2002,Centre-Forward,"1,82 m",right,€400k,Ligue 2
+982851,Wilson Nzenapou,2004,Attacking Midfield,,right,,Ligue 2
+659517,Noa Cervantes,2003,Right Winger,"1,78 m",left,€250k,Ligue 2
+234802,Renaud Ripart,1993,Right Winger,"1,81 m",right,€600k,Ligue 2
+982863,Kyliane Dong,2004,Right Winger,"1,78 m",right,€800k,Ligue 2
+1146422,Ibrahim Traoré,2006,Centre-Forward,,right,€50k,Ligue 2
+429790,Luka Ilic,1999,Attacking Midfield,"1,85 m",left,€1.80m,Ligue 2
+900938,Junior Olaitan,2002,Attacking Midfield,"1,74 m",right,€350k,Ligue 2
+1010426,Ibrahim Bamba,2002,Right-Back,,,,Ligue 2
+986299,Yvann Titi,2006,Right-Back,"1,88 m",right,€300k,Ligue 2
+780147,Rafiki Saïd,2000,Left Winger,"1,80 m",both,€1.20m,Ligue 2
+111041,Zacharie Boucher,1992,Goalkeeper,"1,81 m",right,€200k,Ligue 2
+118278,Xavier Chavalerin,1991,Central Midfield,"1,79 m",left,€600k,Ligue 2
+375287,Emmanuel Ntim,1996,Centre-Back,"1,79 m",right,€400k,Ligue 2
+373939,Nicolas Lemaître,1997,Goalkeeper,"1,89 m",left,€500k,Ligue 2
+345748,Andreas Bruus,1999,Right-Back,"1,84 m",right,€900k,Ligue 2
+576033,Doğan Alemdar,2002,Goalkeeper,"1,92 m",right,€2.00m,Ligue 2
+277635,Rominigue Kouamé,1996,Central Midfield,"1,77 m",left,€2.00m,Ligue 2
+917104,Derek Mazou-Sacko,2004,Central Midfield,"1,86 m",right,€400k,Ligue 2
+933147,Mouhamed Diop,2000,Attacking Midfield,"1,82 m",right,€600k,Ligue 2
+1004342,Noah Medalli,2005,Attacking Midfield,,right,,Ligue 2
+238584,Mehdi Tahrat,1990,Centre-Back,"1,93 m",right,€200k,Ligue 2
+963168,Stevo Chillemi,2004,Centre-Forward,"1,90 m",right,,Ligue 2
+804661,Simon Elisor,1999,Centre-Forward,"1,85 m",left,€800k,Ligue 2
+917101,Rudy Kohon,2004,Centre-Back,"1,87 m",right,€250k,Ligue 2
+991649,Eric N'Jo,2004,Centre-Back,"1,95 m",right,-,Ligue 2
+540642,Corentin Michel,2000,Goalkeeper,"1,87 m",right,€25k,Ligue 2
+817180,Mamady Bangré,2001,Right Winger,"1,71 m",left,€700k,Ligue 2
+122116,Nicolas de Préville,1991,Centre-Forward,"1,82 m",right,€200k,Ligue 2
+1126376,Aly Sidibé,2005,Right Winger,"1,76 m",right,,Ligue 2
+770895,Ismaël Boura,2000,Left-Back,"1,73 m",left,€900k,Ligue 2
+857154,Alexis Lefebvre,2003,Right Winger,"1,66 m",right,€200k,Ligue 2
+337798,Abdu Conté,1998,Left-Back,"1,83 m",left,€800k,Ligue 2
+167472,Youssouf M'Changama,1990,Central Midfield,"1,75 m",right,€250k,Ligue 2
+1091219,Abdoulaye Kanté,2005,Defensive Midfield,"1,80 m",right,€1.50m,Ligue 2
+929612,Danel Dongmo,2001,Central Midfield,"1,82 m",left,€150k,Ligue 2
+982864,Mathis Hamdi,2003,Left-Back,"1,80 m",left,€150k,Ligue 2
+917120,Tanguy Zoukrou,2003,Centre-Back,"1,89 m",right,€1.50m,Ligue 2
+371003,Ante Palaversa,2000,Central Midfield,"1,87 m",right,€600k,Ligue 2
+212804,Florian Tardieu,1992,Central Midfield,"1,81 m",right,€700k,Ligue 2
+1149925,Facinet Conte,2005,Centre-Forward,"1,75 m",right,€800k,Ligue 2
+536521,Romaric Yapi,2000,Right-Back,"1,80 m",right,€300k,Ligue 2
+913645,Matéo Loubatières,2003,Central Midfield,"1,75 m",left,€100k,Ligue 2
+745202,Yllan Okou,2002,Centre-Back,"1,89 m",left,€900k,Ligue 2
+973852,Jocelyn Janneh,2002,Defensive Midfield,"1,84 m",right,€800k,Ligue 2
+652128,Tom Ducrocq,1999,Defensive Midfield,"1,76 m",right,€1.20m,Ligue 2
+744941,Sekou Lega,2003,Centre-Forward,"1,92 m",right,€100k,Ligue 2
+715923,Florian Bianchini,2001,Right Winger,"1,82 m",right,€2.00m,Ligue 2
+590841,Migouel Alfarela,1997,Centre-Forward,"1,73 m",,€600k,Ligue 2
+1114549,Mohamed Boumaaoui,2004,Centre-Forward,"1,87 m",right,,Ligue 2
+863038,Tom Meynadier,2000,Right-Back,"1,76 m",right,€300k,Ligue 2
+588645,Dumè Guidi,1996,Centre-Back,"1,77 m",right,€400k,Ligue 2
+469039,Yohan Baï,1996,Right Winger,"1,81 m",right,€100k,Ligue 2
+781808,Julien Maggiotti,1995,Central Midfield,"1,86 m",right,€700k,Ligue 2
+93678,Gaëtan Charbonnier,1988,Centre-Forward,"1,88 m",right,-,Ligue 2
+238635,Julien Fabri,1994,Goalkeeper,"1,83 m",right,€150k,Ligue 2
+203324,Christophe Vincent,1992,Defensive Midfield,"1,78 m",right,€400k,Ligue 2
+51035,Johny Placide,1988,Goalkeeper,"1,81 m",right,€200k,Ligue 2
+1160601,Baye Ablaye Mbaye,2004,Centre-Back,"1,82 m",right,-,Ligue 2
+744960,Mohamed Souboul,2001,Left-Back,"1,75 m",left,€300k,Ligue 2
+314940,Dimitri Liénard,1988,Central Midfield,"1,81 m",left,€150k,Ligue 2
+651979,Anthony Roncaglia,2000,Defensive Midfield,"1,80 m",right,€400k,Ligue 2
+640488,Félix Tomi,2000,Attacking Midfield,"1,81 m",,€200k,Ligue 2
+251448,Florian Bohnert,1997,Right-Back,"1,82 m",right,€500k,Ligue 2
+956708,Loup-Diwan Gueho,2004,Centre-Back,"1,88 m",right,€150k,Ligue 2
+321930,Dylan Tavares,1996,Left-Back,"1,72 m",left,€400k,Ligue 2
+587646,Mahamé Siby,1996,Defensive Midfield,"1,92 m",right,€600k,Ligue 2
+342701,Benjamin Santelli,1991,Centre-Forward,"1,80 m",left,€250k,Ligue 2
+691888,Cédric Lunardi,1998,Goalkeeper,"1,83 m",right,€25k,Ligue 2
+461582,Issiar Dramé,1999,Centre-Back,"1,97 m",right,€500k,Ligue 2
+394906,Charles Traoré,1992,Left-Back,"1,80 m",left,€200k,Ligue 2
+820146,Check Keita,2003,Centre-Back,"1,85 m",right,€1.50m,Ligue 2
+400680,Kevin Van Den Kerkhof,1996,Right-Back,"1,90 m",right,€2.00m,Ligue 2
+503291,Rayan Ghrieb,1999,Attacking Midfield,"1,82 m",left,€500k,Ligue 2
+1227420,Zephir Bever,2003,Centre-Back,,right,,Ligue 2
+718340,Ibrahima Sy,2002,Central Midfield,"1,85 m",right,-,Ligue 2
+983364,Freddy Mbemba,2002,Centre-Forward,"1,75 m",,€400k,Ligue 2
+290595,Driss Trichard,1995,Left-Back,"1,78 m",left,-,Ligue 2
+707222,Enzo Bardeli,2001,Central Midfield,"1,73 m",right,€1.50m,Ligue 2
+1174019,Assane N'Doye,2004,Left-Back,"1,78 m",,,Ligue 2
+696324,Billy Koumetio,2002,Centre-Back,"1,95 m",left,€500k,Ligue 2
+522850,Yohan Bilingi,1999,Right-Back,"1,84 m",right,€500k,Ligue 2
+137970,Demba Thiam,1989,Right-Back,"1,79 m",left,€100k,Ligue 2
+525111,Rémy Boissier,1994,Defensive Midfield,"1,80 m",right,€350k,Ligue 2
+556371,Moussa Guel,1999,Right Winger,"1,71 m",right,€100k,Ligue 2
+502844,Ángel Orelien,2001,Attacking Midfield,"1,69 m",right,€300k,Ligue 2
+182894,Jean-Philippe Gbamin,1995,Defensive Midfield,"1,86 m",right,€2.00m,Ligue 2
+750502,Ludéric Etonde,2000,Centre-Forward,"1,90 m",right,-,Ligue 2
+29277,Arnaud Balijon,1983,Goalkeeper,"1,83 m",right,-,Ligue 2
+911985,Mohamed Koné,2002,Goalkeeper,"1,86 m",right,€1.70m,Ligue 2
+412088,Junior Senneville,1991,Right-Back,"1,70 m",right,€50k,Ligue 2
+1027216,François Mughe,2004,Right Winger,"1,73 m",right,€500k,Ligue 2
+511454,Samy Baghdadi,1997,Centre-Forward,"1,81 m",right,€250k,Ligue 2
+982852,Yvan Gomes,2003,Goalkeeper,,,,Ligue 2
+743495,Nehemiah Fernandez,2004,Centre-Back,"1,84 m",right,€400k,Ligue 2
+315075,Benjaloud Youssouf,1994,Right-Back,"1,75 m",right,€300k,Ligue 2
+371150,Loïc Bessilé,1999,Centre-Back,"1,84 m",left,€250k,Ligue 2
+563614,Tidiane Keita,1996,Central Midfield,"1,80 m",right,€650k,Ligue 2
+902862,Achraf Laâziri,2003,Left-Back,"1,77 m",left,€600k,Ligue 2
+543532,Elhadj Bah,2001,Centre-Forward,"1,83 m",right,-,Ligue 2
+419997,Alioune Ba,1989,Centre-Back,"1,88 m",right,€50k,Ligue 2
+1117720,Philippe Ndinga,2005,Centre-Back,,,,Ligue 2
+654986,Bram Lagae,2004,Centre-Back,"1,83 m",left,€1.00m,Ligue 2
+520819,Julien Anziani,1999,Central Midfield,"1,76 m",right,€600k,Ligue 2
+352448,Opa Sangante,1991,Centre-Back,"1,88 m",left,€300k,Ligue 2
+194533,Armand Gnanduillet,1992,Centre-Forward,"1,94 m",right,€200k,Ligue 2
+171408,Gaëtan Courtet,1989,Centre-Forward,"1,80 m",both,€200k,Ligue 2
+775403,Hugo Gambor,2002,Centre-Back,"1,86 m",right,€2.00m,Ligue 2
+889618,Amadou Ba-Sy,2001,Centre-Forward,"1,91 m",both,€300k,Ligue 2
+1178726,Philippe Nkouka,2005,Centre-Back,"1,89 m",,,Ligue 2
+860056,Aïman Maurer,2004,Attacking Midfield,"1,73 m",right,€400k,Ligue 2
+654408,Lucas Lavallée,2003,Goalkeeper,"1,87 m",right,€150k,Ligue 2
+808121,Alain Ipiélé,1997,Left Winger,"1,80 m",right,€300k,Ligue 2
+1151929,Gessime Yassine,2005,Right Winger,"1,72 m",left,€1.00m,Ligue 2
+694549,Sam Sanna,1999,Defensive Midfield,"1,70 m",right,€1.00m,Ligue 2
+344575,Antonin Bobichon,1995,Central Midfield,"1,78 m",right,€500k,Ligue 2
+111528,Anthony Gonçalves,1986,Central Midfield,"1,79 m",right,€100k,Ligue 2
+85953,Yohan Tavares,1988,Centre-Back,"1,88 m",right,€150k,Ligue 2
+412085,Malik Tchokounté,1988,Centre-Forward,"1,88 m",right,€200k,Ligue 2
+855025,Noa Mupemba,2002,Centre-Forward,"1,80 m",right,€50k,Ligue 2
+920222,Loïs Martins,2004,Central Midfield,"1,76 m",right,€100k,Ligue 2
+802987,Irvyn Lomami,2003,Right-Back,"1,71 m",right,€100k,Ligue 2
+192526,Kevin Tapoko,1994,Defensive Midfield,"1,96 m",right,€200k,Ligue 2
+345562,Zakaria Naidji,1995,Right Winger,"1,77 m",right,€1.50m,Ligue 2
+808316,William Benard,2003,Central Midfield,,,€100k,Ligue 2
+126164,Edson Seidou,1991,Left-Back,"1,82 m",left,€100k,Ligue 2
+102998,Jimmy Roye,1988,Central Midfield,"1,75 m",right,€200k,Ligue 2
+491784,Yasser Baldé,1993,Centre-Back,"1,90 m",right,€250k,Ligue 2
+141364,Maxime Hautbois,1991,Goalkeeper,"1,81 m",right,€100k,Ligue 2
+782935,Amin Cherni,2001,Left-Back,"1,81 m",,€1.00m,Ligue 2
+585958,Junior Kadile,2002,Right Winger,"1,80 m",right,€500k,Ligue 2
+72422,Mamadou Samassa,1990,Goalkeeper,"1,98 m",right,€250k,Ligue 2
+228891,Jordan Adéoti,1989,Defensive Midfield,"1,83 m",right,€100k,Ligue 2
+198394,Marvin Baudry,1990,Centre-Back,"1,87 m",right,€150k,Ligue 2
+410238,Djibril Diaw,1994,Centre-Back,"1,95 m",left,-,Ligue 2
+272644,Jordan Tell,1997,Centre-Forward,"1,85 m",right,€250k,Ligue 2
+627463,Thibaut Vargas,2000,Right-Back,"1,75 m",both,€1.00m,Ligue 2
+546884,Titouan Thomas,2002,Central Midfield,"1,83 m",right,€500k,Ligue 2
+810411,Pablo Pagis,2002,Centre-Forward,"1,80 m",both,€800k,Ligue 2
+682503,Théo Chatelain,1999,Goalkeeper,"1,87 m",right,€50k,Ligue 2
+391375,Peter Ouaneh,1998,Centre-Back,"1,84 m",right,€400k,Ligue 2
+154295,Kévin Perrot,1989,Right-Back,"1,70 m",right,-,Ligue 2
+324891,Francois-Xavier Fumu Tamuzo,1995,Right Winger,"1,80 m",right,-,Ligue 2
+917778,Rémy Labeau Lascary,2003,Centre-Forward,"1,84 m",right,€2.50m,Ligue 2
+592999,Ryan Ferhaoui,1997,Central Midfield,"1,83 m",,€150k,Ligue 2
+945515,Justin Maaga,2004,Goalkeeper,,right,-,Ligue 2
+838804,Check Oumar Diakité,2002,Central Midfield,"1,73 m",,€400k,Ligue 2
+412086,Cyril Mandouki,1991,Defensive Midfield,"1,80 m",right,€300k,Ligue 2
+93726,Paul Lasne,1989,Central Midfield,"1,86 m",left,-,Ligue 2
+978914,Djibril Diagouraga,2004,Centre-Forward,,,€50k,Ligue 2
+170506,Julien Lopez,1992,Left Winger,"1,73 m",right,€250k,Ligue 2
+203504,Pierre-Yves Hamel,1994,Centre-Forward,"1,89 m",right,€500k,Ligue 2
+413111,Jules Gaudin,2000,Left-Back,"1,80 m",right,€800k,Ligue 2
+495669,Lamine Diaby-Fadiga,2001,Centre-Forward,"1,88 m",left,€600k,Ligue 2
+914539,Yoan Koré,2004,Centre-Back,"1,87 m",right,€900k,Ligue 2
+1173868,Mohamed Dao,2007,Centre-Forward,,right,,Ligue 2
+84085,Timothée Kolodziejczak,1991,Centre-Back,"1,83 m",left,€250k,Ligue 2
+568701,Lamine Gueye,1998,Right Winger,"1,78 m",,€500k,Ligue 2
+830265,Lohann Doucet,2002,Defensive Midfield,"1,80 m",right,€800k,Ligue 2
+955251,Dimitri Colau,2006,Centre-Back,"1,83 m",right,€50k,Ligue 2
+435492,Alimami Gory,1996,Left Winger,"1,82 m",right,€1.00m,Ligue 2
+794116,Ayoub Jabbari,2000,Centre-Forward,"1,94 m",right,€400k,Ligue 2
+1052420,Aboubaka Soumahoro,2005,Centre-Back,"1,84 m",right,€500k,Ligue 2
+973949,Adama Camara,1996,Defensive Midfield,"1,80 m",right,€1.00m,Ligue 2
+649026,Moustapha Mbow,2000,Centre-Back,"1,92 m",right,€1.00m,Ligue 2
+1132426,Omar Sissoko,2006,Centre-Forward,,right,€100k,Ligue 2
+1081995,Mohamadou Kanté,2005,Central Midfield,,,,Ligue 2
+750878,Obed Nkambadio,2003,Goalkeeper,"1,90 m",right,€3.00m,Ligue 2
+433887,Tuomas Ollila,2000,Left-Back,"1,74 m",left,€700k,Ligue 2
+742770,Mohamed Touré,2004,Centre-Forward,"1,86 m",right,€700k,Ligue 2
+874949,Téva Gardies,2001,Goalkeeper,"1,97 m",right,-,Ligue 2
+434358,Sofiane Alakouch,1998,Right-Back,"1,75 m",right,€400k,Ligue 2
+1169057,Coleen Louis,2005,Left-Back,,left,,Ligue 2
+668167,Samir Chergui,1999,Centre-Back,"1,85 m",right,€800k,Ligue 2
+1039196,Gabriel Oualengbe,2004,Central Midfield,"1,88 m",left,€50k,Ligue 2
+173750,Nouha Dicko,1992,Centre-Forward,"1,73 m",right,€400k,Ligue 2
+659514,Sadio Dembélé,2003,Centre-Back,"1,96 m",right,,Ligue 2
+739769,Ilan Kebbal,1998,Attacking Midfield,"1,69 m",left,€3.00m,Ligue 2
+234187,Ivan Filipovic,1994,Goalkeeper,"1,97 m",right,€300k,Ligue 2
+855016,Florian Pannafit,2002,Right Winger,,,-,Ligue 2
+1034853,Nobel Mendy,2004,Centre-Back,"1,87 m",left,€1.00m,Ligue 2
+798893,Andy Pembélé,2000,Right Winger,"1,80 m",right,€100k,Ligue 2
+449590,Josias Lukembila,1999,Left Winger,"1,81 m",left,€600k,Ligue 2
+18940,Rémy Riou,1987,Goalkeeper,"1,91 m",right,€150k,Ligue 2
+503740,Kouadio-Yves Dabila,1997,Centre-Back,"1,84 m",right,€700k,Ligue 2
+743524,Lenny Pirringuel,2004,Central Midfield,"1,70 m",right,€100k,Ligue 2
+540693,Emeric Depussay,2001,Defensive Midfield,"1,78 m",right,-,Ligue 2
+1061975,Mathias de Amorim,2004,Central Midfield,"1,78 m",right,€400k,Ligue 2
+1038067,Julien Vetro,2004,Left Winger,"1,78 m",left,€250k,Ligue 2
+1084213,Enzo Grothe,2005,Right Winger,,,,Ligue 2
+159838,Yoann Barbet,1993,Centre-Back,"1,87 m",left,€1.20m,Ligue 2
+678845,Joss Marques,2004,Defensive Midfield,,,,Ligue 2
+506942,Zan Vipotnik,2002,Centre-Forward,"1,85 m",both,€2.50m,Ligue 2
+376082,Danylo Ignatenko,1997,Central Midfield,"1,90 m",right,€1.50m,Ligue 2
+318520,Clément Michelin,1997,Right-Back,"1,79 m",right,€1.50m,Ligue 2
+1041958,Marvin De Lima,2004,Left Winger,"1,64 m",left,€250k,Ligue 2
+475412,Jean Marcelin,2000,Centre-Back,"1,97 m",right,€1.00m,Ligue 2
+363057,Pedro Díaz,1998,Central Midfield,"1,80 m",right,€2.00m,Ligue 2
+1047099,Alpha Diallo,2006,Attacking Midfield,,,,Ligue 2
+879963,Yohan Cassubie,2000,Defensive Midfield,"1,84 m",right,€500k,Ligue 2
+324806,Jérémy Livolant,1998,Left Winger,"1,75 m",right,€1.00m,Ligue 2
+1117722,Alane Bedfian,2005,Goalkeeper,"1,85 m",,-,Ligue 2
+970364,Yaël Mouanga,2005,Centre-Back,"1,83 m",,€100k,Ligue 2
+281319,Alberth Elis,1996,Right Winger,"1,85 m",right,€1.00m,Ligue 2
+479589,Aliou Badji,1997,Centre-Forward,"1,90 m",right,€1.00m,Ligue 2
+447343,Rafal Straczek,1999,Goalkeeper,"1,89 m",right,€250k,Ligue 2
+427572,Zuriko Davitashvili,2001,Right Winger,"1,75 m",right,€8.00m,Ligue 2
+230140,Stian Gregersen,1995,Centre-Back,"1,91 m",right,€2.00m,Ligue 2
+547822,Alexi Pitu,2002,Left Winger,"1,80 m",right,€700k,Ligue 2
+203761,Vital Nsimba,1993,Left-Back,"1,69 m",left,€800k,Ligue 2
+970279,Jacques Ekomié,2003,Left-Back,"1,79 m",right,€800k,Ligue 2
+1063990,Grégoire Swiderski,2005,Goalkeeper,"1,87 m",right,€100k,Ligue 2
+112822,Karl-Johan Johnsson,1990,Goalkeeper,"1,88 m",right,€400k,Ligue 2
+1071957,Émilien Makagni,2004,Central Midfield,,,€25k,Ligue 2
+740674,Issouf Sissokho,2002,Defensive Midfield,"1,74 m",right,€800k,Ligue 2
+540641,Davy Rouyard,1999,Goalkeeper,"1,94 m",right,€50k,Ligue 2
+347958,Gaétan Weissbeck,1997,Attacking Midfield,"1,77 m",right,€1.30m,Ligue 2
+1075579,Mathys Angély,2007,Centre-Back,"1,90 m",left,€600k,Ligue 2
+1119868,Jean Grillot,2005,Centre-Back,"1,81 m",right,,Ligue 2
+1005242,David Tebili,2005,Centre-Forward,"1,83 m",right,-,Ligue 2
+1130251,Nfansu Njie,2005,Centre-Forward,,,€50k,Ligue 2
+647787,Malcom Bokele,2000,Centre-Back,"1,89 m",right,€2.10m,Ligue 2
+1071956,Emmanuel Biumla,2005,Centre-Back,"1,85 m",right,€2.00m,Ligue 2
+461790,Louis Mafouta,1994,Centre-Forward,"1,81 m",,€1.50m,Ligue 2
+102744,Sébastien Corchia,1990,Right-Back,"1,76 m",right,€500k,Ligue 2
+493674,Jack Lahne,2001,Centre-Forward,"1,74 m",right,€300k,Ligue 2
+704436,Youssouf Assogba,2001,Right-Back,"1,75 m",right,-,Ligue 2
+1004827,Brunnel Tutuana,2004,Right-Back,"1,85 m",right,,Ligue 2
+288237,Jérémy Gélin,1997,Defensive Midfield,"1,83 m",right,€900k,Ligue 2
+612143,Kylian Kaïboue,1998,Defensive Midfield,"1,79 m",left,€1.00m,Ligue 2
+1001787,Mactar Tine,2002,Central Midfield,"1,78 m",,€50k,Ligue 2
+39918,Régis Gurtner,1986,Goalkeeper,"1,82 m",right,€200k,Ligue 2
+74297,Gaël Kakuta,1991,Attacking Midfield,"1,73 m",left,€1.00m,Ligue 2
+473201,Frank Boya,1996,Defensive Midfield,"1,95 m",right,€900k,Ligue 2
+1001788,Ibrahim Fofana,2003,Defensive Midfield,"1,78 m",,€100k,Ligue 2
+640735,Abdoul Tapsoba,2001,Centre-Forward,"1,80 m",right,€300k,Ligue 2
+860051,Ayoub Amraoui,2004,Left-Back,"1,84 m",left,€1.00m,Ligue 2
+954090,Rayan Lutin,2003,Attacking Midfield,"1,70 m",left,€500k,Ligue 2
+1001785,Yvan Ikia Dimi,2004,Right Winger,"1,75 m",,€150k,Ligue 2
+947362,Owen Gene,2003,Central Midfield,"1,85 m",right,€1.20m,Ligue 2
+467486,Antoine Leautey,1996,Right Winger,"1,72 m",left,€1.50m,Ligue 2
+1004830,Matis Wessner,2004,Attack,,,,Ligue 2
+1001786,Siriky Diabaté,2002,Centre-Back,"1,92 m",left,€150k,Ligue 2
+262709,Sebastian Ring,1995,Left-Back,"1,78 m",left,€300k,Ligue 2
+526784,Amadou Ciss,1999,Left Winger,"1,86 m",right,€400k,Ligue 2
+536472,Abdourahmane Barry,2000,Centre-Back,"1,85 m",right,€50k,Ligue 2
+654540,Matthieu Rongier,2002,Goalkeeper,"1,85 m",right,-,Ligue 2
+844299,Mohamed Jaouab,2002,Centre-Back,"1,90 m",right,€500k,Ligue 2
+724446,Ayman Ouhatti,2001,Defensive Midfield,"1,80 m",right,€150k,Ligue 2
+830494,Charbel Gomez,2001,Left Winger,"1,84 m",right,€50k,Ligue 2
+1004829,Mathis Touho,2004,Left Winger,"1,85 m",right,€100k,Ligue 2
+947360,Kassoum Ouattara,2004,Left-Back,"1,76 m",left,€8.00m,Ligue 2
+708078,Josué Chibozo,2003,Second Striker,"1,75 m",right,€200k,Ligue 2
+1172908,Amine Chabane,2006,Centre-Back,"1,83 m",right,,Ligue 2
+1001784,Anis Ouchouache,2004,Centre-Back,,,,Ligue 2
+48066,Andy Carroll,1989,Centre-Forward,"1,94 m",left,-,Ligue 2
+402004,Mamadou Fofana,1998,Centre-Back,"1,86 m",both,€1.80m,Ligue 2
+491738,Osaze Urhoghide,2000,Centre-Back,"1,88 m",right,€600k,Ligue 2
+355641,Mounir Chouiar,1999,Left Winger,"1,77 m",right,€3.00m,Ligue 2
+315930,Maxime Do Couto,1996,Left Winger,"1,73 m",right,€400k,Ligue 2
+563734,Mamadou Fofana,2000,Central Midfield,"1,77 m",right,€700k,Ligue 2
+1053413,Michael Mortume,2005,Left Winger,"1,77 m",right,,Ligue 2
+674015,Hugo Chambon,1996,Centre-Forward,"1,87 m",right,-,Ligue 2
+986258,Siaka Bakayoko,2005,Centre-Back,"1,88 m",,€300k,Ligue 2
+1248495,Messy Manitu,2006,Attacking Midfield,"1,77 m",left,€50k,Ligue 2
+396516,Nicholas Opoku,1997,Centre-Back,"1,90 m",right,€1.30m,Ligue 2
+191188,Alexis Sauvage,1991,Goalkeeper,"1,86 m",right,€100k,Ligue 2
+412092,Gaëtan Paquiez,1994,Right-Back,"1,82 m",right,€450k,Ligue 2
+314862,Bobby Allain,1991,Goalkeeper,"1,85 m",right,€150k,Ligue 2
+871382,Bachirou Yaméogo,2004,Defensive Midfield,"1,92 m",,-,Ligue 2
+693637,Pape Meïssa Ba,1997,Centre-Forward,"1,87 m",right,€1.00m,Ligue 2
+281611,Adrien Monfray,1990,Centre-Back,"1,85 m",right,€300k,Ligue 2
+456467,Mamadou Diarra,1997,Centre-Back,"1,84 m",right,€900k,Ligue 2
+332047,Jessy Benet,1995,Central Midfield,"1,86 m",right,€800k,Ligue 2
+1204741,Livty Kpolo,2002,Attack,,,,Ligue 2
+276768,Nolan Mbemba,1995,Defensive Midfield,"1,81 m",right,€400k,Ligue 2
+314974,Dante Rigo,1998,Defensive Midfield,"1,80 m",right,€900k,Ligue 2
+78047,Brice Maubleu,1989,Goalkeeper,"1,92 m",right,€300k,Ligue 2
+694402,Saikou Touray,2000,Central Midfield,"1,75 m",right,€300k,Ligue 2
+66490,Loïc Nestor,1989,Centre-Back,"1,79 m",right,€150k,Ligue 2
+536519,Virgiliu Postolachi,2000,Centre-Forward,"1,88 m",right,€600k,Ligue 2
+693358,Thio Ntolla,1999,Left Winger,"1,85 m",left,€250k,Ligue 2
+341396,Théo Valls,1995,Central Midfield,"1,78 m",left,€800k,Ligue 2
+465294,Allan Tchaptchet,2001,Centre-Back,"1,93 m",,€800k,Ligue 2
+487272,Abiezer Jeno,2000,Defensive Midfield,"1,83 m",,€250k,Ligue 2
+815359,Lenny Joseph,2000,Right Winger,"1,83 m",right,€700k,Ligue 2
+629566,Eddy Sylvestre,1999,Central Midfield,"1,73 m",left,€400k,Ligue 2
+1041959,Baptiste Isola,2001,Central Midfield,,,€50k,Ligue 2
+851220,Amine Sbaï,2000,Left Winger,"1,75 m",right,€700k,Ligue 2
+971950,Lamine Jarjou,2002,Right Winger,"1,73 m",left,€100k,Ligue 2
+744936,Matthéo Xantippe,2002,Left-Back,"1,83 m",left,€250k,Ligue 2
+536506,Mathys Tourraine,2001,Right-Back,"1,72 m",right,€1.00m,Ligue 2
+975729,Efe Sarıkaya,2005,Centre-Back,"1,85 m",left,€300k,Ligue 2
+917147,Mamadou Diop,2000,Goalkeeper,"2,04 m",,€400k,Ligue 2
+422715,Arial Mendy,1994,Left-Back,"1,80 m",left,€500k,Ligue 2
+166630,Manuel Perez,1991,Defensive Midfield,"1,82 m",right,-,Ligue 2
+693906,Abdoulie Sanyang,1999,Right Winger,"1,73 m",left,€700k,Ligue 2
+407624,Quentin Daubin,1995,Central Midfield,"1,83 m",right,€375k,Ligue 2
+802997,Norman Bassette,2004,Centre-Forward,"1,86 m",left,€2.00m,Ligue 2
+926389,Noé Lebreton,2004,Defensive Midfield,"1,78 m",right,€1.50m,Ligue 2
+789094,Bilal Brahimi,2000,Attacking Midfield,"1,77 m",left,€1.50m,Ligue 2
+651973,Godson Kyeremeh,2000,Right Winger,"1,75 m",right,€1.00m,Ligue 2
+955448,Tidiam Gomis,2006,Left Winger,"1,83 m",right,€3.00m,Ligue 2
+138171,Mathias Autret,1991,Attacking Midfield,"1,79 m",right,€300k,Ligue 2
+57467,Romain Thomas,1988,Centre-Back,"1,93 m",left,€200k,Ligue 2
+768439,Daylam Meddah,2002,Centre-Back,"1,87 m",right,€300k,Ligue 2
+139018,Mickaël Le Bihan,1990,Centre-Forward,"1,84 m",right,€200k,Ligue 2
+980576,Amine Salama,2000,Centre-Forward,"1,92 m",right,€1.80m,Ligue 2
+290559,Anthony Mandréa,1996,Goalkeeper,"1,86 m",right,€1.50m,Ligue 2
+290561,Alexandre Mendy,1994,Centre-Forward,"1,84 m",right,€3.50m,Ligue 2
+693357,Hugo Vandermersch,1999,Right-Back,"1,80 m",right,€1.50m,Ligue 2
+937054,Mohamed Hafid,2004,Attacking Midfield,,,€100k,Ligue 2
+617699,Caleb Zady Sery,1999,Left Winger,"1,77 m",both,€1.80m,Ligue 2
+684062,Hianga'a Mbock,1999,Central Midfield,"1,86 m",right,€500k,Ligue 2
+354335,Djibril Diani,1998,Defensive Midfield,"1,95 m",left,€600k,Ligue 2
+353981,Valentin Henry,1993,Right-Back,"1,80 m",right,€500k,Ligue 2
+86055,Parfait Mandanda,1989,Goalkeeper,"1,82 m",,€25k,Ligue 2
+211474,Ali Abdi,1993,Left-Back,"1,83 m",left,€3.00m,Ligue 2
+133078,Syam Ben Youssef,1989,Centre-Back,"1,89 m",right,-,Ligue 2
+868793,Dieudonné Gaucho Debohi,2001,Defensive Midfield,"1,85 m",right,€800k,Ligue 2
+89450,Alexandre Coeff,1992,Centre-Back,"1,85 m",right,€275k,Ligue 2
+60525,Yoann Court,1990,Left Winger,"1,72 m",left,€225k,Ligue 2
+926385,Diabé Bolumbu,2004,Left-Back,"1,80 m",left,€400k,Ligue 2
+549318,Yannis Clémentia,1997,Goalkeeper,"1,88 m",right,€300k,Ligue 2
+743517,Brahim Traoré,2004,Centre-Back,"1,91 m",both,€3.50m,Ligue 2
+391376,Lamine Fomba,1998,Defensive Midfield,"1,88 m",right,€1.00m,Ligue 2
+735700,Maxence Rivera,2002,Left Winger,"1,68 m",right,€1.00m,Ligue 2
+580747,Yvann Maçon,1998,Right-Back,"1,76 m",right,€2.00m,Ligue 2
+57134,Matthieu Dreyer,1989,Goalkeeper,"1,88 m",right,€100k,Ligue 2
+836132,Boubacar Fall,2001,Goalkeeper,"1,98 m",left,€100k,Ligue 2
+111038,Dennis Appiah,1992,Right-Back,"1,79 m",right,€900k,Ligue 2
+783094,Benjamin Bouchouari,2001,Central Midfield,"1,65 m",right,€3.00m,Ligue 2
+1080215,Cheikh Fall,2004,Attacking Midfield,,,€50k,Ligue 2
+696849,Etienne Green,2000,Goalkeeper,"1,91 m",right,€700k,Ligue 2
+364232,Ibrahima Wadji,1995,Centre-Forward,"1,75 m",right,€800k,Ligue 2
+357047,Gautier Larsonneur,1997,Goalkeeper,"1,81 m",right,€3.50m,Ligue 2
+508941,Dylan Chambost,1997,Attacking Midfield,"1,77 m",left,€2.00m,Ligue 2
+428954,Stéphane Diarra,1998,Right Winger,"1,73 m",left,€1.00m,Ligue 2
+855607,Bryan Nokoue,2002,Right-Back,"1,80 m",right,€50k,Ligue 2
+1010854,Mathis Amougou,2006,Central Midfield,"1,77 m",right,€5.00m,Ligue 2
+1052283,Darling Bladi,2004,Left-Back,"1,64 m",left,€300k,Ligue 2
+807128,Saïdou Sow,2002,Centre-Back,"1,87 m",right,€6.00m,Ligue 2
+1052288,Karim Cissé,2004,Attacking Midfield,"1,75 m",right,€150k,Ligue 2
+947069,El Hadji Dieye,2002,Right Winger,,right,€100k,Ligue 2
+494586,Mickaël Nade,1999,Centre-Back,"1,93 m",left,€1.50m,Ligue 2
+592358,Victor Lobry,1995,Attacking Midfield,"1,81 m",left,€600k,Ligue 2
+1080176,Enzo Mayilla,2006,Attack,,,,Ligue 2
+840920,Mahmoud Bentayg,1999,Left-Back,"1,81 m",left,€400k,Ligue 2
+289432,Dylan Batubinsika,1996,Centre-Back,"1,85 m",right,€2.50m,Ligue 2
+484992,Aïmen Moueffek,2001,Central Midfield,"1,79 m",right,€2.50m,Ligue 2
+399383,Mathieu Cafaro,1997,Right Winger,"1,75 m",right,€2.00m,Ligue 2
+1052291,Beres Owusu,2003,Centre-Back,"1,85 m",right,€150k,Ligue 2
+342226,Irvin Cardona,1997,Centre-Forward,"1,85 m",right,€2.00m,Ligue 2
+1052290,Antoine Gauthier,2004,Attacking Midfield,"1,75 m",,-,Ligue 2
+883866,Issiaka Touré,2004,Goalkeeper,"1,94 m",,,Ligue 2
+782632,Jibril Othman,2004,Centre-Forward,"1,83 m",,€50k,Ligue 2
+190338,Anthony Briançon,1994,Centre-Back,"1,85 m",right,€800k,Ligue 2
+484888,Ibrahim Sissoko,1995,Centre-Forward,"1,92 m",right,€2.50m,Ligue 2
+127182,Thomas Monconduit,1991,Defensive Midfield,"1,84 m",right,€300k,Ligue 2
+557614,Nathanaël Mbuku,2002,Left Winger,"1,70 m",left,€2.00m,Ligue 2
+412829,Léo Pétrot,1997,Left-Back,"1,88 m",left,€1.00m,Ligue 2
+591193,Niels Nkounkou,2000,Left-Back,"1,80 m",left,€6.00m,Ligue 2
+229012,Kenji-Van Boto,1996,Left-Back,"1,83 m",left,€500k,Ligue 2
+1076805,Wills Tene Nkingne,2003,Left-Back,"1,75 m",left,€400k,Ligue 2
+51540,Henri Saivet,1990,Attacking Midfield,"1,75 m",right,€400k,Ligue 2
+796913,Noé Sow,1998,Centre-Back,"1,91 m",right,€500k,Ligue 2
+343958,Jovan Nisic,1998,Central Midfield,"1,77 m",right,€800k,Ligue 2
+904662,Louis Mouton,2002,Defensive Midfield,"1,80 m",right,€800k,Ligue 2
+910176,Thérence Koudou,2004,Right-Back,"1,78 m",right,€1.00m,Ligue 2
+254358,Johann Obiang,1993,Left-Back,"1,70 m",left,€300k,Ligue 2
+468246,Steeve Beusnard,1992,Central Midfield,"1,70 m",left,€400k,Ligue 2
+132587,Xavier Kouassi,1989,Centre-Back,"1,73 m",right,€200k,Ligue 2
+1086564,Pape Massar Djitté,2003,Right Winger,"1,75 m",left,-,Ligue 2
+77003,Tino Costa,1985,Central Midfield,"1,76 m",left,-,Ligue 2
+231941,Khalid Boutaïb,1987,Centre-Forward,"1,89 m",right,€175k,Ligue 2
+808840,Sonny Degert,2000,Centre-Forward,"1,75 m",right,-,Ligue 2
+528470,Ousmane Kanté,1989,Centre-Back,"1,82 m",right,€200k,Ligue 2
+805065,Iyad Mohamed,2001,Defensive Midfield,"1,91 m",left,€600k,Ligue 2
+1104405,Tom Gomes,2004,Central Midfield,"1,70 m",right,,Ligue 2
+353395,Jordy Gaspar,1997,Right-Back,"1,79 m",right,€800k,Ligue 2
+1052867,Yonis Njoh,2004,Centre-Forward,"1,85 m",right,€200k,Ligue 2
+195162,Mayron George,1993,Centre-Forward,"1,89 m",right,€400k,Ligue 2
+345067,Jean Ruiz,1998,Centre-Back,"1,88 m",left,€900k,Ligue 2
+913674,Marius Ros,2001,Right-Back,"1,75 m",right,-,Ligue 2
+291111,Sessi D'Almeida,1995,Defensive Midfield,"1,78 m",right,€450k,Ligue 2
+770799,Adel Lembezat,1998,Attacking Midfield,"1,77 m",right,€50k,Ligue 2
+333175,Bingourou Kamara,1996,Goalkeeper,"1,95 m",right,€800k,Ligue 2
+980575,Oumar Ngom,2004,Central Midfield,"1,84 m",right,€350k,Ligue 2
+460655,Moussa Sylla,1999,Centre-Forward,"1,80 m",right,€3.00m,Ligue 2
+391377,Mons Bassouamina,1998,Centre-Forward,"1,72 m",right,€700k,Ligue 2
+1004503,Thomas Colléaux,2005,Defensive Midfield,"1,78 m",right,€100k,Ligue 2
+847257,Ange Ahoussou,2003,Centre-Back,"1,94 m",left,€1.00m,Ligue 2
+695646,Charles Boli,1998,Right Winger,"1,75 m",left,€300k,Ligue 2
+569376,Yanis Begraoui,2001,Centre-Forward,"1,79 m",both,€900k,Ligue 2
+191882,Mehdi Jeannin,1991,Goalkeeper,"1,87 m",right,€150k,Ligue 2
+893365,Quentin Galvez-Diarra,2001,Goalkeeper,"1,87 m",right,-,Ligue 2
+358509,Mehdi Chahiri,1996,Left Winger,"1,80 m",right,€350k,Ligue 2
+335146,Antoine Batisse,1995,Centre-Back,"1,86 m",right,€400k,Ligue 2
+543720,Evans Jean-Lambert,1998,Left-Back,"1,80 m",left,€300k,Ligue 2
+634896,Loïck Lespinasse,2000,Centre-Forward,"1,82 m",right,€50k,Ligue 2
+395228,Till Cissokho,2000,Centre-Back,"2,00 m",left,€800k,Ligue 2
+976775,Vénuste Baboula,1998,Left Winger,"1,80 m",,€100k,Ligue 2
+568702,Papa Ndiaga Yade,2000,Left Winger,"1,85 m",left,€650k,Ligue 2
+184935,Kalifa Coulibaly,1991,Centre-Forward,"1,97 m",right,€300k,Ligue 2
+124901,Benjamin Leroy,1989,Goalkeeper,"1,84 m",right,€200k,Ligue 2
+288248,Denis-Will Poha,1997,Central Midfield,"1,74 m",right,€400k,Ligue 2
+817935,Adel Anzimati-Aboudou,2001,Goalkeeper,"1,94 m",right,-,Ligue 2
+569386,Logan Delaurier-Chaubet,2002,Right Winger,"1,73 m",left,€500k,Ligue 2
+272639,Jason Pendant,1997,Left-Back,"1,77 m",left,€500k,Ligue 2
+648886,Samuel Loric,2000,Left-Back,"1,83 m",left,€600k,Ligue 2
+642002,Balthazar Pierret,2000,Defensive Midfield,"1,86 m",left,€1.00m,Ligue 2
+641152,Gustavo Sangaré,1996,Defensive Midfield,"1,80 m",left,€700k,Ligue 2
+569372,Samy El Khiar,2001,Attacking Midfield,"1,75 m",right,€25k,Ligue 2
+276895,Steven Fortes,1992,Centre-Back,"1,92 m",right,€200k,Ligue 2
+618465,Kayne Bonnevie,2001,Goalkeeper,"1,91 m",left,€250k,Ligue 2
+704270,Sambou Soumano,2001,Centre-Forward,"1,82 m",right,€2.00m,Ligue 2
+941165,Antoine Aubry,2002,Defensive Midfield,,,,Ligue 2
+629585,Kalidou Sidibé,1999,Defensive Midfield,"2,02 m",right,€1.00m,Ligue 2
+691958,Noah Cadiou,1998,Central Midfield,"1,91 m",right,€1.00m,Ligue 2
+847308,Pape Ousmane Sakho,1996,Left Winger,"1,73 m",right,€125k,Ligue 2
+796863,Robin Legendre,2002,Centre-Forward,"1,78 m",right,-,Ligue 2
+594992,Alpha Sissoko,1997,Right-Back,"1,78 m",right,€1.00m,Ligue 2
+922496,Nadjib Cissé,2000,Centre-Back,"1,85 m",,€350k,Ligue 2
+524988,Yohan Roche,1997,Centre-Back,"1,88 m",right,€250k,Ligue 2
+33906,Alexandre Bonnet,1986,Left Midfield,"1,73 m",left,€50k,Ligue 2
+351772,Garland Gbellé,1992,Attacking Midfield,"1,79 m",right,€300k,Ligue 2
+857148,Mamadou Camara,2001,Right Winger,"1,84 m",right,€800k,Ligue 2
+768381,Benjamin Capron-Litique,2000,Defensive Midfield,"1,83 m",right,€50k,Ligue 2
+811431,Théo Pionnier-Bertrand,2002,Centre-Back,"1,83 m",,€75k,Ligue 2
+783635,Alan Do Marcolino,2002,Centre-Forward,"1,94 m",right,€150k,Ligue 2
+1053139,Adrien Antunes,2002,Midfield,,,,Ligue 2
+768579,Arsène Courel,2004,Goalkeeper,"1,91 m",right,€25k,Ligue 2
+371148,Lenny Vallier,1999,Left-Back,"1,78 m",left,€500k,Ligue 2
+806043,Matthis Riou,2001,Centre-Back,"1,81 m",right,€600k,Ligue 2
+796894,Sabri Guendouz,2000,Left Winger,"1,80 m",both,€100k,Ligue 2
+1004498,Noah Marec,2004,Goalkeeper,"1,93 m",right,-,Ligue 2
+159907,Jonathan Iglesias,1988,Central Midfield,"1,70 m",right,€100k,Ligue 2
+562576,Donatien Gomis,1994,Centre-Back,"1,88 m",right,€500k,Ligue 2
+291415,Dylan Louiserre,1995,Defensive Midfield,"1,73 m",right,€1.20m,Ligue 2
+804933,Jacques Siwe,2001,Centre-Forward,"1,87 m",right,€1.00m,Ligue 2
+249446,Ayman Ben Mohamed,1994,Left-Back,"1,76 m",left,€350k,Ligue 2
+735051,Amine El Ouazzani,2001,Centre-Forward,"1,88 m",left,€3.50m,Ligue 2
+452877,Mehdi Merghem,1997,Right Winger,"1,85 m",left,€500k,Ligue 2
+580715,Maxime Sivis,1998,Right-Back,"1,80 m",right,€700k,Ligue 2
+232854,Abdallah Ndour,1993,Left-Back,"1,86 m",left,€500k,Ligue 2
+629587,Teddy Bartouche-Selbonne,1997,Goalkeeper,"1,78 m",right,€50k,Ligue 2
+176573,Babacar Niasse,1996,Goalkeeper,"1,96 m",right,€250k,Ligue 2
+170477,Pierre Lemonnier,1993,Centre-Back,"1,84 m",right,€500k,Ligue 2
+944181,Hugo Picard,2003,Left Midfield,"1,68 m",right,€1.50m,Ligue 2
+796882,Hady Camara,2002,Centre-Back,"1,90 m",right,€100k,Ligue 2
+649025,Amadou Sagna,1999,Left Winger,"1,72 m",right,€800k,Ligue 2
+796885,Théo Le Normand,2000,Central Midfield,"1,80 m",,€150k,Ligue 2
+112022,Maxime Barthelmé,1988,Left Midfield,"1,72 m",left,€100k,Ligue 2
+510260,Taylor Luvambo,1999,Right Winger,"1,80 m",right,€200k,Ligue 2
+264567,Baptiste Guillaume,1995,Centre-Forward,"1,89 m",right,€800k,Ligue 2
+242716,Enzo Basilio,1994,Goalkeeper,"1,87 m",right,€800k,Ligue 2
+83132,Vincent Manceau,1989,Right-Back,"1,76 m",right,-,Ligue 2
+796895,Baptiste Roux,1999,Centre-Back,"1,90 m",left,€800k,Ligue 2
+536473,Lucas Maronnier,2000,Right-Back,"1,72 m",right,€300k,Ligue 2
+525114,Ugo Bonnet,1993,Centre-Forward,"1,80 m",right,€300k,Ligue 2
+966312,Sohaib Naïr,2002,Centre-Back,"1,86 m",right,€300k,Ligue 2
+253316,Lebogang Phiri,1994,Central Midfield,"1,73 m",right,€150k,Ligue 2
+635486,Allan Linguet,1999,Right-Back,"1,76 m",right,€500k,Ligue 2
+1063609,Tidyane Diagouraga,2003,Defensive Midfield,"1,80 m",,€100k,Ligue 2
+911990,Ilyes Hamache,2003,Left Winger,"1,78 m",right,€550k,Ligue 2
+846062,Gabin Blancquart,2004,Centre-Back,"1,92 m",right,€200k,Ligue 2
+893870,Yassine Haouari,2003,Centre-Forward,"1,89 m",right,€50k,Ligue 2
+149237,Anthony Knockaert,1991,Right Winger,"1,72 m",left,-,Ligue 2
+589950,Ilario de Clemente,2000,Goalkeeper,"1,91 m",right,-,Ligue 2
+344519,Bruno Costa,1997,Central Midfield,"1,74 m",right,€500k,Ligue 2
+632082,Naim Van Attenhoven,2003,Goalkeeper,"1,87 m",left,-,Ligue 2
+409485,Sacha Bansé,2001,Defensive Midfield,"1,80 m",right,€650k,Ligue 2
+569654,David Kruse,2002,Central Midfield,"1,84 m",right,€500k,Ligue 2
+422986,Halid Sabanovic,1999,Right-Back,"1,82 m",right,€200k,Ligue 2
+954517,Marvyn Vialaneix,2001,Left-Back,,,,Ligue 2
+392282,Jean Louchet,1996,Goalkeeper,"1,92 m",right,€400k,Ligue 2
+1191154,Ibrahima Ba,2005,Centre-Back,"1,90 m",right,€100k,Ligue 2
+948786,Sofiane Boudraa,2003,Right Midfield,"1,78 m",right,€100k,Ligue 2
+357701,Marius Noubissi,1996,Centre-Forward,"1,80 m",right,€450k,Ligue 2
+109720,Joffrey Cuffaut,1988,Right-Back,"1,80 m",right,€200k,Ligue 2
+306191,Jason Berthomier,1990,Attacking Midfield,"1,77 m",left,€200k,Ligue 2
+607249,Mathias Oyewusi,1999,Centre-Forward,"1,83 m",right,€600k,Ligue 2
+1143375,Foe Ondoa,2005,Central Midfield,"1,83 m",right,€400k,Ligue 2
+1111045,Souleymane Basse,2003,Left-Back,"1,82 m",left,€400k,Ligue 2
+863782,Jean-Éric Moursou,2004,Defensive Midfield,"1,83 m",right,€150k,Ligue 2
+798972,Issouf Macalou,1998,Right Winger,"1,87 m",left,€200k,Ligue 2
+494315,Julien Masson,1998,Defensive Midfield,"1,78 m",right,€500k,Ligue 2
+399553,Andrew Jung,1997,Centre-Forward,"1,92 m",right,€350k,Ligue 2
+1005071,Eyram Viegbe,2004,Defensive Midfield,"1,78 m",right,-,Ligue 2
+795450,Jawed Kalai,2000,Right Winger,"1,80 m",left,-,Ligue 2
+911328,Mohamed Kaba,2001,Central Midfield,"1,85 m",right,€3.50m,Ligue 2
+986286,Ismaïl Bouneb,2006,Attacking Midfield,"1,82 m",right,€50k,Ligue 2
+731072,Jordan Poha,2003,Centre-Back,"2,02 m",right,€400k,Ligue 2
+730580,Aymen Boutoutaou,2001,Right Winger,"1,74 m",right,€600k,Ligue 2
+802747,Siriné Doucouré,2002,Centre-Forward,"1,95 m",right,€900k,Ligue 2
+949118,Ibrahima Diallo,2003,Left Winger,"1,73 m",right,-,Ligue 2
+420187,Nick Venema,1999,Centre-Forward,"1,81 m",right,€250k,Ligue 2
+221766,Lucas Woudenberg,1994,Left-Back,"1,86 m",left,€300k,Ligue 2
+1005073,Tanguy Lienard,2005,Right-Back,"1,77 m",right,€100k,Ligue 2
+314280,Taylor Moore,1997,Centre-Back,"1,84 m",right,€350k,Ligue 2
+986298,Joachim Kayi Sanda,2006,Centre-Back,"1,86 m",right,€800k,Ligue 2
+1001797,Lassana Diabaté,2003,Goalkeeper,"1,83 m",right,-,Ligue 2
+853132,Makabi Lilepo,1997,Right Winger,"1,85 m",right,€300k,Ligue 2
+465858,Flamarion,1996,Second Striker,"1,71 m",both,€600k,Ligue 2
+1099724,Cheikh Diouf,2003,Centre-Forward,"1,83 m",right,-,Ligue 2
+819474,Guilain Zrankeon,2001,Centre-Back,"1,96 m",left,€75k,Ligue 2
+860054,Yacine El Amri,2004,Right Winger,"1,80 m",right,€50k,Ligue 2
+137313,Jonathan Buatu,1993,Centre-Back,"1,87 m",right,€600k,Ligue 2
+569361,Nassim Innocenti,2002,Centre-Back,"1,87 m",left,€150k,Ligue 2
+939936,Eliot Pasture,2003,Goalkeeper,"1,91 m",right,,Ligue 2
+939964,Jean-Mattéo Bahoya,2005,Left Winger,"1,80 m",right,€7.50m,Ligue 2
+490417,Ibrahima Niane,1999,Centre-Forward,"1,87 m",right,€1.50m,Ligue 2
+192492,Jordan Lefort,1993,Centre-Back,"1,84 m",left,€1.20m,Ligue 2
+920217,Noah Ndeke,2003,Left Midfield,"1,69 m",right,-,Ligue 2
+203507,Adrien Hunou,1994,Centre-Forward,"1,79 m",right,€500k,Ligue 2
+650104,Zinédine Ould Khaled,2000,Defensive Midfield,"1,95 m",right,€300k,Ligue 2
+1086168,Demba N'Diaye,2005,Centre-Back,,right,,Ligue 2
+111811,Florent Hanin,1990,Left-Back,"1,77 m",left,€350k,Ligue 2
+548347,Melvin Zinga,2002,Goalkeeper,"1,87 m",left,€150k,Ligue 2
+807688,Yassin Belkhdim,2002,Central Midfield,"1,75 m",right,€800k,Ligue 2
+418651,Yahia Fofana,2000,Goalkeeper,"1,94 m",right,€4.50m,Ligue 2
+395234,Batista Mendy,2000,Defensive Midfield,"1,91 m",right,€10.00m,Ligue 2
+461607,Estéban Lepaul,2000,Centre-Forward,"1,77 m",right,€700k,Ligue 2
+126552,Loïs Diony,1992,Centre-Forward,"1,83 m",right,€1.80m,Ligue 2
+855160,Guédé Nadje,2003,Centre-Forward,"1,84 m",right,€50k,Ligue 2
+804711,Ousmane Camara,2003,Centre-Back,"1,97 m",right,€500k,Ligue 2
+986288,Sidiki Chérif,2006,Centre-Forward,"1,85 m",,€1.00m,Ligue 2
+1073176,Oumar Pona,2006,Goalkeeper,"1,89 m",right,,Ligue 2
+204585,Joseph Lopy,1992,Central Midfield,"1,81 m",right,€400k,Ligue 2
+829874,Lilian Raolisoa,2000,Right-Back,"1,78 m",right,€700k,Ligue 2
+743520,Yacine Gaya,2004,Centre-Back,"1,94 m",left,-,Ligue 2
+1075575,Marius Courcoul,2007,Centre-Back,"1,82 m",right,€50k,Ligue 2
+406008,Yan Valery,1999,Right-Back,"1,85 m",right,€1.00m,Ligue 2
+1101641,Justin-Noël Kalumba,2004,Right Winger,"1,71 m",right,€600k,Ligue 2
+592979,Himad Abdelli,1999,Attacking Midfield,"1,85 m",right,€5.00m,Ligue 2
+707225,Noah Fatar,2002,Right Winger,"1,70 m",left,€400k,Ligue 2
+198709,Cédric Hountondji,1994,Centre-Back,"1,94 m",right,€1.50m,Ligue 2
+214532,Pierrick Capelle,1987,Central Midfield,"1,81 m",left,€200k,Ligue 2
+62351,Abdoulaye Bamba,1990,Centre-Back,"1,82 m",right,€350k,Ligue 2
+232895,Zinedine Ferhat,1993,Right Winger,"1,80 m",right,€1.20m,Ligue 2
+425400,Farid El Melali,1997,Left Winger,"1,68 m",both,€2.50m,Ligue 2
+947911,Enzo Crombez,2003,Goalkeeper,"1,88 m",right,€50k,Ligue 2
+509044,Lorenzo Rajot,1997,Central Midfield,"1,79 m",left,€500k,Ligue 2
+347595,Clément Depres,1994,Centre-Forward,"1,88 m",right,€400k,Ligue 2
+213030,Éric Vandenabeele,1991,Centre-Back,"1,84 m",right,€200k,Ligue 2
+855056,Taïryk Arconte,2003,Centre-Forward,"1,81 m",,€700k,Ligue 2
+324798,Bradley Danger,1998,Centre-Back,"1,80 m",right,€800k,Ligue 2
+923757,Ewen Jaouen,2005,Goalkeeper,"2,00 m",right,€400k,Ligue 2
+164915,Lionel Mpasi-Nzau,1994,Goalkeeper,"1,82 m",right,€600k,Ligue 2
+169275,Joseph Mendes,1991,Centre-Forward,"1,86 m",right,€100k,Ligue 2
+531960,Lucas Buades,1997,Right Midfield,"1,81 m",right,€500k,Ligue 2
+879750,Yannis Verdier,2003,Left Winger,"1,89 m",both,€100k,Ligue 2
+217684,Jung-bin Park,1994,Left Winger,"1,78 m",,€150k,Ligue 2
+395251,Sébastien Cibois,1998,Goalkeeper,"1,92 m",right,€250k,Ligue 2
+723416,Ahmad Ngouyamsa,2000,Right-Back,"1,76 m",right,€500k,Ligue 2
+525109,Joris Chougrani,1991,Centre-Back,"1,85 m",left,€200k,Ligue 2
+680447,Waniss Taïbi,2002,Attacking Midfield,"1,84 m",both,€1.00m,Ligue 2
+1200640,Arthur Saintorens,2005,Centre-Forward,"1,83 m",right,,Ligue 2
+913323,Raphaël Lipinski,2002,Left-Back,"1,81 m",left,€300k,Ligue 2
+483460,Akim Abdallah,1997,Left-Back,"1,70 m",left,€700k,Ligue 2
+1049151,Dembo Sylla,2002,Right-Back,"1,75 m",right,€500k,Ligue 2
+1081350,Hugo Garie,2004,Defensive Midfield,"1,80 m",left,,Ligue 2
+853491,Killian Corredor,2000,Centre-Forward,"1,82 m",right,€1.80m,Ligue 2
+678660,Grégory Coelho,1999,Right-Back,"1,80 m",right,€100k,Ligue 2
+683891,Serge-Philippe Raux-Yao,1999,Centre-Back,"1,97 m",left,€4.00m,Ligue 2
+704155,Andréas Hountondji,2002,Centre-Forward,"1,90 m",right,€2.80m,Ligue 2
+707317,Antoine Valério,1999,Central Midfield,"1,85 m",left,€250k,Ligue 2
+709727,Kévin Boma,2002,Centre-Back,"1,93 m",right,€900k,Ligue 2
+635103,Giovanni Haag,2000,Defensive Midfield,"1,87 m",right,€1.00m,Ligue 2
+591911,Stone Mambo,1999,Centre-Back,"1,84 m",left,€500k,Ligue 2
+804934,Wilitty Younoussa,2001,Defensive Midfield,"1,74 m",right,€800k,Ligue 2
+1117553,Clément Krzesinski,,Goalkeeper,,,,Ligue 2
+518073,Julien Célestine,1997,Centre-Back,"1,91 m",left,€500k,Ligue 2
+480454,Yanis Merdji,1993,Centre-Forward,"1,72 m",right,-,Ligue 2
+565060,Pape Ibnou Ba,1993,Centre-Forward,"1,77 m",both,€400k,Ligue 2
+78917,Julien Faussurier,1987,Right-Back,"1,73 m",right,-,Ligue 2
+352336,Thibault Sinquin,1992,Defensive Midfield,"1,80 m",right,€150k,Ligue 2
+911392,Pierre Jouan,2002,Central Midfield,"1,71 m",right,€25k,Ligue 2
+288236,Maxime Etuin,1995,Defensive Midfield,"1,75 m",left,€400k,Ligue 2
+504349,Tom Lebeau,1998,Central Midfield,"1,74 m",right,-,Ligue 2
+288247,Maxime Pattier,1996,Goalkeeper,"1,84 m",right,€100k,Ligue 2
+721746,Nassim Chadli,2001,Right Winger,"1,81 m",left,€550k,Ligue 2
+589689,Fahd El Khoumisti,1993,Centre-Forward,"1,80 m",right,€400k,Ligue 2
+612702,Rudy Boulais,2002,Goalkeeper,"1,88 m",right,€25k,Ligue 2
+484743,Gabriel Barès,2000,Defensive Midfield,"1,87 m",left,€400k,Ligue 2
+641438,Romain Sans,1999,Left-Back,"1,76 m",left,€200k,Ligue 2
+189483,Issouf Paro,1994,Centre-Back,"1,84 m",right,€200k,Ligue 2
+364525,Bevic Moussiti-Oko,1995,Centre-Forward,"1,84 m",right,€200k,Ligue 2
+324800,Alec Georgen,1998,Right-Back,"1,72 m",right,€600k,Ligue 2
+785579,Axel Urie,1999,Left Winger,"1,80 m",right,€300k,Ligue 2
+102958,Guillaume Jannez,1989,Centre-Back,"1,96 m",right,€150k,Ligue 2
+469046,Ambroise Gboho,1994,Centre-Forward,"1,76 m",right,€125k,Ligue 2
+323253,Esteban Salles,1994,Goalkeeper,"1,87 m",right,€300k,Ligue 2
+804548,Baptiste Mouazan,2001,Central Midfield,"1,74 m",right,€500k,Ligue 2
+575319,Kandet Diawara,2000,Left Winger,"1,80 m",right,€500k,Ligue 2
+485964,Isaac Matondo,1999,Left Winger,"1,72 m",right,€300k,Ligue 2
+585951,Alexandre Phliponeau,2000,Defensive Midfield,"1,80 m",right,€400k,Ligue 2
+484995,Noha Ndombasi,2001,Centre-Forward,"1,74 m",right,€300k,Ligue 2
+776892,Mamadou Sylla,1995,Centre-Back,"1,85 m",right,€300k,Ligue 2
+170938,Bryan Pelé,1992,Left Midfield,"1,69 m",left,-,Ligue 2
+815655,Clément Rodrigues,2000,Centre-Forward,"1,84 m",right,€500k,Ligue 2
+593479,Abdelwahed Wahib,2000,Left-Back,"1,77 m",left,€350k,Ligue 2
+695422,Théo De Percin,2001,Goalkeeper,"1,85 m",right,€100k,Ligue 2
+372713,Florian Ayé,1997,Centre-Forward,"1,84 m",right,€1.50m,Ligue 2
+344892,Gauthier Hein,1996,Right Winger,"1,70 m",left,€2.50m,Ligue 2
+627363,Nicolas Mercier,2003,Left Winger,"1,74 m",right,€150k,Ligue 2
+806168,Paul Joly,2000,Right-Back,"1,82 m",right,€2.00m,Ligue 2
+569140,Lassine Sinayoko,1999,Left Winger,"1,86 m",right,€3.50m,Ligue 2
+397171,Gideon Mensah,1998,Left-Back,"1,78 m",left,€3.50m,Ligue 2
+427689,Sonny Laiton,2000,Goalkeeper,"1,91 m",right,€100k,Ligue 2
+1042600,Madiou Keita,2004,Centre-Back,"1,89 m",left,€100k,Ligue 2
+170911,Donovan Léon,1992,Goalkeeper,"1,87 m",right,€500k,Ligue 2
+287635,Assane Dioussé,1997,Defensive Midfield,"1,75 m",left,€800k,Ligue 2
+238716,Théo Pellenard,1994,Centre-Back,"1,84 m",left,€800k,Ligue 2
+149928,Jubal,1993,Centre-Back,"1,90 m",right,€2.00m,Ligue 2
+460629,Colin Dagba,1998,Right-Back,"1,70 m",right,€800k,Ligue 2
+556865,Saad Agouzoul,1997,Centre-Back,"1,91 m",left,€500k,Ligue 2
+412934,Eros Maddy,2001,Right Winger,"1,77 m",right,€200k,Ligue 2
+1119338,Rayan Mandengue,2006,Left Winger,,,,Ligue 2
+743523,Nathan Buayi-Kiala,2004,Defensive Midfield,"1,77 m",right,€150k,Ligue 2
+743496,Kévin Danois,2004,Central Midfield,"1,72 m",right,€2.50m,Ligue 2
+344576,Rayan Raveloson,1997,Central Midfield,"1,82 m",right,€2.00m,Ligue 2
+306166,Nuno Da Costa,1991,Centre-Forward,"1,84 m",right,€650k,Ligue 2
+855215,Ange Loïc N'Gatta,2003,Right-Back,"1,75 m",right,€100k,Ligue 2
+1016807,Neil Glossoa,2004,Defensive Midfield,,right,,Ligue 2
+419996,Raphaël Adiceam,1990,Goalkeeper,"1,79 m",left,€50k,Ligue 2
+308133,Ado Onaiwu,1995,Centre-Forward,"1,80 m",right,€1.80m,Ligue 2
+568698,Issa Soumaré,2000,Left Winger,"1,82 m",right,€1.00m,Ligue 2
+395695,Elisha Owusu,1997,Defensive Midfield,"1,82 m",right,€3.00m,Ligue 2
+806793,Clément Akpa,2001,Left-Back,"1,81 m",left,€2.00m,Ligue 2
+353404,Gaëtan Perrin,1996,Right Winger,"1,69 m",right,€4.00m,Ligue 2

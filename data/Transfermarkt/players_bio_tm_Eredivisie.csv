@@ -1,0 +1,639 @@
+Player_ID,Player,BirthYear,Pos,Height,Foot,MarketValue,League
+186704,Kristoffer Peterson,1994,Left Winger,"1,85 m",right,€600k,Eredivisie
+315283,Kaj Sierhuis,1998,Centre-Forward,"1,80 m",right,€1.80m,Eredivisie
+432852,Deroy Duarte,1999,Central Midfield,"1,77 m",right,€1.00m,Eredivisie
+586855,Loreintz Rosier,1998,Defensive Midfield,"1,90 m",right,€1.30m,Eredivisie
+698548,Marko Lazetić,2004,Centre-Forward,"1,92 m",right,€1.00m,Eredivisie
+235108,Luuk Koopmans,1993,Goalkeeper,"1,90 m",right,€200k,Eredivisie
+644613,Sadik Fofana,2003,Centre-Back,"1,92 m",right,€500k,Eredivisie
+226074,Alen Halilovic,1996,Attacking Midfield,"1,69 m",left,€1.70m,Eredivisie
+805835,Rémy Vita,2001,Left-Back,"1,70 m",left,€800k,Eredivisie
+180843,Paul Gladon,1992,Centre-Forward,"1,88 m",right,€300k,Eredivisie
+394127,Mouhamed Belkheir,1999,Centre-Forward,"1,85 m",left,€600k,Eredivisie
+460845,Siemen Voet,2000,Centre-Back,"1,90 m",left,€350k,Eredivisie
+515396,Iman Griffith,2001,Right Winger,"1,70 m",right,€275k,Eredivisie
+492313,Rodrigo Guth,2000,Centre-Back,"1,92 m",right,€2.50m,Eredivisie
+337670,Alessio da Cruz,1997,Centre-Forward,"1,86 m",right,€600k,Eredivisie
+371013,Ivor Pandur,2000,Goalkeeper,"1,87 m",right,€2.00m,Eredivisie
+1135967,Tristan Schenkhuizen,2004,Defensive Midfield,"1,78 m",left,€25k,Eredivisie
+77966,Oğuzhan Özyakup,1992,Central Midfield,"1,80 m",right,-,Eredivisie
+52403,Dimitrios Siovas,1988,Centre-Back,"1,91 m",left,€250k,Eredivisie
+1029376,Ramazan Bayram,2004,Goalkeeper,"1,90 m",,€25k,Eredivisie
+251848,Iñigo Córdoba,1997,Left Winger,"1,78 m",left,€1.50m,Eredivisie
+187245,Mitchell Dijks,1993,Left-Back,"1,94 m",left,€850k,Eredivisie
+951318,Daan Bisschops,2005,Centre-Back,,,,Eredivisie
+451576,Nathan Markelo,1999,Right-Back,"1,82 m",right,€150k,Eredivisie
+288259,Michael Verrips,1996,Goalkeeper,"1,96 m",right,€800k,Eredivisie
+357917,Justin Lonwijk,1999,Central Midfield,"1,89 m",right,€900k,Eredivisie
+687560,Tom Hendriks,2002,Goalkeeper,"1,98 m",right,€50k,Eredivisie
+594240,Tunahan Taşçı,2002,Right Winger,"1,72 m",left,€300k,Eredivisie
+371002,Stipe Radic,2000,Centre-Back,"1,90 m",right,€800k,Eredivisie
+1264305,Sjors-Lowis Hermsen,2007,Attack,"1,75 m",,,Eredivisie
+913022,Milan Robberechts,2004,Right Winger,"1,81 m",left,€300k,Eredivisie
+82281,Ivo Pinto,1990,Right-Back,"1,82 m",right,€350k,Eredivisie
+247380,Arianit Ferati,1997,Attacking Midfield,"1,68 m",left,€500k,Eredivisie
+1193900,Boaz Broekmans,2006,Goalkeeper,,,,Eredivisie
+410854,Ragnar Oratmangoen,1998,Left Winger,"1,81 m",right,€600k,Eredivisie
+409886,Úmaro Embaló,2001,Right Winger,"1,70 m",left,€700k,Eredivisie
+457736,Tijjani Noslin,1999,Right Winger,"1,78 m",right,€12.00m,Eredivisie
+470391,Jayden Braaf,2002,Left Winger,"1,81 m",right,€800k,Eredivisie
+430797,Sam Kersten,1998,Centre-Back,"1,91 m",right,€800k,Eredivisie
+946860,Christian Bos,2005,Right-Back,,,,Eredivisie
+1073955,Mohamed Oukhattou,2005,Attacking Midfield,"1,80 m",right,€50k,Eredivisie
+443746,Luis Görlich,2000,Right-Back,"1,81 m",right,€350k,Eredivisie
+668183,Nico Serrano,2003,Left Winger,"1,76 m",left,€1.20m,Eredivisie
+538057,Eliano Reijnders,2000,Right-Back,"1,68 m",right,€550k,Eredivisie
+540927,Kaj de Rooij,2000,Right Winger,"1,84 m",right,€350k,Eredivisie
+564620,Samir Lagsir,2003,Attacking Midfield,"1,80 m",right,€200k,Eredivisie
+648887,Divaio Bobson,2004,Right Winger,"1,82 m",right,€100k,Eredivisie
+361082,Jasper Schendelaar,2000,Goalkeeper,"1,86 m",right,€1.80m,Eredivisie
+611816,Daijiro Chirino,2002,Centre-Back,"1,85 m",right,€600k,Eredivisie
+361066,Davy van den Berg,2000,Central Midfield,"1,85 m",left,€1.50m,Eredivisie
+203357,Ryan Thomas,1994,Central Midfield,"1,74 m",right,€600k,Eredivisie
+386164,Silvester van der Water,1996,Right Winger,"1,84 m",left,€450k,Eredivisie
+806384,Nick Fichtinger,2004,Defensive Midfield,"1,78 m",right,€450k,Eredivisie
+297373,Mike Hauptmeijer,1997,Goalkeeper,"1,90 m",left,€75k,Eredivisie
+30290,Kenneth Vermeer,1986,Goalkeeper,"1,82 m",right,€50k,Eredivisie
+933570,Duke Verduin,2003,Goalkeeper,"1,95 m",right,€25k,Eredivisie
+631904,Anselmo García MacNulty,2003,Centre-Back,"1,90 m",left,€1.00m,Eredivisie
+738477,Teun Gijselhart,2005,Central Midfield,"1,76 m",right,€50k,Eredivisie
+946855,Dylan Ruward,2005,Centre-Back,,left,,Eredivisie
+360520,Odysseus Velanas,1998,Attacking Midfield,"1,80 m",right,€650k,Eredivisie
+124495,Apostolos Vellios,1992,Centre-Forward,"1,91 m",right,€200k,Eredivisie
+593774,Anouar El Azzouzi,2001,Defensive Midfield,"1,87 m",right,€1.00m,Eredivisie
+486814,Filip Krastev,2001,Central Midfield,"1,78 m",right,€3.00m,Eredivisie
+360519,Ferdy Druijf,1998,Centre-Forward,"1,90 m",right,€400k,Eredivisie
+640558,Damian van der Haar,2004,Centre-Back,"1,87 m",left,€650k,Eredivisie
+530258,Dean Huiberts,2000,Central Midfield,"1,86 m",right,€500k,Eredivisie
+131821,Thomas Lam,1993,Centre-Back,"1,88 m",right,€550k,Eredivisie
+57328,Bart van Hintum,1987,Left-Back,"1,77 m",left,-,Eredivisie
+227039,Younes Namli,1994,Right Winger,"1,80 m",left,€1.60m,Eredivisie
+309393,Lennart Czyborra,1999,Left-Back,"1,81 m",left,€600k,Eredivisie
+595940,Zico Buurmeester,2002,Central Midfield,"1,84 m",right,€1.20m,Eredivisie
+41583,Bram van Polen,1985,Right-Back,"1,79 m",right,-,Eredivisie
+447216,Anthony Fontana,1999,Attacking Midfield,"1,77 m",both,€350k,Eredivisie
+23553,Lennart Thy,1992,Centre-Forward,"1,84 m",right,€500k,Eredivisie
+241486,Finn Stokkers,1996,Centre-Forward,"1,86 m",right,€450k,Eredivisie
+690624,Sven Jansen,2004,Goalkeeper,"1,92 m",right,€50k,Eredivisie
+315253,Jeffrey de Lange,1998,Goalkeeper,"1,90 m",right,€2.50m,Eredivisie
+374326,Oliver Valaker Edvardsen,1999,Left Winger,"1,75 m",right,€3.00m,Eredivisie
+361112,Evert Linthorst,2000,Central Midfield,"1,87 m",right,€1.20m,Eredivisie
+369554,Mats Deijl,1997,Right-Back,"1,81 m",right,€1.50m,Eredivisie
+343184,Sylla Sow,1996,Centre-Forward,"1,82 m",right,€600k,Eredivisie
+451673,Aventis Aventisyan,2002,Left-Back,"1,72 m",left,€100k,Eredivisie
+588744,Luca Everink,2001,Right-Back,"1,79 m",right,€250k,Eredivisie
+331514,Bobby Adekanye,1999,Right Winger,"1,75 m",left,€700k,Eredivisie
+541601,Søren Tengstedt,2000,Attacking Midfield,"1,87 m",left,€800k,Eredivisie
+690665,Robbin Weijenberg,2004,Central Midfield,"1,80 m",right,€125k,Eredivisie
+85904,Gerrit Nauber,1992,Centre-Back,"1,86 m",right,€450k,Eredivisie
+783017,Nando Verdoni,2003,Goalkeeper,"1,89 m",right,€25k,Eredivisie
+455127,Willum Thór Willumsson,1998,Attacking Midfield,"1,94 m",left,€3.50m,Eredivisie
+56631,Erwin Mulder,1989,Goalkeeper,"1,93 m",right,€150k,Eredivisie
+834768,Darío Serra,2003,Left Winger,"1,80 m",right,€150k,Eredivisie
+340791,Philippe Rommens,1997,Central Midfield,"1,75 m",right,€2.00m,Eredivisie
+289651,Jamal Amofa,1998,Centre-Back,"1,85 m",right,€550k,Eredivisie
+529223,Dean James,2000,Left-Back,"1,77 m",left,€550k,Eredivisie
+412945,Enric Llansana,2001,Defensive Midfield,"1,83 m",right,€1.80m,Eredivisie
+187188,Bas Kuipers,1994,Left-Back,"1,80 m",left,€1.30m,Eredivisie
+624698,Pim Saathof,2003,Right-Back,"1,86 m",right,€75k,Eredivisie
+1093049,Dielan Ghafour,2006,Defensive Midfield,"1,82 m",right,,Eredivisie
+326329,Joris Kramer,1996,Centre-Back,"1,87 m",left,€1.50m,Eredivisie
+657957,Jakob Breum,2003,Left Winger,"1,78 m",right,€2.30m,Eredivisie
+486043,Thibo Baeten,2002,Centre-Forward,"1,85 m",left,€500k,Eredivisie
+315130,Rashaan Fernandes,1998,Left Winger,"1,70 m",right,€250k,Eredivisie
+496873,Xander Blomme,2002,Defensive Midfield,"1,72 m",right,€500k,Eredivisie
+265324,Victor Edvardsen,1996,Centre-Forward,"1,85 m",right,€900k,Eredivisie
+257986,Damon Mirani,1996,Centre-Back,"1,83 m",right,€550k,Eredivisie
+765468,Milan de Haan,2003,Central Midfield,,,€450k,Eredivisie
+177821,Daryl van Mieghem,1989,Right Winger,"1,70 m",left,€300k,Eredivisie
+474838,Brian Plat,2000,Centre-Back,"1,91 m",right,€600k,Eredivisie
+457341,Derry Murkin,1999,Left-Back,"1,83 m",left,€1.80m,Eredivisie
+891836,Bram van Driel,2005,Central Midfield,,right,€75k,Eredivisie
+702834,Quincy Hoeve,2003,Centre-Forward,"1,90 m",right,€125k,Eredivisie
+1008564,Billy van Duijl,2005,Centre-Back,"1,90 m",left,€150k,Eredivisie
+638666,Josh Flint,2000,Centre-Back,"1,86 m",left,€450k,Eredivisie
+620295,Mio Backhaus,2004,Goalkeeper,"1,94 m",right,€2.00m,Eredivisie
+928359,Myron Mau-Asam,2004,Central Midfield,,,€100k,Eredivisie
+516761,Achraf Douiri,1999,Left Winger,"1,80 m",right,€200k,Eredivisie
+929359,Ezechiel Fiemawhle,2004,Centre-Forward,,,-,Eredivisie
+434861,Barry Lauwers,1999,Goalkeeper,"1,87 m",left,€150k,Eredivisie
+1046796,Diego Gustavo,2004,Attacking Midfield,,right,-,Eredivisie
+387199,Benaissa Benamar,1997,Centre-Back,"1,91 m",right,€550k,Eredivisie
+746838,Zach Booth,2004,Left Winger,"1,84 m",right,€500k,Eredivisie
+186763,Robert Mühren,1989,Centre-Forward,"1,87 m",right,€275k,Eredivisie
+790669,Kayne van Oevelen,2003,Goalkeeper,"1,99 m",both,€225k,Eredivisie
+929347,Imran Nazih,2006,Central Midfield,"1,78 m",,€150k,Eredivisie
+250030,Robin Maulun,1996,Attacking Midfield,"1,76 m",right,€400k,Eredivisie
+728864,Lequincio Zeefuik,2004,Centre-Forward,"1,97 m",right,€1.00m,Eredivisie
+1055234,Mika van der Horst,2005,Central Midfield,,,€75k,Eredivisie
+1094229,Francisco Reyes Marizan,2006,Right-Back,"1,78 m",,€75k,Eredivisie
+640432,Xavier Mbuyamba,2001,Centre-Back,"1,95 m",right,€700k,Eredivisie
+359692,George Cox,1998,Left-Back,"1,71 m",left,€400k,Eredivisie
+241324,Bilal Ould-Chikh,1997,Right Winger,"1,70 m",left,€650k,Eredivisie
+467616,Luke Le Roux,2000,Central Midfield,"1,84 m",right,€700k,Eredivisie
+967948,Garang Kuol,2004,Left Winger,"1,75 m",right,€600k,Eredivisie
+895302,Caner Demircioglu,2002,Right Winger,,,€50k,Eredivisie
+293283,Oskar Buur,1998,Right-Back,"1,80 m",right,€350k,Eredivisie
+1014243,Vivaldo Semedo,2005,Centre-Forward,"1,92 m",left,€350k,Eredivisie
+790411,Deron Payne,2002,Right-Back,"1,82 m",right,€250k,Eredivisie
+1055230,Luc van Koeverden,2005,Centre-Back,,,,Eredivisie
+702851,Rob Tol,2003,Right-Back,,right,,Eredivisie
+672100,Darius Johnson,2000,Left Winger,"1,82 m",right,€200k,Eredivisie
+612758,Calvin Twigt,2003,Defensive Midfield,"1,83 m",right,€600k,Eredivisie
+925584,Axel Guessand,2004,Centre-Back,"1,92 m",left,€500k,Eredivisie
+790482,Flip Klomp,2001,Central Midfield,"1,85 m",left,-,Eredivisie
+727531,Koen Blommestijn,1999,Centre-Forward,"1,85 m",,€75k,Eredivisie
+804776,Safouane Karim,2004,Right Winger,"1,67 m",left,-,Eredivisie
+702856,Joey Antonioli,2003,Central Midfield,,,€100k,Eredivisie
+508642,Ibrahim El Kadiri,2002,Left Winger,"1,68 m",right,€400k,Eredivisie
+699771,Pedro Alemañ,2002,Attacking Midfield,"1,82 m",left,€200k,Eredivisie
+639368,Dylan van Wageningen,2003,Right-Back,"1,89 m",right,-,Eredivisie
+466797,Sergi Rosanas,2001,Right-Back,"1,72 m",right,€50k,Eredivisie
+596148,Djevencio van der Kust,2001,Left-Back,"1,78 m",left,€750k,Eredivisie
+159143,Delano van Crooij,1991,Goalkeeper,"1,85 m",right,€150k,Eredivisie
+806284,Rayvien Rosario,2004,Left Winger,"1,81 m",right,€100k,Eredivisie
+942790,Dean Zandbergen,2001,Centre-Forward,"1,88 m",right,€175k,Eredivisie
+432694,Joshua Kitolano,2001,Central Midfield,"1,70 m",right,€3.50m,Eredivisie
+297693,Pelle Clement,1996,Central Midfield,"1,77 m",right,€900k,Eredivisie
+312493,Vito van Crooij,1996,Right Winger,"1,79 m",right,€1.50m,Eredivisie
+928612,Hamza el Dahri,2005,Central Midfield,"1,77 m",right,€100k,Eredivisie
+129991,Bart Vriends,1991,Centre-Back,"1,88 m",right,€350k,Eredivisie
+31067,Jonathan de Guzmán,1987,Defensive Midfield,"1,73 m",right,€175k,Eredivisie
+524687,Saïd Bakari,1994,Right-Back,"1,78 m",right,€650k,Eredivisie
+288449,Django Warmerdam,1995,Centre-Back,"1,80 m",left,€500k,Eredivisie
+514284,Jay den Haan,2001,Right-Back,,right,-,Eredivisie
+596160,Mehmet Yüksel,2001,Right Winger,"1,80 m",both,€25k,Eredivisie
+621732,Delano Vianello,2002,Defensive Midfield,,left,-,Eredivisie
+860812,Agustín Anello,2002,Left Winger,"1,82 m",right,€400k,Eredivisie
+859396,Metinho,2003,Central Midfield,"1,78 m",right,€3.00m,Eredivisie
+501743,Koki Saito,2001,Left Winger,"1,70 m",right,€4.00m,Eredivisie
+482141,Mike Eerdhuijzen,2000,Centre-Back,"1,94 m",left,€2.00m,Eredivisie
+810846,Kaylen Reitmaier,2004,Goalkeeper,"1,98 m",right,€50k,Eredivisie
+250591,Arno Verschueren,1997,Attacking Midfield,"1,85 m",right,€2.00m,Eredivisie
+424330,Jeremy van Mullem,1999,Defensive Midfield,"1,84 m",right,€350k,Eredivisie
+566013,Shunsuke Mito,2002,Right Winger,"1,64 m",right,€650k,Eredivisie
+953857,Jesse Bal,2006,Left Winger,,right,,Eredivisie
+587588,Camiel Neghli,2001,Right Winger,"1,79 m",left,€1.30m,Eredivisie
+272206,Tobias Lauritsen,1997,Centre-Forward,"1,96 m",right,€4.00m,Eredivisie
+596178,Rick Meissen,2002,Centre-Back,"1,90 m",right,€650k,Eredivisie
+531712,Youri Schoonderwaldt,2000,Goalkeeper,"1,95 m",left,€125k,Eredivisie
+1055887,Aymane Bais,2005,Right Winger,,right,,Eredivisie
+1011472,Dano Lourens,2004,Centre-Forward,,left,€200k,Eredivisie
+595028,Charles-Andreas Brym,1998,Centre-Forward,"1,85 m",left,€450k,Eredivisie
+568377,Tijs Velthuis,2002,Centre-Back,"1,89 m",left,€800k,Eredivisie
+804775,Max de Ligt,2004,Centre-Back,,right,,Eredivisie
+215094,Nick Olij,1995,Goalkeeper,"1,84 m",right,€3.50m,Eredivisie
+928629,Jorn Triep,2005,Attacking Midfield,,right,,Eredivisie
+265625,Ajdin Hrustić,1996,Attacking Midfield,"1,80 m",left,€400k,Eredivisie
+391555,Melih İbrahimoğlu,2000,Attacking Midfield,"1,75 m",both,€550k,Eredivisie
+880604,Tim Geypens,2005,Left-Back,"1,84 m",left,€75k,Eredivisie
+59594,Marko Vejinović,1990,Defensive Midfield,"1,86 m",right,-,Eredivisie
+936604,Jop Tijink,2005,Centre-Back,"1,88 m",left,€50k,Eredivisie
+339330,Navajo Bakboord,1999,Right-Back,"1,77 m",right,€400k,Eredivisie
+93637,Mario Engels,1993,Left Winger,"1,84 m",right,€600k,Eredivisie
+429916,Brian De Keersmaecker,2000,Defensive Midfield,"1,82 m",right,€1.80m,Eredivisie
+447801,Jannes Wieckhoff,2000,Right-Back,"1,88 m",right,€375k,Eredivisie
+539665,Fredrik Oppegård,2002,Left-Back,"1,75 m",left,€600k,Eredivisie
+618083,Sem Scheperman,2002,Defensive Midfield,"1,88 m",left,€300k,Eredivisie
+276002,Emil Hansson,1998,Left Winger,"1,72 m",right,€1.50m,Eredivisie
+241378,Jordy Bruijn,1996,Attacking Midfield,"1,71 m",right,€450k,Eredivisie
+290555,Nikolai Laursen,1998,Right Winger,"1,87 m",left,€700k,Eredivisie
+572919,Mohamed Sankoh,2003,Centre-Forward,"1,83 m",right,€600k,Eredivisie
+679414,Antonio Satriano,2003,Centre-Forward,"1,85 m",right,€200k,Eredivisie
+703778,Timo Jansink,2003,Goalkeeper,"2,03 m",right,€25k,Eredivisie
+618102,Lasse Wehmeyer,2002,Left Winger,"1,77 m",right,€200k,Eredivisie
+463526,Robin Jalving,2000,Goalkeeper,"1,93 m",right,€50k,Eredivisie
+464906,Sava-Arangel Cestic,2001,Centre-Back,"1,92 m",right,€400k,Eredivisie
+936571,Stijn Bultman,2005,Centre-Back,"1,87 m",right,€600k,Eredivisie
+240889,Anas Ouahim,1997,Attacking Midfield,"1,75 m",right,€600k,Eredivisie
+538963,Ruben Roosken,2000,Left-Back,"1,83 m",left,€600k,Eredivisie
+703775,Chiel Olde Keizer,2003,Left-Back,"1,84 m",left,€75k,Eredivisie
+231650,Michael Brouwer,1993,Goalkeeper,"1,89 m",right,€500k,Eredivisie
+339151,Sven Sonnenberg,1999,Centre-Back,"1,94 m",right,€450k,Eredivisie
+185817,Jizz Hornkamp,1998,Centre-Forward,"1,82 m",right,€900k,Eredivisie
+172202,Thomas Bruns,1992,Attacking Midfield,"1,77 m",right,€300k,Eredivisie
+502288,Bryan Limbombe,2001,Left Winger,"1,72 m",right,€500k,Eredivisie
+150663,Sylian Mokono,1999,Right-Back,"1,88 m",right,€150k,Eredivisie
+411287,Justin Hoogma,1998,Centre-Back,"1,90 m",left,€650k,Eredivisie
+989998,Diego van Oorschot,2005,Centre-Forward,"1,73 m",right,€125k,Eredivisie
+462285,Fabian de Keijzer,2000,Goalkeeper,"1,93 m",right,€1.00m,Eredivisie
+146258,Jetro Willems,1994,Left-Back,"1,77 m",left,€400k,Eredivisie
+92936,Kelvin Leerdam,1990,Right-Back,"1,78 m",right,€150k,Eredivisie
+455662,Abdenego Nankishi,2002,Left Winger,"1,78 m",left,€450k,Eredivisie
+523318,Anastasios Douvikas,1999,Centre-Forward,"1,86 m",right,€5.00m,Eredivisie
+386914,Sam Lammers,1997,Centre-Forward,"1,91 m",both,€5.00m,Eredivisie
+775994,Lynden Edhart,2005,Left Winger,,,€300k,Eredivisie
+315235,Thijmen Nijhuis,1998,Goalkeeper,"1,97 m",right,€300k,Eredivisie
+248658,Vasilios Barkas,1994,Goalkeeper,"1,96 m",left,€3.00m,Eredivisie
+940072,Nazjir Held,2005,Left-Back,,left,€400k,Eredivisie
+586429,Ryan Flamingo,2002,Centre-Back,"1,87 m",right,€16.00m,Eredivisie
+613449,Rickson van Hees,2002,Right-Back,"1,75 m",right,€350k,Eredivisie
+931018,Wessel Kooy,2005,Centre-Back,"1,85 m",right,€350k,Eredivisie
+361070,Ole Romeny,2000,Right Winger,"1,85 m",right,€1.30m,Eredivisie
+322073,Isac Lidberg,1998,Centre-Forward,"1,87 m",right,€3.00m,Eredivisie
+258519,Hidde ter Avest,1997,Right-Back,"1,82 m",right,€1.50m,Eredivisie
+668276,Hugo Novoa,2003,Right-Back,"1,82 m",right,€2.00m,Eredivisie
+412959,Marouan Azarkan,2001,Right Winger,"1,65 m",left,€1.50m,Eredivisie
+345591,Jeppe Okkels,1999,Left Winger,"1,83 m",right,€2.50m,Eredivisie
+93081,Nick Viergever,1989,Centre-Back,"1,83 m",left,€400k,Eredivisie
+691975,Joshua Mukeh,2003,Centre-Back,"1,85 m",left,€300k,Eredivisie
+930983,Jesse van de Haar,2005,Centre-Forward,"1,84 m",right,€450k,Eredivisie
+134999,Jens Toornstra,1989,Attacking Midfield,"1,78 m",right,€350k,Eredivisie
+422932,Niklas Vesterlund,1999,Right-Back,"1,85 m",right,€1.00m,Eredivisie
+485588,Calvin Raatsie,2002,Goalkeeper,"1,88 m",right,€500k,Eredivisie
+656796,Ivar Jenner,2004,Central Midfield,"1,88 m",right,€350k,Eredivisie
+591878,Devin Remie,2003,Goalkeeper,,right,€50k,Eredivisie
+400548,Victor Jensen,2000,Attacking Midfield,"1,75 m",both,€2.30m,Eredivisie
+610428,Oscar Fraulo,2003,Central Midfield,"1,80 m",right,€3.50m,Eredivisie
+458734,Tommy St. Jago,2000,Centre-Back,"1,86 m",right,€1.00m,Eredivisie
+513963,Taylor Booth,2001,Right Winger,"1,74 m",right,€2.50m,Eredivisie
+686845,Zidane Iqbal,2003,Central Midfield,"1,81 m",right,€1.00m,Eredivisie
+565434,Anthony Descotte,2003,Centre-Forward,"1,80 m",right,€650k,Eredivisie
+524925,Modibo Sagnan,1999,Centre-Back,"1,87 m",left,€3.00m,Eredivisie
+187105,Mike van der Hoorn,1992,Centre-Back,"1,90 m",right,€1.20m,Eredivisie
+326701,Bart Ramselaar,1996,Attacking Midfield,"1,78 m",right,€1.60m,Eredivisie
+541020,Yannick Leliendal,2002,Left-Back,"1,69 m",left,€500k,Eredivisie
+123349,Zakaria Labyad,1993,Attacking Midfield,"1,75 m",both,€650k,Eredivisie
+481117,Othmane Boussaid,2000,Left Winger,"1,66 m",right,€2.30m,Eredivisie
+187809,Mats Seuntjens,1992,Left Winger,"1,87 m",right,€700k,Eredivisie
+268113,Sean Klaiber,1994,Right-Back,"1,84 m",right,€2.20m,Eredivisie
+128042,Mark van der Maarel,1989,Right-Back,"1,77 m",right,-,Eredivisie
+406609,Can Bozdogan,2001,Central Midfield,"1,74 m",left,€4.50m,Eredivisie
+284177,Tim Handwerker,1998,Left-Back,"1,82 m",left,€1.00m,Eredivisie
+875581,Adrian Blake,2005,Left Winger,"1,70 m",right,€500k,Eredivisie
+802540,Andreas Dithmer,2005,Goalkeeper,"1,98 m",right,€200k,Eredivisie
+685657,Silas Andersen,2004,Defensive Midfield,"1,90 m",right,€400k,Eredivisie
+607133,Kevin Gadellaa,2003,Goalkeeper,"2,06 m",right,€150k,Eredivisie
+541134,Souffian El Karouani,2000,Left-Back,"1,78 m",left,€5.00m,Eredivisie
+205128,Mattijs Branderhorst,1993,Goalkeeper,"1,92 m",right,€800k,Eredivisie
+618038,Serano Seymor,2002,Centre-Back,"1,90 m",left,€275k,Eredivisie
+361083,Ian Smeulers,2000,Left-Back,"1,77 m",left,€200k,Eredivisie
+187291,Sven Nieuwpoort,1993,Centre-Back,"1,91 m",right,-,Eredivisie
+1054649,José de Almeida Reis,2005,Centre-Back,,,€200k,Eredivisie
+808646,Raphaël Eyongo,2003,Centre-Forward,"1,94 m",right,€200k,Eredivisie
+314915,Siebe Horemans,1998,Right-Back,"1,86 m",right,€2.50m,Eredivisie
+412943,Kenzo Goudmijn,2001,Central Midfield,"1,76 m",right,€1.50m,Eredivisie
+301696,Stijn van Gassel,1996,Goalkeeper,"1,86 m",left,€600k,Eredivisie
+796490,Pascal Kuiper,2004,Goalkeeper,"1,94 m",right,€75k,Eredivisie
+605395,Casper Widell,2003,Centre-Back,"1,92 m",right,€650k,Eredivisie
+578544,Noah Naujoks,2002,Attacking Midfield,"1,83 m",right,€600k,Eredivisie
+682568,Cedric Hatenboer,2005,Defensive Midfield,"1,84 m",right,€500k,Eredivisie
+292356,Lazaros Lamprou,1997,Left Winger,"1,83 m",right,€450k,Eredivisie
+477274,Nikolas Agrafiotis,2000,Centre-Forward,"1,90 m",right,€400k,Eredivisie
+536477,Arthur Zagré,2001,Left-Back,"1,68 m",left,€900k,Eredivisie
+500966,Jeremy Udenhout,2003,Defensive Midfield,"1,82 m",right,,Eredivisie
+361207,Kik Pierie,2000,Centre-Back,"1,83 m",left,€700k,Eredivisie
+764863,Richie Omorowa,2004,Centre-Forward,"1,83 m",right,€650k,Eredivisie
+559333,Kian Fitz-Jim,2003,Central Midfield,"1,74 m",right,€5.00m,Eredivisie
+616340,Julian Baas,2002,Central Midfield,"1,84 m",right,€1.00m,Eredivisie
+595238,Lennard Hartjes,2003,Central Midfield,"1,72 m",right,€600k,Eredivisie
+378316,Lance Duijvestijn,1999,Attacking Midfield,"1,90 m",right,€600k,Eredivisie
+593837,Couhaib Driouech,2002,Left Winger,"1,75 m",right,€5.00m,Eredivisie
+552655,Troy Parrott,2002,Centre-Forward,"1,85 m",right,€7.50m,Eredivisie
+278938,Norbert Alblas,1994,Goalkeeper,"1,86 m",right,-,Eredivisie
+591880,Mimeirhel Benita,2003,Right-Back,"1,80 m",right,€1.50m,Eredivisie
+608407,Derensili Sanches Fernandes,2001,Right Winger,"1,76 m",left,€450k,Eredivisie
+585334,Oscar Uddenäs,2002,Right Winger,"1,86 m",left,€400k,Eredivisie
+379979,Adrian Fein,1999,Central Midfield,"1,87 m",right,€200k,Eredivisie
+632088,Cisse Sandra,2003,Attacking Midfield,"1,84 m",left,€1.30m,Eredivisie
+591017,Siem de Moes,2004,Left-Back,"1,85 m",left,€175k,Eredivisie
+480730,Redouan El Yaakoubi,1996,Centre-Back,"1,83 m",right,€750k,Eredivisie
+553217,Jacky Donkor,1998,Left Winger,"1,76 m",right,€350k,Eredivisie
+183397,Mike van Duinen,1991,Centre-Forward,"1,85 m",right,€175k,Eredivisie
+182573,Yassin Ayoub,1994,Central Midfield,"1,74 m",left,€150k,Eredivisie
+704773,Amourricho Van Axel-Dongen,2004,Left Winger,"1,75 m",right,€500k,Eredivisie
+635129,Charlie Setford,2004,Goalkeeper,"1,87 m",right,€600k,Eredivisie
+742451,Carlos Forbs,2004,Left Winger,"1,69 m",left,€8.00m,Eredivisie
+229604,Gerónimo Rulli,1992,Goalkeeper,"1,89 m",right,€5.00m,Eredivisie
+448705,Diant Ramaj,2001,Goalkeeper,"1,89 m",right,€7.00m,Eredivisie
+662131,Ahmetcan Kaplan,2003,Centre-Back,"1,89 m",left,€6.00m,Eredivisie
+470394,Kenneth Taylor,2002,Central Midfield,"1,82 m",left,€16.00m,Eredivisie
+129554,Steven Berghuis,1991,Right Winger,"1,82 m",left,€5.00m,Eredivisie
+25520,Remko Pasveer,1983,Goalkeeper,"1,88 m",right,€150k,Eredivisie
+293194,Borna Sosa,1998,Left Midfield,"1,87 m",left,€6.00m,Eredivisie
+738474,David Kalokoh,2005,Left Winger,"1,86 m",right,€300k,Eredivisie
+197642,Chuba Akpom,1995,Centre-Forward,"1,83 m",right,€8.00m,Eredivisie
+488755,Jakov Medic,1998,Centre-Back,"1,93 m",right,€2.00m,Eredivisie
+182932,Davy Klaassen,1993,Central Midfield,"1,79 m",right,€4.00m,Eredivisie
+572519,Ar'jany Martha,2003,Left-Back,,left,€900k,Eredivisie
+748804,Mika Godts,2005,Left Winger,"1,76 m",right,€10.00m,Eredivisie
+543499,Mohammed Kudus,2000,Right Winger,"1,77 m",left,€50.00m,Eredivisie
+61651,Jordan Henderson,1990,Central Midfield,"1,82 m",right,€3.50m,Eredivisie
+485584,Anass Salah-Eddine,2002,Left-Back,"1,81 m",left,€5.00m,Eredivisie
+787907,Benjamin Tahirovic,2003,Defensive Midfield,"1,83 m",right,€3.50m,Eredivisie
+748601,Gastón Ávila,2001,Centre-Back,"1,82 m",left,€4.00m,Eredivisie
+610429,Christian Rasmussen,2003,Right Winger,"1,84 m",left,€2.00m,Eredivisie
+720791,Olivier Aertssen,2004,Centre-Back,"1,85 m",right,€600k,Eredivisie
+557407,Devyne Rensch,2003,Right-Back,"1,81 m",right,€12.00m,Eredivisie
+706889,Jaydon Banel,2004,Left Winger,"1,73 m",right,€1.00m,Eredivisie
+729814,Georges Mikautadze,2000,Centre-Forward,"1,76 m",right,€18.00m,Eredivisie
+656800,Tristan Gooijer,2004,Right-Back,"1,85 m",right,€2.00m,Eredivisie
+904802,Jorrel Hato,2006,Left-Back,"1,82 m",left,€30.00m,Eredivisie
+339328,Owen Wijndal,1999,Left-Back,"1,76 m",left,€4.00m,Eredivisie
+729010,Tom de Graaff,2004,Goalkeeper,"1,93 m",left,€350k,Eredivisie
+480453,Jay Gorter,2000,Goalkeeper,"1,90 m",right,€1.20m,Eredivisie
+646698,Gabriel Misehouy,2005,Attacking Midfield,"1,73 m",right,€1.00m,Eredivisie
+371001,Josip Sutalo,2000,Centre-Back,"1,90 m",right,€18.00m,Eredivisie
+284165,Steven Bergwijn,1997,Left Winger,"1,71 m",right,€15.00m,Eredivisie
+473169,Brian Brobbey,2002,Centre-Forward,"1,82 m",right,€30.00m,Eredivisie
+720799,Julian Rijkhoff,2005,Centre-Forward,"1,83 m",right,€1.00m,Eredivisie
+510310,Sivert Mannsverk,2002,Defensive Midfield,"1,85 m",right,€5.00m,Eredivisie
+738476,Silvano Vos,2005,Defensive Midfield,"1,89 m",right,€2.00m,Eredivisie
+203938,Branco van den Boomen,1995,Central Midfield,"1,88 m",right,€6.00m,Eredivisie
+356044,Jorge Sánchez,1997,Right-Back,"1,75 m",right,€2.80m,Eredivisie
+646699,Julian Brandes,2004,Defensive Midfield,"1,77 m",right,€400k,Eredivisie
+701055,Anton Gaaei,2002,Right-Back,"1,83 m",right,€3.50m,Eredivisie
+694186,Kristian Hlynsson,2004,Attacking Midfield,"1,79 m",right,€4.00m,Eredivisie
+321204,Michal Sadílek,1999,Central Midfield,"1,69 m",left,€7.00m,Eredivisie
+562702,Mees Hilgers,2001,Centre-Back,"1,85 m",right,€9.00m,Eredivisie
+983677,Mats Rots,2006,Left-Back,"1,85 m",left,€250k,Eredivisie
+202788,Robin Pröpper,1993,Centre-Back,"1,90 m",right,€2.50m,Eredivisie
+207006,Joshua Brenet,1994,Right-Back,"1,81 m",right,€3.00m,Eredivisie
+895089,Juliën Mesbahi,2006,Centre-Back,"1,81 m",right,€175k,Eredivisie
+53696,Lars Unnerstall,1990,Goalkeeper,"1,98 m",right,€3.00m,Eredivisie
+508639,Naci Ünüvar,2003,Left Winger,"1,68 m",right,€2.00m,Eredivisie
+374212,Gijs Smal,1997,Left-Back,"1,83 m",left,€6.00m,Eredivisie
+866328,Younes Taha,2002,Attacking Midfield,"1,76 m",left,€1.30m,Eredivisie
+405892,Alec Van Hoorenbeeck,1998,Centre-Back,"1,87 m",left,€800k,Eredivisie
+41355,Ricky van Wolfswinkel,1989,Centre-Forward,"1,86 m",right,€450k,Eredivisie
+412932,Myron Boadu,2001,Centre-Forward,"1,81 m",right,€5.00m,Eredivisie
+430475,Issam El Maach,2000,Goalkeeper,"1,87 m",right,€75k,Eredivisie
+703779,Sam Karssies,2003,Goalkeeper,"1,86 m",right,€75k,Eredivisie
+559324,Youri Regeer,2003,Central Midfield,"1,77 m",right,€6.00m,Eredivisie
+393239,Mitchell van Bergen,1999,Right Winger,"1,70 m",right,€1.50m,Eredivisie
+342702,Michel Vlap,1997,Attacking Midfield,"1,90 m",right,€4.00m,Eredivisie
+591363,Daan Rots,2001,Right Winger,"1,79 m",left,€5.00m,Eredivisie
+997646,Lucas Vennegoor of Hesselink,2006,Centre-Forward,"1,88 m",left,,Eredivisie
+704075,Gijs Besselink,2004,Central Midfield,"1,80 m",right,€600k,Eredivisie
+618086,Max Bruns,2002,Centre-Back,"1,86 m",right,€3.00m,Eredivisie
+528652,Mathias Kjølø,2001,Defensive Midfield,"1,74 m",right,€2.80m,Eredivisie
+33210,Przemyslaw Tyton,1987,Goalkeeper,"1,95 m",right,€100k,Eredivisie
+315128,Carel Eiting,1998,Central Midfield,"1,79 m",left,€1.60m,Eredivisie
+645173,Manfred Ugalde,2002,Centre-Forward,"1,73 m",right,€15.00m,Eredivisie
+593519,Sem Steijn,2001,Attacking Midfield,"1,73 m",right,€10.00m,Eredivisie
+332530,Alfons Sampsted,1998,Right-Back,"1,80 m",right,€2.00m,Eredivisie
+627207,Ricardo Pepi,2003,Centre-Forward,"1,85 m",right,€18.00m,Eredivisie
+361104,Sergiño Dest,2000,Right-Back,"1,73 m",right,€22.00m,Eredivisie
+467563,Armel Bella-Kotchap,2001,Centre-Back,"1,90 m",right,€12.00m,Eredivisie
+175792,André Ramalho,1992,Centre-Back,"1,82 m",both,€2.50m,Eredivisie
+738478,Jason van Duiven,2005,Centre-Forward,"1,75 m",right,€1.00m,Eredivisie
+339337,Armando Obispo,1999,Centre-Back,"1,85 m",left,€3.50m,Eredivisie
+746988,Jesper Uneken,2004,Centre-Forward,,right,€600k,Eredivisie
+816974,Tygo Land,2006,Central Midfield,"1,78 m",right,€3.00m,Eredivisie
+364245,Jordan Teze,1999,Right-Back,"1,83 m",right,€15.00m,Eredivisie
+339332,Noa Lang,1999,Left Winger,"1,70 m",right,€20.00m,Eredivisie
+408574,Joey Veerman,1998,Central Midfield,"1,85 m",right,€32.00m,Eredivisie
+318508,Olivier Boscagli,1997,Centre-Back,"1,81 m",left,€27.00m,Eredivisie
+4391,Boy Waterman,1984,Goalkeeper,"1,88 m",right,-,Eredivisie
+409517,Yorbe Vertessen,2001,Centre-Forward,"1,74 m",right,€6.00m,Eredivisie
+333640,Joël Drommel,1996,Goalkeeper,"1,92 m",right,€2.00m,Eredivisie
+183720,Anwar El Ghazi,1995,Right Winger,"1,89 m",right,€1.80m,Eredivisie
+702869,Ismael Saibari,2001,Central Midfield,"1,85 m",right,€23.00m,Eredivisie
+296802,Walter Benítez,1993,Goalkeeper,"1,91 m",right,€12.00m,Eredivisie
+412937,Shurandy Sambo,2001,Left-Back,"1,74 m",right,€2.00m,Eredivisie
+654919,Kjell Peersman,2004,Goalkeeper,"1,94 m",right,€400k,Eredivisie
+316889,Hirving Lozano,1995,Left Winger,"1,75 m",right,€12.00m,Eredivisie
+813437,Isaac Babadi,2005,Attacking Midfield,"1,79 m",right,€4.00m,Eredivisie
+72522,Luuk de Jong,1990,Centre-Forward,"1,88 m",right,€3.00m,Eredivisie
+347900,Jerdy Schouten,1997,Defensive Midfield,"1,85 m",right,€32.00m,Eredivisie
+127573,Phillipp Mwene,1994,Left-Back,"1,70 m",right,€1.80m,Eredivisie
+375885,Ibrahim Sangaré,1997,Defensive Midfield,"1,91 m",right,€28.00m,Eredivisie
+723005,Niek Schiks,2004,Goalkeeper,"1,88 m",left,€250k,Eredivisie
+575367,Richard Ledezma,2000,Right-Back,"1,74 m",right,€3.00m,Eredivisie
+467437,Malik Tillman,2002,Attacking Midfield,"1,87 m",right,€30.00m,Eredivisie
+323910,Mauro Júnior,1999,Left-Back,"1,71 m",left,€7.00m,Eredivisie
+52119,Patrick van Aanholt,1990,Left-Back,"1,76 m",left,€900k,Eredivisie
+626764,Livano Comenencia,2004,Right Midfield,"1,91 m",right,€800k,Eredivisie
+372267,Guus Til,1997,Attacking Midfield,"1,87 m",right,€12.00m,Eredivisie
+565424,Johan Bakayoko,2003,Right Winger,"1,79 m",left,€40.00m,Eredivisie
+315254,Mees de Wit,1998,Left-Back,"1,81 m",left,€2.30m,Eredivisie
+747017,Dave Kwakman,2004,Central Midfield,"1,85 m",right,€1.00m,Eredivisie
+216443,Riechedly Bazoer,1996,Centre-Back,"1,84 m",right,€3.50m,Eredivisie
+104223,Jordy Clasie,1991,Defensive Midfield,"1,69 m",right,€2.00m,Eredivisie
+429987,Tiago Dantas,2000,Central Midfield,"1,70 m",right,€3.00m,Eredivisie
+665541,Finn Stam,2003,Centre-Back,"1,88 m",right,€650k,Eredivisie
+405385,Yukinari Sugawara,2000,Right-Back,"1,79 m",right,€12.00m,Eredivisie
+144244,Pantelis Hatzidiakos,1997,Centre-Back,"1,85 m",right,€2.80m,Eredivisie
+595935,Sem Westerveld,2002,Goalkeeper,"1,91 m",,€250k,Eredivisie
+112052,Bruno Martins Indi,1992,Centre-Back,"1,85 m",left,€800k,Eredivisie
+661427,David Møller Wolfe,2002,Left-Back,"1,87 m",left,€4.50m,Eredivisie
+646707,Wouter Goes,2004,Centre-Back,"1,85 m",right,€5.00m,Eredivisie
+801031,Lewis Schouten,2004,Centre-Back,"1,91 m",right,€600k,Eredivisie
+128969,Mathew Ryan,1992,Goalkeeper,"1,84 m",right,€2.50m,Eredivisie
+340459,Dani de Wit,1998,Attacking Midfield,"1,84 m",right,€4.00m,Eredivisie
+650712,Myron van Brederode,2003,Left Winger,"1,74 m",right,€3.00m,Eredivisie
+367992,Jesper Karlsson,1998,Left Winger,"1,79 m",right,€6.00m,Eredivisie
+116471,Hobie Verhulst,1993,Goalkeeper,"1,92 m",left,€300k,Eredivisie
+859035,Kees Smit,2006,Central Midfield,"1,82 m",right,€2.00m,Eredivisie
+747720,Jayden Addai,2005,Right Winger,"1,77 m",left,€1.50m,Eredivisie
+578804,Sven Mijnans,2000,Attacking Midfield,"1,90 m",left,€6.50m,Eredivisie
+324503,Vangelis Pavlidis,1998,Centre-Forward,"1,86 m",both,€23.00m,Eredivisie
+507223,Kristijan Belic,2001,Defensive Midfield,"1,77 m",right,€4.00m,Eredivisie
+678546,Mexx Meerdink,2003,Centre-Forward,"1,82 m",left,€2.50m,Eredivisie
+726721,Gonçalo Esteves,2004,Right-Back,"1,76 m",right,€500k,Eredivisie
+484756,Djordje Mihailovic,1998,Attacking Midfield,"1,78 m",,€4.00m,Eredivisie
+646704,Maxim Dekker,2004,Centre-Back,"1,92 m",left,€1.00m,Eredivisie
+718303,Ernest Poku,2004,Right Winger,"1,76 m",right,€1.50m,Eredivisie
+635371,Daniël Virginio Deen,2003,Goalkeeper,"1,88 m",,€150k,Eredivisie
+345590,Jens Odgaard,1999,Centre-Forward,"1,88 m",left,€7.00m,Eredivisie
+735701,Ruben van Bommel,2004,Left Winger,"1,92 m",right,€8.00m,Eredivisie
+543501,Ibrahim Sadiq,2000,Right Winger,"1,67 m",right,€4.00m,Eredivisie
+577394,Denso Kasius,2002,Right-Back,"1,83 m",right,€3.00m,Eredivisie
+704772,Rome Jayden Owusu-Oduro,2004,Goalkeeper,"1,90 m",right,€3.00m,Eredivisie
+938373,Kiyani Zeggen,2006,Goalkeeper,"1,89 m",left,,Eredivisie
+795274,Mayckel Lahdo,2002,Right Winger,"1,71 m",right,€3.00m,Eredivisie
+738514,Tristan Kuijsten,2005,Goalkeeper,"1,92 m",right,€300k,Eredivisie
+479643,Alexandre Penetra,2001,Centre-Back,"1,86 m",right,€5.00m,Eredivisie
+801029,Enoch Mastoras,2006,Defensive Midfield,"1,76 m",right,€500k,Eredivisie
+296741,Markus Schubert,1998,Goalkeeper,"1,89 m",right,€500k,Eredivisie
+536521,Romaric Yapi,2000,Right-Back,"1,80 m",right,€300k,Eredivisie
+412946,Daan Reiziger,2001,Goalkeeper,"1,87 m",right,€125k,Eredivisie
+357826,Thomas Buitink,2000,Centre-Forward,"1,74 m",right,€500k,Eredivisie
+602597,Simon van Duivenbooden,2002,Centre-Forward,"1,90 m",right,€150k,Eredivisie
+738480,Tom Bramel,2005,Goalkeeper,"1,96 m",right,€350k,Eredivisie
+177866,Mica Pinto,1993,Left-Back,"1,76 m",left,€700k,Eredivisie
+371686,Carlens Arcus,1996,Right-Back,"1,76 m",right,€1.50m,Eredivisie
+147034,Marco van Ginkel,1992,Central Midfield,"1,86 m",right,€600k,Eredivisie
+196793,Maximilian Wittek,1995,Left-Back,"1,73 m",left,€2.00m,Eredivisie
+647534,Joel Voelkerling Persson,2003,Centre-Forward,"1,94 m",right,€350k,Eredivisie
+651977,Amine Boutrah,2000,Left Winger,"1,71 m",right,€1.00m,Eredivisie
+1030525,Mats Egbring,2006,Right-Back,"1,83 m",right,€250k,Eredivisie
+723010,Kaya Symons,2005,Left-Back,"1,78 m",left,€50k,Eredivisie
+426280,Melle Meulensteen,1999,Defensive Midfield,"1,88 m",right,€800k,Eredivisie
+723835,Adrian Mazilu,2005,Right Winger,"1,86 m",left,€2.50m,Eredivisie
+564449,Million Manhoef,2002,Right Winger,"1,79 m",left,€3.50m,Eredivisie
+723008,Miliano Jonathans,2004,Right Winger,"1,78 m",left,€900k,Eredivisie
+607164,Enzo Cornelisse,2002,Defensive Midfield,,left,€300k,Eredivisie
+608889,Mathijs Tielemans,2002,Central Midfield,"1,78 m",right,€500k,Eredivisie
+79027,Davy Pröpper,1991,Central Midfield,"1,85 m",right,-,Eredivisie
+747243,Gyan de Regt,2003,Left Winger,"1,76 m",,€350k,Eredivisie
+805149,Giovanni van Zwam,2004,Centre-Back,,right,€250k,Eredivisie
+795738,Paxten Aaronson,2003,Central Midfield,"1,75 m",right,€6.00m,Eredivisie
+723006,Naygiro Sambo,2004,Central Midfield,,,€25k,Eredivisie
+1096365,Andy Visser,2004,Centre-Forward,"1,93 m",left,€200k,Eredivisie
+147846,Nicolas Isimat-Mirin,1991,Centre-Back,"1,87 m",right,€250k,Eredivisie
+607173,Jordi Altena,2003,Attacking Midfield,,right,-,Eredivisie
+436064,Ramon Hendriks,2001,Left-Back,"1,89 m",left,€1.50m,Eredivisie
+79294,Eloy Room,1989,Goalkeeper,"1,90 m",right,€250k,Eredivisie
+554284,Kacper Kozlowski,2003,Attacking Midfield,"1,82 m",right,€4.50m,Eredivisie
+652996,Said Hamulic,2000,Centre-Forward,"1,86 m",right,€500k,Eredivisie
+344649,Toni Domgjoni,1998,Central Midfield,"1,79 m",right,€400k,Eredivisie
+917911,Anis Hadj Moussa,2002,Right Winger,"1,76 m",left,€12.00m,Eredivisie
+353559,Dominik Oroz,2000,Centre-Back,"1,92 m",right,€600k,Eredivisie
+564448,Daan Huisman,2002,Central Midfield,"1,89 m",right,€350k,Eredivisie
+594039,Fodé Fofana,2002,Centre-Forward,"1,87 m",both,€275k,Eredivisie
+387197,Etienne Vaessen,1995,Goalkeeper,"1,89 m",right,€1.50m,Eredivisie
+393241,Godfried Roemeratoe,1999,Defensive Midfield,"1,78 m",right,€600k,Eredivisie
+433933,Kevin Felida,1999,Defensive Midfield,"1,74 m",right,€200k,Eredivisie
+247633,Raz Meir,1996,Right-Back,"1,80 m",right,€225k,Eredivisie
+604813,David Min,1999,Centre-Forward,"1,94 m",right,€1.00m,Eredivisie
+383705,Mark Spenkelink,1997,Goalkeeper,"1,96 m",,€100k,Eredivisie
+416802,Thierry Lutonda,2000,Left-Back,"1,67 m",left,€350k,Eredivisie
+56836,Aaron Meijers,1987,Left-Back,"1,76 m",left,€100k,Eredivisie
+257980,Jeroen Houwen,1996,Goalkeeper,"1,88 m",right,€300k,Eredivisie
+566911,Yassin Oukili,2001,Central Midfield,"1,95 m",right,€700k,Eredivisie
+337673,Julian Lelieveld,1997,Right-Back,"1,78 m",right,€500k,Eredivisie
+582131,Denilho Cleonise,2001,Right Winger,"1,79 m",left,€500k,Eredivisie
+671675,Chris Lokesa,2004,Attacking Midfield,"1,85 m",right,€500k,Eredivisie
+88721,Jeffrey Bruma,1991,Centre-Back,"1,89 m",right,€250k,Eredivisie
+503635,Nouri El Harmazi,2002,Attacking Midfield,"1,73 m",both,€25k,Eredivisie
+465326,Richonell Margaret,2000,Centre-Forward,"1,91 m",right,€500k,Eredivisie
+808578,Daouda Weidmann,2003,Central Midfield,"1,80 m",right,€350k,Eredivisie
+488768,Ilias Takidine,2001,Left Winger,"1,71 m",right,€150k,Eredivisie
+235274,Dario Van den Buijs,1995,Centre-Back,"1,87 m",left,€650k,Eredivisie
+203378,Zakaria Bakkali,1996,Left Winger,"1,70 m",right,€200k,Eredivisie
+433805,Patrick Vroegh,1999,Central Midfield,"1,75 m",left,€175k,Eredivisie
+56523,Michiel Kramer,1988,Centre-Forward,"1,96 m",right,€150k,Eredivisie
+443308,Reuven Niemeijer,1995,Attacking Midfield,"1,78 m",right,€300k,Eredivisie
+451297,Luuk Wouters,1999,Left-Back,"1,90 m",left,€300k,Eredivisie
+627750,Filip Stevanovic,2002,Left Winger,"1,77 m",right,€750k,Eredivisie
+471691,Joey Kesting,2001,Goalkeeper,"1,90 m",,€50k,Eredivisie
+328455,Juriën Gaari,1993,Centre-Back,"1,83 m",right,€450k,Eredivisie
+358021,Shawn Adewoye,2000,Centre-Back,"1,83 m",right,€1.60m,Eredivisie
+315121,Justin Bijlow,1998,Goalkeeper,"1,88 m",right,€6.50m,Eredivisie
+315125,Javairô Dilrosun,1998,Left Winger,"1,75 m",left,€3.00m,Eredivisie
+321195,Ondrej Lingr,1998,Attacking Midfield,"1,75 m",right,€2.70m,Eredivisie
+514285,Quilindschy Hartman,2001,Left-Back,"1,83 m",left,€23.00m,Eredivisie
+415381,Mats Wieffer,1999,Defensive Midfield,"1,88 m",right,€30.00m,Eredivisie
+727480,Jaden Slory,2005,Right Winger,"1,75 m",right,€600k,Eredivisie
+710886,Leo Sauer,2005,Left Winger,"1,84 m",right,€5.00m,Eredivisie
+589128,Ayase Ueda,1998,Centre-Forward,"1,82 m",right,€8.00m,Eredivisie
+593862,Thomas Beelen,2001,Centre-Back,"1,90 m",right,€9.00m,Eredivisie
+420210,Lutsharel Geertruida,2000,Right-Back,"1,84 m",right,€32.00m,Eredivisie
+59145,Gernot Trauner,1992,Centre-Back,"1,83 m",right,€3.00m,Eredivisie
+745623,Djomar Giersthove,2005,Centre-Back,"1,86 m",right,,Eredivisie
+1012534,Yankuba Minteh,2004,Right Winger,"1,80 m",left,€28.00m,Eredivisie
+683620,Antoni Milambo,2005,Attacking Midfield,"1,79 m",right,€16.00m,Eredivisie
+409344,Calvin Stengs,1998,Attacking Midfield,"1,87 m",left,€12.00m,Eredivisie
+64352,Kostas Lamprou,1991,Goalkeeper,"1,80 m",right,€250k,Eredivisie
+387105,Luka Ivanusec,1998,Left Winger,"1,75 m",right,€6.00m,Eredivisie
+196829,Timon Wellenreuther,1995,Goalkeeper,"1,88 m",right,€6.00m,Eredivisie
+552955,Santiago Gimenez,2001,Centre-Forward,"1,83 m",left,€37.00m,Eredivisie
+404418,Dávid Hancko,1997,Centre-Back,"1,88 m",left,€35.00m,Eredivisie
+653610,Igor Paixão,2000,Left Winger,"1,68 m",right,€17.00m,Eredivisie
+571149,Gjivai Zechiël,2004,Defensive Midfield,"1,71 m",right,€3.50m,Eredivisie
+583404,Marcus Pedersen,2000,Right Midfield,"1,84 m",right,€4.50m,Eredivisie
+997903,Givairo Read,2006,Right-Back,"1,75 m",right,€4.00m,Eredivisie
+503640,Neraysho Kasanwirjo,2002,Right-Back,"1,85 m",right,€1.80m,Eredivisie
+416660,Ramiz Zerrouki,1998,Defensive Midfield,"1,83 m",right,€6.50m,Eredivisie
+420213,Quinten Timber,2001,Central Midfield,"1,79 m",right,€32.00m,Eredivisie
+646708,Mikki van Sas,2004,Goalkeeper,"1,93 m",right,€300k,Eredivisie
+257987,Bart Nieuwkoop,1996,Right-Back,"1,81 m",right,€3.00m,Eredivisie
+746973,Mannou Berger,2004,Goalkeeper,"1,93 m",right,€50k,Eredivisie
+412941,Thomas van den Belt,2001,Defensive Midfield,"1,81 m",right,€1.80m,Eredivisie
+213268,Alireza Jahanbakhsh,1993,Right Winger,"1,81 m",right,€2.30m,Eredivisie
+432175,Marcos López,1999,Left-Back,"1,76 m",left,€2.50m,Eredivisie
+606023,Nathan Tjoe-A-On,2001,Left-Back,"1,82 m",left,€350k,Eredivisie
+607144,Espen van Ee,2003,Central Midfield,"1,79 m",right,€800k,Eredivisie
+901648,Amir Ismaïl,2004,Centre-Forward,,right,,Eredivisie
+697278,Charlie Webster,2004,Central Midfield,"1,75 m",right,€450k,Eredivisie
+276853,Andries Noppert,1994,Goalkeeper,"2,03 m",left,€1.00m,Eredivisie
+590775,Djenahro Nunumete,2002,Central Midfield,,left,€275k,Eredivisie
+661205,Daniel Karlsbakk,2003,Centre-Forward,"1,86 m",right,€800k,Eredivisie
+603477,Melle Witteveen,2003,Attacking Midfield,"1,74 m",right,€50k,Eredivisie
+248395,Pawel Bochniewicz,1996,Centre-Back,"1,94 m",left,€2.50m,Eredivisie
+485586,Syb van Ottele,2002,Centre-Back,"1,85 m",right,€600k,Eredivisie
+412949,Denzel Hall,2001,Right-Back,"1,80 m",right,€450k,Eredivisie
+326030,Ché Nunnely,1999,Right Winger,"1,70 m",right,€650k,Eredivisie
+725816,Bernt Klaverboer,2005,Goalkeeper,"1,90 m",right,€75k,Eredivisie
+369552,Luuk Brouwers,1998,Attacking Midfield,"1,83 m",right,€2.50m,Eredivisie
+321158,Simon Olsson,1997,Central Midfield,"1,85 m",right,€2.00m,Eredivisie
+178219,Thom Haye,1995,Defensive Midfield,"1,87 m",right,€1.50m,Eredivisie
+256718,Sven van Beek,1994,Centre-Back,"1,89 m",right,€1.30m,Eredivisie
+869067,Oliver Braude,2004,Right-Back,"1,74 m",right,€2.50m,Eredivisie
+615033,Loizos Loizou,2003,Right Winger,"1,68 m",left,€1.00m,Eredivisie
+580657,Osame Sahraoui,2001,Left Winger,"1,70 m",right,€12.00m,Eredivisie
+600675,Roan van der Plaat,2003,Left-Back,,left,€50k,Eredivisie
+438310,Ion Nicolaescu,1998,Centre-Forward,"1,84 m",right,€1.50m,Eredivisie
+308265,Anas Tahiri,1995,Central Midfield,"1,79 m",right,€650k,Eredivisie
+585325,Hussein Ali,2002,Right-Back,"1,80 m",right,€300k,Eredivisie
+312473,Jan Bekkema,1996,Goalkeeper,"1,86 m",right,€50k,Eredivisie
+721470,Patrik Wålemark,2001,Left Winger,"1,84 m",left,€2.50m,Eredivisie
+207048,Mickey van der Hart,1994,Goalkeeper,"1,88 m",left,€600k,Eredivisie
+288067,Mats Köhlert,1998,Left-Back,"1,69 m",left,€3.00m,Eredivisie
+262613,Pelle van Amersfoort,1996,Centre-Forward,"1,95 m",right,€1.30m,Eredivisie
+559327,Youri Baas,2003,Centre-Back,"1,82 m",left,€6.00m,Eredivisie
+957544,Kodai Sano,2003,Central Midfield,"1,76 m",right,€4.00m,Eredivisie
+750886,Alexis Tibidi,2003,Left Winger,"1,87 m",right,€500k,Eredivisie
+646991,Robin Roefs,2003,Goalkeeper,"1,93 m",left,€1.50m,Eredivisie
+489929,Magnus Mattsson,1999,Central Midfield,"1,74 m",both,€3.50m,Eredivisie
+625169,D'Leanu Arts,2003,Right-Back,"1,75 m",right,€75k,Eredivisie
+576098,Kas de Wit,2003,Attacking Midfield,"1,90 m",right,€25k,Eredivisie
+747019,Luc Netten,2004,Centre-Back,"1,91 m",right,-,Eredivisie
+485582,Sontje Hansen,2002,Right Winger,"1,76 m",right,€3.50m,Eredivisie
+586659,Yvandro Borges Sanches,2004,Left Winger,"1,80 m",right,€500k,Eredivisie
+505675,Rober González,2001,Right Winger,"1,69 m",both,€2.00m,Eredivisie
+593163,Rijk Janse,2002,Goalkeeper,"1,89 m",right,€25k,Eredivisie
+404383,Pedro Marques,1998,Centre-Forward,"1,81 m",right,€700k,Eredivisie
+351567,Koki Ogawa,1997,Centre-Forward,"1,86 m",right,€3.00m,Eredivisie
+76326,Tjaronn Chery,1988,Attacking Midfield,"1,71 m",left,€500k,Eredivisie
+172779,Sai van Wermeskerken,1994,Right-Back,"1,78 m",right,€450k,Eredivisie
+694007,Thomas Reinders,2004,Centre-Back,"1,80 m",left,€50k,Eredivisie
+485587,Dirk Proper,2002,Defensive Midfield,"1,67 m",right,€4.50m,Eredivisie
+930997,Selim Can Sönmez,2005,Left Winger,,,€25k,Eredivisie
+258364,Calvin Verdonk,1997,Left-Back,"1,74 m",left,€2.50m,Eredivisie
+432682,Lars Olden Larsen,1998,Right Winger,"1,75 m",right,€600k,Eredivisie
+34784,Lasse Schöne,1986,Defensive Midfield,"1,78 m",right,€150k,Eredivisie
+315233,Mees Hoedemakers,1998,Defensive Midfield,"1,81 m",both,€2.00m,Eredivisie
+620317,Brayann Pereira,2003,Right-Back,"1,72 m",right,€1.30m,Eredivisie
+545331,Mathias Ross,2001,Centre-Back,"1,90 m",right,€800k,Eredivisie
+146227,Jasper Cillessen,1989,Goalkeeper,"1,87 m",right,€900k,Eredivisie
+575978,Daan Maas,2003,Defensive Midfield,,,,Eredivisie
+462086,Elayis Tavsan,2001,Right Winger,"1,83 m",left,€1.00m,Eredivisie
+694039,Nils Rossen,2004,Central Midfield,"1,81 m",left,€325k,Eredivisie
+56331,Bas Dost,1989,Centre-Forward,"1,96 m",right,€400k,Eredivisie
+340460,Philippe Sandler,1997,Centre-Back,"1,90 m",right,€2.50m,Eredivisie
+547499,Bart van Rooij,2001,Right-Back,"1,74 m",right,€4.50m,Eredivisie
+104597,Bram Nuytinck,1990,Centre-Back,"1,91 m",left,€450k,Eredivisie
+667263,Jeffry Puriel,2002,Left Winger,"1,96 m",right,€50k,Eredivisie
+458417,Stijn Keller,2000,Goalkeeper,"1,96 m",right,€75k,Eredivisie
+351216,Manel Royo,1994,Left-Back,"1,84 m",left,€300k,Eredivisie
+315211,Sherel Floranus,1998,Right-Back,"1,81 m",right,€750k,Eredivisie
+463610,Loïc Mbe Soh,2001,Centre-Back,"1,87 m",right,€1.50m,Eredivisie
+290615,Thomas Robinet,1996,Centre-Forward,"1,80 m",right,€650k,Eredivisie
+361074,Peer Koopmeiners,2000,Defensive Midfield,"1,86 m",right,€4.50m,Eredivisie
+782476,Yoann Cathline,2002,Left Winger,"1,76 m",right,€4.00m,Eredivisie
+432698,Kornelius Hansen,2001,Centre-Forward,"1,75 m",right,€550k,Eredivisie
+730573,Faiz Mattoir,2000,Left Winger,"1,69 m",right,€300k,Eredivisie
+484987,Théo Barbet,2001,Centre-Back,"1,86 m",left,€500k,Eredivisie
+338632,Milan Corryn,1999,Attacking Midfield,"1,80 m",right,€125k,Eredivisie
+77001,Rajiv van La Parra,1991,Left Winger,"1,81 m",right,€250k,Eredivisie
+156887,Álvaro Peña,1991,Central Midfield,"1,79 m",right,€250k,Eredivisie
+865281,Jochem Ritmeester van de Kamp,2003,Central Midfield,"1,77 m",right,€800k,Eredivisie
+395677,Yann Kitala,1998,Centre-Forward,"1,86 m",left,€500k,Eredivisie
+477249,Christopher Mamengi,2001,Centre-Back,"1,82 m",left,€300k,Eredivisie
+547354,Pascu,2000,Attacking Midfield,"1,84 m",right,€250k,Eredivisie
+480457,Thomas Poll,2001,Left-Back,"1,84 m",left,€325k,Eredivisie
+706896,Marcelencio Esajas,2002,Central Midfield,,right,€200k,Eredivisie
+77563,Samuel Sahin-Radlinger,1992,Goalkeeper,"1,98 m",right,€700k,Eredivisie
+55756,Agil Etemadi,1987,Goalkeeper,"1,84 m",right,-,Eredivisie
+534015,Nordin Bakker,1997,Goalkeeper,"1,96 m",right,€700k,Eredivisie
+90343,Danny Post,1989,Defensive Midfield,,right,-,Eredivisie
+590773,Hamdi Akujobi,2000,Right-Back,"1,75 m",right,€450k,Eredivisie
+361071,Bradly van Hoeven,2000,Left Winger,"1,74 m",left,€200k,Eredivisie
+241420,Damian van Bruggen,1996,Centre-Back,"1,85 m",right,€600k,Eredivisie
+793099,Stije Resink,2003,Central Midfield,"1,86 m",right,€1.00m,Eredivisie
+928573,Joël van der Wilt,2004,Goalkeeper,"1,98 m",right,€25k,Eredivisie
+361124,Joey Jacobs,2000,Centre-Back,"1,87 m",right,€500k,Eredivisie
+140803,Anthony Limbombe,1994,Left Winger,"1,77 m",right,€500k,Eredivisie
+332875,Adi Nalic,1997,Attacking Midfield,"1,90 m",both,€500k,Eredivisie

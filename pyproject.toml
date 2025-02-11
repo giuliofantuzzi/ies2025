@@ -1,0 +1,31 @@
+[project]
+name = "paper-dependencies"
+version = "1.0.0"
+description = "Dependencies for the paper 'Towards Smarter Player Scouting: Learning Football Player Embeddings with Variational Autoencoders (VAEs)'"
+authors = [{ name = "Giulio Fantuzzi", email = "giulio.fantuzzi01@gmail.com" }]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = [
+    "numpy==1.26.4",
+    "pandas==2.2.2",
+    "scipy==1.13.0",
+    "tqdm==4.66.4",
+    "torch==2.3.1",
+    "textdistance==4.6.3",
+    "selenium==4.21.0",
+    "beautifulsoup4==4.12.3",
+    "requests==2.32.3",
+    "lxml==5.2.2",
+    "matplotlib==3.8.4",
+    "seaborn==0.13.2",
+    "plotly==5.24.1",
+]
+
+[project.optional-dependencies]
+notebooks = [
+    "jupyterlab",
+    "ipython"
+]
+
+[tool.setuptools]
+packages = []  # This prevents setuptools from trying to discover packages
