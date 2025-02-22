@@ -132,21 +132,22 @@ Data was gathered for players across the following leagues:
 
 > [!WARNING]  
 > ⚠ Warning:
->As of 2025-01-15, we successfully scraped all data from FBref. However, starting from February 2025, we noticed that FBref has restricted the availability of certain statistics for minor leagues, including:
-    - Eredivisie
-    - Primeira Liga
-    - Spanish Segunda División
-    - Liga MX
-    - Belgian Pro League
->If you plan to use the scraper, be aware that these leagues may have missing values (NaN). You can either:
-    - Remove these leagues from the league list in the Python scripts.
-    - Account for missing values when processing the data
+> As of 2025-01-15, we successfully scraped all data from FBref. However, starting from February 2025, we noticed that FBref has restricted the availability of certain statistics for minor leagues, including:
+>    - Eredivisie
+>    - Primeira Liga
+>    - Spanish Segunda División
+>    - Liga MX
+>    - Belgian Pro League
+> 
+> If you plan to use the scraper, be aware that these leagues may have missing values (NaN). You can either:
+>    - Remove these leagues from the league list in the Python scripts.
+>    - Account for missing values when processing the data
 
 > [!NOTE]
 > We made the following data processing choices:
-    - Goalkeepers were excluded due to significant differences in their statistical profiles compared to outfield players.
-    - Players who had played fewer than 5 matches (intended as 450 minutes) were excluded to ensure meaningful statistical representation
-    - Feature engineering was performed by removing redundant statistics (e.g.,*Goals-per-Shot*, *Tackles win percentage*, etc.) and converting all per-game metrics into per-90-minute statistics (*P90*)
+>    - Goalkeepers were excluded due to significant differences in their statistical profiles compared to outfield players.
+>    - Players who had played fewer than 5 matches (intended as 450 minutes) were excluded to ensure meaningful statistical representation
+>    - Feature engineering was performed by removing redundant statistics (e.g.,*Goals-per-Shot*, *Tackles win percentage*, etc.) and converting all per-game metrics into per-90-minute statistics (*P90*)
 
 
 
