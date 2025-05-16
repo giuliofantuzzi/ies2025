@@ -19,6 +19,8 @@ dependencies = [
     "matplotlib==3.8.4",
     "seaborn==0.13.2",
     "plotly==5.24.1",
+    "ipykernel",
+    "umap-learn>=0.5.7",
 ]
 
 [project.optional-dependencies]
@@ -29,3 +31,8 @@ notebooks = [
 
 [tool.setuptools]
 packages = []  # This prevents setuptools from trying to discover packages
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
