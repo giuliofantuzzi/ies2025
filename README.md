@@ -1,7 +1,7 @@
 # Towards Smarter Player Scouting: Learning Football Player Embeddings with Variational Autoencoders (VAEs)
 
 ## About
-This repository contains all the code necessary to replicate the experiments from the paper: <u>***Towards Smarter Player Scouting: Learning Football Player Embeddings with Variational Autoencoders (VAEs)***</u>, by [Giulio Fantuzzi](https://www.linkedin.com/in/giuliofantuzzi/),[Leonardo Egidi](https://leoegidi.github.io) and [Nicola Torelli](https://scholar.google.it/citations?user=l5fIs0wAAAAJ&hl=it), submitted to *[IES 2025](https://ies2025.sis-statistica.it) – Statistical Methods for Evaluation and Quality, the 12th Scientific Meeting of the Statistics for the Evaluation and Quality of Services Group of the Italian Statistical Society ([SVQS](https://www.svqs.it) - [SIS](https://www.sis-statistica.it))*.
+This repository contains all the code necessary to replicate the experiments from the paper: <u>***Towards Smarter Player Scouting: Learning Football Player Embeddings with Variational Autoencoders (VAEs)***</u>, by [Giulio Fantuzzi](https://www.linkedin.com/in/giuliofantuzzi/),[Leonardo Egidi](https://leoegidi.github.io) and [Nicola Torelli](https://scholar.google.it/citations?user=l5fIs0wAAAAJ&hl=it), accepted at *[IES 2025](https://ies2025.sis-statistica.it) – Statistical Methods for Evaluation and Quality, the 12th Scientific Meeting of the Statistics for the Evaluation and Quality of Services Group of the Italian Statistical Society ([SVQS](https://www.svqs.it) - [SIS](https://www.sis-statistica.it))*.
 
 ## Getting Started
 To get started, first clone the repository (you may also want to fork it):
